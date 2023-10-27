@@ -6,6 +6,9 @@
 <h1 align="center">
   Gatsby Minimal TypeScript Starter
 </h1>
+<p align="center">
+  <img alt="build passing" src="https://github.com/FlamingoRiders/flamingoriders.github.io/actions/workflows/gatsby.yml/badge.svg"/>
+</p>
 
 ## 🚀 Quick start
 
