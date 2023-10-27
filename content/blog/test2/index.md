@@ -1,4 +1,3 @@
-
 ---
 title: ☕ Le café d'Eduardo du 28 Octobre 🦩
 date: "2023-10-28"
