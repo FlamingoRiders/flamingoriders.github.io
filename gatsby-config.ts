@@ -61,18 +61,16 @@ const config: GatsbyConfig = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    /*
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          'ADD YOUR TRACKING ID HERE'
+        ]
+      }
+    },
+    */
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -140,8 +138,11 @@ const config: GatsbyConfig = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`
+    `gatsby-plugin-offline`
   ],
 };
 
 export default config;
+
+// trigger an immediate page refresh when an update is found
+export const onServiceWorkerUpdateReady = () => window.location.reload();
