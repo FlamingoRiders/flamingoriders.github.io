@@ -4,11 +4,8 @@ date: "2023-10-28"
 description: "Courte description de la journée"
 ---
 
-![Café d'Eduardo](../eduardo.png)
-
-Test grandeur nature
-
-Le jour J ! ça y est c'est le grand départ que l'on attendait depuis des mois
+Test update
+![IMG-20231023-WA0024.jpg](https://github.com/FlamingoRiders/flamingoriders.github.io/assets/146456060/9b86ff1d-ff8b-4408-a140-009afc234caa)
 
 ### Bilan du jour
 
