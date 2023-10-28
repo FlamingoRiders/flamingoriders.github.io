@@ -5,7 +5,7 @@ description: "Courte description de la journée"
 ---
 
 Test update
-![IMG-20231023-WA0024.jpg](https://github.com/FlamingoRiders/flamingoriders.github.io/assets/146456060/9b86ff1d-ff8b-4408-a140-009afc234caa)
+<img src="https://github.com/FlamingoRiders/flamingoriders.github.io/assets/146456060/9b86ff1d-ff8b-4408-a140-009afc234caa" alt="beautiful tree" width="100%" />
 
 ### Bilan du jour
 
