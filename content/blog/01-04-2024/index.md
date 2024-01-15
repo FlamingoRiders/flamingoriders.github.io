@@ -20,3 +20,10 @@ Le jour J ! ça y est c'est le grand départ que l'on attendait depuis des mois
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JIC3hbC28JZKZ8AlAqX8h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Quand t'associes Elton et Dua Lipa tu ne peux qu'avoir un tube hyper catchy et bouncy. L'ambiance qu'il nous faut pour démarrer notre périple !
+
+
+### test youtube iframe
+
+<iframe id="ytplayer" type="text/html" width="360" height="202.5"
+src="https://www.youtube.com/embed/M7lc1UVf-VE"
+frameborder="0" allowfullscreen>
