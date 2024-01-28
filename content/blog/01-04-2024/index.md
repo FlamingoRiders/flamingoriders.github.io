@@ -36,4 +36,7 @@ frameborder="0" allowfullscreen>
 test 2
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/krkrHAEodHgzP72rTI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
+## test Strava
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/26828165/activity-summary/09284769572e3b17a595b62abff7897338ed583e'></iframe>
+
 
