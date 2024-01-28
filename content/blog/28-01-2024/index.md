@@ -1,4 +1,3 @@
-
 ---
 title: ☕ Le café d'Eduardo du 28 Janvier 🦩
 date: "2024-01-28"
