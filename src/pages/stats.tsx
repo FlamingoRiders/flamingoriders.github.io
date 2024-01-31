@@ -46,7 +46,7 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
                 <th scope="col">Date</th>
                 <th scope="col">Distance</th>
                 <th scope="col">Durée</th>
-                <th scope="col">Moyenne (en km/h)</th>
+                <th scope="col">Moyenne</th>
               </tr>
             </thead>
             <tbody>
@@ -64,17 +64,17 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
               </tr>
               <tr>
                 <th scope="row">Indicateur</th>
-                <td>Min</td>
-                <td>Max</td>
+                <td>Min.</td>
+                <td>Max.</td>
                 <td>Moyenne</td>
               </tr>
               <tr>
-                <tr>
-                  <th scope="row">Durée</th>
-                  <td>{monthStat.summary.minTime}</td>
-                  <td>{monthStat.summary.maxTime}</td>
-                  <td>{monthStat.summary.averageTime}</td>
-                </tr>
+                <th scope="row">Durée</th>
+                <td>{monthStat.summary.minTime}</td>
+                <td>{monthStat.summary.maxTime}</td>
+                <td>{monthStat.summary.averageTime}</td>
+              </tr>
+              <tr>
                 <th scope="row">Distance</th>
                 <td>{monthStat.summary.minDistance}</td>
                 <td>{monthStat.summary.maxDistance}</td>

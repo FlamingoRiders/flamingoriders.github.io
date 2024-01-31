@@ -68,7 +68,14 @@ export const useStats = (activities: Array<Activity>) => {
         // Convert decimal part to minutes
         const minutes = Math.round(decimalPart * 60);
 
-        return `${hours} heures et ${minutes} minutes`;
+        const hoursLabel = hours > 1 ? 'heures': 'heure';
+        const minutesLabel = minutes > 1 ? 'minutes': 'minute';
+
+        if (hours < 1) {
+            return `${minutes} ${minutesLabel}`;
+        }
+
+        return `${hours} ${hoursLabel} et ${minutes} ${minutesLabel}`;
     }, []);
 
     const calculateSummary = useCallback((monthActivities: Array<Activity>) => {
