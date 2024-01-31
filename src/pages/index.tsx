@@ -113,5 +113,3 @@ export const pageQuery = graphql`
     }
   }
 `
-
-//export const Head: HeadFC = () => <SEO title="All posts" />;

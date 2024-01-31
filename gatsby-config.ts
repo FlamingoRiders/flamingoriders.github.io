@@ -33,6 +33,14 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `content/stats`,
+        name: `stats`,
+      },
+      __key: `stats`
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `images`,
         path: `src/images`,
       },
@@ -61,6 +69,7 @@ const config: GatsbyConfig = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-transformer-json`,
     /*
     {
       resolve: `gatsby-plugin-google-gtag`,
