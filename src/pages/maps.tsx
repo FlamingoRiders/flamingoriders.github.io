@@ -10,6 +10,7 @@ type QueryReturn = {
   allStatsJson: {
     nodes: {
       date: string;
+      startPos: [number, number];
       endPos: [number, number];
     }
   }[]
@@ -50,6 +51,7 @@ query {
   ) {
     nodes {
       date
+      startPos
       endPos
     }
   }
