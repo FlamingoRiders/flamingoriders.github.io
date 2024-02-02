@@ -1,4 +1,3 @@
-import { useMarkers } from "hooks/useMarkers";
 import { PositionMarker } from "models/markers";
 import React from "react";
 import {

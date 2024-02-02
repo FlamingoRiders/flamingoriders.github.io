@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Link } from "gatsby";
 import { WindowLocation } from "@reach/router";
-import "./styles.scss";
+import "styles.scss";
 import { useDisclaimer } from "hooks/useDisclaimer";
 
 type LayoutProps = {

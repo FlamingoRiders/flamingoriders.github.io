@@ -28,7 +28,7 @@ const Social: React.FC = () => {
         <StaticImage
           layout="fixed"
           formats={["auto", "webp", "avif"]}
-          src="../images/github-logo.png"
+          src="../../images/github-logo.png"
           width={32}
           height={32}
           quality={95}
@@ -42,7 +42,7 @@ const Social: React.FC = () => {
         <StaticImage
           layout="fixed"
           formats={["auto", "webp", "avif"]}
-          src="../images/strava-logo.png"
+          src="../../images/strava-logo.png"
           width={32}
           height={32}
           quality={95}

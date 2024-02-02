@@ -1,9 +1,9 @@
 import * as React from "react";
 import { Link, PageProps, graphql } from "gatsby";
 
-import Bio from "components/bio";
-import Layout from "components/layout";
-import Seo from "components/seo";
+import Bio from "components/layout/bio";
+import Layout from "components/layout/layout";
+import Seo from "components/layout/seo";
 
 type QueryReturn = {
   markdownRemark: Post;

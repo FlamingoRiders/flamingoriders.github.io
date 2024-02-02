@@ -34,7 +34,7 @@ const Bio: React.FC = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile.png"
+        src="../../images/profile.png"
         width={50}
         height={50}
         quality={95}

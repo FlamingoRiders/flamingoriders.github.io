@@ -1,11 +1,11 @@
 import React from "react";
-import Bio from "components/bio";
-import Layout from "components/layout";
-import Seo from "components/seo";
+import Bio from "components/layout/bio";
+import Layout from "components/layout/layout";
+import Seo from "components/layout/seo";
 import { PageProps, graphql } from "gatsby";
 import { useMarkers } from "hooks/useMarkers";
 import DatePicker from "components/maps/DatePicker";
-import SimpleMap from "components/maps/simple-map";
+import SimpleMap from "components/maps/SimpleMap";
 import TravelCounter from "components/maps/TravelCounter";
 
 type QueryReturn = {
