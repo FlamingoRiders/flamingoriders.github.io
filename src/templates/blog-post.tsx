@@ -1,9 +1,9 @@
 import * as React from "react";
 import { Link, PageProps, graphql } from "gatsby";
 
-import Bio from "../components/bio";
-import Layout from "../components/layout";
-import Seo from "../components/seo";
+import Bio from "components/bio";
+import Layout from "components/layout";
+import Seo from "components/seo";
 
 type QueryReturn = {
   markdownRemark: Post;
@@ -39,7 +39,6 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
   location,
 }) => {
   const post = data.markdownRemark;
-  console.log("post", post);
   const siteTitle = data.site.siteMetadata?.title || `Title`;
   const { previous, next } = data;
 

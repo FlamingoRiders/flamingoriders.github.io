@@ -20,7 +20,7 @@ const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
       </thead>
       <tbody>
         {activities.map((activity) => (
-          <tr>
+          <tr key={activity.date}>
             <th scope="row">{activity.date}</th>
             <td>{activity.distance}</td>
             <td>{activity.time}</td>

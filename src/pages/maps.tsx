@@ -3,7 +3,10 @@ import Bio from "components/bio";
 import Layout from "components/layout";
 import Seo from "components/seo";
 import { PageProps, graphql } from "gatsby";
-import SimpleMap from "components/simple-map";
+import { useMarkers } from "hooks/useMarkers";
+import DatePicker from "components/maps/DatePicker";
+import SimpleMap from "components/maps/simple-map";
+import TravelCounter from "components/maps/TravelCounter";
 
 type QueryReturn = {
   allStatsJson: {
@@ -26,13 +29,41 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const allPositions = data.allStatsJson.nodes;
 
+  const {
+    startDate,
+    lastDate,
+    selectedDate,
+    displayedPositionMarker,
+    cumulatedPositionMarker,
+    onChangeDate,
+  } = useMarkers(allPositions);
+
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Maps Test" />
       <Bio />
       <h1>Maps Test</h1>
       <p>This is a dummy page to demonstrate usage of Google Maps</p>
-      <SimpleMap positionMarkers={allPositions} />
+      <DatePicker
+        selectedDate={selectedDate}
+        startDate={startDate}
+        lastDate={lastDate}
+        onChangeDate={onChangeDate}
+      />
+      <br />
+      <br />
+      <SimpleMap
+        positionMarkers={allPositions}
+        displayedPositionMarker={displayedPositionMarker}
+      />
+      <br />
+      <br />
+      {displayedPositionMarker && cumulatedPositionMarker && (
+        <TravelCounter
+          displayedPositionMarker={displayedPositionMarker}
+          cumulatedPositionMarker={cumulatedPositionMarker}
+        />
+      )}
     </Layout>
   );
 };

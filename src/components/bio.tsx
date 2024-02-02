@@ -41,13 +41,16 @@ const Bio: React.FC = () => {
         alt="Flamingo Riders profile picture"
       />
       {author?.name && (
-        <p>
-          Coucou ! Nous c'est <strong>{author.people}.</strong>
-          {` `}
-          On est les <strong>{author.name}</strong> et voici le{" "}
-          {author?.summary || null}.{` `}
+        <div>
+          <p>
+            Coucou ! Nous c'est <strong>{author.people}.</strong>
+            {` `}
+            On est les <strong>{author.name}</strong> et voici le{" "}
+            {author?.summary || null}.{` `}
+
+          </p>
           <Social />
-        </p>
+        </div>
       )}
     </div>
   );

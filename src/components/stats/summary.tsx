@@ -36,7 +36,7 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
       <caption>{caption}</caption>
       <thead>
         <tr>
-          <th scope="col">Indicateur</th>
+          <th scope="col">&nbsp;</th>
           <th scope="col">Min.</th>
           <th scope="col">Max.</th>
           <th scope="col">Moyenne</th>

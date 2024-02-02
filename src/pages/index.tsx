@@ -46,7 +46,7 @@ const BlogIndex: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
       </Layout>
     );
   }
-  console.log(posts);
+
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />

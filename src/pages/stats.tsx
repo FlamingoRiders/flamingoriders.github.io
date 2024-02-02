@@ -39,7 +39,7 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
       <p>This is a dummy page to demonstrate usage of statsModule</p>
       <>
         {stats.monthStats.map((monthStat) => (
-          <>
+          <div key={monthStat.month}>
             <h3>{monthStat.month}</h3>
             <Activities
               activities={monthStat.activities}
@@ -50,7 +50,7 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
               daysActiveCaption="Jours d'activité"
               summary={monthStat.summary}
             />
-          </>
+          </div>
         ))}
         <>
           <h3>Global</h3>
