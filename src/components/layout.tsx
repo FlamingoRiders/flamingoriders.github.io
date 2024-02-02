@@ -1,20 +1,19 @@
-import * as React from "react"
-import { Link } from "gatsby"
-import { WindowLocation } from "@reach/router"
-import "./styles.scss"
-import { useDisclaimer } from "hooks/useDisclaimer"
+import * as React from "react";
+import { Link } from "gatsby";
+import { WindowLocation } from "@reach/router";
+import "./styles.scss";
+import { useDisclaimer } from "hooks/useDisclaimer";
 
 type LayoutProps = {
   location: WindowLocation;
   title: string;
   children: React.ReactNode;
-}
+};
 
 const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
-
   const { lastUpdate, copyright } = useDisclaimer();
 
-  const isRootPath = location.pathname === '/';
+  const isRootPath = location.pathname === "/";
   let header;
 
   if (isRootPath) {
@@ -22,13 +21,13 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
       </h1>
-    )
+    );
   } else {
     header = (
       <Link className="header-link-home" to="/">
         {title}
       </Link>
-    )
+    );
   }
 
   return (
@@ -43,14 +42,12 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
           </a>
         </div>
         <div className="right-align">
-          <div>
-            Dernière mise à jour
-          </div>
+          <div>Dernière mise à jour</div>
           <div>{lastUpdate}</div>
         </div>
       </footer>
     </div>
-  )
-}
+  );
+};
 
 export default Layout;

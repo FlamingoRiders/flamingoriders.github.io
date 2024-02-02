@@ -1,44 +1,44 @@
 export interface Activity {
-    date: string;
-    distance: number;
-    time: string;
-    averageSpeed: number;
-    elevationGain: number;
+  date: string;
+  distance: number;
+  time: string;
+  averageSpeed: number;
+  elevationGain: number;
 }
 
 export interface Summary {
-    totalDistance: number;
-    averageDistance: number;
-    maxDistance: number;
-    minDistance: number;
+  totalDistance: number;
+  averageDistance: number;
+  maxDistance: number;
+  minDistance: number;
 
-    totalTime: string;
-    averageTime: string;
-    maxTime: string;
-    minTime: string;
+  totalTime: string;
+  averageTime: string;
+  maxTime: string;
+  minTime: string;
 
-    totalElevation: number;
-    averageElevation: number;
-    maxElevation: number;
-    minElevation: number;
+  totalElevation: number;
+  averageElevation: number;
+  maxElevation: number;
+  minElevation: number;
 
-    averageSpeed: number;
-    maxSpeed: number;
-    minSpeed: number;
+  averageSpeed: number;
+  maxSpeed: number;
+  minSpeed: number;
 
-    totalDays: number;
-    daysActive: number;
-    daysInactive: number;
-    activityRatio: number;
+  totalDays: number;
+  daysActive: number;
+  daysInactive: number;
+  activityRatio: number;
 }
 
 export interface MonthStats {
-    month: string;
-    activities: Array<Activity>;
-    summary: Summary;
+  month: string;
+  activities: Array<Activity>;
+  summary: Summary;
 }
 
 export interface AllStats {
-    monthStats: Array<MonthStats>;
-    summary: Summary;
+  monthStats: Array<MonthStats>;
+  summary: Summary;
 }

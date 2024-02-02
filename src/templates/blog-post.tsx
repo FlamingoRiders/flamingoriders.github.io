@@ -1,9 +1,9 @@
-import * as React from "react"
-import { Link, PageProps, graphql } from "gatsby"
+import * as React from "react";
+import { Link, PageProps, graphql } from "gatsby";
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Bio from "../components/bio";
+import Layout from "../components/layout";
+import Seo from "../components/seo";
 
 type QueryReturn = {
   markdownRemark: Post;
@@ -16,9 +16,9 @@ type QueryReturn = {
       description: string;
       image: string;
       siteUrl: string;
-    }
-  }
-}
+    };
+  };
+};
 
 type Post = {
   id: string;
@@ -26,19 +26,22 @@ type Post = {
   html: string;
   fields: {
     slug: string;
-  }
+  };
   frontmatter: {
     date: string;
     title: string;
     description: string;
-  }
+  };
 };
 
-const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
-  const post = data.markdownRemark
+const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
+  data,
+  location,
+}) => {
+  const post = data.markdownRemark;
   console.log("post", post);
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const { previous, next } = data
+  const siteTitle = data.site.siteMetadata?.title || `Title`;
+  const { previous, next } = data;
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -91,10 +94,10 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({ data, location }) 
         </ul>
       </nav>
     </Layout>
-  )
-}
+  );
+};
 
-export default BlogPostTemplate
+export default BlogPostTemplate;
 
 export const pageQuery = graphql`
   query BlogPostBySlug(
@@ -134,4 +137,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

@@ -13,9 +13,9 @@ const config: GatsbyConfig = {
     siteUrl: `https://flamingoriders.github.io/`,
     social: {
       github: `flamingoriders`,
-      strava: `ngriere`
+      strava: `ngriere`,
     },
-    image: `/site-icon.png`
+    image: `/site-icon.png`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
@@ -37,7 +37,7 @@ const config: GatsbyConfig = {
         path: `content/stats`,
         name: `stats`,
       },
-      __key: `stats`
+      __key: `stats`,
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -49,7 +49,7 @@ const config: GatsbyConfig = {
     {
       resolve: "gatsby-plugin-root-import",
       options: {
-        resolveModules: [path.join(__dirname, "src")]
+        resolveModules: [path.join(__dirname, "src")],
       },
     },
     {
@@ -105,15 +105,15 @@ const config: GatsbyConfig = {
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.nodes.map(node => {
+              return allMarkdownRemark.nodes.map((node) => {
                 return Object.assign({}, node.frontmatter, {
                   description: node.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
                   custom_elements: [{ "content:encoded": node.html }],
-                })
-              })
+                });
+              });
             },
             query: `
               {
@@ -153,14 +153,14 @@ const config: GatsbyConfig = {
       },
     },
     {
-      resolve: 'gatsby-plugin-react-leaflet',
+      resolve: "gatsby-plugin-react-leaflet",
       options: {
-        linkStyles: true // (default: true) Enable/disable loading stylesheets via CDN
-      }
+        linkStyles: true, // (default: true) Enable/disable loading stylesheets via CDN
+      },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
   ],
 };
 

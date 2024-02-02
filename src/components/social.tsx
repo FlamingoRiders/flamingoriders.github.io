@@ -1,7 +1,6 @@
-
-import * as React from "react"
-import { graphql, useStaticQuery } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import * as React from "react";
+import { graphql, useStaticQuery } from "gatsby";
+import { StaticImage } from "gatsby-plugin-image";
 
 const Social: React.FC = () => {
   const data = useStaticQuery(graphql`
@@ -22,7 +21,10 @@ const Social: React.FC = () => {
   return (
     <div>
       Suivez-nous ici:
-      <a href={`https://github.com/${social?.github || ``}`} className='social-logo'>
+      <a
+        href={`https://github.com/${social?.github || ``}`}
+        className="social-logo"
+      >
         <StaticImage
           layout="fixed"
           formats={["auto", "webp", "avif"]}
@@ -33,7 +35,10 @@ const Social: React.FC = () => {
           alt="Github profile"
         />
       </a>
-      <a href={`https://www.strava.com/athletes/${social?.strava || ``}`} className='social-logo'>
+      <a
+        href={`https://www.strava.com/athletes/${social?.strava || ``}`}
+        className="social-logo"
+      >
         <StaticImage
           layout="fixed"
           formats={["auto", "webp", "avif"]}
@@ -45,7 +50,7 @@ const Social: React.FC = () => {
         />
       </a>
     </div>
-  )
-}
+  );
+};
 
-export default Social
+export default Social;

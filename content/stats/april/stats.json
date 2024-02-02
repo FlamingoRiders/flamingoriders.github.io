@@ -1,452 +1,272 @@
 [
   {
-     "date":"2024-04-01",
-     "startPos": [
-      48.8594512,
-      2.2880411
-    ],
-     "endPos":[
-      49.2156059,
-      2.5911711
-     ],
-     "distance": 70.50,
-     "time":"04:30",
-     "averageSpeed": 16.0,
-     "elevationGain": 74
+    "date": "2024-04-01",
+    "startPos": [48.8594512, 2.2880411],
+    "endPos": [49.2156059, 2.5911711],
+    "distance": 70.5,
+    "time": "04:30",
+    "averageSpeed": 16.0,
+    "elevationGain": 74
   },
   {
-     "date":"2024-04-02",
-     "startPos": [
-      49.2156059,
-      2.5911711
-     ],
-     "endPos":[
-      49.5780733,
-      2.966156
-     ],
-     "distance": 65.44,
-     "time":"03:40",
-     "averageSpeed": 17.4,
-     "elevationGain": 95
+    "date": "2024-04-02",
+    "startPos": [49.2156059, 2.5911711],
+    "endPos": [49.5780733, 2.966156],
+    "distance": 65.44,
+    "time": "03:40",
+    "averageSpeed": 17.4,
+    "elevationGain": 95
   },
   {
-     "date":"2024-04-03",
-     "startPos": [
-      49.5780733,
-      2.966156
-   ],
-     "endPos":[
-      49.9020579,
-      3.5562796
-     ],
-     "distance": 64.17,
-     "time":"03:40",
-     "averageSpeed": 17.45,
-     "elevationGain":18
+    "date": "2024-04-03",
+    "startPos": [49.5780733, 2.966156],
+    "endPos": [49.9020579, 3.5562796],
+    "distance": 64.17,
+    "time": "03:40",
+    "averageSpeed": 17.45,
+    "elevationGain": 18
   },
   {
-     "date":"2024-04-04",
-     "startPos": [
-      49.9020579,
-      3.5562796
-   ],
-     "endPos":[
-      50.2482395,
-      3.7552899
-     ],
-     "distance": 4.64,
-     "time":"01:25",
-     "averageSpeed":11.98,
-     "elevationGain":11
+    "date": "2024-04-04",
+    "startPos": [49.9020579, 3.5562796],
+    "endPos": [50.2482395, 3.7552899],
+    "distance": 4.64,
+    "time": "01:25",
+    "averageSpeed": 11.98,
+    "elevationGain": 11
   },
   {
-     "date":"2024-04-05",
-     "startPos": [
-      50.2482395,
-      3.7552899
-   ],
-     "endPos":[
-        50.360801,
-        3.877165
-     ],
-     "distance":6.43,
-     "time":"01:12",
-     "averageSpeed":9.68,
-     "elevationGain":0
+    "date": "2024-04-05",
+    "startPos": [50.2482395, 3.7552899],
+    "endPos": [50.360801, 3.877165],
+    "distance": 6.43,
+    "time": "01:12",
+    "averageSpeed": 9.68,
+    "elevationGain": 0
   },
   {
-     "date":"2024-04-06",
-     "startPos": [
-      50.360801,
-        3.877165
-   ],
-     "endPos":[
-        50.745589,
-        4.277251
-     ],
-     "distance":17.26,
-     "time":"01:57",
-     "averageSpeed":7.39,
-     "elevationGain":19
+    "date": "2024-04-06",
+    "startPos": [50.360801, 3.877165],
+    "endPos": [50.745589, 4.277251],
+    "distance": 17.26,
+    "time": "01:57",
+    "averageSpeed": 7.39,
+    "elevationGain": 19
   },
   {
-     "date":"2024-04-07",
-     "startPos": [
-      50.745589,
-        4.277251
-   ],
-     "endPos":[
-        51.130376,
-        4.677337
-     ],
-     "distance":13.32,
-     "time":"01:10",
-     "averageSpeed":7.75,
-     "elevationGain":7
+    "date": "2024-04-07",
+    "startPos": [50.745589, 4.277251],
+    "endPos": [51.130376, 4.677337],
+    "distance": 13.32,
+    "time": "01:10",
+    "averageSpeed": 7.75,
+    "elevationGain": 7
   },
   {
-     "date":"2024-04-08",
-     "startPos": [
-      51.130376,
-        4.677337
-   ],
-     "endPos":[
-        51.515164,
-        5.077423
-     ],
-     "distance":16.11,
-     "time":"01:36",
-     "averageSpeed":7.36,
-     "elevationGain":18
+    "date": "2024-04-08",
+    "startPos": [51.130376, 4.677337],
+    "endPos": [51.515164, 5.077423],
+    "distance": 16.11,
+    "time": "01:36",
+    "averageSpeed": 7.36,
+    "elevationGain": 18
   },
   {
-     "date":"2024-04-09",
-     "startPos": [
-      51.515164,
-        5.077423
-   ],
-     "endPos":[
-        51.899951,
-        5.477509
-     ],
-     "distance":12.78,
-     "time":"01:46",
-     "averageSpeed":12.97,
-     "elevationGain":8
+    "date": "2024-04-09",
+    "startPos": [51.515164, 5.077423],
+    "endPos": [51.899951, 5.477509],
+    "distance": 12.78,
+    "time": "01:46",
+    "averageSpeed": 12.97,
+    "elevationGain": 8
   },
   {
-     "date":"2024-04-10",
-     "startPos": [
-      51.899951,
-        5.477509
-   ],
-     "endPos":[
-        52.284739,
-        5.877595
-     ],
-     "distance":16.71,
-     "time":"01:27",
-     "averageSpeed":7.16,
-     "elevationGain":8
+    "date": "2024-04-10",
+    "startPos": [51.899951, 5.477509],
+    "endPos": [52.284739, 5.877595],
+    "distance": 16.71,
+    "time": "01:27",
+    "averageSpeed": 7.16,
+    "elevationGain": 8
   },
   {
-     "date":"2024-04-11",
-     "startPos": [
-      52.284739,
-        5.877595
-   ],
-     "endPos":[
-        52.669526,
-        6.277681
-     ],
-     "distance":4.8,
-     "time":"01:52",
-     "averageSpeed":14.19,
-     "elevationGain":17
+    "date": "2024-04-11",
+    "startPos": [52.284739, 5.877595],
+    "endPos": [52.669526, 6.277681],
+    "distance": 4.8,
+    "time": "01:52",
+    "averageSpeed": 14.19,
+    "elevationGain": 17
   },
   {
-     "date":"2024-04-12",
-     "startPos": [
-      52.669526,
-        6.277681
-   ],
-     "endPos":[
-        53.054314,
-        6.677767
-     ],
-     "distance":2.88,
-     "time":"01:31",
-     "averageSpeed":7.1,
-     "elevationGain":16
+    "date": "2024-04-12",
+    "startPos": [52.669526, 6.277681],
+    "endPos": [53.054314, 6.677767],
+    "distance": 2.88,
+    "time": "01:31",
+    "averageSpeed": 7.1,
+    "elevationGain": 16
   },
   {
-     "date":"2024-04-13",
-     "startPos": [
-      53.054314,
-        6.677767
-   ],
-     "endPos":[
-        53.439101,
-        7.077853
-     ],
-     "distance":14.83,
-     "time":"01:28",
-     "averageSpeed":7.56,
-     "elevationGain":1
+    "date": "2024-04-13",
+    "startPos": [53.054314, 6.677767],
+    "endPos": [53.439101, 7.077853],
+    "distance": 14.83,
+    "time": "01:28",
+    "averageSpeed": 7.56,
+    "elevationGain": 1
   },
   {
-     "date":"2024-04-14",
-     "startPos": [
-      53.439101,
-        7.077853
-   ],
-     "endPos":[
-        53.823889,
-        7.47794
-     ],
-     "distance":13.27,
-     "time":"01:54",
-     "averageSpeed":12.99,
-     "elevationGain":19
+    "date": "2024-04-14",
+    "startPos": [53.439101, 7.077853],
+    "endPos": [53.823889, 7.47794],
+    "distance": 13.27,
+    "time": "01:54",
+    "averageSpeed": 12.99,
+    "elevationGain": 19
   },
   {
-     "date":"2024-04-15",
-     "startPos": [
-      53.823889,
-        7.47794
-   ],
-     "endPos":[
-        54.208676,
-        7.878026
-     ],
-     "distance":15.04,
-     "time":"02:25",
-     "averageSpeed":6.97,
-     "elevationGain":13
+    "date": "2024-04-15",
+    "startPos": [53.823889, 7.47794],
+    "endPos": [54.208676, 7.878026],
+    "distance": 15.04,
+    "time": "02:25",
+    "averageSpeed": 6.97,
+    "elevationGain": 13
   },
   {
-     "date":"2024-04-16",
-     "startPos": [
-      54.208676,
-        7.878026
-   ],
-     "endPos":[
-        54.593464,
-        8.278112
-     ],
-     "distance":17.47,
-     "time":"01:11",
-     "averageSpeed":12.4,
-     "elevationGain":3
+    "date": "2024-04-16",
+    "startPos": [54.208676, 7.878026],
+    "endPos": [54.593464, 8.278112],
+    "distance": 17.47,
+    "time": "01:11",
+    "averageSpeed": 12.4,
+    "elevationGain": 3
   },
   {
-     "date":"2024-04-17",
-     "startPos": [
-      54.593464,
-        8.278112
-   ],
-     "endPos":[
-        54.978251,
-        8.678198
-     ],
-     "distance":7.2,
-     "time":"03:51",
-     "averageSpeed":7.11,
-     "elevationGain":18
+    "date": "2024-04-17",
+    "startPos": [54.593464, 8.278112],
+    "endPos": [54.978251, 8.678198],
+    "distance": 7.2,
+    "time": "03:51",
+    "averageSpeed": 7.11,
+    "elevationGain": 18
   },
   {
-     "date":"2024-04-18",
-     "startPos": [
-      54.978251,
-        8.678198
-   ],
-     "endPos":[
-        55.363038,
-        9.078284
-     ],
-     "distance":8.5,
-     "time":"01:16",
-     "averageSpeed":6.73,
-     "elevationGain":15
+    "date": "2024-04-18",
+    "startPos": [54.978251, 8.678198],
+    "endPos": [55.363038, 9.078284],
+    "distance": 8.5,
+    "time": "01:16",
+    "averageSpeed": 6.73,
+    "elevationGain": 15
   },
   {
-     "date":"2024-04-19",
-     "startPos": [
-      55.363038,
-        9.078284
-   ],
-     "endPos":[
-        55.747826,
-        9.47837
-     ],
-     "distance":15.01,
-     "time":"01:44",
-     "averageSpeed":6.42,
-     "elevationGain":16
+    "date": "2024-04-19",
+    "startPos": [55.363038, 9.078284],
+    "endPos": [55.747826, 9.47837],
+    "distance": 15.01,
+    "time": "01:44",
+    "averageSpeed": 6.42,
+    "elevationGain": 16
   },
   {
-     "date":"2024-04-20",
-     "startPos": [
-      55.747826,
-        9.47837
-   ],
-     "endPos":[
-        56.132613,
-        9.878456
-     ],
-     "distance":11.17,
-     "time":"02:16",
-     "averageSpeed":5.32,
-     "elevationGain":3
+    "date": "2024-04-20",
+    "startPos": [55.747826, 9.47837],
+    "endPos": [56.132613, 9.878456],
+    "distance": 11.17,
+    "time": "02:16",
+    "averageSpeed": 5.32,
+    "elevationGain": 3
   },
   {
-     "date":"2024-04-21",
-     "startPos": [
-      56.132613,
-        9.878456
-   ],
-     "endPos":[
-        56.517401,
-        10.278542
-     ],
-     "distance":13.92,
-     "time":"01:21",
-     "averageSpeed":10.55,
-     "elevationGain":5
+    "date": "2024-04-21",
+    "startPos": [56.132613, 9.878456],
+    "endPos": [56.517401, 10.278542],
+    "distance": 13.92,
+    "time": "01:21",
+    "averageSpeed": 10.55,
+    "elevationGain": 5
   },
   {
-     "date":"2024-04-22",
-     "startPos": [
-      56.517401,
-        10.278542
-   ],
-     "endPos":[
-        56.902188,
-        10.678628
-     ],
-     "distance":9.67,
-     "time":"01:48",
-     "averageSpeed":10.3,
-     "elevationGain":15
+    "date": "2024-04-22",
+    "startPos": [56.517401, 10.278542],
+    "endPos": [56.902188, 10.678628],
+    "distance": 9.67,
+    "time": "01:48",
+    "averageSpeed": 10.3,
+    "elevationGain": 15
   },
   {
-     "date":"2024-04-23",
-     "startPos": [
-      56.902188,
-        10.678628
-   ],
-     "endPos":[
-        57.286976,
-        11.078714
-     ],
-     "distance":4.24,
-     "time":"01:14",
-     "averageSpeed":13.82,
-     "elevationGain":19
+    "date": "2024-04-23",
+    "startPos": [56.902188, 10.678628],
+    "endPos": [57.286976, 11.078714],
+    "distance": 4.24,
+    "time": "01:14",
+    "averageSpeed": 13.82,
+    "elevationGain": 19
   },
   {
-     "date":"2024-04-24",
-     "startPos": [
-      57.286976,
-        11.078714
-   ],
-     "endPos":[
-        57.671763,
-        11.4788
-     ],
-     "distance":19.21,
-     "time":"01:16",
-     "averageSpeed":10.09,
-     "elevationGain":3
+    "date": "2024-04-24",
+    "startPos": [57.286976, 11.078714],
+    "endPos": [57.671763, 11.4788],
+    "distance": 19.21,
+    "time": "01:16",
+    "averageSpeed": 10.09,
+    "elevationGain": 3
   },
   {
-     "date":"2024-04-25",
-     "startPos": [
-      57.671763,
-        11.4788
-   ],
-     "endPos":[
-        58.056551,
-        11.878886
-     ],
-     "distance":1.02,
-     "time":"01:54",
-     "averageSpeed":10.95,
-     "elevationGain":15
+    "date": "2024-04-25",
+    "startPos": [57.671763, 11.4788],
+    "endPos": [58.056551, 11.878886],
+    "distance": 1.02,
+    "time": "01:54",
+    "averageSpeed": 10.95,
+    "elevationGain": 15
   },
   {
-     "date":"2024-04-26",
-     "startPos": [
-      58.056551,
-        11.878886
-   ],
-     "endPos":[
-        58.441338,
-        12.278972
-     ],
-     "distance":8.78,
-     "time":"01:50",
-     "averageSpeed":13.93,
-     "elevationGain":6
+    "date": "2024-04-26",
+    "startPos": [58.056551, 11.878886],
+    "endPos": [58.441338, 12.278972],
+    "distance": 8.78,
+    "time": "01:50",
+    "averageSpeed": 13.93,
+    "elevationGain": 6
   },
   {
-     "date":"2024-04-27",
-     "startPos": [
-      58.441338,
-        12.278972
-   ],
-     "endPos":[
-        58.826126,
-        12.679058
-     ],
-     "distance":12.73,
-     "time":"01:58",
-     "averageSpeed":12.25,
-     "elevationGain":4
+    "date": "2024-04-27",
+    "startPos": [58.441338, 12.278972],
+    "endPos": [58.826126, 12.679058],
+    "distance": 12.73,
+    "time": "01:58",
+    "averageSpeed": 12.25,
+    "elevationGain": 4
   },
   {
-     "date":"2024-04-28",
-     "startPos": [
-      58.826126,
-        12.679058
-   ],
-     "endPos":[
-      53.558572,
-      9.9278215
-     ],
-     "distance":11.29,
-     "time":"00:40",
-     "averageSpeed":8.31,
-     "elevationGain":10
+    "date": "2024-04-28",
+    "startPos": [58.826126, 12.679058],
+    "endPos": [53.558572, 9.9278215],
+    "distance": 11.29,
+    "time": "00:40",
+    "averageSpeed": 8.31,
+    "elevationGain": 10
   },
   {
-     "date":"2024-04-29",
-     "startPos": [
-      53.558572,
-      9.9278215
-   ],
-     "endPos":[
-        59.595701,
-        13.47923
-     ],
-     "distance":17.54,
-     "time":"01:47",
-     "averageSpeed":12.75,
-     "elevationGain":15
+    "date": "2024-04-29",
+    "startPos": [53.558572, 9.9278215],
+    "endPos": [59.595701, 13.47923],
+    "distance": 17.54,
+    "time": "01:47",
+    "averageSpeed": 12.75,
+    "elevationGain": 15
   },
   {
-     "date":"2024-04-30",
-     "startPos": [
-      59.595701,
-        13.47923
-   ],
-     "endPos":[
-        59.980488,
-        13.879316
-     ],
-     "distance":14.62,
-     "time":"00:47",
-     "averageSpeed":8.91,
-     "elevationGain":15
+    "date": "2024-04-30",
+    "startPos": [59.595701, 13.47923],
+    "endPos": [59.980488, 13.879316],
+    "distance": 14.62,
+    "time": "00:47",
+    "averageSpeed": 8.91,
+    "elevationGain": 15
   }
 ]

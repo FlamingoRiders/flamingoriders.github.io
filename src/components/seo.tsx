@@ -1,21 +1,31 @@
-import React from "react"
-import { useSiteMetadata } from "../hooks/useSiteMetadata"
+import React from "react";
+import { useSiteMetadata } from "../hooks/useSiteMetadata";
 
 type SEOProps = {
-  title?: string
-  description?: string
-  pathname?: string
-}
+  title?: string;
+  description?: string;
+  pathname?: string;
+};
 
-export const SEO: React.FC<React.PropsWithChildren<SEOProps>> = ({ title, description, pathname, children }) => {
-  const { title: defaultTitle, description: defaultDescription, image, siteUrl } = useSiteMetadata();
+export const SEO: React.FC<React.PropsWithChildren<SEOProps>> = ({
+  title,
+  description,
+  pathname,
+  children,
+}) => {
+  const {
+    title: defaultTitle,
+    description: defaultDescription,
+    image,
+    siteUrl,
+  } = useSiteMetadata();
 
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
     image: `${siteUrl}${image}`,
-    url: `${siteUrl}${pathname || ``}`
-  }
+    url: `${siteUrl}${pathname || ``}`,
+  };
 
   return (
     <>
@@ -31,11 +41,15 @@ export const SEO: React.FC<React.PropsWithChildren<SEOProps>> = ({ title, descri
       <meta name="twitter:image" content={seo.image} />
       <meta name="twitter:creator" content={seo.twitterUsername} />
       */}
-  
-      <link id="favicon-icon" rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>👤</text></svg>" />
+
+      <link
+        id="favicon-icon"
+        rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>👤</text></svg>"
+      />
       {children}
     </>
-  )
-}
+  );
+};
 
 export default SEO;

@@ -44,8 +44,8 @@ const Bio: React.FC = () => {
         <p>
           Coucou ! Nous c'est <strong>{author.people}.</strong>
           {` `}
-          On est les <strong>{author.name}</strong> et voici le {author?.summary || null}.
-          {` `}
+          On est les <strong>{author.name}</strong> et voici le{" "}
+          {author?.summary || null}.{` `}
           <Social />
         </p>
       )}

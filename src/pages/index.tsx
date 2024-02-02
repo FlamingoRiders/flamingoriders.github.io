@@ -1,8 +1,8 @@
-import * as React from "react"
-import { graphql, Link, type PageProps } from "gatsby"
-import Layout from "components/layout"
-import Bio from "components/bio"
-import SEO from "components/seo"
+import * as React from "react";
+import { graphql, Link, type PageProps } from "gatsby";
+import Layout from "components/layout";
+import Bio from "components/bio";
+import SEO from "components/seo";
 
 type QueryReturn = {
   allMarkdownRemark: {
@@ -10,14 +10,14 @@ type QueryReturn = {
       excerpt: string;
       fields: {
         slug: string;
-      }
+      };
       frontmatter: {
         date: string;
         title: string;
         description: string;
-      }
-    }
-  }[]
+      };
+    };
+  }[];
 
   site: {
     siteMetadata: {
@@ -25,13 +25,13 @@ type QueryReturn = {
       description: string;
       image: string;
       siteUrl: string;
-    }
-  }
-}
+    };
+  };
+};
 
 const BlogIndex: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
+  const siteTitle = data.site.siteMetadata?.title || `Title`;
+  const posts = data.allMarkdownRemark.nodes;
 
   if (posts.length === 0) {
     return (
@@ -44,7 +44,7 @@ const BlogIndex: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           gatsby-config.js).
         </p>
       </Layout>
-    )
+    );
   }
   console.log(posts);
   return (
@@ -52,8 +52,8 @@ const BlogIndex: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
       <SEO title="All posts" />
       <Bio />
       <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+        {posts.map((post) => {
+          const title = post.frontmatter.title || post.fields.slug;
 
           return (
             <li key={post.fields.slug}>
@@ -80,14 +80,14 @@ const BlogIndex: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
                 </section>
               </article>
             </li>
-          )
+          );
         })}
       </ol>
     </Layout>
-  )
-}
+  );
+};
 
-export default BlogIndex
+export default BlogIndex;
 
 export const pageQuery = graphql`
   query {
@@ -96,9 +96,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(
-      sort: {frontmatter: {date: DESC}}
-    ) {
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       nodes {
         excerpt
         frontmatter {
@@ -112,4 +110,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
