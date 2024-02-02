@@ -1,4 +1,5 @@
 import type { GatsbyConfig } from "gatsby";
+const path = require("path");
 
 const config: GatsbyConfig = {
   siteMetadata: {
@@ -43,6 +44,12 @@ const config: GatsbyConfig = {
       options: {
         name: `images`,
         path: `src/images`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-root-import",
+      options: {
+        resolveModules: [path.join(__dirname, "src")]
       },
     },
     {

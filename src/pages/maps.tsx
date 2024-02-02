@@ -1,9 +1,9 @@
 import React from "react"
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Bio from "components/bio"
+import Layout from "components/layout"
+import Seo from "components/seo"
 import { PageProps, graphql } from "gatsby"
-import SimpleMap from "../components/simple-map"
+import SimpleMap from "components/simple-map"
 
 
 type QueryReturn = {
@@ -12,6 +12,8 @@ type QueryReturn = {
       date: string;
       startPos: [number, number];
       endPos: [number, number];
+      distance: number;
+      time: string;
     }
   }[]
 
@@ -47,12 +49,14 @@ query {
     }
   }
   allStatsJson(
-    sort: {date: DESC}
+    sort: {date: ASC}
   ) {
     nodes {
       date
       startPos
       endPos
+      distance
+      time
     }
   }
 }

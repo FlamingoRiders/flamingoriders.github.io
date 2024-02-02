@@ -1,9 +1,11 @@
 import React from "react"
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Bio from "components/bio"
+import Layout from "components/layout"
+import Seo from "components/seo"
 import { PageProps, graphql } from "gatsby"
-import { useStats } from "../hooks/useStats"
+import { useStats } from "hooks/useStats"
+import Activities from "components/stats/activities"
+import Summary from "components/stats/summary"
 
 type QueryReturn = {
   allStatsJson: {
@@ -36,114 +38,18 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
       <h1>Stats Test</h1>
       <p>This is a dummy page to demonstrate usage of statsModule</p>
       <>
-        {stats.monthStats.map((monthStat) => <><h3>{monthStat.month}</h3><p>Nombre de jours actifs: {monthStat.activities.length}</p>
-          <table>
-            <caption>
-              Statistiques du mois de {monthStat.month}
-            </caption>
-            <thead>
-              <tr>
-                <th scope="col">Date</th>
-                <th scope="col">Distance</th>
-                <th scope="col">Durée</th>
-                <th scope="col">Moyenne</th>
-              </tr>
-            </thead>
-            <tbody>
-              {monthStat.activities.map(dayActivity =>
-                <tr>
-                  <th scope="row">{dayActivity.date}</th>
-                  <td>{dayActivity.distance}</td>
-                  <td>{dayActivity.time}</td>
-                  <td>{dayActivity.averageSpeed}</td>
-                </tr>)}
-            </tbody>
-            <tfoot>
-              <tr>
-                <th scope="row" colSpan={4}>Bilan du mois</th>
-              </tr>
-              <tr>
-                <th scope="row">Indicateur</th>
-                <td>Min.</td>
-                <td>Max.</td>
-                <td>Moyenne</td>
-              </tr>
-              <tr>
-                <th scope="row">Durée</th>
-                <td>{monthStat.summary.minTime}</td>
-                <td>{monthStat.summary.maxTime}</td>
-                <td>{monthStat.summary.averageTime}</td>
-              </tr>
-              <tr>
-                <th scope="row">Distance</th>
-                <td>{monthStat.summary.minDistance}</td>
-                <td>{monthStat.summary.maxDistance}</td>
-                <td>{monthStat.summary.averageDistance}</td>
-              </tr>
-              <tr>
-                <th scope="row">Dénivelé positif</th>
-                <td>{monthStat.summary.minElevation}</td>
-                <td>{monthStat.summary.maxElevation}</td>
-                <td>{monthStat.summary.averageElevation}</td>
-              </tr>
-              <tr>
-                <th scope="row">Vitesse</th>
-                <td>{monthStat.summary.minSpeed}</td>
-                <td>{monthStat.summary.maxSpeed}</td>
-                <td>{monthStat.summary.averageSpeed}</td>
-              </tr>
-            </tfoot>
-          </table>
-        </>
-        )
-        }
-
+        {stats.monthStats.map((monthStat) => <>
+          <h3>{monthStat.month}</h3>
+          <Activities activities={monthStat.activities} caption={`Détail du mois de ${monthStat.month}`}/>
+          <Summary statisticsCaption={`Statistiques du mois de ${monthStat.month}`} 
+          daysActiveCaption="Jours d'activité"
+          summary={monthStat.summary} />
+        </>)}
         <>
           <h3>Global</h3>
-          <table>
-            <caption>
-              Statistiques Globales
-            </caption>
-            <thead>
-              <tr>
-                <th scope="col">Indicateur</th>
-                <th scope="col">Min.</th>
-                <th scope="col">Max.</th>
-                <th scope="col">Moyenne</th>
-                <th scope="col">Total</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <th scope="row">Durée</th>
-                <td>{stats.summary.minTime}</td>
-                <td>{stats.summary.maxTime}</td>
-                <td>{stats.summary.averageTime}</td>
-                <td>{stats.summary.totalTime}</td>
-              </tr>
-              <tr>
-                <th scope="row">Distance</th>
-                <td>{stats.summary.minDistance}</td>
-                <td>{stats.summary.maxDistance}</td>
-                <td>{stats.summary.averageDistance}</td>
-                <td>{stats.summary.totalDistance}</td>
-              </tr>
-              <tr>
-                <th scope="row">Dénivelé positif</th>
-                <td>{stats.summary.minElevation}</td>
-                <td>{stats.summary.maxElevation}</td>
-                <td>{stats.summary.averageElevation}</td>
-                <td>{stats.summary.totalElevation}</td>
-              </tr>
-              <tr>
-                <th scope="row">Vitesse moyenne</th>
-                <td>{stats.summary.minSpeed}</td>
-                <td>{stats.summary.maxSpeed}</td>
-                <td>{stats.summary.averageSpeed}</td>
-                <td>-</td>
-              </tr>
-            </tbody>
-          </table>
+          <Summary statisticsCaption={`Statistiques globales`} 
+          daysActiveCaption="Jours d'activité"
+          summary={stats.summary} />
         </>
       </>
     </Layout>

@@ -1,8 +1,8 @@
 import * as React from "react"
-import { Link, graphql, useStaticQuery } from "gatsby"
+import { Link } from "gatsby"
 import { WindowLocation } from "@reach/router"
 import "./styles.scss"
-import { useDisclaimer } from "../hooks/useDisclaimer"
+import { useDisclaimer } from "hooks/useDisclaimer"
 
 type LayoutProps = {
   location: WindowLocation;
@@ -14,8 +14,8 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
 
   const { lastUpdate, copyright } = useDisclaimer();
 
-  const isRootPath = location.pathname === '/'
-  let header
+  const isRootPath = location.pathname === '/';
+  let header;
 
   if (isRootPath) {
     header = (

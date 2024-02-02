@@ -1,8 +1,8 @@
 import * as React from "react"
 import { graphql, Link, type PageProps } from "gatsby"
-import Layout from "../components/layout"
-import Bio from "../components/bio"
-import SEO from "../components/seo"
+import Layout from "components/layout"
+import Bio from "components/bio"
+import SEO from "components/seo"
 
 type QueryReturn = {
   allMarkdownRemark: {
