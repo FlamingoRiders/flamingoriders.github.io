@@ -118,6 +118,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       time: String
       date: Date @dateformat
       distance: Float
+      weather: String
+      stepName: String
     }
   `);
 };

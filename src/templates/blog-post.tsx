@@ -4,6 +4,8 @@ import { Link, PageProps, graphql } from "gatsby";
 import Bio from "components/layout/bio";
 import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
+import DayRecap from "components/stats/day-recap";
+import { Day } from "models/day";
 
 type Post = {
   id: string;
@@ -19,15 +21,9 @@ type Post = {
   };
 };
 
-type DayStat = {
-  time: string;
-  date: string;
-  distance: number;
-};
-
 type QueryReturn = {
   markdownRemark: Post;
-  statsJson: DayStat;
+  statsJson: Day;
   previous: Post;
   next: Post;
 
@@ -46,6 +42,7 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
   location,
 }) => {
   const post = data.markdownRemark;
+  const day = data.statsJson;
   const siteTitle = data.site.siteMetadata?.title || `Title`;
   const { previous, next } = data;
 
@@ -68,25 +65,7 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <h3>Bilan du jour</h3>
-        <table>
-          <thead>
-            <tr>
-              <th align="center">Météo</th>
-              <th align="center">Position</th>
-              <th align="center">Temps écoulé</th>
-              <th align="center">Distance parcourue</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="center">⛅</td>
-              <td align="center">🚩 Paris</td>
-              <td align="center">⏳ 01h10</td>
-              <td align="center">🚲 25 km</td>
-            </tr>
-          </tbody>
-        </table>
+        {day && <DayRecap day={day} />}
         <hr />
         <footer>
           <Bio />
@@ -150,6 +129,8 @@ export const pageQuery = graphql`
       time
       date
       distance
+      weather
+      stepName
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
       fields {

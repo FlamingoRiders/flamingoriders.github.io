@@ -8,12 +8,6 @@ description: "Aller c'est parti !"
 
 Le jour J ! ça y est c'est le grand départ que l'on attendait depuis des mois
 
-### Bilan du jour
-
-| Météo du jour | Position | Temps écoulé | Distance parcourue |
-| :-----------: | :------: | :----------: | :----------------: |
-|      ⛅       | 🚩 Paris |   ⏳ 01h10   |      🚲 25 km      |
-
 ### Song of the day 🎵
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JIC3hbC28JZKZ8AlAqX8h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

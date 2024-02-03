@@ -9,11 +9,3 @@ description: "Petite démo pour tonton"
 Test grandeur nature
 
 Ceci est une page spécialement pour tonton.
-
-### Bilan du jour
-
-| Météo | Position | Temps écoulé | Distance parcourue |
-| :---: | :------: | :----------: | :----------------: |
-|  ⛅   | 🚩 Paris |   ⏳ 01h10   |      🚲 25 km      |
-
-### Song of the day 🎵
