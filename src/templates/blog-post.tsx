@@ -5,21 +5,6 @@ import Bio from "components/layout/bio";
 import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
 
-type QueryReturn = {
-  markdownRemark: Post;
-  previous: Post;
-  next: Post;
-
-  site: {
-    siteMetadata: {
-      title: string;
-      description: string;
-      image: string;
-      siteUrl: string;
-    };
-  };
-};
-
 type Post = {
   id: string;
   excerpt: string;
@@ -31,6 +16,28 @@ type Post = {
     date: string;
     title: string;
     description: string;
+  };
+};
+
+type DayStat = {
+  time: string;
+  date: string;
+  distance: number;
+};
+
+type QueryReturn = {
+  markdownRemark: Post;
+  statsJson: DayStat;
+  previous: Post;
+  next: Post;
+
+  site: {
+    siteMetadata: {
+      title: string;
+      description: string;
+      image: string;
+      siteUrl: string;
+    };
   };
 };
 
@@ -61,6 +68,25 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        <h3>Bilan du jour</h3>
+        <table>
+          <thead>
+            <tr>
+              <th align="center">Météo</th>
+              <th align="center">Position</th>
+              <th align="center">Temps écoulé</th>
+              <th align="center">Distance parcourue</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center">⛅</td>
+              <td align="center">🚩 Paris</td>
+              <td align="center">⏳ 01h10</td>
+              <td align="center">🚲 25 km</td>
+            </tr>
+          </tbody>
+        </table>
         <hr />
         <footer>
           <Bio />
@@ -103,6 +129,7 @@ export const pageQuery = graphql`
     $id: String!
     $previousPostId: String
     $nextPostId: String
+    $date: Date
   ) {
     site {
       siteMetadata {
@@ -115,9 +142,14 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD MMMM YYYY", locale: "fr-FR")
         description
       }
+    }
+    statsJson(date: { eq: $date }) {
+      time
+      date
+      distance
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
       fields {

@@ -141,7 +141,7 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Falmingo Riders Blog`,
+        name: `Flamingo Riders Blog`,
         short_name: `Flamingo Riders`,
         start_url: `/`,
         background_color: `#ffffff`,

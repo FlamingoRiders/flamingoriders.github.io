@@ -49,6 +49,16 @@ const SimpleMap: React.FC<SimpleMapProps> = ({
             positions={[positionMarker.startPos, positionMarker.endPos]}
           />
         ))}
+        {displayedPositionMarker && (
+          <Polyline
+            key={displayedPositionMarker.date}
+            pathOptions={{ color: "violet" }}
+            positions={[
+              displayedPositionMarker.startPos,
+              displayedPositionMarker.endPos,
+            ]}
+          />
+        )}
       </MapContainer>
     </>
   );

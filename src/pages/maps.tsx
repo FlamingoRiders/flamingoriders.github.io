@@ -4,9 +4,9 @@ import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
 import { PageProps, graphql } from "gatsby";
 import { useMarkers } from "hooks/useMarkers";
-import DatePicker from "components/maps/DatePicker";
-import SimpleMap from "components/maps/SimpleMap";
-import TravelCounter from "components/maps/TravelCounter";
+import DatePicker from "components/maps/date-picker";
+import SimpleMap from "components/maps/simple-map";
+import TravelCounter from "components/maps/travel-counter";
 
 type QueryReturn = {
   allStatsJson: {
@@ -52,6 +52,9 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
       />
       <br />
       <br />
+      {(!displayedPositionMarker || !cumulatedPositionMarker) && (
+        <p>Pas de position connue pour ce jour.</p>
+      )}
       <SimpleMap
         positionMarkers={allPositions}
         displayedPositionMarker={displayedPositionMarker}

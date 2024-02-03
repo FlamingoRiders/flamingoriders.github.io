@@ -28,7 +28,7 @@ type QueryReturn = {
 const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const allStats = data.allStatsJson.nodes;
-
+  const daysActiveCaption = "Jours d'activité";
   const stats = useStats(allStats);
 
   return (
@@ -47,7 +47,7 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
             />
             <Summary
               statisticsCaption={`Statistiques du mois de ${monthStat.month}`}
-              daysActiveCaption="Jours d'activité"
+              daysActiveCaption={daysActiveCaption}
               summary={monthStat.summary}
             />
           </div>
@@ -56,7 +56,7 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           <h3>Global</h3>
           <Summary
             statisticsCaption={`Statistiques globales`}
-            daysActiveCaption="Jours d'activité"
+            daysActiveCaption={daysActiveCaption}
             summary={stats.summary}
           />
         </>

@@ -1,4 +1,5 @@
 import { graphql, useStaticQuery } from "gatsby";
+import { getFullDate } from "utils/date";
 
 type DisclaimerData = {
   siteBuildMetadata: {
@@ -29,12 +30,7 @@ export const useDisclaimer = () => {
     }
   `);
 
-  const buildTime = new Date(data.siteBuildMetadata.buildTime);
-  const lastUpdate = new Intl.DateTimeFormat("fr-FR", {
-    dateStyle: "full",
-    timeStyle: "short",
-    timeZone: "Europe/Paris",
-  }).format(buildTime);
+  const lastUpdate = getFullDate(data.siteBuildMetadata.buildTime);
   const copyright = `© ${data.site.siteMetadata.author.name}`;
   return { lastUpdate, copyright };
 };

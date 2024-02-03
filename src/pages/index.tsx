@@ -100,7 +100,7 @@ export const pageQuery = graphql`
       nodes {
         excerpt
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(formatString: "DD MMMM YYYY", locale: "fr-FR")
           title
           description
         }

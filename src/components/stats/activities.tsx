@@ -1,5 +1,6 @@
 import { Activity } from "models/stats";
 import React from "react";
+import { getDayAndMonth } from "utils/date";
 
 interface ActivitiesProps {
   caption: string;
@@ -21,7 +22,7 @@ const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
       <tbody>
         {activities.map((activity) => (
           <tr key={activity.date}>
-            <th scope="row">{activity.date}</th>
+            <th scope="row">{getDayAndMonth(activity.date)}</th>
             <td>{activity.distance}</td>
             <td>{activity.time}</td>
             <td>{activity.averageSpeed}</td>

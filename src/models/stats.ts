@@ -12,10 +12,10 @@ export interface Summary {
   maxDistance: number;
   minDistance: number;
 
-  totalTime: string;
-  averageTime: string;
-  maxTime: string;
-  minTime: string;
+  totalTime: number;
+  averageTime: number;
+  maxTime: number;
+  minTime: number;
 
   totalElevation: number;
   averageElevation: number;

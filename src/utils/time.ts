@@ -11,14 +11,14 @@ export const toStringTime = (time: number): string => {
   // Convert decimal part to minutes
   const minutes = Math.round(decimalPart * 60);
 
-  const hoursLabel = hours > 1 ? "heures" : "heure";
-  const minutesLabel = minutes > 1 ? "minutes" : "minute";
-
-  if (hours < 1) {
-    return `${minutes} ${minutesLabel}`;
+  if (hours === 0) {
+    return `${minutes}min`;
+  }
+  if (minutes < 10) {
+    return `${hours}h0${minutes}`;
   }
 
-  return `${hours} ${hoursLabel} et ${minutes} ${minutesLabel}`;
+  return `${hours}h${minutes}`;
 };
 
 export const calculateDaysInBetweenDates = (

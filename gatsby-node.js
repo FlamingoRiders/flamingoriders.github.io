@@ -5,7 +5,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;
 
   // Define a template for blog post
-  const blogPost = path.resolve(`./src/templates/BlogPost.tsx`);
+  const blogPost = path.resolve(`./src/templates/blog-post.tsx`);
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(`
@@ -13,6 +13,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
         nodes {
           id
+          frontmatter {
+            date
+          }
           fields {
             slug
           }
@@ -48,6 +51,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id: post.id,
           previousPostId,
           nextPostId,
+          date: post.frontmatter.date,
         },
       });
     });
@@ -108,6 +112,12 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type Fields {
       slug: String
+    }
+
+    type DayStat {
+      time: String
+      date: Date @dateformat
+      distance: Float
     }
   `);
 };

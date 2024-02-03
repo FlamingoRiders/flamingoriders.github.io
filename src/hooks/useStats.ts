@@ -1,15 +1,12 @@
 import { useCallback, useMemo } from "react";
 import { Activity, Summary, MonthStats, AllStats } from "models/stats";
-import {
-  calculateDaysInBetweenDates,
-  toDecimalTime,
-  toStringTime,
-} from "utils/time";
+import { calculateDaysInBetweenDates, toDecimalTime } from "utils/time";
 import {
   calculateTotal,
   calculateMean,
   calculatePercentageRatio,
 } from "utils/calculator";
+import { getMonthName } from "utils/date";
 
 export const useStats = (activities: Array<Activity>) => {
   const calculateSummary = useCallback((activities: Array<Activity>) => {
@@ -28,10 +25,10 @@ export const useStats = (activities: Array<Activity>) => {
       maxDistance: Math.max(...distances),
       minDistance: Math.min(...distances),
 
-      totalTime: toStringTime(calculateTotal(times)),
-      averageTime: toStringTime(calculateMean(times)),
-      maxTime: toStringTime(Math.max(...times)),
-      minTime: toStringTime(Math.min(...times)),
+      totalTime: calculateTotal(times),
+      averageTime: calculateMean(times),
+      maxTime: Math.max(...times),
+      minTime: Math.min(...times),
 
       totalElevation: calculateTotal(elevations),
       averageElevation: calculateMean(elevations),
@@ -51,10 +48,7 @@ export const useStats = (activities: Array<Activity>) => {
 
   const monthActivities = useMemo(() => {
     return activities.reduce((acc, activity) => {
-      const date = new Date(activity.date);
-      const month: string = new Intl.DateTimeFormat("fr-FR", {
-        month: "long",
-      }).format(date);
+      const month = getMonthName(activity.date);
 
       // Find the index of the existing array for the month, or -1 if not found
       const index = acc.findIndex((monthArray) => monthArray.month === month);

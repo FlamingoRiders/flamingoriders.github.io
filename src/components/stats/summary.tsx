@@ -1,5 +1,7 @@
 import { Summary as SummaryModel } from "models/stats";
 import React from "react";
+import { toStringTime } from "utils/time";
+import { Unit, formatInUnit } from "utils/unit";
 
 interface SummaryProps {
   caption: string;
@@ -23,7 +25,7 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
           <td>{summary.totalDays}</td>
           <td>{summary.daysActive}</td>
           <td>{summary.daysInactive}</td>
-          <td>{summary.activityRatio} %</td>
+          <td>{formatInUnit(summary.activityRatio, Unit.PERCENTAGE)}</td>
         </tr>
       </tbody>
     </table>
@@ -37,39 +39,39 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
       <thead>
         <tr>
           <th scope="col">&nbsp;</th>
-          <th scope="col">Min.</th>
-          <th scope="col">Max.</th>
-          <th scope="col">Moyenne</th>
-          <th scope="col">Total</th>
+          <th scope="col">Durée</th>
+          <th scope="col">Distance</th>
+          <th scope="col">Dénivelé positif</th>
+          <th scope="col">Vitesse</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <th scope="row">Durée</th>
-          <td>{summary.minTime}</td>
-          <td>{summary.maxTime}</td>
-          <td>{summary.averageTime}</td>
-          <td>{summary.totalTime}</td>
+          <th scope="row">Minimum</th>
+          <td>{toStringTime(summary.minTime)}</td>
+          <td>{formatInUnit(summary.minDistance, Unit.DISTANCE)}</td>
+          <td>{formatInUnit(summary.minElevation, Unit.ELEVATION)}</td>
+          <td>{formatInUnit(summary.minSpeed, Unit.SPEED)}</td>
         </tr>
         <tr>
-          <th scope="row">Distance</th>
-          <td>{summary.minDistance}</td>
-          <td>{summary.maxDistance}</td>
-          <td>{summary.averageDistance}</td>
-          <td>{summary.totalDistance}</td>
+          <th scope="row">Maximum</th>
+          <td>{toStringTime(summary.maxTime)}</td>
+          <td>{formatInUnit(summary.maxDistance, Unit.DISTANCE)}</td>
+          <td>{formatInUnit(summary.maxElevation, Unit.ELEVATION)}</td>
+          <td>{formatInUnit(summary.maxSpeed, Unit.SPEED)}</td>
         </tr>
         <tr>
-          <th scope="row">Dénivelé positif</th>
-          <td>{summary.minElevation}</td>
-          <td>{summary.maxElevation}</td>
-          <td>{summary.averageElevation}</td>
-          <td>{summary.totalElevation}</td>
+          <th scope="row">Moyenne</th>
+          <td>{toStringTime(summary.averageTime)}</td>
+          <td>{formatInUnit(summary.averageDistance, Unit.DISTANCE)}</td>
+          <td>{formatInUnit(summary.averageElevation, Unit.ELEVATION)}</td>
+          <td>{formatInUnit(summary.averageSpeed, Unit.SPEED)}</td>
         </tr>
         <tr>
-          <th scope="row">Vitesse</th>
-          <td>{summary.minSpeed}</td>
-          <td>{summary.maxSpeed}</td>
-          <td>{summary.averageSpeed}</td>
+          <th scope="row">Total</th>
+          <td>{toStringTime(summary.totalTime)}</td>
+          <td>{formatInUnit(summary.totalDistance, Unit.DISTANCE)}</td>
+          <td>{formatInUnit(summary.totalElevation, Unit.ELEVATION)}</td>
           <td>-</td>
         </tr>
       </tbody>

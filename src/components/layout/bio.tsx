@@ -47,7 +47,6 @@ const Bio: React.FC = () => {
             {` `}
             On est les <strong>{author.name}</strong> et voici le{" "}
             {author?.summary || null}.{` `}
-
           </p>
           <Social />
         </div>
