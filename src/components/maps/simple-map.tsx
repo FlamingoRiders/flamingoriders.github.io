@@ -7,6 +7,7 @@ import {
   Popup,
   Polyline,
 } from "react-leaflet";
+import { getDayOfWeek } from "utils/date";
 
 const CENTER = [59.980488, 13, 8793165];
 
@@ -39,7 +40,7 @@ const SimpleMap: React.FC<SimpleMapProps> = ({
         />
         {displayedPositionMarker && (
           <Marker position={displayedPositionMarker.endPos}>
-            <Popup>{displayedPositionMarker.date}</Popup>
+            <Popup>{getDayOfWeek(displayedPositionMarker.date)}</Popup>
           </Marker>
         )}
         {positionMarkers.map((positionMarker) => (
