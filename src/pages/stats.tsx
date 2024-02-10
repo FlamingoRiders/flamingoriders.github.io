@@ -33,9 +33,8 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Stats Test" />
-      <Bio />
-      <h1>Stats Test</h1>
+      <Seo title="Les stats" />
+      <h1>Notre amour des chiffres</h1>
       <p>This is a dummy page to demonstrate usage of statsModule</p>
       <>
         {stats.monthStats.map((monthStat) => (

@@ -1,7 +1,6 @@
 import * as React from "react";
 import { graphql, Link, type PageProps } from "gatsby";
 import Layout from "components/layout/layout";
-import Bio from "components/layout/bio";
 import SEO from "components/layout/seo";
 
 type QueryReturn = {
@@ -36,8 +35,7 @@ const BlogIndex: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <SEO title="All posts" />
-        <Bio />
+        <SEO title="Le récit" />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
           directory you specified for the "gatsby-source-filesystem" plugin in
@@ -49,8 +47,7 @@ const BlogIndex: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
-      <Bio />
+      <SEO title="Le récit" />
       <ol style={{ listStyle: `none` }}>
         {posts.map((post) => {
           const title = post.frontmatter.title || post.fields.slug;

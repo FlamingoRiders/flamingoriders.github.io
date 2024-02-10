@@ -3,6 +3,7 @@ import { Link } from "gatsby";
 import { WindowLocation } from "@reach/router";
 import "styles.scss";
 import { useDisclaimer } from "hooks/useDisclaimer";
+import Bio from "./bio";
 
 type LayoutProps = {
   location: WindowLocation;
@@ -14,26 +15,34 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
   const { lastUpdate, copyright } = useDisclaimer();
 
   const isRootPath = location.pathname === "/";
-  let header;
-
-  if (isRootPath) {
-    header = (
-      <h1 className="main-heading">
-        <Link to="/">{title}</Link>
-      </h1>
-    );
-  } else {
-    header = (
-      <Link className="header-link-home" to="/">
-        {title}
-      </Link>
-    );
-  }
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header">{header}</header>
-      <main>{children}</main>
+      <header className="site__header">
+        <Link
+          className="site__link"
+          to="/"
+          activeClassName="site__link--active"
+        >
+          Le récit
+        </Link>
+        <Link
+          className="site__link"
+          to="/maps"
+          activeClassName="site__link--active"
+        >
+          La carte
+        </Link>
+        <Link
+          className="site__link"
+          to="/stats"
+          activeClassName="site__link--active"
+        >
+          Les stats
+        </Link>
+      </header>
+      <main className="content">{children}</main>
+      <Bio />
       <footer className="footer">
         <div>
           <div>{copyright}</div>

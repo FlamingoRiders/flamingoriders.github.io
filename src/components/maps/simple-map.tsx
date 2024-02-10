@@ -43,13 +43,15 @@ const SimpleMap: React.FC<SimpleMapProps> = ({
             <Popup>{getDayOfWeek(displayedPositionMarker.date)}</Popup>
           </Marker>
         )}
-        {positionMarkers.map((positionMarker) => (
-          <Polyline
-            key={positionMarker.date}
-            pathOptions={{ color: "blue" }}
-            positions={[positionMarker.startPos, positionMarker.endPos]}
-          />
-        ))}
+        {positionMarkers
+          .filter((p) => p.date !== displayedPositionMarker?.date)
+          .map((positionMarker) => (
+            <Polyline
+              key={positionMarker.date}
+              pathOptions={{ color: "blue", dashArray: "5", dashOffset: "10" }}
+              positions={[positionMarker.startPos, positionMarker.endPos]}
+            />
+          ))}
         {displayedPositionMarker && (
           <Polyline
             key={displayedPositionMarker.date}
