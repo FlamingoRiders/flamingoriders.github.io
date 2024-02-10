@@ -22,8 +22,8 @@ const DayRecap: React.FC<DayRecapProps> = ({
         </thead>
         <tbody>
           <tr>
-            <td align="center">{weather || '-'}</td>
-            <td align="center">🚩 {stepName || '-'}</td>
+            <td align="center">{weather || "-"}</td>
+            <td align="center">🚩 {stepName || "-"}</td>
             <td align="center">⏳ {time}</td>
             <td align="center">🚲 {formatInUnit(distance, Unit.DISTANCE)}</td>
           </tr>
