@@ -42,7 +42,6 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="La carte" />
       <h1>La carte</h1>
-      <p>This is a dummy page to demonstrate usage of Google Maps</p>
       <DatePicker
         selectedDate={selectedDate}
         startDate={startDate}

@@ -18,11 +18,47 @@
 }
 
 .footer {
-  display: flex;
-  justify-content: space-between;
+  padding: var(--spacing-6) var(--spacing-0);
 
-  .right-align {
-    align-items: right;
+  &__line {
+    display: flex;
+    justify-content: space-between;
+
+    .right-align {
+      align-items: right;
+    }
+  }
+
+  &__line + &__line {
+    padding-top: var(--spacing-6);
+  }
+}
+
+/* Style the tab */
+.category-picker {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  display: flex;
+  justify-content: space-around;
+
+  /* Style the buttons that are used to open the tab content */
+  &__item {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+
+    &:hover {
+      background-color: #ddd;
+    }
+
+    &--selected {
+      background-color: #ccc;
+    }
   }
 }
 

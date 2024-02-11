@@ -1,6 +1,7 @@
 import { Activity } from "models/stats";
 import React from "react";
 import { getDayOfWeek } from "utils/date";
+import RowStat from "./row-stat";
 
 interface ActivitiesProps {
   caption: string;
@@ -14,19 +15,22 @@ const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
       <thead>
         <tr>
           <th scope="col">Date</th>
-          <th scope="col">Distance</th>
           <th scope="col">Durée</th>
+          <th scope="col">Distance</th>
+          <th scope="col">Dénivelé positif</th>
           <th scope="col">Moyenne</th>
         </tr>
       </thead>
       <tbody>
         {activities.map((activity) => (
-          <tr key={activity.date}>
-            <th scope="row">{getDayOfWeek(activity.date)}</th>
-            <td>{activity.distance}</td>
-            <td>{activity.time}</td>
-            <td>{activity.averageSpeed}</td>
-          </tr>
+          <RowStat
+            key={activity.date}
+            title={getDayOfWeek(activity.date)}
+            time={activity.time}
+            distance={activity.distance}
+            elevation={activity.elevationGain}
+            speed={activity.averageSpeed}
+          />
         ))}
       </tbody>
     </table>

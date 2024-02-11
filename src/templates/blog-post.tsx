@@ -66,11 +66,8 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
           itemProp="articleBody"
         />
         {day && <DayRecap day={day} />}
-        <hr />
-        <footer>
-          <Bio />
-        </footer>
       </article>
+      <hr />
       <nav className="blog-post-nav">
         <ul
           style={{

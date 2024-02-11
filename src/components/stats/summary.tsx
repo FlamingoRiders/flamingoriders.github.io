@@ -2,6 +2,7 @@ import { Summary as SummaryModel } from "models/stats";
 import React from "react";
 import { toStringTime } from "utils/time";
 import { Unit, formatInUnit } from "utils/unit";
+import RowStat from "./row-stat";
 
 interface SummaryProps {
   caption: string;
@@ -46,34 +47,37 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <th scope="row">Minimum</th>
-          <td>{toStringTime(summary.minTime)}</td>
-          <td>{formatInUnit(summary.minDistance, Unit.DISTANCE)}</td>
-          <td>{formatInUnit(summary.minElevation, Unit.ELEVATION)}</td>
-          <td>{formatInUnit(summary.minSpeed, Unit.SPEED)}</td>
-        </tr>
-        <tr>
-          <th scope="row">Maximum</th>
-          <td>{toStringTime(summary.maxTime)}</td>
-          <td>{formatInUnit(summary.maxDistance, Unit.DISTANCE)}</td>
-          <td>{formatInUnit(summary.maxElevation, Unit.ELEVATION)}</td>
-          <td>{formatInUnit(summary.maxSpeed, Unit.SPEED)}</td>
-        </tr>
-        <tr>
-          <th scope="row">Moyenne</th>
-          <td>{toStringTime(summary.averageTime)}</td>
-          <td>{formatInUnit(summary.averageDistance, Unit.DISTANCE)}</td>
-          <td>{formatInUnit(summary.averageElevation, Unit.ELEVATION)}</td>
-          <td>{formatInUnit(summary.averageSpeed, Unit.SPEED)}</td>
-        </tr>
-        <tr>
-          <th scope="row">Total</th>
-          <td>{toStringTime(summary.totalTime)}</td>
-          <td>{formatInUnit(summary.totalDistance, Unit.DISTANCE)}</td>
-          <td>{formatInUnit(summary.totalElevation, Unit.ELEVATION)}</td>
-          <td>-</td>
-        </tr>
+        <RowStat
+          key="minimums"
+          title="Minimum"
+          time={toStringTime(summary.minTime)}
+          distance={summary.minDistance}
+          elevation={summary.minElevation}
+          speed={summary.minSpeed}
+        />
+        <RowStat
+          key="maximums"
+          title="Maximum"
+          time={toStringTime(summary.maxTime)}
+          distance={summary.maxDistance}
+          elevation={summary.maxElevation}
+          speed={summary.maxSpeed}
+        />
+        <RowStat
+          key="moyennes"
+          title="Moyenne"
+          time={toStringTime(summary.averageTime)}
+          distance={summary.averageDistance}
+          elevation={summary.averageElevation}
+          speed={summary.averageSpeed}
+        />
+        <RowStat
+          key="totaux"
+          title="Total"
+          time={toStringTime(summary.totalTime)}
+          distance={summary.totalDistance}
+          elevation={summary.totalElevation}
+        />
       </tbody>
     </table>
   );

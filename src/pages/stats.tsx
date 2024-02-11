@@ -1,11 +1,12 @@
-import React from "react";
-import Bio from "components/layout/bio";
+import React, { useCallback, useMemo, useState } from "react";
 import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
 import { PageProps, graphql } from "gatsby";
 import { useStats } from "hooks/useStats";
 import Activities from "components/stats/activities";
 import Summary from "components/stats/summary";
+import CategoryPicker from "components/stats/category-picker";
+import { MonthStats } from "models/stats";
 
 type QueryReturn = {
   allStatsJson: {
@@ -31,34 +32,59 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const daysActiveCaption = "Jours d'activité";
   const stats = useStats(allStats);
 
+  const [selectedCategoryIndex, setSelectedCategoryIndex] = useState<number>(0);
+
+  const onSelectCategory = useCallback(
+    (index: number) => {
+      setSelectedCategoryIndex(index);
+    },
+    [setSelectedCategoryIndex],
+  );
+
+  const categories = [
+    "Global",
+    ...stats.monthStats.map((monthStat) => monthStat.month),
+  ];
+
+  const selectedMonthStat: MonthStats | undefined = useMemo(() => {
+    if (selectedCategoryIndex === 0) {
+      return undefined;
+    }
+
+    return stats.monthStats[selectedCategoryIndex - 1];
+  }, [selectedCategoryIndex]);
+
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Les stats" />
       <h1>Notre amour des chiffres</h1>
-      <p>This is a dummy page to demonstrate usage of statsModule</p>
       <>
-        {stats.monthStats.map((monthStat) => (
-          <div key={monthStat.month}>
-            <h3>{monthStat.month}</h3>
-            <Activities
-              activities={monthStat.activities}
-              caption={`Détail du mois de ${monthStat.month}`}
-            />
+        <CategoryPicker
+          onSelectCategory={onSelectCategory}
+          categories={categories}
+          selectedIndex={selectedCategoryIndex}
+        />
+
+        <h3>{categories[selectedCategoryIndex]}</h3>
+        {selectedMonthStat ? (
+          <>
             <Summary
-              statisticsCaption={`Statistiques du mois de ${monthStat.month}`}
+              statisticsCaption={`Statistiques du mois de ${selectedMonthStat.month}`}
               daysActiveCaption={daysActiveCaption}
-              summary={monthStat.summary}
+              summary={selectedMonthStat.summary}
             />
-          </div>
-        ))}
-        <>
-          <h3>Global</h3>
+            <Activities
+              activities={selectedMonthStat.activities}
+              caption={`Détail du mois de ${selectedMonthStat.month}`}
+            />
+          </>
+        ) : (
           <Summary
             statisticsCaption={`Statistiques globales`}
             daysActiveCaption={daysActiveCaption}
             summary={stats.summary}
           />
-        </>
+        )}
       </>
     </Layout>
   );

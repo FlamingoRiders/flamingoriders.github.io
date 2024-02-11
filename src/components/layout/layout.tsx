@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 import { WindowLocation } from "@reach/router";
 import "styles.scss";
 import { useDisclaimer } from "hooks/useDisclaimer";
-import Bio from "./bio";
+import Bio from "components/layout/bio";
 
 type LayoutProps = {
   location: WindowLocation;
@@ -42,17 +42,23 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
         </Link>
       </header>
       <main className="content">{children}</main>
-      <Bio />
+
       <footer className="footer">
-        <div>
-          <div>{copyright}</div>
-          <a href="https://www.gatsbyjs.com/">
-            <img src="https://img.shields.io/badge/built_with-gatsby-blue" />
-          </a>
+        <div className="footer__line">
+          <Bio />
         </div>
-        <div className="right-align">
-          <div>Dernière mise à jour</div>
-          <div>{lastUpdate}</div>
+
+        <div className="footer__line">
+          <div>
+            <div>{copyright}</div>
+            <a href="https://www.gatsbyjs.com/">
+              <img src="https://img.shields.io/badge/built_with-gatsby-blue" />
+            </a>
+          </div>
+          <div className="right-align">
+            <div>Dernière mise à jour</div>
+            <div>{lastUpdate}</div>
+          </div>
         </div>
       </footer>
     </div>
