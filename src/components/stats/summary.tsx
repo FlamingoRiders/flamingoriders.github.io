@@ -17,8 +17,8 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
         <thead>
           <tr>
             <th scope="col">Jours</th>
-            <th scope="col">Actif</th>
-            <th scope="col">Inactif</th>
+            <th scope="col">✔️</th>
+            <th scope="col">❌</th>
           </tr>
         </thead>
         <tbody>
@@ -58,10 +58,10 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
       <thead>
         <tr>
           <th scope="col">&nbsp;</th>
-          <th scope="col">Durée</th>
-          <th scope="col">Distance</th>
-          <th scope="col">Dénivelé</th>
-          <th scope="col">Vitesse</th>
+          <th scope="col">⏳</th>
+          <th scope="col">🚲</th>
+          <th scope="col">📈</th>
+          <th scope="col">⏱️</th>
         </tr>
       </thead>
       <tbody>

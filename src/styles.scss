@@ -49,19 +49,23 @@ $btn-secondary-disabled-border: solid 1px $ds-secondary-color-400;
 $btn-secondary-active-color: $ds-secondary-color;
 
 $btn-height: 40px;
-$halo-animation-speed: 0.8s;
 
 /* Style the tab */
 .category-picker {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 
   /* Style the buttons that are used to open the tab content */
   &__item {
+    flex-basis: 50px;
+    margin: 4px;
     font-size: 1rem;
     text-align: center;
     text-transform: lowercase;
     cursor: pointer;
+
+    -webkit-tap-highlight-color: transparent;
 
     &:first-letter {
       text-transform: uppercase;
@@ -89,10 +93,6 @@ $halo-animation-speed: 0.8s;
       height: 20px;
       background-color: var(--color-white);
       opacity: 0;
-      transform: translate(-50%, -50%) scale(1);
-      transition:
-        opacity $halo-animation-speed ease-in-out,
-        transform $halo-animation-speed ease-in-out;
     }
 
     /* Effet Halo Active */
@@ -182,6 +182,7 @@ progress {
 
 details {
   user-select: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 details > summary span.collapsible__icon {
