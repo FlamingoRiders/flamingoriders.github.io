@@ -17,7 +17,7 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
         <thead>
           <tr>
             <th scope="col">Jours</th>
-            <th scope="col">✔️</th>
+            <th scope="col">✅</th>
             <th scope="col">❌</th>
           </tr>
         </thead>
