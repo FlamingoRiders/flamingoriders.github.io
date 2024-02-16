@@ -48,14 +48,18 @@ const SimpleMap: React.FC<SimpleMapProps> = ({
           .map((positionMarker) => (
             <Polyline
               key={positionMarker.date}
-              pathOptions={{ color: "blue", dashArray: "5", dashOffset: "10" }}
+              pathOptions={{
+                color: "#005b99",
+                dashArray: "5",
+                dashOffset: "10",
+              }}
               positions={[positionMarker.startPos, positionMarker.endPos]}
             />
           ))}
         {displayedPositionMarker && (
           <Polyline
             key={displayedPositionMarker.date}
-            pathOptions={{ color: "violet" }}
+            pathOptions={{ color: "salmon" }}
             positions={[
               displayedPositionMarker.startPos,
               displayedPositionMarker.endPos,

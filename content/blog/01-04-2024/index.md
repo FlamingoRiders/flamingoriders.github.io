@@ -1,33 +1,17 @@
 ---
-title: ☕ Le café d'Eduardo du 01 Avril 🦩
+title: ☕ Le café d'Eduardo du 01 Avril
 date: "2024-04-01"
 description: "Aller c'est parti !"
 ---
 
 ![Café d'Eduardo](../eduardo.png)
 
-Le jour J ! ça y est c'est le grand départ que l'on attendait depuis des mois
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis ipsum tellus. Ut arcu augue, vestibulum eget nulla vel, ultrices ultrices ex. Aliquam fringilla rhoncus est, non tincidunt dolor auctor at. Fusce finibus eros ut tellus ornare, ac sodales eros pretium. Suspendisse euismod libero eros, et gravida nunc volutpat a. Morbi convallis eros vel leo porttitor, eu malesuada turpis elementum. Suspendisse ac felis a velit pellentesque posuere. Integer scelerisque feugiat venenatis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
-### Song of the day 🎵
+Nam eu aliquam enim. Mauris sit amet lectus efficitur, congue dolor ac, congue ante. Nunc egestas tempus magna in eleifend. Integer et leo pharetra, laoreet ante id, consectetur magna. Cras a ipsum cursus, volutpat mi suscipit, porta leo. Curabitur vel magna vel mi congue lacinia. In hac habitasse platea dictumst. Praesent laoreet tortor vitae magna porta, in placerat purus faucibus.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JIC3hbC28JZKZ8AlAqX8h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Etiam vel risus convallis, ullamcorper libero id, consequat libero. Quisque cursus velit at mauris suscipit tempor. Sed lectus eros, ultricies vitae aliquam vitae, interdum non eros. Ut aliquam odio augue, id aliquam lorem consectetur in. Suspendisse ligula mi, vulputate vitae neque non, dictum suscipit metus. Duis scelerisque libero quam, id maximus quam aliquet eget. Morbi orci sem, consequat vitae ultricies in, pellentesque nec purus.
 
-Quand t'associes Elton et Dua Lipa tu ne peux qu'avoir un tube hyper catchy et bouncy. L'ambiance qu'il nous faut pour démarrer notre périple !
+Proin tempor rutrum nunc nec imperdiet. Maecenas vel mollis mauris, quis tempus risus. Mauris quis urna mollis, elementum ex in, sollicitudin lectus. Aliquam ornare varius nisi, ut commodo nisi sodales at. Phasellus eu lectus ut libero faucibus tincidunt. In in feugiat diam. Curabitur ac tellus porta, maximus nunc et, varius lorem.
 
-### test youtube iframe
-
-<iframe id="ytplayer" type="text/html" width="360" height="202.5"
-src="https://www.youtube.com/embed/M7lc1UVf-VE"
-frameborder="0" allowfullscreen>
-
-### test giphy
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xT1XGOGdyDrL2BTfxK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-test 2
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/krkrHAEodHgzP72rTI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-## test Strava
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/26828165/activity-summary/09284769572e3b17a595b62abff7897338ed583e'></iframe>
+Integer placerat ligula augue, eget vehicula neque tempus eget. Integer eu lorem quis nisi condimentum feugiat. Sed et diam in nisi bibendum euismod. Integer accumsan sem vitae aliquam sollicitudin. Nulla vitae sapien pellentesque, tristique urna a, cursus elit. Phasellus diam libero, pharetra at iaculis non, viverra sit amet lorem. Aliquam luctus mi ipsum. Fusce ut bibendum sem, at porttitor tellus. Maecenas auctor maximus finibus. Mauris ut mollis orci.

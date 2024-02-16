@@ -1,5 +1,6 @@
 import { CumulatedMarker, PositionMarker } from "models/markers";
 import React from "react";
+import { formatInUnit, Unit } from "utils/unit";
 
 interface TravelCounterProps {
   displayedPositionMarker: PositionMarker;
@@ -11,24 +12,28 @@ const TravelCounter: React.FC<TravelCounterProps> = ({
 }) => {
   return (
     <table>
-      <caption>Détail de l'avancement</caption>
+      <caption>Avancement</caption>
       <thead>
         <tr>
           <th scope="col">&nbsp;</th>
-          <th scope="col">Sur l'étape</th>
-          <th scope="col">Sur l'ensemble du trajet</th>
+          <th scope="col">Durée</th>
+          <th scope="col">Distance</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <th scope="row">Distance parcourue</th>
-          <td>{displayedPositionMarker.distance}</td>
-          <td>{cumulatedPositionMarker.distance}</td>
+          <th scope="row">Sur l'étape</th>
+          <td>{displayedPositionMarker.time}</td>
+          <td>
+            {formatInUnit(displayedPositionMarker.distance, Unit.DISTANCE)}
+          </td>
         </tr>
         <tr>
-          <th scope="row">Durée écoulée</th>
-          <td>{displayedPositionMarker.time}</td>
+          <th scope="row">Depuis le départ</th>
           <td>{cumulatedPositionMarker.time}</td>
+          <td>
+            {formatInUnit(cumulatedPositionMarker.distance, Unit.DISTANCE)}
+          </td>
         </tr>
       </tbody>
     </table>

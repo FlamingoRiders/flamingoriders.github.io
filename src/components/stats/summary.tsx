@@ -11,25 +11,43 @@ interface SummaryProps {
 
 const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
   return (
-    <table>
-      <caption>{caption}</caption>
-      <thead>
-        <tr>
-          <th scope="col">Jours</th>
-          <th scope="col">Actif</th>
-          <th scope="col">Inactif</th>
-          <th scope="col">Ratio</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>{summary.totalDays}</td>
-          <td>{summary.daysActive}</td>
-          <td>{summary.daysInactive}</td>
-          <td>{formatInUnit(summary.activityRatio, Unit.PERCENTAGE)}</td>
-        </tr>
-      </tbody>
-    </table>
+    <>
+      <table>
+        <caption>{caption}</caption>
+        <thead>
+          <tr>
+            <th scope="col">Jours</th>
+            <th scope="col">Actif</th>
+            <th scope="col">Inactif</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{summary.totalDays}</td>
+            <td>{summary.daysActive}</td>
+            <td>{summary.daysInactive}</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <th scope="row" colSpan={3}>
+              {" "}
+              <div style={{ display: "flex", justifyContent: "space-between" }}>
+                <span>&nbsp;</span>
+                <span>
+                  {formatInUnit(summary.activityRatio, Unit.PERCENTAGE)}
+                </span>
+              </div>
+              <progress
+                max={100}
+                value={summary.activityRatio}
+                style={{ minWidth: "100%" }}
+              ></progress>
+            </th>
+          </tr>
+        </tfoot>
+      </table>
+    </>
   );
 };
 
@@ -42,7 +60,7 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
           <th scope="col">&nbsp;</th>
           <th scope="col">Durée</th>
           <th scope="col">Distance</th>
-          <th scope="col">Dénivelé positif</th>
+          <th scope="col">Dénivelé</th>
           <th scope="col">Vitesse</th>
         </tr>
       </thead>
@@ -71,6 +89,8 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
           elevation={summary.averageElevation}
           speed={summary.averageSpeed}
         />
+      </tbody>
+      <tfoot>
         <RowStat
           key="totaux"
           title="Total"
@@ -78,7 +98,7 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
           distance={summary.totalDistance}
           elevation={summary.totalElevation}
         />
-      </tbody>
+      </tfoot>
     </table>
   );
 };

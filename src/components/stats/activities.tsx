@@ -10,30 +10,38 @@ interface ActivitiesProps {
 
 const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
   return (
-    <table>
-      <caption>{caption}</caption>
-      <thead>
-        <tr>
-          <th scope="col">Date</th>
-          <th scope="col">Durée</th>
-          <th scope="col">Distance</th>
-          <th scope="col">Dénivelé positif</th>
-          <th scope="col">Moyenne</th>
-        </tr>
-      </thead>
-      <tbody>
-        {activities.map((activity) => (
-          <RowStat
-            key={activity.date}
-            title={getDayOfWeek(activity.date)}
-            time={activity.time}
-            distance={activity.distance}
-            elevation={activity.elevationGain}
-            speed={activity.averageSpeed}
-          />
-        ))}
-      </tbody>
-    </table>
+    <>
+      <details className="collapsible">
+        <summary>
+          <span className="collapsible__icon">▶</span>
+          <span className="collapsible__label">&nbsp;{caption}</span>
+        </summary>
+        <table className="collapsible__content">
+          <caption>{caption}</caption>
+          <thead>
+            <tr>
+              <th scope="col">Date</th>
+              <th scope="col">Durée</th>
+              <th scope="col">Distance</th>
+              <th scope="col">Dénivelé</th>
+              <th scope="col">Moyenne</th>
+            </tr>
+          </thead>
+          <tbody>
+            {activities.map((activity) => (
+              <RowStat
+                key={activity.date}
+                title={getDayOfWeek(activity.date)}
+                time={activity.time}
+                distance={activity.distance}
+                elevation={activity.elevationGain}
+                speed={activity.averageSpeed}
+              />
+            ))}
+          </tbody>
+        </table>
+      </details>
+    </>
   );
 };
 

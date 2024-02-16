@@ -1,5 +1,5 @@
 export const toDecimalTime = (time: string): number => {
-  const [hours, minutes] = time.split(":");
+  const [hours, minutes] = time.split("h");
   return +hours + +minutes / 60;
 };
 
