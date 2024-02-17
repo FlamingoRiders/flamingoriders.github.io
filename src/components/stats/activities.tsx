@@ -14,13 +14,16 @@ const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
       <details className="collapsible">
         <summary>
           <span className="collapsible__icon">▶</span>
-          <span className="collapsible__label">&nbsp;{caption}</span>
+          <span className="collapsible__label">{caption}</span>
         </summary>
         <table className="collapsible__content">
           <caption>{caption}</caption>
           <thead>
             <tr>
-              <th scope="col">&nbsp;</th>
+              <th scope="col">
+                <span className="d-desktop">Date</span>
+                <span className="d-mobile">📅</span>
+              </th>
               <th scope="col">
                 <span className="d-desktop">Durée</span>
                 <span className="d-mobile">⏳</span>

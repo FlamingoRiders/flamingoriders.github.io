@@ -7,7 +7,7 @@ const config: GatsbyConfig = {
     author: {
       name: `Flamingo Riders`,
       people: `Nana, Nico et Eduardo`,
-      summary: `blog relatant nos aventures`,
+      summary: `A travers notre blog, nous souhaitons vous transporter dans notre folle aventure.`,
     },
     description: `Blog de voyage des Flamingo Riders`,
     siteUrl: `https://flamingoriders.github.io/`,

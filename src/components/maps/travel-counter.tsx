@@ -12,10 +12,9 @@ const TravelCounter: React.FC<TravelCounterProps> = ({
 }) => {
   return (
     <table>
-      <caption>Avancement</caption>
       <thead>
         <tr>
-          <th scope="col">&nbsp;</th>
+          <th scope="col">🦩</th>
           <th scope="col">Durée</th>
           <th scope="col">Distance</th>
         </tr>

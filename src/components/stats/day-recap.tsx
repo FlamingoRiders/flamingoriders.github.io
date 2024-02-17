@@ -1,3 +1,4 @@
+import Step from "components/maps/step";
 import { Day } from "models/day";
 import * as React from "react";
 import { Unit, formatInUnit } from "utils/unit";
@@ -18,15 +19,9 @@ const DayRecap: React.FC<DayRecapProps> = ({
           justifyContent: "space-between",
           alignItems: "center",
           lineHeight: "normal",
-          fontWeight: "bold",
-          fontFamily: "Montserrat",
         }}
       >
-        <div style={{ fontSize: "1rem" }}>
-          {startPointName && <div>🚩 {startPointName}</div>}
-          {startPointName && endPointName && <div>&#10247;</div>}
-          {endPointName && <div>🏁 {endPointName}</div>}
-        </div>
+        <Step startPointName={startPointName} endPointName={endPointName} />
         {weather && <div style={{ fontSize: "3rem" }}>{weather}</div>}
       </div>
 

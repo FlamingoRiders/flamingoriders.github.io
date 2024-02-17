@@ -2,6 +2,8 @@ export interface PositionMarker {
   date: string;
   startPos: [number, number];
   endPos: [number, number];
+  startPointName: string;
+  endPointName: string;
   distance: number;
   time: string;
 }

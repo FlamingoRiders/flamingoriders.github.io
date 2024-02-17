@@ -13,18 +13,28 @@ const DatePicker: React.FC<DatePickerProps> = ({
   onChangeDate,
 }) => {
   return (
-    <>
-      <label htmlFor="marker-select">Voir la position:&nbsp;</label>
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        fontWeight: "bold",
+        fontFamily: "Montserrat",
+      }}
+    >
+      <label htmlFor="marker-select">
+        La position du jour&nbsp;:&nbsp;&nbsp;
+      </label>
       <input
         type="date"
         id="start"
-        name="trip-start"
+        name="marker-select"
         value={selectedDate}
         min={startDate}
         max={lastDate}
         onChange={(e) => onChangeDate(e.target.value)}
       />
-    </>
+    </div>
   );
 };
 

@@ -20,7 +20,7 @@ const Social: React.FC = () => {
 
   return (
     <div>
-      Suivez-nous ici:
+      Retrouvez-nous ici:
       <a
         href={`https://github.com/${social?.github || ``}`}
         className="social-logo"

@@ -7,6 +7,7 @@ import { useMarkers } from "hooks/useMarkers";
 import DatePicker from "components/maps/date-picker";
 import SimpleMap from "components/maps/simple-map";
 import TravelCounter from "components/maps/travel-counter";
+import Step from "components/maps/step";
 
 type QueryReturn = {
   allStatsJson: {
@@ -49,7 +50,6 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
         onChangeDate={onChangeDate}
       />
       <br />
-      <br />
       {(!displayedPositionMarker || !cumulatedPositionMarker) && (
         <p>Pas de position connue pour ce jour.</p>
       )}
@@ -58,7 +58,10 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
         displayedPositionMarker={displayedPositionMarker}
       />
       <br />
-      <br />
+      <Step
+        startPointName={displayedPositionMarker?.startPointName}
+        endPointName={displayedPositionMarker?.endPointName}
+      />
       {displayedPositionMarker && cumulatedPositionMarker && (
         <TravelCounter
           displayedPositionMarker={displayedPositionMarker}
@@ -83,6 +86,8 @@ export const pageQuery = graphql`
         date
         startPos
         endPos
+        startPointName
+        endPointName
         distance
         time
       }
