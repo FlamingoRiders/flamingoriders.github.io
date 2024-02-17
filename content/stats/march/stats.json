@@ -8,6 +8,7 @@
     "averageSpeed": 14.9,
     "elevationGain": 250,
     "weather": "⛅",
-    "stepName": "Paris"
+    "startPointName": "Paris",
+    "endPointName": "Meaux"
   }
 ]

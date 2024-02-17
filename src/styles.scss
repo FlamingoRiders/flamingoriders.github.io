@@ -58,7 +58,7 @@ $btn-height: 40px;
 
   /* Style the buttons that are used to open the tab content */
   &__item {
-    flex-basis: 50px;
+    flex-basis: 70px;
     margin: 4px;
     font-size: 1rem;
     text-align: center;
@@ -80,27 +80,6 @@ $btn-height: 40px;
 
     background-color: var(--color-white);
     border: $btn-secondary-border;
-
-    /* Effet Halo */
-    &:after {
-      content: "";
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      border-radius: 50%;
-      padding: 20px 50%;
-      width: 20px;
-      height: 20px;
-      background-color: var(--color-white);
-      opacity: 0;
-    }
-
-    /* Effet Halo Active */
-    &:active:after {
-      opacity: 0.7;
-      transform: translate(-50%, -50%) scale(0);
-      transition: transform 0s ease-in-out;
-    }
 
     &:hover {
       background-color: $ds-secondary-color-300;
@@ -150,6 +129,23 @@ th,
 td {
   padding: var(--spacing-3) var(--spacing-4); // 12px 15px;
   text-align: center;
+}
+
+.d-mobile {
+  display: none;
+}
+
+.d-desktop {
+  display: inline;
+}
+
+@media (max-width: 36rem) {
+  .d-desktop {
+    display: none;
+  }
+  .d-mobile {
+    display: inline;
+  }
 }
 
 tbody tr {

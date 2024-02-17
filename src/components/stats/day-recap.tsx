@@ -6,7 +6,7 @@ interface DayRecapProps {
   day: Day;
 }
 const DayRecap: React.FC<DayRecapProps> = ({
-  day: { distance, time, weather, stepName },
+  day: { distance, time, weather, startPointName, endPointName },
 }) => {
   return (
     <>
@@ -22,8 +22,12 @@ const DayRecap: React.FC<DayRecapProps> = ({
           fontFamily: "Montserrat",
         }}
       >
-        <div style={{ fontSize: "1rem" }}>🚩 {stepName || "-"}</div>
-        <div style={{ fontSize: "3rem" }}>{weather || "-"}</div>
+        <div style={{ fontSize: "1rem" }}>
+          {startPointName && <div>🚩 {startPointName}</div>}
+          {startPointName && endPointName && <div>&#10247;</div>}
+          {endPointName && <div>🏁 {endPointName}</div>}
+        </div>
+        {weather && <div style={{ fontSize: "3rem" }}>{weather}</div>}
       </div>
 
       <table>

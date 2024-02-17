@@ -8,7 +8,8 @@
     "averageSpeed": 19,
     "elevationGain": 120,
     "weather": "⛅",
-    "stepName": "Paris"
+    "startPointName": "Paris",
+    "endPointName": "Paris"
   },
   {
     "date": "2024-05-02",

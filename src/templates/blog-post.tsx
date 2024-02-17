@@ -127,7 +127,8 @@ export const pageQuery = graphql`
       date
       distance
       weather
-      stepName
+      startPointName
+      endPointName
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
       fields {

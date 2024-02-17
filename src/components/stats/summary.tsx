@@ -18,7 +18,7 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
           <tr>
             <th scope="col">Jours</th>
             <th scope="col">✔️</th>
-            <th scope="col">❌</th>
+            <th scope="col">🚳</th>
           </tr>
         </thead>
         <tbody>
@@ -58,16 +58,29 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
       <thead>
         <tr>
           <th scope="col">&nbsp;</th>
-          <th scope="col">⏳</th>
-          <th scope="col">🚲</th>
-          <th scope="col">📈</th>
-          <th scope="col">⏱️</th>
+          <th scope="col">
+            <span className="d-desktop">Durée</span>
+            <span className="d-mobile">⏳</span>
+          </th>
+          <th scope="col">
+            <span className="d-desktop">Distance</span>
+            <span className="d-mobile">🚴</span>
+          </th>
+          <th scope="col">
+            <span className="d-desktop">Dénivelé positif</span>
+            <span className="d-mobile">📈</span>
+          </th>
+          <th scope="col">
+            <span className="d-desktop">Vitesse moyenne</span>
+            <span className="d-mobile">⏱️</span>
+          </th>
         </tr>
       </thead>
       <tbody>
         <RowStat
           key="minimums"
           title="Minimum"
+          titleShort="Min."
           time={toStringTime(summary.minTime)}
           distance={summary.minDistance}
           elevation={summary.minElevation}
@@ -76,6 +89,7 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
         <RowStat
           key="maximums"
           title="Maximum"
+          titleShort="Max."
           time={toStringTime(summary.maxTime)}
           distance={summary.maxDistance}
           elevation={summary.maxElevation}
@@ -84,6 +98,7 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
         <RowStat
           key="moyennes"
           title="Moyenne"
+          titleShort="Moy."
           time={toStringTime(summary.averageTime)}
           distance={summary.averageDistance}
           elevation={summary.averageElevation}

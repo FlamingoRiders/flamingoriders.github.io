@@ -4,6 +4,7 @@ import { Unit, formatInUnit } from "utils/unit";
 interface RowStatProps {
   key?: React.Key;
   title: string;
+  titleShort?: string;
   time: string;
   distance: number;
   elevation: number;
@@ -13,6 +14,7 @@ interface RowStatProps {
 const RowStat: React.FC<RowStatProps> = ({
   key,
   title,
+  titleShort,
   time,
   distance,
   elevation,
@@ -20,7 +22,10 @@ const RowStat: React.FC<RowStatProps> = ({
 }) => {
   return (
     <tr key={key}>
-      <th scope="row">{title}</th>
+      <th scope="row">
+        <span className="d-desktop">{title}</span>
+        <span className="d-mobile">{titleShort ? titleShort : title}</span>
+      </th>
       <td>{time}</td>
       <td>{formatInUnit(distance, Unit.DISTANCE)}</td>
       <td>{formatInUnit(elevation, Unit.ELEVATION)}</td>
