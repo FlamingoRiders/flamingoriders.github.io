@@ -2,7 +2,6 @@ import React from "react";
 import { Unit, formatInUnit } from "utils/unit";
 
 interface RowStatProps {
-  key?: React.Key;
   title: string;
   titleShort?: string;
   time: string;
@@ -12,7 +11,6 @@ interface RowStatProps {
 }
 
 const RowStat: React.FC<RowStatProps> = ({
-  key,
   title,
   titleShort,
   time,
@@ -21,7 +19,7 @@ const RowStat: React.FC<RowStatProps> = ({
   speed,
 }) => {
   return (
-    <tr key={key}>
+    <tr>
       <th scope="row">
         <span className="d-desktop">{title}</span>
         <span className="d-mobile">{titleShort ? titleShort : title}</span>

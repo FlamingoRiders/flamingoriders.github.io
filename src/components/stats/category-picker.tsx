@@ -15,6 +15,7 @@ const CategoryPicker: React.FC<CategoryPickerProps> = ({
       <div className="category-picker" role="group">
         {categories.map((category, index) => (
           <button
+            key={`${category}-${index}`}
             className={`category-picker__item ${index === selectedIndex ? "category-picker__item--selected" : ""}`}
             onClick={() => onSelectCategory(index)}
           >
