@@ -18,7 +18,10 @@
     "distance": 60.4,
     "time": "03h45",
     "averageSpeed": 16.1,
-    "elevationGain": 150
+    "elevationGain": 150,
+    "weather": "⛅",
+    "startPointName": "Compiègne",
+    "endPointName": "La Fère"
   },
   {
     "date": "2024-04-03",
@@ -27,7 +30,10 @@
     "distance": 70.9,
     "time": "04h29",
     "averageSpeed": 15.8,
-    "elevationGain": 350
+    "elevationGain": 350,
+    "weather": "⛅",
+    "startPointName": "La Fère",
+    "endPointName": "Étréaupont"
   },
   {
     "date": "2024-04-04",
@@ -36,7 +42,10 @@
     "distance": 62.9,
     "time": "03h58",
     "averageSpeed": 15.9,
-    "elevationGain": 490
+    "elevationGain": 490,
+    "weather": "⛅",
+    "startPointName": "Étréaupont",
+    "endPointName": "Lac du Val Joly"
   },
   {
     "date": "2024-04-05",
@@ -45,7 +54,10 @@
     "distance": 59.7,
     "time": "03h44",
     "averageSpeed": 16,
-    "elevationGain": 310
+    "elevationGain": 310,
+    "weather": "⛅",
+    "startPointName": "Lac du Val Joly",
+    "endPointName": "Binche"
   },
   {
     "date": "2024-04-06",
@@ -54,7 +66,10 @@
     "distance": 63.5,
     "time": "03h41",
     "averageSpeed": 17.2,
-    "elevationGain": 300
+    "elevationGain": 300,
+    "weather": "⛅",
+    "startPointName": "Binche",
+    "endPointName": "Bruxelles"
   },
   {
     "date": "2024-04-08",
@@ -63,7 +78,10 @@
     "distance": 71.2,
     "time": "04h09",
     "averageSpeed": 17.1,
-    "elevationGain": 240
+    "elevationGain": 240,
+    "weather": "⛅",
+    "startPointName": "Bruxelles",
+    "endPointName": "Stabroek"
   },
   {
     "date": "2024-04-09",
@@ -72,7 +90,10 @@
     "distance": 66.9,
     "time": "03h50",
     "averageSpeed": 17.5,
-    "elevationGain": 110
+    "elevationGain": 110,
+    "weather": "⛅",
+    "startPointName": "Stabroek",
+    "endPointName": "Dordrecht"
   },
   {
     "date": "2024-04-10",
@@ -81,7 +102,10 @@
     "distance": 60.8,
     "time": "03h28",
     "averageSpeed": 17.5,
-    "elevationGain": 100
+    "elevationGain": 100,
+    "weather": "⛅",
+    "startPointName": "Dordrecht",
+    "endPointName": "Utrecht"
   },
   {
     "date": "2024-04-11",
@@ -90,7 +114,10 @@
     "distance": 53.2,
     "time": "03h09",
     "averageSpeed": 16.9,
-    "elevationGain": 110
+    "elevationGain": 110,
+    "weather": "⛅",
+    "startPointName": "Utrecht",
+    "endPointName": "Amsterdam"
   },
   {
     "date": "2024-04-14",
@@ -99,7 +126,10 @@
     "distance": 55.9,
     "time": "03h10",
     "averageSpeed": 17.7,
-    "elevationGain": 70
+    "elevationGain": 70,
+    "weather": "⛅",
+    "startPointName": "Amsterdam",
+    "endPointName": "Zeewolde"
   },
   {
     "date": "2024-04-15",
@@ -108,7 +138,10 @@
     "distance": 55.3,
     "time": "03h10",
     "averageSpeed": 17.5,
-    "elevationGain": 90
+    "elevationGain": 90,
+    "weather": "⛅",
+    "startPointName": "Zeewolde",
+    "endPointName": "Zwolle"
   },
   {
     "date": "2024-04-16",
@@ -117,7 +150,10 @@
     "distance": 53.2,
     "time": "03h10",
     "averageSpeed": 16.8,
-    "elevationGain": 60
+    "elevationGain": 60,
+    "weather": "⛅",
+    "startPointName": "Zwolle",
+    "endPointName": "Assen"
   },
   {
     "date": "2024-04-17",
@@ -126,7 +162,10 @@
     "distance": 55.1,
     "time": "03h11",
     "averageSpeed": 17.3,
-    "elevationGain": 90
+    "elevationGain": 90,
+    "weather": "⛅",
+    "startPointName": "Assen",
+    "endPointName": "Froombosch"
   },
   {
     "date": "2024-04-18",
@@ -135,7 +174,10 @@
     "distance": 54.4,
     "time": "03h10",
     "averageSpeed": 17.2,
-    "elevationGain": 70
+    "elevationGain": 70,
+    "weather": "⛅",
+    "startPointName": "Froombosch",
+    "endPointName": "Aschendorfermoor"
   },
   {
     "date": "2024-04-19",
@@ -144,7 +186,10 @@
     "distance": 54.7,
     "time": "03h10",
     "averageSpeed": 17.3,
-    "elevationGain": 90
+    "elevationGain": 90,
+    "weather": "⛅",
+    "startPointName": "Aschendorfermoor",
+    "endPointName": "Wardenburg"
   },
   {
     "date": "2024-04-20",
@@ -153,7 +198,10 @@
     "distance": 53.6,
     "time": "03h11",
     "averageSpeed": 16.8,
-    "elevationGain": 150
+    "elevationGain": 150,
+    "weather": "⛅",
+    "startPointName": "Wardenburg",
+    "endPointName": "Brême"
   },
   {
     "date": "2024-04-21",
@@ -162,7 +210,10 @@
     "distance": 52.2,
     "time": "03h13",
     "averageSpeed": 16.3,
-    "elevationGain": 190
+    "elevationGain": 190,
+    "weather": "⛅",
+    "startPointName": "Brême",
+    "endPointName": "Ahlerstedt"
   },
   {
     "date": "2024-04-22",
@@ -171,7 +222,10 @@
     "distance": 51.8,
     "time": "02h56",
     "averageSpeed": 17.6,
-    "elevationGain": 140
+    "elevationGain": 140,
+    "weather": "⛅",
+    "startPointName": "Ahlerstedt",
+    "endPointName": "Hambourg"
   },
   {
     "date": "2024-04-23",
@@ -180,7 +234,10 @@
     "distance": 4.24,
     "time": "01h14",
     "averageSpeed": 13.82,
-    "elevationGain": 19
+    "elevationGain": 19,
+    "weather": "⛅",
+    "startPointName": "Hambourg",
+    "endPointName": "Hambourg"
   },
   {
     "date": "2024-04-24",
@@ -189,7 +246,10 @@
     "distance": 19.21,
     "time": "01h16",
     "averageSpeed": 10.09,
-    "elevationGain": 3
+    "elevationGain": 3,
+    "weather": "⛅",
+    "startPointName": "Hambourg",
+    "endPointName": "Hambourg"
   },
   {
     "date": "2024-04-25",
@@ -198,7 +258,10 @@
     "distance": 1.02,
     "time": "01h54",
     "averageSpeed": 10.95,
-    "elevationGain": 15
+    "elevationGain": 15,
+    "weather": "⛅",
+    "startPointName": "Hambourg",
+    "endPointName": "Hambourg"
   },
   {
     "date": "2024-04-26",
@@ -207,7 +270,10 @@
     "distance": 8.78,
     "time": "01h50",
     "averageSpeed": 13.93,
-    "elevationGain": 6
+    "elevationGain": 6,
+    "weather": "⛅",
+    "startPointName": "Hambourg",
+    "endPointName": "Hambourg"
   },
   {
     "date": "2024-04-27",
@@ -216,7 +282,10 @@
     "distance": 12.73,
     "time": "01h58",
     "averageSpeed": 12.25,
-    "elevationGain": 4
+    "elevationGain": 4,
+    "weather": "⛅",
+    "startPointName": "Hambourg",
+    "endPointName": "Hambourg"
   },
   {
     "date": "2024-04-28",
@@ -225,7 +294,10 @@
     "distance": 11.29,
     "time": "00h40",
     "averageSpeed": 8.31,
-    "elevationGain": 10
+    "elevationGain": 10,
+    "weather": "⛅",
+    "startPointName": "Hambourg",
+    "endPointName": "Hambourg"
   },
   {
     "date": "2024-04-29",
@@ -234,7 +306,10 @@
     "distance": 67.7,
     "time": "04h08",
     "averageSpeed": 16.4,
-    "elevationGain": 250
+    "elevationGain": 250,
+    "weather": "⛅",
+    "startPointName": "La Fère",
+    "endPointName": "Étréaupont"
   },
   {
     "date": "2024-04-30",
@@ -243,6 +318,9 @@
     "distance": 70,
     "time": "04h08",
     "averageSpeed": 17,
-    "elevationGain": 240
+    "elevationGain": 240,
+    "weather": "⛅",
+    "startPointName": "La Fère",
+    "endPointName": "Étréaupont"
   }
 ]
