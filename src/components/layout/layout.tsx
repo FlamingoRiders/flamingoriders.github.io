@@ -21,6 +21,13 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
       <header className="site__header">
         <Link
           className="site__link"
+          to="/presentation"
+          activeClassName="site__link--active"
+        >
+          Qui sommes-nous ?
+        </Link>
+        <Link
+          className="site__link"
           to="/"
           activeClassName="site__link--active"
         >

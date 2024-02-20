@@ -43,7 +43,8 @@ const Bio: React.FC = () => {
       {author?.name && (
         <div>
           <p>
-            Coucou les <strong>Flamingos</strong> ! Nous c'est <strong>{author.people}.</strong>
+            Coucou les <strong>Flamingos</strong> ! Nous c'est{" "}
+            <strong>{author.people}.</strong>
             {` `}
             {author?.summary || null}
           </p>
