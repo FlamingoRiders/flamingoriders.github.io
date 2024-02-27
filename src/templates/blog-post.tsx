@@ -1,7 +1,6 @@
 import * as React from "react";
 import { Link, PageProps, graphql } from "gatsby";
 
-import Bio from "components/layout/bio";
 import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
 import DayRecap from "components/stats/day-recap";
