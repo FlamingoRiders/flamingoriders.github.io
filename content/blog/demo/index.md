@@ -32,7 +32,6 @@ test 2
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/26828165/activity-summary/09284769572e3b17a595b62abff7897338ed583e'></iframe>
 
-
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
