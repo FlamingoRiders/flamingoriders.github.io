@@ -108,7 +108,7 @@
     "endPointName": "Utrecht"
   },
   {
-    "date": "2024-04-11",
+    "date": "2024-04-12",
     "startPos": [52.0842635, 5.0000912],
     "endPos": [52.374337, 4.874676],
     "distance": 53.2,
@@ -117,10 +117,22 @@
     "elevationGain": 110,
     "weather": "⛅",
     "startPointName": "Utrecht",
+    "endPointName": "Lisse"
+  },
+  {
+    "date": "2024-04-13",
+    "startPos": [52.374337, 4.874676],
+    "endPos": [52.3702902, 5.6033113],
+    "distance": 55.9,
+    "time": "03h10",
+    "averageSpeed": 17.7,
+    "elevationGain": 70,
+    "weather": "⛅",
+    "startPointName": "Lisse",
     "endPointName": "Amsterdam"
   },
   {
-    "date": "2024-04-14",
+    "date": "2024-04-15",
     "startPos": [52.374337, 4.874676],
     "endPos": [52.3702902, 5.6033113],
     "distance": 55.9,
@@ -132,7 +144,7 @@
     "endPointName": "Zeewolde"
   },
   {
-    "date": "2024-04-15",
+    "date": "2024-04-16",
     "startPos": [52.3702902, 5.6033113],
     "endPos": [52.542926, 6.1635927],
     "distance": 55.3,
@@ -144,7 +156,7 @@
     "endPointName": "Zwolle"
   },
   {
-    "date": "2024-04-16",
+    "date": "2024-04-17",
     "startPos": [52.542926, 6.1635927],
     "endPos": [52.9632195, 6.4707884],
     "distance": 53.2,
@@ -156,7 +168,7 @@
     "endPointName": "Assen"
   },
   {
-    "date": "2024-04-17",
+    "date": "2024-04-18",
     "startPos": [52.9632195, 6.4707884],
     "endPos": [53.2154382, 6.8069561],
     "distance": 55.1,
@@ -168,7 +180,7 @@
     "endPointName": "Froombosch"
   },
   {
-    "date": "2024-04-18",
+    "date": "2024-04-19",
     "startPos": [53.2154382, 6.8069561],
     "endPos": [53.0476122, 7.401643],
     "distance": 54.4,
@@ -180,7 +192,7 @@
     "endPointName": "Aschendorfermoor"
   },
   {
-    "date": "2024-04-19",
+    "date": "2024-04-20",
     "startPos": [53.0476122, 7.401643],
     "endPos": [53.0565356, 7.8413568],
     "distance": 54.7,
@@ -192,7 +204,7 @@
     "endPointName": "Wardenburg"
   },
   {
-    "date": "2024-04-20",
+    "date": "2024-04-21",
     "startPos": [53.0565356, 7.8413568],
     "endPos": [53.1124594, 8.8192435],
     "distance": 53.6,
@@ -204,7 +216,7 @@
     "endPointName": "Brême"
   },
   {
-    "date": "2024-04-21",
+    "date": "2024-04-23",
     "startPos": [53.1124594, 8.8192435],
     "endPos": [53.3786153, 9.4486003],
     "distance": 52.2,
@@ -216,7 +228,7 @@
     "endPointName": "Ahlerstedt"
   },
   {
-    "date": "2024-04-22",
+    "date": "2024-04-24",
     "startPos": [53.3786153, 9.4486003],
     "endPos": [53.5585268, 9.5981885],
     "distance": 51.8,
@@ -228,7 +240,7 @@
     "endPointName": "Hambourg"
   },
   {
-    "date": "2024-04-23",
+    "date": "2024-04-25",
     "startPos": [53.5585268, 9.5981885],
     "endPos": [53.5585268, 9.5981885],
     "distance": 4.24,

@@ -50,11 +50,11 @@ L'histoire de ce voyage, c'est un long cheminement qui, bien que faisant sens, f
 
 Spécimen unique de Camargue doté de parole, Eduardo est un jeune flamant rose qui a décidé un beau jour de s'aventurer plus au Nord que ses congénères. Eduardo a beaucoup de facettes: il est beau gosse (selon ses parents), rêveur, farceur, gonflable et parfois même un peu gonflant ! C'est d'ailleurs à travers son oeil que notre voyage sera raconté. Et là on sent les sceptiques :
 
-_"Quoi mais un flamant rose en bouée qui parle ça n'existe pas !"_ Si si, bien sûr que si ! Il suffit pour celà de gonfler sa bouée à précisément **1,618033988749 bars**. Ça ne s'invente pas ! Mais faites le test chez vous et vous verrez 😉
+_"Quoi mais un flamant rose en bouée qui parle ça n'existe pas !"_ Si si, bien sûr que si ! Il suffit pour celà de gonfler sa bouée à précisément **1,618033988749 bars**. Ça ne s'invente pas ! Mais faites le test chez vous et vous verrez 😉.
 
-_"Tu es sûr que tu ne serais pas juste une excuse pour que Nana et Nico puissent se cacher derrière tes mots et trimballer une mascotte lors de leur voyage?"_ En voilà une bien drôle d'idée, vous avez décidément beaucoup d'imagination. 🤨
+_"Tu es sûr que tu ne serais pas juste une excuse pour que Nana et Nico puissent se cacher derrière tes mots et trimballer une mascotte lors de leur voyage?"_ En voilà une bien drôle d'idée, vous avez décidément beaucoup d'imagination 🤨.
 
-_"Mais ça veut dire que tu parles de toi à la 3eme personne depuis le début ? Ça va les chevilles ?"_ Ça va parfaitement, [voyez par vous-mêmes](https://www.slate.fr/story/146073/flamands-roses-stables-jambe) 🤓
+_"Mais ça veut dire que tu parles de toi à la 3eme personne depuis le début ? Ça va les chevilles ?"_ Ça va parfaitement, [voyez par vous-mêmes](https://www.slate.fr/story/146073/flamands-roses-stables-jambe) 🤓.
 
 | En quelques mots...        |                      |
 | -------------------------- | -------------------- |
