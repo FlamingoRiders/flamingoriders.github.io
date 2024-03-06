@@ -9,7 +9,8 @@ import "./src/style.css";
 // Highlighting for code blocks
 import "prismjs/themes/prism.css";
 
-exports.onServiceWorkerUpdateReady = () => {
+export const onServiceWorkerUpdateReady = () => {
+    console.log("something happening here");
   const answer = window.confirm(
     `Une nouvelle version est disponible ! ` +
       `Souhaitez-vous mettre à jour avec la nouvelle version ?`,
