@@ -6,6 +6,8 @@ description: "Aller c'est parti !"
 
 ![Café d'Eduardo](../eduardo.png)
 
+Test maj
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis ipsum tellus. Ut arcu augue, vestibulum eget nulla vel, ultrices ultrices ex. Aliquam fringilla rhoncus est, non tincidunt dolor auctor at. Fusce finibus eros ut tellus ornare, ac sodales eros pretium. Suspendisse euismod libero eros, et gravida nunc volutpat a. Morbi convallis eros vel leo porttitor, eu malesuada turpis elementum. Suspendisse ac felis a velit pellentesque posuere. Integer scelerisque feugiat venenatis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
 Nam eu aliquam enim. Mauris sit amet lectus efficitur, congue dolor ac, congue ante. Nunc egestas tempus magna in eleifend. Integer et leo pharetra, laoreet ante id, consectetur magna. Cras a ipsum cursus, volutpat mi suscipit, porta leo. Curabitur vel magna vel mi congue lacinia. In hac habitasse platea dictumst. Praesent laoreet tortor vitae magna porta, in placerat purus faucibus.
