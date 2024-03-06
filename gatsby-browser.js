@@ -10,7 +10,7 @@ import "./src/style.css";
 import "prismjs/themes/prism.css";
 
 export const onServiceWorkerUpdateReady = () => {
-    console.log("something happening here");
+  console.log("something happening here");
   const answer = window.confirm(
     `Une nouvelle version est disponible ! ` +
       `Souhaitez-vous mettre à jour avec la nouvelle version ?`,
@@ -19,4 +19,10 @@ export const onServiceWorkerUpdateReady = () => {
   if (answer === true) {
     window.location.reload();
   }
+};
+
+export const onRouteUpdate = () => {
+  navigator.serviceWorker.register("/sw.js").then((reg) => {
+    reg.update();
+  });
 };
