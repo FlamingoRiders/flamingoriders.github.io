@@ -4,6 +4,20 @@ date: "2024-02-28"
 description: "Toutes les informations sur la logistique de notre voyage : le choix des montures, le matériel de camping, les vêtements techniques et plus encore."
 ---
 
+Un point central de notre préparation est la gestion de notre équipement. Vaste sujet qu'il faut préparer en amont afin de ne pas être pris par surprise !
+
+On part pour une durée relativement importante de plusieurs mois. Du côté des vélos, il nous faut des montures qui tiennent la route et adaptés au voyage. On va cumuler les bornes et il nous faut des vélos qui soient confortables quel que soit les chemins traversés.
+
+Concernant les affaires à emporter, il nous faut prévoir pour toutes les conditions tout en embarquant le strict nécessaire. Une double contrainte pas si évidente à satisfaire.
+
+Tout ce qu’on a en trop, c’est du poids en trop. Même avertis, on a toujours pris trop dans nos expériences passées.
+
+> Ben tu déconnes c’est super easy le vélo chargé !
+
+<div style="width:100%;height:0;padding-bottom:56%;margin-bottom:2rem;position:relative;"><iframe src="https://giphy.com/embed/2XflxzFm1sop5YFtLP2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+Mais non, on parle de la charge **sur le vélo**, pas de la charge intraveineuse 🤭.
+
 ### Les vélos 🚲
 
 Nous aurons chacun le même vélo : un Genesis Croix De Fer 20 Rouge ! Avec simplement une différence au niveau de la taille de cadre : **XS** pour Nana et **LG** pour Nico.
@@ -21,6 +35,7 @@ Nous réflechissons également au fait de changer la selle pour quelque chose de
 | Sacoche Orlieb Back Roller 20L | 2 chacun      |
 | Ortlieb Rack-Pack 24L          | une chacun    |
 | Sacoche cadre Apidura 3L       | une pour Nana |
+| Sacoche Top Tube Apidura 1L    | une pour Nana |
 | Sacoche guidon Ortlieb 6.5L    | une pour Nico |
 
 ### Le matériel de camping 🏕️
@@ -35,22 +50,18 @@ Jusqu'à présent, ce matériel a largement su répondre à nos besoins. Nous l'
 
 > Si vous faites de l'alpinisme en hiver, prévoyez un peu plus ! 😉
 
-### Les vêtements 👕
+### Les vêtements spécifiques vélo 👕🩳
 
-Vaste sujet ! On part pour une durée relativement importante de plusieurs mois. Il nous faut prévoir pour toutes les conditions tout en embarquant le **strict nécessaire**.
-
-> Tout ce qu'on a en trop, c'est du poids en trop. Même en sachant cela, on a toujours pris trop dans nos expériences passées. Allons-nous faire mieux cette fois-ci ? 😉
-
-#### Les vêtements vélo
-
-Pour les cuissards, Nana a opté pour 2 cuissards courts et un long. Nico a choisi 2 cuissards courts et une paire de jambières pour les conditions froides. 
+Pour les cuissards, Nana a opté pour 2 cuissards courts et un long. Nico a choisi 2 cuissards courts et une paire de jambières pour les conditions froides.
 
 Avec le temps on a testé plusieurs cuissards dans notre pratique (Le Bram, Kiwami, Odlo, Decathlon...), mais on a 2 marques précises à recommander qui se détachent pour la qualité intrinséque et le confort de leur produits: [Gore Wear](https://www.gorewear.com/) et [Castelli](https://www.castelli-cycling.com/). On recommande d'essayer en magasin par exemple à l'excellent [bicycle store](https://www.bicyclestore.fr/) car c'est important de se rendre compte des sensations avant et les marques taillent différemment.
 
 Nous avons également chacun des surchaussures ainsi qu'un surpantalon en cas de pluie.
 
-#### Les vêtements techniques
+### Les vêtements techniques 👕
+
 Pour le haut du corps, nous n'avons pas opté pour des vêtements spécifiques vélo pour plusieurs raisons:
+
 - Lors de notre voyage, nous ne serons pas sur une pratique de cyclisme de route mais plutôt orientée rando / gravel.
 - Pour le haut du corps, les vêtements de cyclisme sont moins indispensables que ceux pour le bas. Dit autrement, on ne peut pas se permettre d'avoir de l'inconfort sur la selle mais on peut se permettre d'être moins aérodynamique.
 - Les vêtements doivent tenir plusieurs jours si on a pas moyen de les laver rapidement. Un cuissard humide ou légèrement mouillé peut être reporté d'un jour à l'autre car avec le pédalage, on aura pas forcément froid. On ne peut pas en dire autant d'un haut humide qui ne va pas sécher en route et peut devenir extrêmement désagréable en cas de vent.
@@ -69,9 +80,8 @@ Les sites de [Salomon](https://www.salomon.com/fr-fr/running/trail-running-advic
 En résumé, pour ceux qui comme nous aiment voir les choses de manière imagée :
 | Couche | Apport | Contre |
 |--------|--------|----------|
-| 1      |   Respirabilité 🌬️   |  la sueur 🥵        |
-| 2      |   Chaleur ♨️    |   le froid 🥶       |
-| 3      |  Protection 👮      |   le vent 💨 et les intempéries 🌧️       |
-
+| 1 | Respirabilité 🌬️ | la transpiration 🥵 |
+| 2 | Chaleur ♨️ | le froid 🥶 |
+| 3 | Protection 👮 | le vent 💨 et les intempéries 🌧️ |
 
 ### Les indispensables 🧰
