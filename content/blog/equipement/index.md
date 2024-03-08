@@ -12,7 +12,7 @@ Concernant les affaires à emporter, il nous faut prévoir pour toutes les condi
 
 Tout ce qu’on a en trop, c’est du poids en trop. Même avertis, on a toujours pris trop dans nos expériences passées.
 
-> Ben tu déconnes c’est super easy le vélo chargé !
+> "Ben tu déconnes c’est super easy le vélo chargé !"
 
 <div style="width:100%;height:0;padding-bottom:56%;margin-bottom:2rem;position:relative;"><iframe src="https://giphy.com/embed/2XflxzFm1sop5YFtLP2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
@@ -28,6 +28,8 @@ Nana a en plus installé une [paire de freins supplémentaire](https://www.xlc-p
 
 Nous réflechissons également au fait de changer la selle pour quelque chose de plus confortable, sans doute une selle de chez Brooks, la [Brooks Cambium C17 Carved All Weather](https://www.brooksengland.com/en_eu/c17-carved.html).
 
+Nous souhaitons addresser une mention spéciale aux [magasins Cyclable](https://www.cyclable.com/) pour tous leurs précieux conseils. A chaque fois que nous y avons mis les pieds (prise de renseignement, devis, matériel complémentaire, révision), nous y avons passé plus d'une heure à échanger autour de notre projet. Ils nous auront expliqué les différences fondamentales entre les produits et gammes. Ce sont de véritables connaisseurs qui font preuve de passion pour le vélo et sont pragmatiques dans leur approche, ils vous recommandent des choses utiles et déconseillent le superflu. Nous avons fait 3 magasins différents de la chaîne, à chaque fois l'impression était la même.
+
 ### La bagagerie 🧳
 
 | Bagage                         |               |
@@ -38,23 +40,32 @@ Nous réflechissons également au fait de changer la selle pour quelque chose de
 | Sacoche Top Tube Apidura 1L    | une pour Nana |
 | Sacoche guidon Ortlieb 6.5L    | une pour Nico |
 
+![la bagagerie](bagagerie.jpeg)
+
 ### Le matériel de camping 🏕️
 
 Pour le camping, nous avons largement capitalisé sur le matériel que nous utilisions déjà lors de nos randonnées en itinérance à savoir:
 
 - une tente [Ferrino Nemesi 2](https://www.snowleader.com/nemesi-2-FERR00005.html).
 - des sacs de couchage [Valandré](https://fr.valandre.com/) avec une température de confort de 0°C.
-- des matelas gonflable Exped avec une R-Value de 3.4.
+- des matelas gonflable [Exped](https://www.snowleader.com/synmat-lite-5-m-EXPE00088.html) avec une R-Value de 3.4.
 
-Jusqu'à présent, ce matériel a largement su répondre à nos besoins. Nous l'utilisions sur environ une semaine, en altitude et surtout en été. C'est suffisant pour un usage 3 saisons. On peut prendre plus haut de gamme pour avoir plus léger / plus confort / plus chaud mais nous pensons avoir un bon compromis.
+Jusqu'à présent, ce matériel a largement su répondre à nos besoins. Nous l'utilisions sur environ une semaine, en altitude et surtout en été. C'est suffisant pour un usage 3 saisons. On peut prendre plus haut de gamme pour avoir plus léger / plus confort / plus chaud mais nous pensons avoir un bon compromis.nSi vous faites de l'alpinisme en hiver, prévoyez un peu plus ! 😉
 
-> Si vous faites de l'alpinisme en hiver, prévoyez un peu plus ! 😉
+Comme nous partons pour une plus longue durée qu'auparavant, nous nous sommes décidés à prendre également :
 
-### Les vêtements spécifiques vélo 👕🩳
+- des [sacs à viande](https://www.aventurenordique.com/cocoon-thermolite-performer-travel-sheet-mummy-liner.html) pour protéger nos sacs de couchage
+- des oreillers pour un peu plus de confort, un [Sea To Summit](https://seatosummit.fr/fr/ultralight/565-445-oreiller-aero-ultralight-regular.html) et un [Exped](https://www.exped.com/fr/produits/oreillers/ultra-pillow). On avait tendance à faire une pile de vêtements sous nos têtes mais pour être honnête cela ne marchait pas top 😅.
+
+Le meilleur atout pour passer de bonnes nuits reste d'avoir des journées bien remplies.
+
+> "Tu dors bien, tu rêves bien"
+
+### Les vêtements spécifiques vélo 🩳
 
 Pour les cuissards, Nana a opté pour 2 cuissards courts et un long. Nico a choisi 2 cuissards courts et une paire de jambières pour les conditions froides.
 
-Avec le temps on a testé plusieurs cuissards dans notre pratique (Le Bram, Kiwami, Odlo, Decathlon...), mais on a 2 marques précises à recommander qui se détachent pour la qualité intrinséque et le confort de leur produits: [Gore Wear](https://www.gorewear.com/) et [Castelli](https://www.castelli-cycling.com/). On recommande d'essayer en magasin par exemple à l'excellent [bicycle store](https://www.bicyclestore.fr/) car c'est important de se rendre compte des sensations avant et les marques taillent différemment.
+Avec le temps on a testé plusieurs cuissards dans notre pratique (Le Bram, Kiwami, Odlo, Decathlon...), mais on a 2 marques précises à recommander qui se détachent pour la qualité intrinséque et le confort de leur produits: [Gore Wear](https://www.gorewear.com/) et [Castelli](https://www.castelli-cycling.com/). On recommande d'essayer en magasin par exemple à l'excellent [Bicycle store](https://www.bicyclestore.fr/) car c'est important de se rendre compte des sensations avant et les marques taillent différemment.
 
 Nous avons également chacun des surchaussures ainsi qu'un surpantalon en cas de pluie.
 
@@ -85,3 +96,12 @@ En résumé, pour ceux qui comme nous aiment voir les choses de manière imagée
 | 3 | Protection 👮 | le vent 💨 et les intempéries 🌧️ |
 
 ### Les indispensables 🧰
+
+Dans cette catégorie, on retrouve notamment du matériel pour :
+
+- **Cuisine** : cooking set (casserole + pince + couverts), réchaud, cartouches gaz, couteau suisse, Opinel.
+- **Linge** : [lessive en feuilles](https://www.dr-beckmann.fr/nos-produits/detail/feuilles-magiques-lessive-en-feuilles-lessentielle/), pinces et [corde](https://seatosummit.com/products/lite-line-clothesline) à linge.
+- **Autonomie** : powerbanks 20 000 maH, une gourde filtrante 1L pour pouvoir boire peu importe la qualité de l'eau (filtre bactérien suffisant pour nous), couvertures de survie, frontales etc.
+- **Pharmacie** : compeed, médicaments, tire-tiques etc.
+- **Réparation vélo** : chambres à air, attache-rapide, démonte-pneus, tournevis, dérive-chaîne etc.
+- **Entretien vélo** : pompe, lubrifiant, dégraissant.
