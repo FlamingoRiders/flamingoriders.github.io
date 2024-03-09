@@ -18,32 +18,32 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="site__header">
+      <header className="header">
         <Link
-          className="site__link"
+          className="header__link"
           to="/qui-sommes-nous"
-          activeClassName="site__link--active"
+          activeClassName="header__link--active"
         >
           Qui sommes-nous ?
         </Link>
         <Link
-          className="site__link"
+          className="header__link"
           to="/"
-          activeClassName="site__link--active"
+          activeClassName="header__link--active"
         >
           Le récit
         </Link>
         <Link
-          className="site__link"
+          className="header__link"
           to="/maps"
-          activeClassName="site__link--active"
+          activeClassName="header__link--active"
         >
           La carte
         </Link>
         <Link
-          className="site__link"
+          className="header__link"
           to="/stats"
-          activeClassName="site__link--active"
+          activeClassName="header__link--active"
         >
           Les stats
         </Link>

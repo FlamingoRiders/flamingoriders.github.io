@@ -1,0 +1,17 @@
+/* Mobile and desktop displays */
+.d-mobile {
+  display: none;
+}
+
+.d-desktop {
+  display: inline;
+}
+
+@media (max-width: 36rem) {
+  .d-desktop {
+    display: none;
+  }
+  .d-mobile {
+    display: inline;
+  }
+}

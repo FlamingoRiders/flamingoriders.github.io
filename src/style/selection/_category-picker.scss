@@ -1,0 +1,61 @@
+$category-picker-color: #071a39;
+$category-picker-focus-color: #395179;
+$category-picker-disabled-color: #0d2f66;
+
+$category-picker-border: solid 1px $category-picker-color;
+$category-picker-focus-border: solid 1px $category-picker-focus-color;
+$category-picker-disabled-border: solid 1px $category-picker-disabled-color;
+$category-picker-active-color: $category-picker-color;
+
+.category-picker {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  /* Style the buttons that are used to open the tab content */
+  &__item {
+    flex-basis: 70px;
+    margin: 4px;
+    font-size: 1rem;
+    text-align: center;
+    text-transform: lowercase;
+    cursor: pointer;
+
+    -webkit-tap-highlight-color: transparent;
+
+    &:first-letter {
+      text-transform: uppercase;
+    }
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    border-radius: 10px;
+
+    background-color: var(--color-white);
+    border: $category-picker-border;
+
+    &:hover {
+      background-color: $category-picker-focus-color;
+      color: var(--color-white);
+      border: $category-picker-focus-border;
+    }
+
+    &:focus {
+      outline: none;
+    }
+
+    &:active {
+      background-color: $category-picker-color;
+      color: var(--color-white);
+    }
+
+    &--selected {
+      background-color: $category-picker-focus-color;
+      color: var(--color-white);
+      border: $category-picker-border;
+    }
+  }
+}

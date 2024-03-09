@@ -214,15 +214,56 @@ blockquote > ol {
   list-style-position: inside;
 }
 
+/* Table */
 table {
-  width: 100%;
-  margin-bottom: var(--spacing-8);
   border-collapse: collapse;
-  border-spacing: 0.25rem;
+  overflow: hidden;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: var(--spacing-4) 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+  table-layout: fixed;
+  width: 100%;
+  margin-bottom: var(--spacing-4);
 }
 
-table thead tr th {
-  border-bottom: 1px solid var(--color-accent);
+table thead tr {
+  background-color: var(--color-primary);
+  color: #ffffff;
+  text-align: left;
+}
+
+th,
+td {
+  padding: var(--spacing-3) var(--spacing-4);
+  text-align: center;
+}
+
+tbody tr {
+  border-bottom: thin solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: var(--color-accent);
+}
+
+tbody tr:last-of-type {
+  border-bottom: 2px solid var(--color-primary);
+}
+
+tbody tr:hover {
+  font-weight: bold;
+  color: #009879;
+}
+
+caption {
+  caption-side: bottom;
+  padding: var(--spacing-2);
+  font-family: var(--font-heading);
+  font-size: var(--fontSize-2);
 }
 
 /* Link */
@@ -231,6 +272,53 @@ a {
   color: var(--color-primary);
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
+}
+
+/* Progress */
+progress {
+  accent-color: var(--color-primary);
+}
+
+/* Details and summary */
+details {
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+details > summary span.collapsible__icon {
+  width: 24px;
+  height: 24px;
+  transition: all 0.3s;
+}
+
+details[open] summary span.collapsible__icon {
+  transform: translate(2px) rotate(90deg);
+}
+
+details summary span.collapsible__label {
+  margin-left: 8px;
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.3s linear;
+}
+
+details[open] summary span.collapsible__label {
+  visibility: hidden;
+  opacity: 0;
+  transition:
+    visibility 0s 0.3s,
+    opacity 0.3s linear;
+}
+
+summary {
+  display: flex;
+  cursor: pointer;
+  font-family: var(--font-heading);
+  font-size: var(--fontSize-2);
+}
+
+summary::-webkit-details-marker {
+  display: none;
 }
 
 /* Custom classes */

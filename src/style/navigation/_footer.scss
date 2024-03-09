@@ -1,0 +1,16 @@
+.footer {
+  padding-top: var(--spacing-6);
+
+  &__line {
+    display: flex;
+    justify-content: space-between;
+
+    .right-align {
+      align-items: right;
+    }
+  }
+
+  &__line + &__line {
+    padding-top: var(--spacing-6);
+  }
+}
