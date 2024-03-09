@@ -28,6 +28,6 @@ D'**Oslo**, nous rejoignerons **Bergen** puis nous remonterons la côte ouest no
 
 ### 5. De Tromsø à Stockholm
 
-**Tromsø** signera pour nous le point le plus au Nord de notre périple. Un temps envisagé au Cap Nord, on s'est finalement détourné de cet objectif. Après plusieurs semaines en Norvège, on s'est dit qu'on aurait vu les principaux coins qui nous tenaient à coeur. Même si le symbole d'atteindre le Cap Nord aurait été fort, cela ne nous semblait pas indispensable au vu de ce que nous aurions vu auparavant.
+**Tromsø** signera pour nous le point le plus au nord de notre périple. Un temps envisagé au **Cap Nord**, on s'est finalement détourné de cet objectif. Après plusieurs semaines en Norvège, on s'est dit qu'on aurait vu les principaux coins qui nous tenaient à coeur. Même si le symbole d'atteindre le **Cap Nord** aurait été fort, cela ne nous semblait pas indispensable au vu de ce que nous aurions vu auparavant.
 
 Nous avons ciblé de passer par le [cairn des trois royaumes](https://www.google.com/maps/place/Three-Country+Cairn/@69.059975,20.5460683,17z/data=!3m1!4b1!4m6!3m5!1s0x45daaf01c162519d:0x7ab0b5844f057763!8m2!3d69.0599731!4d20.5486432!16zL20vMGJ3bW0z?entry=ttu), un tripoint où se touche la Norvège, la Finlande et la Suède. Ensuite, nous descendrons le long de la frontière finlandaise et rejoignerons **Rovaniemi**. Puis, nous passerons du temps en Suède avant d'atteindre notre destination finale: **Stockholm** !

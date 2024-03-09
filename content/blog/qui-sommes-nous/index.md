@@ -12,13 +12,13 @@ Jeunes trentenaires en quête d'aventures, nous nous sommes lancés dans un proj
 
 Grande rêveuse dans l'âme, je regarde encore le monde à travers mes
 yeux d'enfant. Toujours partante pour partir à l'aventure, pour
-relever des défis encore toujours plus fous ou tout simplement
-découvrir des merveilles culinaires (**#BouffeIsLife** you know).
+relever des défis toujours plus fous ou tout simplement
+découvrir des merveilles culinaires.
 
 A travers ce voyage, je souhaite réaliser un rêve en accord avec mes
 convictions : partage, plaisir, dépassement de soi, fous-rires,
 respecteuse de l'environnement. Bref, vous l'aurez compris, je suis
-une bisounours (**#MêmeTailleMêmeBoule**).
+une bisounours.
 
 A présent, place à l'inconnu ! Comme on dit chez nous _“La route fait partie du voyage”_; et je compte donc bien en profiter! On ne vit qu'une fois **#LaVidaLoca**.
 
@@ -89,6 +89,8 @@ Ici, pas de fil d'actualité sans fin, pas de notifications intempestives, pas d
 
 ### Comment utiliser ce site ?
 
+Nous avons prévu d'enrichir le contenu de ce site quotidiennement. Pour nous suivre, rien de plus simple, 3 sections :
+
 - [le récit](https://flamingoriders.github.io) de notre périple.
-- [la carte interactive](https://flamingoriders.github.io/maps) pour nous suivre et voir notre trajet sur chaque étape et depuis le début.
-- [les stats](https://flamingoriders.github.io/stats) pour une idée plus concrète de nos journées vélos.
+- [la carte interactive](https://flamingoriders.github.io/maps) pour voir notre trajet sur chaque étape et depuis le début.
+- [les stats](https://flamingoriders.github.io/stats) pour une idée plus concrète de nos journées à vélo.

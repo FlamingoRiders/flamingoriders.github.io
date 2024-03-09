@@ -20,7 +20,7 @@ Mais non, on parle de la charge **sur le vélo**, pas de la charge intraveineuse
 
 ### Les vélos 🚲
 
-Nous aurons chacun le même vélo : un Genesis Croix De Fer 20 Rouge ! Avec simplement une différence au niveau de la taille de cadre : **XS** pour Nana et **LG** pour Nico.
+Nous aurons chacun le même vélo : un [Genesis Croix De Fer 20 rouge](https://www.genesisbikes.co.uk/genesis-croix-de-fer-20-vargn21040) ! Avec simplement une différence au niveau de la taille de cadre : **XS** pour Nana et **LG** pour Nico.
 
 Nous avons opté pour de légères modifications, l'installation d'un [porte-bagages arrière 28" Racktime Eco 2.0 Tour](https://www.cyclable.com/16631-porte-bagages-velo-arriere-racktime-eco-20-tour.html#/diametre_de_roue-28_pouces) pouvant supporter jusqu'à 25 kg. Nous avons également changé les pneus pour avoir des pneus moins sculptés VTT et plus axés route et chemin, avec un renforcement spécifique pour la longue distance.
 
@@ -50,11 +50,11 @@ Pour le camping, nous avons largement capitalisé sur le matériel que nous util
 - des sacs de couchage [Valandré](https://fr.valandre.com/) avec une température de confort de 0°C.
 - des matelas gonflable [Exped](https://www.snowleader.com/synmat-lite-5-m-EXPE00088.html) avec une R-Value de 3.4.
 
-Jusqu'à présent, ce matériel a largement su répondre à nos besoins. Nous l'utilisions sur environ une semaine, en altitude et surtout en été. C'est suffisant pour un usage 3 saisons. On peut prendre plus haut de gamme pour avoir plus léger / plus confort / plus chaud mais nous pensons avoir un bon compromis.nSi vous faites de l'alpinisme en hiver, prévoyez un peu plus ! 😉
+Jusqu'à présent, ce matériel a largement su répondre à nos besoins. Nous l'utilisions sur environ une semaine, en altitude et surtout en été. C'est suffisant pour un usage 3 saisons. On peut prendre plus haut de gamme pour avoir plus léger / plus confort / plus chaud mais nous pensons avoir un bon compromis. Si vous faites de l'alpinisme en hiver, prévoyez un peu plus ! 😉
 
 Comme nous partons pour une plus longue durée qu'auparavant, nous nous sommes décidés à prendre également :
 
-- des [sacs à viande](https://www.aventurenordique.com/cocoon-thermolite-performer-travel-sheet-mummy-liner.html) pour protéger nos sacs de couchage
+- des [sacs à viande](https://www.aventurenordique.com/cocoon-thermolite-performer-travel-sheet-mummy-liner.html) pour protéger nos sacs de couchage.
 - des oreillers pour un peu plus de confort, un [Sea To Summit](https://seatosummit.fr/fr/ultralight/565-445-oreiller-aero-ultralight-regular.html) et un [Exped](https://www.exped.com/fr/produits/oreillers/ultra-pillow). On avait tendance à faire une pile de vêtements sous nos têtes mais pour être honnête cela ne marchait pas top 😅.
 
 Le meilleur atout pour passer de bonnes nuits reste d'avoir des journées bien remplies.
@@ -91,9 +91,9 @@ Les sites de [Salomon](https://www.salomon.com/fr-fr/running/trail-running-advic
 En résumé, pour ceux qui comme nous aiment voir les choses de manière imagée :
 | Couche | Apport | Contre |
 |--------|--------|----------|
-| 1 | Respirabilité 🌬️ | la transpiration 🥵 |
-| 2 | Chaleur ♨️ | le froid 🥶 |
-| 3 | Protection 👮 | le vent 💨 et les intempéries 🌧️ |
+| 1️⃣ | Respirabilité 🌬️ | La transpiration 🥵 |
+| 2️⃣ | Chaleur ♨️ | Le froid 🥶 |
+| 3️⃣ | Protection 👮 | Les intempéries 🌧️💨 |
 
 ### Les indispensables 🧰
 
@@ -101,7 +101,7 @@ Dans cette catégorie, on retrouve notamment du matériel pour :
 
 - **Cuisine** : cooking set (casserole + pince + couverts), réchaud, cartouches gaz, couteau suisse, Opinel.
 - **Linge** : [lessive en feuilles](https://www.dr-beckmann.fr/nos-produits/detail/feuilles-magiques-lessive-en-feuilles-lessentielle/), pinces et [corde](https://seatosummit.com/products/lite-line-clothesline) à linge.
-- **Autonomie** : powerbanks 20 000 maH, une gourde filtrante 1L pour pouvoir boire peu importe la qualité de l'eau (filtre bactérien suffisant pour nous), couvertures de survie, frontales etc.
+- **Autonomie** : powerbanks 20 000 maH, une gourde filtrante d'un litre pour pouvoir boire peu importe la qualité de l'eau (filtre bactérien suffisant pour nous), couvertures de survie, frontales etc.
 - **Pharmacie** : compeed, médicaments, tire-tiques etc.
 - **Réparation vélo** : chambres à air, attache-rapide, démonte-pneus, tournevis, dérive-chaîne etc.
 - **Entretien vélo** : pompe, lubrifiant, dégraissant.
