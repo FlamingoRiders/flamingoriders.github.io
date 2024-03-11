@@ -48,6 +48,8 @@ L'histoire de ce voyage, c'est un long cheminement qui, bien que faisant sens, f
 
 ### Eduardo 🦩
 
+![Eduardo](eduardo_bio.jpeg)
+
 Spécimen unique de Camargue doté de parole, Eduardo est un jeune flamant rose qui a décidé un beau jour de s'aventurer plus au Nord que ses congénères. Eduardo a beaucoup de facettes: il est beau gosse (selon ses parents), rêveur, farceur, gonflable et parfois même un peu gonflant ! C'est d'ailleurs à travers son oeil que notre voyage sera raconté. Et là on sent les sceptiques :
 
 _"Quoi mais un flamant rose en bouée qui parle ça n'existe pas !"_ Si si, bien sûr que si ! Il suffit pour celà de gonfler sa bouée à précisément **1,618033988749 bars**. Ça ne s'invente pas ! Mais faites le test chez vous et vous verrez 😉.
@@ -94,3 +96,6 @@ Nous avons prévu d'enrichir le contenu de ce site quotidiennement. Pour nous su
 - [le récit](https://flamingoriders.github.io) de notre périple.
 - [la carte interactive](https://flamingoriders.github.io/maps) pour voir notre trajet sur chaque étape et depuis le début.
 - [les stats](https://flamingoriders.github.io/stats) pour une idée plus concrète de nos journées à vélo.
+
+A très vite !
+![photo de famille](famille.jpeg)

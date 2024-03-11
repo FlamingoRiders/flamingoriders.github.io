@@ -59,7 +59,7 @@ Comme nous partons pour une plus longue durée qu'auparavant, nous nous sommes d
 
 Le meilleur atout pour passer de bonnes nuits reste d'avoir des journées bien remplies.
 
-> "Tu dors bien, tu rêves bien"
+> "Tu dors bien, tu réveilles bien"
 
 ### Les vêtements spécifiques vélo 🩳
 
