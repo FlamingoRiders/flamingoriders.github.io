@@ -260,7 +260,7 @@ tbody tr:hover {
 }
 
 caption {
-  caption-side: bottom;
+  caption-side: top;
   padding: var(--spacing-2);
   font-family: var(--font-heading);
   font-size: var(--fontSize-2);
