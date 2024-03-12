@@ -65,7 +65,6 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           selectedIndex={selectedCategoryIndex}
         />
 
-        <h3>{categories[selectedCategoryIndex]}</h3>
         {selectedMonthStat ? (
           <>
             <Summary
