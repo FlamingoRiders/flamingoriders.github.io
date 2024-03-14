@@ -8,8 +8,9 @@ const Social: React.FC = () => {
       site {
         siteMetadata {
           social {
-            github
+            polarsteps
             strava
+            github
           }
         }
       }
@@ -22,19 +23,20 @@ const Social: React.FC = () => {
     <div>
       Retrouvez-nous ici:
       <a
-        href={`https://github.com/${social?.github || ``}`}
+        href={`https://www.polarsteps.com/${social?.polarsteps || ``}`}
         className="social-logo"
       >
         <StaticImage
           layout="fixed"
           formats={["auto", "webp", "avif"]}
-          src="../../images/github-logo.png"
+          src="../../images/polarsteps-logo.png"
           width={32}
           height={32}
           quality={95}
-          alt="Github profile"
+          alt="Polarteps page"
         />
       </a>
+      
       <a
         href={`https://www.strava.com/athletes/${social?.strava || ``}`}
         className="social-logo"
@@ -47,6 +49,20 @@ const Social: React.FC = () => {
           height={32}
           quality={95}
           alt="Strava profile"
+        />
+      </a>
+      <a
+        href={`https://github.com/${social?.github || ``}`}
+        className="social-logo"
+      >
+        <StaticImage
+          layout="fixed"
+          formats={["auto", "webp", "avif"]}
+          src="../../images/github-logo.png"
+          width={32}
+          height={32}
+          quality={95}
+          alt="Github profile"
         />
       </a>
     </div>

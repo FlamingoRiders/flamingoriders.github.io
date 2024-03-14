@@ -12,8 +12,9 @@ const config: GatsbyConfig = {
     description: `Blog de voyage des Flamingo Riders`,
     siteUrl: `https://flamingoriders.github.io/`,
     social: {
-      github: `flamingoriders`,
+      polarsteps: `FlamingoRiders`,
       strava: `ngriere`,
+      github: `flamingoriders`,
     },
     image: `/site-icon.png`,
   },

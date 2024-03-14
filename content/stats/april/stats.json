@@ -252,30 +252,6 @@
     "endPointName": "Hambourg"
   },
   {
-    "date": "2024-04-24",
-    "startPos": [53.5585268, 9.5981885],
-    "endPos": [53.5585268, 9.5981885],
-    "distance": 19.21,
-    "time": "01h16",
-    "averageSpeed": 10.09,
-    "elevationGain": 3,
-    "weather": "⛅",
-    "startPointName": "Hambourg",
-    "endPointName": "Hambourg"
-  },
-  {
-    "date": "2024-04-25",
-    "startPos": [53.5585268, 9.5981885],
-    "endPos": [53.5585268, 9.5981885],
-    "distance": 1.02,
-    "time": "01h54",
-    "averageSpeed": 10.95,
-    "elevationGain": 15,
-    "weather": "⛅",
-    "startPointName": "Hambourg",
-    "endPointName": "Hambourg"
-  },
-  {
     "date": "2024-04-26",
     "startPos": [53.5585268, 9.5981885],
     "endPos": [53.5585268, 9.5981885],

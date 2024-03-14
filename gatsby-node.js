@@ -95,8 +95,9 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Social {
-      github: String
+      polarsteps: String
       strava: String
+      github: String
     }
 
     type MarkdownRemark implements Node {
