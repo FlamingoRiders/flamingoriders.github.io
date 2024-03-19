@@ -60,6 +60,13 @@ const Navbar: React.FC = () => {
           <Link className="navbar-item" to="/stats" activeClassName="is-active">
             Les stats
           </Link>
+          <Link
+            className="navbar-item"
+            to="/photos"
+            activeClassName="is-active"
+          >
+            Les photos
+          </Link>
           <div className="navbar-item has-dropdown is-hoverable">
             <Link className="navbar-link" to="/trace">
               La préparation
@@ -78,7 +85,7 @@ const Navbar: React.FC = () => {
                 to="/equipement"
                 activeClassName="is-active"
               >
-                L'équipement
+                Notre équipement
               </Link>
             </div>
           </div>

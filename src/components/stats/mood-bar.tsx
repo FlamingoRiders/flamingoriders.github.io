@@ -15,7 +15,12 @@ const MoodBar: React.FC<MoodBarProps> = ({ mood }) => {
         <span>😃</span>
         <span>😍</span>
       </div>
-      <progress id="mood-bar" max="5" value={mood}>
+      <progress
+        id="mood-bar"
+        className="progress is-primary is-small my-2"
+        max="5"
+        value={mood}
+      >
         {`${mood}/5`}
       </progress>
     </>

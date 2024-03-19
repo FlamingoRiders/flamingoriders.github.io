@@ -78,7 +78,7 @@ Pour le haut du corps, nous n'avons pas opté pour des vêtements spécifiques v
 - Les vêtements doivent tenir plusieurs jours si on a pas moyen de les laver rapidement. Un cuissard humide ou légèrement mouillé peut être reporté d'un jour à l'autre car avec le pédalage, on aura pas forcément froid. On ne peut pas en dire autant d'un haut humide qui ne va pas sécher en route et peut devenir extrêmement désagréable en cas de vent.
 - On se laisse également l'option de pouvoir porter nos vêtements pour d'autres activités comme les visites, la rando en montagne ou bien le soir par temps plus frais.
 
-La règle de base pour les vêtements techniques tenues d'activité c'est de respecter le **principe des 3 couches**:
+La règle de base pour les vêtements techniques c'est de respecter le **principe des 3 couches**:
 
 La **première couche** nous apporte de la **respirabilité**. C'est elle qui nous permet **d'évacuer la transpiration**. Elle ne doit jamais être mouillée ou humide. On privilégie des matières synthétiques ou de la laine mérinos.
 

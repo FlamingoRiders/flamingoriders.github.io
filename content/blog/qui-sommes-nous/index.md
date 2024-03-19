@@ -4,11 +4,13 @@ date: "2024-02-18"
 description: "Une présentation rapide de notre parcours et de ce projet !"
 ---
 
-Jeunes trentenaires en quête d'aventures, nous nous sommes lancés dans un projet de voyage à vélo vers l'Europe du Nord. Le but initial est de rallier la Norvège en partant de Paris. C'est aussi et surtout un moyen de nous pousser à la découverte, à nous recentrer sur nous-mêmes et le présent. Nous espérons ainsi aller voir au delà de nos frontières physiques et dépasser nos barrières mentales.
-
 ![Flamingo Riders](velos.jpg)
 
+Jeunes trentenaires en quête d'aventures, nous nous sommes lancés dans un projet de voyage à vélo vers l'Europe du Nord. Le but initial est de rallier la Norvège en partant de Paris. C'est aussi et surtout un moyen de nous pousser à la découverte, à nous recentrer sur nous-mêmes et le présent. Nous espérons ainsi aller voir au delà de nos frontières physiques et dépasser nos barrières mentales.
+
 ### Nana 🚴‍♀️
+
+![Nana](nana_bio.jpg)
 
 Grande rêveuse dans l'âme, je regarde encore le monde à travers mes
 yeux d'enfant. Toujours partante pour partir à l'aventure, pour
@@ -32,6 +34,8 @@ A présent, place à l'inconnu ! Comme on dit chez nous _“La route fait partie
 | Ma citation favorite       | _"On est pas venu pour se faire des potes"_ |
 
 ### Nico 🚴
+
+![Nico](nico_bio.jpg)
 
 Passionné et curieux de nombreux domaines, j'aime ce qui commence par une page blanche et où tout est à constuire. À mon sens, l'épanouissement personnel ne vient pas de nos accomplissements mais plutôt de l'intensité de ce que nous vivons et la pleine conscience du chemin parcouru. C'est en parti ce qui me motive dans ce projet de vélo.
 

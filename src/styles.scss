@@ -3,12 +3,21 @@
 @import "style/navigation/footer";
 @import "style/selection/category-picker";
 
+// Define bulma override variables
+$primary: #005b99;
+$tabs-boxed-link-active-background-color: $primary;
+$tabs-toggle-link-active-background-color: $primary;
+
 // Import only what you need from Bulma
 @import "../node_modules/bulma/sass/utilities/_all.sass";
+@import "../node_modules/bulma/sass/helpers/spacing.sass";
+@import "../node_modules/bulma/sass/helpers/other.sass";
 @import "../node_modules/bulma/sass/components/navbar.sass";
 @import "../node_modules/bulma/sass/components/tabs.sass";
+@import "../node_modules/bulma/sass/elements/button.sass";
+@import "../node_modules/bulma/sass/elements/progress.sass";
 
 // Override unwanted bulma styles
 .navbar-item img {
-    max-height: fit-content;
+  max-height: fit-content;
 }

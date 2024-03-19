@@ -275,11 +275,6 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 
-/* Progress */
-progress {
-  accent-color: var(--color-primary);
-}
-
 /* Details and summary */
 details {
   user-select: none;
