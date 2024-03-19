@@ -7,6 +7,7 @@
     "time": "04h09",
     "averageSpeed": 16.1,
     "elevationGain": 530,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Meaux",
     "endPointName": "Compiègne"
@@ -19,6 +20,7 @@
     "time": "03h45",
     "averageSpeed": 16.1,
     "elevationGain": 150,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Compiègne",
     "endPointName": "La Fère"
@@ -31,6 +33,7 @@
     "time": "04h29",
     "averageSpeed": 15.8,
     "elevationGain": 350,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "La Fère",
     "endPointName": "Étréaupont"
@@ -43,6 +46,7 @@
     "time": "03h58",
     "averageSpeed": 15.9,
     "elevationGain": 490,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Étréaupont",
     "endPointName": "Lac du Val Joly"
@@ -55,6 +59,7 @@
     "time": "03h44",
     "averageSpeed": 16,
     "elevationGain": 310,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Lac du Val Joly",
     "endPointName": "Binche"
@@ -67,6 +72,7 @@
     "time": "03h41",
     "averageSpeed": 17.2,
     "elevationGain": 300,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Binche",
     "endPointName": "Bruxelles"
@@ -79,6 +85,7 @@
     "time": "04h09",
     "averageSpeed": 17.1,
     "elevationGain": 240,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Bruxelles",
     "endPointName": "Stabroek"
@@ -91,6 +98,7 @@
     "time": "03h50",
     "averageSpeed": 17.5,
     "elevationGain": 110,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Stabroek",
     "endPointName": "Dordrecht"
@@ -103,6 +111,7 @@
     "time": "03h28",
     "averageSpeed": 17.5,
     "elevationGain": 100,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Dordrecht",
     "endPointName": "Utrecht"
@@ -115,6 +124,7 @@
     "time": "03h09",
     "averageSpeed": 16.9,
     "elevationGain": 110,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Utrecht",
     "endPointName": "Lisse"
@@ -127,6 +137,7 @@
     "time": "03h10",
     "averageSpeed": 17.7,
     "elevationGain": 70,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Lisse",
     "endPointName": "Amsterdam"
@@ -139,6 +150,7 @@
     "time": "03h10",
     "averageSpeed": 17.7,
     "elevationGain": 70,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Amsterdam",
     "endPointName": "Zeewolde"
@@ -151,6 +163,7 @@
     "time": "03h10",
     "averageSpeed": 17.5,
     "elevationGain": 90,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Zeewolde",
     "endPointName": "Zwolle"
@@ -163,6 +176,7 @@
     "time": "03h10",
     "averageSpeed": 16.8,
     "elevationGain": 60,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Zwolle",
     "endPointName": "Assen"
@@ -175,6 +189,7 @@
     "time": "03h11",
     "averageSpeed": 17.3,
     "elevationGain": 90,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Assen",
     "endPointName": "Froombosch"
@@ -187,6 +202,7 @@
     "time": "03h10",
     "averageSpeed": 17.2,
     "elevationGain": 70,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Froombosch",
     "endPointName": "Aschendorfermoor"
@@ -199,6 +215,7 @@
     "time": "03h10",
     "averageSpeed": 17.3,
     "elevationGain": 90,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Aschendorfermoor",
     "endPointName": "Wardenburg"
@@ -211,6 +228,7 @@
     "time": "03h11",
     "averageSpeed": 16.8,
     "elevationGain": 150,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Wardenburg",
     "endPointName": "Brême"
@@ -223,6 +241,7 @@
     "time": "03h13",
     "averageSpeed": 16.3,
     "elevationGain": 190,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Brême",
     "endPointName": "Ahlerstedt"
@@ -235,6 +254,7 @@
     "time": "02h56",
     "averageSpeed": 17.6,
     "elevationGain": 140,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Ahlerstedt",
     "endPointName": "Hambourg"
@@ -247,6 +267,7 @@
     "time": "01h14",
     "averageSpeed": 13.82,
     "elevationGain": 19,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Hambourg",
     "endPointName": "Hambourg"
@@ -259,6 +280,7 @@
     "time": "01h50",
     "averageSpeed": 13.93,
     "elevationGain": 6,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Hambourg",
     "endPointName": "Hambourg"
@@ -271,6 +293,7 @@
     "time": "01h58",
     "averageSpeed": 12.25,
     "elevationGain": 4,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Hambourg",
     "endPointName": "Hambourg"
@@ -283,6 +306,7 @@
     "time": "00h40",
     "averageSpeed": 8.31,
     "elevationGain": 10,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Hambourg",
     "endPointName": "Hambourg"
@@ -295,6 +319,7 @@
     "time": "04h08",
     "averageSpeed": 16.4,
     "elevationGain": 250,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "La Fère",
     "endPointName": "Étréaupont"
@@ -307,6 +332,7 @@
     "time": "04h08",
     "averageSpeed": 17,
     "elevationGain": 240,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "La Fère",
     "endPointName": "Étréaupont"

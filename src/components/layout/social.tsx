@@ -36,7 +36,6 @@ const Social: React.FC = () => {
           alt="Polarteps page"
         />
       </a>
-      
       <a
         href={`https://www.strava.com/athletes/${social?.strava || ``}`}
         className="social-logo"

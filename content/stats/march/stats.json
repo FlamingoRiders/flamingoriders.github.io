@@ -7,6 +7,7 @@
     "time": "03h59",
     "averageSpeed": 14.9,
     "elevationGain": 250,
+    "mood": 4,
     "weather": "⛅",
     "startPointName": "Paris",
     "endPointName": "Meaux"

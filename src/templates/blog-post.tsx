@@ -126,6 +126,7 @@ export const pageQuery = graphql`
       date
       distance
       weather
+      mood
       startPointName
       endPointName
     }

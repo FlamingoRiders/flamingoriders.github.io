@@ -2,12 +2,13 @@ import Step from "components/maps/step";
 import { Day } from "models/day";
 import * as React from "react";
 import { Unit, formatInUnit } from "utils/unit";
+import MoodBar from "./mood-bar";
 
 interface DayRecapProps {
   day: Day;
 }
 const DayRecap: React.FC<DayRecapProps> = ({
-  day: { distance, time, weather, startPointName, endPointName },
+  day: { distance, time, weather, mood, startPointName, endPointName },
 }) => {
   return (
     <>
@@ -39,18 +40,7 @@ const DayRecap: React.FC<DayRecapProps> = ({
           </tr>
         </tbody>
       </table>
-      <h6>L'humeur</h6>
-      <div style={{ display: "flex", justifyContent: "space-between" }}>
-        <span>&nbsp;</span>
-        <span>😤</span>
-        <span>😩</span>
-        <span>🤔</span>
-        <span>😃</span>
-        <span>😍</span>
-      </div>
-      <progress id="mood-bar" max="5" value="4" style={{ minWidth: "100%" }}>
-        70%
-      </progress>
+      {mood && <MoodBar mood={mood} />}
     </>
   );
 };

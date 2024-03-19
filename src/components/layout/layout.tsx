@@ -1,9 +1,9 @@
 import * as React from "react";
-import { Link } from "gatsby";
 import { WindowLocation } from "@reach/router";
 import "styles.scss";
 import { useDisclaimer } from "hooks/useDisclaimer";
 import Bio from "components/layout/bio";
+import Navbar from "./navbar";
 
 type LayoutProps = {
   location: WindowLocation;
@@ -18,37 +18,8 @@ const Layout: React.FC<LayoutProps> = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="header">
-        <Link
-          className="header__link"
-          to="/qui-sommes-nous"
-          activeClassName="header__link--active"
-        >
-          Qui sommes-nous ?
-        </Link>
-        <Link
-          className="header__link"
-          to="/"
-          activeClassName="header__link--active"
-        >
-          Le récit
-        </Link>
-        <Link
-          className="header__link"
-          to="/maps"
-          activeClassName="header__link--active"
-        >
-          La carte
-        </Link>
-        <Link
-          className="header__link"
-          to="/stats"
-          activeClassName="header__link--active"
-        >
-          Les stats
-        </Link>
-      </header>
-      <main className="content">{children}</main>
+      <Navbar />
+      <main className="main-content">{children}</main>
 
       <footer className="footer">
         <div className="footer__line">

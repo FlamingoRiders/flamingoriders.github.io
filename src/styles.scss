@@ -1,4 +1,9 @@
 @import "style/displays";
-@import "style/navigation/header";
+@import "style/navigation/navbar";
 @import "style/navigation/footer";
 @import "style/selection/category-picker";
+
+// Import only what you need from Bulma
+@import "../node_modules/bulma/sass/utilities/_all.sass";
+@import "../node_modules/bulma/sass/components/navbar.sass";
+@import "../node_modules/bulma/sass/components/tabs.sass";

@@ -15,3 +15,12 @@
     }
   }
 }
+
+.navbar-brand {
+  font-family: var(--font-heading);
+  font-weight: var(--fontWeight-bold);
+
+  .navbar-item {
+    color: var(--color-primary);
+  }
+}

@@ -11,19 +11,19 @@ const CategoryPicker: React.FC<CategoryPickerProps> = ({
   selectedIndex,
 }) => {
   return (
-    <>
-      <div className="category-picker" role="group">
+    <div className="tabs is-centered is-toggle">
+      <ul>
         {categories.map((category, index) => (
-          <button
+          <li
             key={`${category}-${index}`}
-            className={`category-picker__item ${index === selectedIndex ? "category-picker__item--selected" : ""}`}
+            className={`${index === selectedIndex ? "is-active" : ""}`}
             onClick={() => onSelectCategory(index)}
           >
-            {category}
-          </button>
+            <a>{category}</a>
+          </li>
         ))}
-      </div>
-    </>
+      </ul>
+    </div>
   );
 };
 

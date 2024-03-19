@@ -42,7 +42,7 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="La carte" />
-      <h1>La carte</h1>
+      <h1>🌍📍 La carte</h1>
       <DatePicker
         selectedDate={selectedDate}
         startDate={startDate}

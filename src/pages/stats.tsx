@@ -57,7 +57,7 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Les stats" />
-      <h1>Notre amour des chiffres</h1>
+      <h1>📈📉 Les stats</h1>
       <>
         <CategoryPicker
           onSelectCategory={onSelectCategory}

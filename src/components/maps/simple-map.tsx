@@ -23,7 +23,7 @@ const SimpleMap: React.FC<SimpleMapProps> = ({
   return (
     <>
       <MapContainer
-        style={{ height: "400px" }}
+        style={{ height: "400px", zIndex: 10 }}
         center={displayedPositionMarker?.startPos || CENTER}
         zoom={4}
         scrollWheelZoom={true}
