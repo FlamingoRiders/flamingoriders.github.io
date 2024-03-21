@@ -1,26 +1,11 @@
-.header {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: var(--spacing-12);
-  flex-wrap: wrap;
-
-  &__link {
-    font-weight: var(--fontWeight-bold);
-    font-family: var(--font-heading);
-    text-decoration: none;
-    font-size: var(--fontSize-2);
-
-    &--active {
-      color: var(--color-salmon);
-    }
-  }
-}
-
-.navbar-brand {
+.navbar {
   font-family: var(--font-heading);
-  font-weight: var(--fontWeight-bold);
 
-  .navbar-item {
-    color: var(--color-primary);
+  &-brand {
+    font-weight: var(--fontWeight-bold);
+
+    .navbar-item {
+      color: var(--color-primary);
+    }
   }
 }

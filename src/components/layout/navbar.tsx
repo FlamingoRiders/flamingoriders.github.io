@@ -10,7 +10,7 @@ const Navbar: React.FC = () => {
   }, [setIsBurgerMenuOpen, isBurgerMenuOpen]);
 
   return (
-    <nav className="navbar is-fixed-top">
+    <nav className="navbar has-shadow is-fixed-top">
       <div className="navbar-brand">
         <div className="navbar-item">
           <StaticImage

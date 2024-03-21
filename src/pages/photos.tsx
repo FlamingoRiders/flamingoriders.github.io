@@ -27,6 +27,7 @@ const PhotosPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
         layout="fullWidth"
         formats={["auto", "webp", "avif"]}
         src="../../static/site-icon.png"
+        loading="lazy"
         width={300}
         height={300}
         quality={95}
