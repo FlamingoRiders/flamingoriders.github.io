@@ -22,12 +22,16 @@ type QueryReturn = {
   site: {
     siteMetadata: {
       title: string;
+      social: {
+        strava: string;
+      }
     };
   };
 };
 
 const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
+  const stravaLink = data.site.siteMetadata.social.strava;
   const allStats = data.allStatsJson.nodes;
   const daysActiveCaption = "Jours pédalés";
   const stats = useStats(allStats);
@@ -58,6 +62,10 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="Les stats" />
       <h1>📈📉 Les stats</h1>
+      <p>
+        Pour les amoureux des chiffres, retrouvez toutes nos activités sportives sur{" "}
+        <a href={`https://www.strava.com/athletes/${stravaLink}`}>Strava</a>.
+      </p>
       <>
         <CategoryPicker
           onSelectCategory={onSelectCategory}
@@ -96,6 +104,9 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        social {
+          strava
+        }
       }
     }
     allStatsJson(sort: { date: DESC }) {

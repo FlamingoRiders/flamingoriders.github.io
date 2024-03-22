@@ -1,5 +1,4 @@
 import React from "react";
-import Bio from "components/layout/bio";
 import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
 import { PageProps, graphql } from "gatsby";

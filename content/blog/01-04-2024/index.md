@@ -4,7 +4,7 @@ date: "2024-04-01"
 description: "Aller c'est parti !"
 ---
 
-![Café d'Eduardo](../eduardo.png)
+![Café d'Eduardo](../cafe_eduardo.png)
 
 Exemple de post de blog
 
