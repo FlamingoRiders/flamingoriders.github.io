@@ -7,6 +7,7 @@ import Activities from "components/stats/activities";
 import Summary from "components/stats/summary";
 import CategoryPicker from "components/stats/category-picker";
 import { MonthStats } from "models/stats";
+import { AppSections } from "routes/app-routes";
 
 type QueryReturn = {
   allStatsJson: {
@@ -24,7 +25,7 @@ type QueryReturn = {
       title: string;
       social: {
         strava: string;
-      }
+      };
     };
   };
 };
@@ -60,11 +61,12 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Les stats" />
+      <Seo title={AppSections.STATS} />
       <h1>📈📉 Les stats</h1>
       <p>
-        Pour les amoureux des chiffres, retrouvez toutes nos activités sportives sur{" "}
-        <a href={`https://www.strava.com/athletes/${stravaLink}`}>Strava</a>.
+        Pour les amoureux des chiffres, retrouvez toutes nos activités sportives
+        sur <a href={`https://www.strava.com/athletes/${stravaLink}`}>Strava</a>
+        .
       </p>
       <>
         <CategoryPicker

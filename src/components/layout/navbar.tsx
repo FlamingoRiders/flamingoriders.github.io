@@ -1,6 +1,7 @@
 import { Link } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
 import React, { useCallback, useState } from "react";
+import { AppRoutes, AppSections } from "routes/app-routes";
 
 const Navbar: React.FC = () => {
   const [isBurgerMenuOpen, setIsBurgerMenuOpen] = useState(false);
@@ -12,7 +13,7 @@ const Navbar: React.FC = () => {
   return (
     <nav className="navbar has-shadow is-fixed-top">
       <div className="navbar-brand">
-        <div className="navbar-item">
+        <Link className="navbar-item" to={AppRoutes.HOME}>
           <StaticImage
             className="bio-avatar"
             layout="fixed"
@@ -23,8 +24,8 @@ const Navbar: React.FC = () => {
             quality={95}
             alt="Flamingo Riders profile picture"
           />
-          Flamingo Riders
-        </div>
+          {AppSections.HOME}
+        </Link>
         <a
           onClick={toggleBurgerMenu}
           role="button"
@@ -46,49 +47,61 @@ const Navbar: React.FC = () => {
         <div className="navbar-start">
           <Link
             className="navbar-item"
-            to="/qui-sommes-nous"
+            to={AppRoutes.PRESENTATION}
             activeClassName="bd-navbar-item is-active"
           >
-            Qui sommes-nous ?
-          </Link>
-          <Link className="navbar-item" to="/" activeClassName="is-active">
-            Le récit
-          </Link>
-          <Link className="navbar-item" to="/maps" activeClassName="is-active">
-            La carte
-          </Link>
-          <Link className="navbar-item" to="/stats" activeClassName="is-active">
-            Les stats
-          </Link>
-          <Link
-            className="navbar-item"
-            to="/photos"
-            activeClassName="is-active"
-          >
-            Les photos
+            {AppSections.PRESENTATION}
           </Link>
           <div className="navbar-item has-dropdown is-hoverable">
-            <Link className="navbar-link" to="/trace">
-              La préparation
+            <Link className="navbar-link" to={AppRoutes.TRACE}>
+              {AppSections.PREPARATION}
             </Link>
             <div className="navbar-dropdown is-boxed">
               <Link
                 className="navbar-item"
-                to="/trace"
+                to={AppRoutes.TRACE}
                 activeClassName="is-active"
               >
-                Le tracé
+                {AppSections.TRACE}
               </Link>
               <hr className="navbar-divider" />
               <Link
                 className="navbar-item"
-                to="/equipement"
+                to={AppRoutes.EQUIPMENT}
                 activeClassName="is-active"
               >
-                Notre équipement
+                {AppSections.EQUIPMENT}
               </Link>
             </div>
           </div>
+          <Link
+            className="navbar-item"
+            to={AppRoutes.BLOG}
+            activeClassName="is-active"
+          >
+            {AppSections.BLOG}
+          </Link>
+          <Link
+            className="navbar-item"
+            to={AppRoutes.MAPS}
+            activeClassName="is-active"
+          >
+            {AppSections.MAPS}
+          </Link>
+          <Link
+            className="navbar-item"
+            to={AppRoutes.STATS}
+            activeClassName="is-active"
+          >
+            {AppSections.STATS}
+          </Link>
+          <Link
+            className="navbar-item"
+            to={AppRoutes.PHOTOS}
+            activeClassName="is-active"
+          >
+            {AppSections.PHOTOS}
+          </Link>
         </div>
       </div>
     </nav>

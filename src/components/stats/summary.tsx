@@ -42,7 +42,9 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
                 max={100}
                 className="progress is-primary is-small mb-2"
                 value={summary.activityRatio}
-              >{summary.activityRatio}</progress>
+              >
+                {summary.activityRatio}
+              </progress>
             </th>
           </tr>
         </tfoot>

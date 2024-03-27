@@ -7,17 +7,25 @@
 $primary: #005b99;
 $tabs-boxed-link-active-background-color: $primary;
 $tabs-toggle-link-active-background-color: $primary;
+$footer-padding: var(--spacing-6);
 
 // Import only what you need from Bulma
 @import "../node_modules/bulma/sass/utilities/_all.sass";
 @import "../node_modules/bulma/sass/helpers/spacing.sass";
+@import "../node_modules/bulma/sass/helpers/visibility.sass";
 @import "../node_modules/bulma/sass/helpers/other.sass";
 @import "../node_modules/bulma/sass/components/navbar.sass";
 @import "../node_modules/bulma/sass/components/tabs.sass";
+@import "../node_modules/bulma/sass/components/pagination.sass";
 @import "../node_modules/bulma/sass/elements/button.sass";
 @import "../node_modules/bulma/sass/elements/progress.sass";
+@import "../node_modules/bulma/sass/layout/footer.sass";
 
 // Override unwanted bulma styles
 .navbar-item img {
   max-height: fit-content;
+}
+
+footer.footer {
+  margin-top: var(--spacing-6);
 }

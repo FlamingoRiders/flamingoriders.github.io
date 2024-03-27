@@ -7,6 +7,7 @@ import DatePicker from "components/maps/date-picker";
 import SimpleMap from "components/maps/simple-map";
 import TravelCounter from "components/maps/travel-counter";
 import Step from "components/maps/step";
+import { AppSections } from "routes/app-routes";
 
 type QueryReturn = {
   allStatsJson: {
@@ -40,7 +41,7 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="La carte" />
+      <Seo title={AppSections.MAPS} />
       <h1>🌍📍 La carte</h1>
       <DatePicker
         selectedDate={selectedDate}

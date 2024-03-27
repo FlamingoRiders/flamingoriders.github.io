@@ -3,11 +3,15 @@ import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
 import { PageProps, graphql } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
+import { AppSections } from "routes/app-routes";
 
 type QueryReturn = {
   site: {
     siteMetadata: {
       title: string;
+      social: {
+        polarsteps: string;
+      };
     };
   };
 };
@@ -17,8 +21,8 @@ const PhotosPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const polarsteps = data.site.siteMetadata.social.polarsteps;
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Les photos" />
-      <h1>📷 Les photos</h1>
+      <Seo title={AppSections.PHOTOS} />
+      <h1>📷 {AppSections.PHOTOS}</h1>
       <p>
         Retrouvez toutes nos photos sur notre{" "}
         <a href={`https://www.polarsteps.com/${polarsteps}`}>Polarsteps</a>

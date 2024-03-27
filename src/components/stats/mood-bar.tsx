@@ -5,7 +5,7 @@ interface MoodBarProps {
 }
 const MoodBar: React.FC<MoodBarProps> = ({ mood }) => {
   return (
-    <>
+    <div className="mb-5">
       <h6>L'humeur</h6>
       <div style={{ display: "flex", justifyContent: "space-between" }}>
         <span>&nbsp;</span>
@@ -23,7 +23,7 @@ const MoodBar: React.FC<MoodBarProps> = ({ mood }) => {
       >
         {`${mood}/5`}
       </progress>
-    </>
+    </div>
   );
 };
 
