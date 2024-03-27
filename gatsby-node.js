@@ -1,7 +1,7 @@
 const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
-const POSTS_PER_PAGE = 4;
+const POSTS_PER_PAGE = 10;
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;

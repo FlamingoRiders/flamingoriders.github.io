@@ -5,8 +5,7 @@ export enum AppRoutes {
   MAPS = "/maps",
   STATS = "/stats",
   TRACE = "/trace",
-  EQUIPMENT = "/equipement",
-  PHOTOS = "/photos",
+  EQUIPMENT = "/equipement"
 }
 
 export enum AppSections {
@@ -17,6 +16,5 @@ export enum AppSections {
   STATS = "Les stats",
   PREPARATION = "La préparation",
   TRACE = "Le tracé",
-  EQUIPMENT = "Notre équipement",
-  PHOTOS = "Les photos",
+  EQUIPMENT = "Notre équipement"
 }

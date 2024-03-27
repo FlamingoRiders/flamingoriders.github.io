@@ -95,13 +95,6 @@ const Navbar: React.FC = () => {
           >
             {AppSections.STATS}
           </Link>
-          <Link
-            className="navbar-item"
-            to={AppRoutes.PHOTOS}
-            activeClassName="is-active"
-          >
-            {AppSections.PHOTOS}
-          </Link>
         </div>
       </div>
     </nav>

@@ -58,6 +58,8 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title={AppSections.BLOG} />
+      <h1>📝{AppSections.BLOG}</h1>
+      <p>Retrouvez ici tous nos posts !</p>
       <ol style={{ listStyle: `none` }}>
         {posts.map((post) => {
           const title = post.frontmatter.title || post.fields.slug;

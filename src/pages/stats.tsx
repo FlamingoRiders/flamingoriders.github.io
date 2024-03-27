@@ -62,7 +62,7 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title={AppSections.STATS} />
-      <h1>📈📉 Les stats</h1>
+      <h1>📈📉 {AppSections.STATS}</h1>
       <p>
         Pour les amoureux des chiffres, retrouvez toutes nos activités sportives
         sur <a href={`https://www.strava.com/athletes/${stravaLink}`}>Strava</a>
