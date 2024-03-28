@@ -93,13 +93,6 @@ Avant tout, l'envie de construire quelque chose à notre image tout comme notre 
 
 Ici, pas de fil d'actualité sans fin, pas de notifications intempestives, pas de pubs ou d'espace commentaire. Vous savez où nous trouver si vous voulez nous remonter commentaire ou suggestion 🤗. On vous promet un contenu 100% ChatGPT-free et produit par nos soins.
 
-### Comment utiliser ce site ?
+À très vite !
 
-Nous avons prévu d'enrichir le contenu de ce site quotidiennement. Pour nous suivre, rien de plus simple, 3 sections :
-
-- [le récit](https://flamingoriders.github.io) de notre périple.
-- [la carte interactive](https://flamingoriders.github.io/maps) pour voir notre trajet sur chaque étape et depuis le début.
-- [les stats](https://flamingoriders.github.io/stats) pour une idée plus concrète de nos journées à vélo.
-
-A très vite !
 ![photo de famille](famille.jpeg)
