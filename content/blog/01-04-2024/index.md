@@ -46,4 +46,4 @@ L'après-midi, le temps est plus changeant, des passages de pluie très fine et 
 
 Nous traversons la grande forêt domaniale de **Compiègne**. Nous avons de nouveau très peu de circulation, c'est très sympathique. Nous finissons par arriver dans Compiègne qui nous semble bien jolie malgré le fait que nous n'aurons pas le temps de la visiter cette fois-ci.
 
-Nous déposons à la gare le trio d'enfer : Big D, Carolo Dinguo et Lati notre représentant d'Angoulême. Ces derniers au revoir sont dures. Ça y est l'aventure à trois commence !
+Nous déposons à la gare le trio d'enfer : Big D, Carolo Dinguo et Lati notre représentant d'Angoulême. Ces derniers au revoir sont durs. Ça y est l'aventure à trois commence !
