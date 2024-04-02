@@ -11,5 +11,18 @@
     "weather": "☁️",
     "startPointName": "Meaux",
     "endPointName": "Compiègne"
+  },
+  {
+    "date": "2024-04-02",
+    "startPos": [49.424852, 2.821228],
+    "endPos": [49.661152, 3.367282],
+    "distance": 66.17,
+    "time": "03h34",
+    "averageSpeed": 18.5,
+    "elevationGain": 255,
+    "mood": 4,
+    "weather": "☀️",
+    "startPointName": "Compiègne",
+    "endPointName": "La Fère"
   }
 ]
