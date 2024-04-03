@@ -13,6 +13,7 @@ Nous reprenons la route de l'**EuroVelo 3**, que nous voyons parfois indiquée d
 Le décor ressemble fortement à la veille, on longe l'**Oise** et ses marécages sur le côté avec cette fois un temps plus couvert qui nous révèle une autre facette de la rivière.
 
 ### Quelques rencontres sympathiques
+
 Aujourd'hui, à défaut de croiser beaucoup de monde, nous sommes gratifiés de quelques échanges avec des cyclotouristes et promeneurs.
 
 Nous croisons notamment deux sexagénaires, partis la veille de **Maubeuge** et qui sont en route pour **Saint-Jacques-de-Compostelle** puis poursuivront leur aventure jusqu'au **Portugal**. Sur le porte-bagages de leur vélo, ils ont notamment accroché des petits drapeaux français et portugais ainsi que des coquilles Saint-Jacques. Malin.
@@ -22,7 +23,7 @@ Nous croisons notamment deux sexagénaires, partis la veille de **Maubeuge** et 
 On discute un petit peu, le temps pour nous de leur dire que leur projet a l'air super sympa et pour eux de nous rendre la pareille.
 Pas de la même génération, mais assurément la même passion 🚲🤩.
 
-Un petit peu plus loin, au niveau d'un pont surplombant l'Oise, on croise un homme promenant son golden retriever avec une bière de 50cl en cannette dans sa main. Il est 12h, on est dans le nord, rien d'inhabituel. Le soleil ressort un peu et il faut bien s'hydrater.
+Un petit peu plus loin, au niveau d'un pont surplombant l'Oise, on croise un homme promenant son golden retriever avec une bière de 50cl en cannette dans sa main. Il est midi, on est dans le nord, rien d'inhabituel. Le soleil ressort un peu et il faut bien s'hydrater.
 
 Il nous aborde : *"Vous en faites pas il n'est pas méchant"*. C'est en effet un des rares chiens qui ne nous saute pas dessus lorsqu'on approche. *"Vous allez où comme ça ?"*
 
@@ -40,9 +41,10 @@ Nico en salive déjà... L'Izoard ? Le Ventoux ? Le Tourmalet ? Non non, la côt
 
 Bon, on ne va pas vous mentir, on en est venu à bout, c'est un peu pentu mais court. Après on l'a faite complètement sobre aussi, c'est peut-être pas comme ça que le défi local est censé être relevé. On note bien évidemment l'idée pour la prochaine fois qu'on sera de passage 💪🍺 !
 
-Un peu plus loin, nous nous arrêtons pour notre pause déjeuner. Nous longeons une petite église dans un village mais il n'y a pas d'endroit où s'asseoir. On trouve un coin d'herbe très sympa et un banc en béton. Nico pense que c'est chez des gens, Nana dit : *"Mais non, et puis on s'en fout !*". C'est elle la rebelle du groupe, c'est moi qui vous le dit 🦩 ! 
+Un peu plus loin, nous nous arrêtons pour notre pause déjeuner. Nous longeons une petite église dans un village mais il n'y a pas d'endroit où nous asseoir. On trouve un coin d'herbe très sympa et un banc en béton. Nico pense que c'est chez des gens, Nana dit : *"Mais non, et puis on s'en fout !*". C'est elle la rebelle du groupe, c'est moi qui vous le dit 🦩 ! 
 
 ### Voie verte de la Thiérache
+
 On continue notre route le long de l'EV3 qui emprunte une [voie verte](https://af3v.org/les-voies-vertes/voies/420-ev3-la-scandiberique-axe-vert-de-thierache-de-hirson-a-guise/) passant par plusieurs points d'intérêts :
 * **Guise**, où nous apercevons un très joli château fort 🏰.
 * **Sorbais**, on vous recommande notamment ceux au citron et au cassis, chez Josiane, la première à droite en rentrant dans le village 🍨.
@@ -50,8 +52,10 @@ On continue notre route le long de l'EV3 qui emprunte une [voie verte](https://a
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/42SUjSOr2tsUmOIlYBX04Z?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Bon peut-être pas le berceau, mais le point de départ de la 2nde vague, ou 3ème, je ne sais plus. On a pris des photos rigolotes 😀 !
+Bon peut-être pas le berceau, mais le point de départ de la 2nde vague, ou 3ème, je ne sais plus. On a pris des photos rigolotes 😀 ! On croise aussi deux chèvres sur un trampoline. Je vous le jure. Ça ne s'invente pas ce genre de choses, allez donc jeter un oeil à nos photos Polarsteps !
 
 En repartant, la pluie s'abat finalement sur nous sur les coups de 16h. Nos vêtements de pluie sont enfin mis à contribution et c'est plutôt une vraie satisfaction, l'eau ne rentre pas dans les couches intérieures. Comme dit un grand homme : *"il n'y a pas de mauvaises météos que des cyclistes mal équipés".*
 
 Nous arrivons enfin à **Étréaupont**, notre point d'arrivée. Enfin!! Car l'étape du jour était tout de même intense. 🦩 : *"Euh guys, il reste encore 3,5 km pour atteindre le logement... Et apparemment ce n'est que de la montée... Il y a une pente assez raide à ce que je vois... Je dirais 8%, enfin peut-être 9%... Bref rien de bien méchant, de toute façon, je ne pédale pas moi, alors let's go car j'ai faim !"*
+
+Bon c'était pas non plus du 8% mais on en est également venu à bout 😉.
