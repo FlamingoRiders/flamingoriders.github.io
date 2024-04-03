@@ -24,5 +24,18 @@
     "weather": "☀️",
     "startPointName": "Compiègne",
     "endPointName": "La Fère"
+  },
+  {
+    "date": "2024-04-03",
+    "startPos": [49.661152, 3.367282],
+    "endPos": [49.904566, 3.945688],
+    "distance": 70.29,
+    "time": "04h11",
+    "averageSpeed": 16.8,
+    "elevationGain": 355,
+    "mood": 4,
+    "weather": "🌧️",
+    "startPointName": "La Fère",
+    "endPointName": "Étréaupont"
   }
 ]
