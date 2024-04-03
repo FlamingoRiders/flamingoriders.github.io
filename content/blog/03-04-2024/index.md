@@ -46,13 +46,13 @@ Un peu plus loin, nous nous arrêtons pour notre pause déjeuner. Nous longeons 
 ### Voie verte de la Thiérache
 
 On continue notre route le long de l'EV3 qui emprunte une [voie verte](https://af3v.org/les-voies-vertes/voies/420-ev3-la-scandiberique-axe-vert-de-thierache-de-hirson-a-guise/) passant par plusieurs points d'intérêts :
-* **Guise**, où nous apercevons un très joli château fort 🏰.
+* **Guise**, où nous apercevons un très joli château fort 🏰. On croise aussi deux chèvres sur un trampoline. Je vous le jure. Ça ne s'invente pas ce genre de choses, allez donc jeter un oeil à nos photos Polarsteps !
 * **Sorbais**, on vous recommande notamment ceux au citron et au cassis, chez Josiane, la première à droite en rentrant dans le village 🍨.
 * Et bien évidemment... **Marly-Gomont**, le berceau du rap français !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/42SUjSOr2tsUmOIlYBX04Z?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Bon peut-être pas le berceau, mais le point de départ de la 2nde vague, ou 3ème, je ne sais plus. On a pris des photos rigolotes 😀 ! On croise aussi deux chèvres sur un trampoline. Je vous le jure. Ça ne s'invente pas ce genre de choses, allez donc jeter un oeil à nos photos Polarsteps !
+Bon peut-être pas le berceau, mais le point de départ de la 2nde vague, ou 3ème, je ne sais plus. On a pris des photos rigolotes 😀 !
 
 En repartant, la pluie s'abat finalement sur nous sur les coups de 16h. Nos vêtements de pluie sont enfin mis à contribution et c'est plutôt une vraie satisfaction, l'eau ne rentre pas dans les couches intérieures. Comme dit un grand homme : *"il n'y a pas de mauvaises météos que des cyclistes mal équipés".*
 
