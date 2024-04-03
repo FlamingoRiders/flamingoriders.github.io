@@ -54,7 +54,7 @@ On continue notre route le long de l'EV3 qui emprunte une [voie verte](https://a
 
 Bon peut-être pas le berceau, mais le point de départ de la 2nde vague, ou 3ème, je ne sais plus. On a pris des photos rigolotes 😀 !
 
-En repartant, la pluie s'abat finalement sur nous sur les coups de 16h. Nos vêtements de pluie sont enfin mis à contribution et c'est plutôt une vraie satisfaction, l'eau ne rentre pas dans les couches intérieures. Comme dit un grand homme : *"il n'y a pas de mauvaises météos que des cyclistes mal équipés".*
+En repartant, la pluie s'abat finalement sur nous sur les coups de 16h. Nos vêtements de pluie sont enfin mis à contribution et c'est plutôt une vraie satisfaction, l'eau ne rentre pas dans les couches intérieures. Comme dit un grand homme : *"Il n'y a pas de mauvaise météo, que des cyclistes mal équipés".*
 
 Nous arrivons enfin à **Étréaupont**, notre point d'arrivée. Enfin!! Car l'étape du jour était tout de même intense. 🦩 : *"Euh guys, il reste encore 3,5 km pour atteindre le logement... Et apparemment ce n'est que de la montée... Il y a une pente assez raide à ce que je vois... Je dirais 8%, enfin peut-être 9%... Bref rien de bien méchant, de toute façon, je ne pédale pas moi, alors let's go car j'ai faim !"*
 
