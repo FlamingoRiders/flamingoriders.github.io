@@ -37,5 +37,18 @@
     "weather": "🌧️",
     "startPointName": "La Fère",
     "endPointName": "Étréaupont"
+  },
+  {
+    "date": "2024-04-04",
+    "startPos": [49.904566, 3.945688],
+    "endPos": [50.160237, 4.099410],
+    "distance": 71.15,
+    "time": "04h17",
+    "averageSpeed": 16.6,
+    "elevationGain": 721,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Étréaupont",
+    "endPointName": "Solre-le-Château"
   }
 ]
