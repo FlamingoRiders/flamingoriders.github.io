@@ -6,7 +6,7 @@ description: "Retrouvailles familiales"
 
 ![Café d'Eduardo](../cafe_eduardo.png)
 
-Ce matin, le réveil est animé. Pour Nana ça semble aller mieux, pour Nico à l'inverse le nez semble complètement encombré. On s'est bien choppé un petit rhume. Je ne vous le cache pas, je suis très inquiet. Jamais deux sans trois comme on dit et j'ai une santé fragile. Hors de question de renommer ma chronique *"le doliprane d'Eduardo 💊"* !
+Ce matin, le réveil est animé. Pour Nana ça semble aller mieux. Pour Nico à l'inverse le nez semble complètement encombré. On s'est bien choppé un petit rhume. Je ne vous le cache pas, je suis très inquiet. Jamais deux sans trois comme on dit et j'ai une santé fragile. Hors de question de renommer ma chronique *"le doliprane d'Eduardo 💊"* !
 
 Dehors, la pluie tombe lourdement sur le sol et le vent souffle très fort. On les entends depuis 2h du matin environ. Puis soudainement, quand vient un moment d'accalmie, un autre bruit prend le relais : c'est l'alarme de nos vélos qui retentit ! Malgré qu'ils soient bien calés et abrités, la force du vent les a décalés d'un demi-mètre, ce qui a déclenché le détecteur de mouvement 🤣.
 
@@ -20,11 +20,13 @@ Ce jeudi constitue une étape très spéciale pour Nico. Cela fait maintenant pl
 
 La famille paternelle de Nico est originaire du coin !Pour cette occasion en or, nous avons la chance d'être rejoints par les parents de Nico pour le déjeuner à **Fourmies**. 
 
-Pour rejoindre **Fourmies*, une [ville riche en histoire](https://fr.m.wikipedia.org/wiki/Fourmies), nous empruntons la [voie verte de l'Avesnois](https://www.af3v.org/les-voies-vertes/voies/111-ev3-scandiberique-voie-verte-de-l-avesnois-de-maubeuge-a-glageon/).
+Pour rejoindre **Fourmies**, une [ville riche en histoire](https://fr.m.wikipedia.org/wiki/Fourmies), nous empruntons la [voie verte de l'Avesnois](https://www.af3v.org/les-voies-vertes/voies/111-ev3-scandiberique-voie-verte-de-l-avesnois-de-maubeuge-a-glageon/).
 
-*"On va avoir une montée d'un km, c'est la seule du parcours du jour normalement"* décrit Nico. On arrive sur la fin de la montée. Nana rétorque : "Ça fait plus d'un km là !". Le ton est donné. On roule depuis moins d'une heure que ça commence déjà à faire des comptes d'apothicaire.
+*"On va avoir une montée d'un km, c'est la seule du parcours du jour normalement"* décrit Nico. On arrive sur la fin de la montée. Nana rétorque : *"Ça fait plus d'un km là !"*. Le ton est donné. On roule depuis moins d'une heure que ça commence déjà à faire des comptes d'apothicaire.
 
-Depuis quelques jours, l'**EuroVélo 3** nous offre des revêtements divers. Certaines portions empruntées sont très lisses et roulantes. D'autres sont plus chaotiques, graveleuses, avec quelques trous dans la route. Après plus d'une centaine de kilomètres sur ces routes, on arrive à un point de rupture dans la patience de tout le monde ce qui vaut les remarques suivantes :
+Depuis quelques jours, l'**EuroVélo 3** nous offre des revêtements divers. Certaines portions empruntées sont très lisses et roulantes. D'autres sont plus chaotiques, graveleuses, avec quelques trous dans la route. Après plus d'une centaine de kilomètres sur ces routes, on arrive à un point de rupture dans la patience de tout le monde.
+
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/BY8ORoRpnJDXeBNwxg" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Nana : *"C'est hard la route, ça secoue, ça fait mal au c** quand même !"
 
@@ -47,10 +49,6 @@ On retrouve les parents de Nico vers 13h30. Ils sont venus en voiture. Alors qu'
 Nous avons un autre passage obligé à faire avant de poursuivre au Nord. C'est en fait un petit détour dans le village voisin, celui des grands-parents à **Wignehies**.
 
 Qui dit maison des grands-parents dit forcément lieu de vacances. Le grand jardin pour jouer, les retrouvailles avec les cousins, les jeux de société, les fêtes de famille... Trop de souvenirs pour être tous énumérés mais ce n'est pas l'envie qui manque !
-
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ggtVNW8GLpl6Ib8lsw" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
-
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/BY8ORoRpnJDXeBNwxg" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Fk2d1IMWZ5yOqUOvLfKdg?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 Juste devant la maison qui n'a pas changé d'apparence, nous sonnons chez les voisins pour leur passer le bonjour. Une dame en sort et met un petit temps à nous reconnaitre alors que nous nous présentons. Puis c'est immédiat : nous sommes invités à prendre un café et un jus de pomme maison. C'est quand même quelque chose l'hospitalité des gens du Nord. Nous prenons quelques photos de la maison et devons malheureusement repartir assez vite car nous avons encore de la route.
