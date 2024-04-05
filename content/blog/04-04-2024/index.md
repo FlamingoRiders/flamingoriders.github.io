@@ -8,7 +8,7 @@ description: "Retrouvailles familiales"
 
 Ce matin, le réveil est animé. Pour Nana ça semble aller mieux. Pour Nico à l'inverse le nez semble complètement encombré. On s'est bien choppé un petit rhume. Je ne vous le cache pas, je suis très inquiet. Jamais deux sans trois comme on dit et j'ai une santé fragile. Hors de question de renommer ma chronique *"le doliprane d'Eduardo 💊"* !
 
-Dehors, la pluie tombe lourdement sur le sol et le vent souffle très fort. On les entends depuis 2h du matin environ. Puis soudainement, quand vient un moment d'accalmie, un autre bruit prend le relais : c'est l'alarme de nos vélos qui retentit ! Malgré qu'ils soient bien calés et abrités, la force du vent les a décalés d'un demi-mètre, ce qui a déclenché le détecteur de mouvement 🤣.
+Dehors, la pluie tombe lourdement sur le sol et le vent souffle très fort. On les entend depuis 2h du matin environ. Puis soudainement, quand vient un moment d'accalmie, un autre bruit prend le relais : c'est l'alarme de nos vélos qui retentit ! Malgré qu'ils soient bien calés et abrités, la force du vent les a décalés d'un demi-mètre, ce qui a déclenché le détecteur de mouvement 🤣.
 
 Lorsque nous partons, les conditions sont bien plus favorables, le ciel est gris et couvert, la pluie a cessé. Nous pouvons partir sereinement.
 
@@ -18,7 +18,7 @@ On reprend la route, toujours sur l'EuroVélo 3. Il n'y a pas de péage mais si 
 
 Ce jeudi constitue une étape très spéciale pour Nico. Cela fait maintenant plusieurs mois qu'il l'attend. Depuis l'étude de notre trace Komoot qui nous mènerait en Norvège et son découpage, très exactement. La route d'aujourd'hui n'est pas directement sur notre itinéraire. Pourtant, le passage y est obligatoire. On ne pouvait pas faire autrement. Quand on a calculé qu'on passait pas loin, on a ajusté la trace afin qu'elle soit celle que nous parcourons aujourd'hui.
 
-La famille paternelle de Nico est originaire du coin !Pour cette occasion en or, nous avons la chance d'être rejoints par les parents de Nico pour le déjeuner à **Fourmies**. 
+La famille paternelle de Nico est originaire du coin ! Pour cette occasion en or, nous avons la chance d'être rejoints par les parents de Nico pour le déjeuner à **Fourmies**. 
 
 Pour rejoindre **Fourmies**, une [ville riche en histoire](https://fr.m.wikipedia.org/wiki/Fourmies), nous empruntons la [voie verte de l'Avesnois](https://www.af3v.org/les-voies-vertes/voies/111-ev3-scandiberique-voie-verte-de-l-avesnois-de-maubeuge-a-glageon/).
 
@@ -34,7 +34,7 @@ Nico : *"Fais ch*** y'a pas de rendement là ! J'en ai marre de pédaler dans le
 
 Un peu plus loin, alors que nous sommes plongés dans la **forêt domaniale de Fourmies** et que le compte de montées a déjà été multiplié par 10, Nana insiste : *"Tu m'avais dit qu'il n'y aurait qu'une seule montée au programme !"* 🤬. 
 
-*"Une seule répertoriée ! Pas ma faute si le compteur ne me l'a pas indiquée"* 😕. Il est vrai qu'A.S.O travaille plus dur sur les marges de ses épreuves qu'au recensement exhaustif des difficultés de parcours dans l'Avesnois.
+*"Une seule répertoriée ! Pas ma faute si le compteur ne m'a pas indiqué les autres"* 😕. Il est vrai qu'A.S.O travaille plus dur sur les marges de ses épreuves qu'au recensement exhaustif des difficultés de parcours dans l'Avesnois.
 
 Nous passons par l'**étang des Moines**, puis rejoignons le centre-ville où se trouve le théâtre, le gymnase, la place centrale et l'hôtel de ville. C'est fou, 10 ans que l'on n'y avait pas remis les pieds, les souvenirs ressurgissent rapidement. C'est un beau moment ! 😀
 
