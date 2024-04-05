@@ -50,5 +50,18 @@
     "weather": "🌦️",
     "startPointName": "Étréaupont",
     "endPointName": "Solre-le-Château"
+  },
+  {
+    "date": "2024-04-05",
+    "startPos": [50.160237, 4.099410],
+    "endPos": [50.433454, 4.147471],
+    "distance": 55.47,
+    "time": "03h21",
+    "averageSpeed": 16.6,
+    "elevationGain": 217,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Solre-le-Château",
+    "endPointName": "Binche"
   }
 ]
