@@ -14,7 +14,7 @@ Ce matin je me lève un peu plus tôt que les autres. On a regardé le parcours 
 
 ### Au revoir les Ch'tis
 
-Avant de partir, nous disons au revoir aux parents de Nico avec qui nous avons passé une merveilleuse journée hier, bien mangé et bien dormi. Les maux de gorges se dissipent et tout le monde semble avoir repris des forces.
+Avant de partir, nous disons au revoir aux parents de Nico avec qui nous avons passé une merveilleuse journée hier, bien mangé et bien dormi. Les maux de gorge se dissipent et tout le monde semble avoir repris des forces.
 
 Nous descendons dans le centre de **Solre-le-Château** que nous trouvons plutôt mignon.
 
@@ -45,7 +45,7 @@ Nous nous arrêtons pour discuter rapidement avec un couple de cyclotouristes ho
 
 Nous devons prendre une bifurcation dans les champs et dans la boue. Mince, on était à 2 doigts d'avoir notre première journée sans salir les vélos 😂.
 
-Nous finissons par arriver dans **Binge**, où nous rencontrons un peu de traffic et surtout de nombreux pavés.
+Nous finissons par arriver dans **Binche**, où nous rencontrons un peu de traffic et surtout de nombreux pavés.
 
 Malgré toutes ces émotions, l'étape du jour était tout de même plus facile que les précédentes. Cela nous fait du bien. Nana se permet même un wheelie en arrivant dans le centre-ville. Toujours obligée de se faire remarquer 😉.
 
