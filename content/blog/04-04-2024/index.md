@@ -28,9 +28,9 @@ Depuis quelques jours, l'**EuroVélo 3** nous offre des revêtements divers. Cer
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/BY8ORoRpnJDXeBNwxg" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Nana : *"C'est hard la route, ça secoue, ça fait mal au c** quand même !"
+Nana : *"C'est hard la route, ça secoue, ça fait mal au c\*\* quand même !"*
 
-Nico : *"Fais ch*** y'a pas de rendement là ! J'en ai marre de pédaler dans le vide ! "*
+Nico : *"Fais ch\*\*\* y'a pas de rendement là ! J'en ai marre de pédaler dans le vide ! "*
 
 Un peu plus loin, alors que nous sommes plongés dans la **forêt domaniale de Fourmies** et que le compte de montées a déjà été multiplié par 10, Nana insiste : *"Tu m'avais dit qu'il n'y aurait qu'une seule montée au programme !"* 🤬. 
 
