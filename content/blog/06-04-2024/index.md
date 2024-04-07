@@ -31,7 +31,7 @@ On est quand même super bien ce qui fait dire à Nana : *"C'est incroyable, tou
  
 *"Mais on habite pas ici, qu'est-ce que tu racontes ?"* Nana dit vrai. On aurait pu faire plus depuis plus longtemps à vélo. Un constat qui revient décidément souvent depuis notre départ !
 
-On s'arrête au niveau de **Nivelles** avec pour mission de trouver une friterie. C'est jour de marché et la grande place est remplie. Il est 13h mais les gens ne déjeunent pas. Ils sont à la bière. Forcément. Comme dit Jéjé l'ami belge : "Ici c'est une bière, deux tartines". On terminera finalement dans une sandwicherie.
+On s'arrête au niveau de **Nivelles** avec pour mission de trouver une friterie. C'est jour de marché et la grande place est remplie. Il est 13h mais les gens ne déjeunent pas. Ils sont à la bière. Forcément. Comme dit Jéjé l'ami belge : *"Ici c'est une bière, deux tartines"*. On terminera finalement dans une sandwicherie. Nana commande une eau pétillante et un panini chèvre-mozza. Nico prend une bière et deux tartines. En dessert on a quand même pris deux gaufres car on est des gens sérieux.
 
 On repart en direction de **Braine-le-Château** où nous passons faire un coucou à Jéjé, l'ami de Nana. Les retrouvailles font plaisir et fortes en émotions. 
 
