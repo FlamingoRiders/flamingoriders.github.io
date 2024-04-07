@@ -23,13 +23,13 @@ Un peu d'antiseptique et c'est reparti. Il est 11h quand nous quittons finalemen
 
 Nous empruntons de nouveau les [Ravel](https://ravel.wallonie.be/home/itineraires.html?to=Hainaut+%28Province+de%29&level=famille&scope=) qui sont décidément de supers pistes pour les vélos. Nous traversons **La Louvière** et restons sur nos gardes 🐺.
 
-Nous longeons d'abord le **Canal du Centre** puis le **Canal Charleroi-Bruxelles historiquue**. C'est fort plaisant, il y a quelques vélos de route, beaucoup d'animaux et le soleil est avec nous. Nous passerons la journée en t-shirt et auront quand même chaud.
+Nous longeons d'abord le **Canal du Centre** puis le **Canal Charleroi-Bruxelles historique**. C'est fort plaisant, il y a quelques vélos de route, beaucoup d'animaux et le soleil est avec nous. Nous passerons la journée en t-shirt et aurons quand même chaud.
 
 Nous apercevons des canards, des poules d'eau, des tortues. On observe aussi des oies mais on ne s'en approche pas, elles nous sifflent dessus et semblent prêtes à nous sauter à la carotide. On prend un peu peur pour être honnête 😅.
 
 On est quand même super bien ce qui fait dire à Nana : *"C'est incroyable, tout ce temps on est passé à côté de ces pistes cyclables*"
  
-*"Mais on habite pas ici, qu'est-ce que tu racontes ?"* Nana dit vrai. On aurait pu faire plus depuis plus longtemps à vélo. Un constat qui revient beaucoup décidément depuis notre départ !
+*"Mais on habite pas ici, qu'est-ce que tu racontes ?"* Nana dit vrai. On aurait pu faire plus depuis plus longtemps à vélo. Un constat qui revient décidément souvent depuis notre départ !
 
 On s'arrête au niveau de **Nivelles** avec pour mission de trouver une friterie. C'est jour de marché et la grande place est remplie. Il est 13h mais les gens ne déjeunent pas. Ils sont à la bière. Forcément. Comme dit Jéjé l'ami belge : "Ici c'est une bière, deux tartines". On terminera finalement dans une sandwicherie.
 
@@ -38,7 +38,7 @@ On repart en direction de **Braine-le-Château** où nous passons faire un couco
 ### Arrivée à Bruxelles
 Nous sommes à présents à une vingtaine de kilomètres de notre destination et une côte de 4% sur 1km se dresse sur notre route. Elle est bien régulière mais on doit travailler un peu pour la passer. Nous retrouvons le **Canal Charleroi-Bruxelles**. Le revêtement est absolument parfait, un billard. L'occasion de passer sur la plaque et le petit pignon, on va pouvoir écraser les pédales sur une dizaine de kilomètres ! Nico ne se sent plus, ça avance aussi vite que sur son vélo de route, ça va trop vite, c'est trop bien ! 
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ https://giphy.com/gifs/StoeNoDkYuum8cj8MV" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/StoeNoDkYuum8cj8MV" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Ayant pris quelques mètres d'avance on rebrousse chemin afin de retrouver Nana et là... Gros vent de face ! On ne s'est pas subitement métamorphosés en sur-hommes, on avait le vent dans le dos. La désillusion est énorme 😂.
 
