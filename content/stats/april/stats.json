@@ -63,5 +63,18 @@
     "weather": "🌦️",
     "startPointName": "Solre-le-Château",
     "endPointName": "Binche"
+  },
+  {
+    "date": "2024-04-06",
+    "startPos": [50.433454, 4.147471],
+    "endPos": [50.838488, 4.361881],
+    "distance": 71.29,
+    "time": "04h08",
+    "averageSpeed": 17.3,
+    "elevationGain": 498,
+    "mood": 4,
+    "weather": "🌤️",
+    "startPointName": "Binche",
+    "endPointName": "Bruxelles"
   }
 ]
