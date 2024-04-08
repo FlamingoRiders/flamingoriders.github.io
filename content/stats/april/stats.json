@@ -76,5 +76,18 @@
     "weather": "🌤️",
     "startPointName": "Binche",
     "endPointName": "Bruxelles"
+  },
+  {
+    "date": "2024-04-08",
+    "startPos": [50.838488, 4.361881],
+    "endPos": [51.222622, 4.397164],
+    "distance": 73.47,
+    "time": "04h26",
+    "averageSpeed": 16.6,
+    "elevationGain": 232,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Bruxelles",
+    "endPointName": "Anvers"
   }
 ]
