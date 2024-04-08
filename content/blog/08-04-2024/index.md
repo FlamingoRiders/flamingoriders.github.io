@@ -1,7 +1,7 @@
 ---
 title: 🍺 La bière d'Eduardo du 8 avril
 date: "2024-04-08"
-description: "Sous le soleil de Bruxelles, Mechelen, Boom et Anvers"
+description: "Sous le soleil de Bruxelles, Mechelen, Boom et Anvers."
 ---
 
 ![Bière d'Eduardo](../biere_eduardo.png)
@@ -13,7 +13,7 @@ Dimanche on a eu droit à une journée reposante où on a pu se détendre et pro
 ### Début de journée à Bruxelles
 On a commencé cette journée comme on nous l'a suggéré, en passant par la **Grand-Place de Bruxelles** avec les maisons des corporations. On profite de cette magnifique place piétonne de bonne heure mais il y a quand même déjà du monde.
 
-Dans une des rues qui donne sur la place, on trouve la **maison Dandois**, réputée pour ses spéculoos et gaufres. On prend des gaufres parce que c'est bon mais surtout par mesure de précaution. On va faire du vélo et on veut pas se retrouver en hypoglycémie 😋.
+Dans une des rues qui donne sur la place, on trouve la **maison Dandoy**, réputée pour ses spéculoos et gaufres. On prend des gaufres parce que c'est bon mais surtout par mesure de précaution. On va faire du vélo et on veut pas se retrouver en hypoglycémie 😋.
 
 On poursuit avec nos vélos dans la rue piétonne. On y appercoit notamment la grande fresque murale de Tintin et du capitaine Haddock. Tout on bout, on tombe sur l'immanquable **Manneken Pis**. Aujourd'hui, il est vêtu d'un bob, d'un pantalon cargo et d'un t-shirt avec une inscription "Change". Il a effectivement changé depuis notre dernière visite, c'est chouette de le voir habiller différemment.
 
@@ -27,7 +27,7 @@ Une dame me répond avec une voix paisible : *"Ne quittez pas jeune homme, je su
 
 *"Non pas du tout, je vous assure, enfin j'ai des origines de Camargue mais je suis flamant"*. 
 
-*"Ça suffit !". Elle me raccroche au nez.
+*"Ça suffit !"*. Elle me raccroche au nez.
 
 Bon, l'idée n'a pas pris. J'ai visiblement foutu une mauvaise ambiance au bureau de la mairie. On est que lundi matin, je n'imagine pas ce que ça donnerait si j'insiste en rappelant plus tard dans la semaine.
 
@@ -38,7 +38,7 @@ Enfin bref, après ce rapide tour du centre il est temps pour nous de dire au-re
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1HuAR7RyNWQq6vHwOFHWqx?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
 ### Mechelen, la très bonne surprise 
-Aujourd'hui, nous longeons encore des canaux puis la rivière **Rupel** qui se jettera dans **l'Escaut**. Nous tentons de rejoindre **Anvers** mais on nous a conseillé de passer par **Bloom** auparavant. Sur le chemin, alors que l'heure du déjeuner approche et que nous avons faim, nous décidons d'un arrêt. Nous apercevons au loin une église ou un château et on décide de rejoindre ce point. Nous atterrissons alors à **Mechelen** et nous sommes véritablement conquis, un place centrale ainsi que des rues piétonnes superbes et trouvons un endroit très sympathique en terrasse.
+Aujourd'hui, nous longeons encore des canaux puis la rivière **Rupel** qui se jettera dans **l'Escaut**. Nous tentons de rejoindre **Anvers** mais on nous a conseillé de passer par **Boom** auparavant. Sur le chemin, alors que l'heure du déjeuner approche et que nous avons faim, nous décidons d'un arrêt. Nous apercevons au loin une église ou un château et on décide de rejoindre ce point. Nous atterrissons alors à **Mechelen** et nous sommes véritablement conquis, un place centrale ainsi que des rues piétonnes superbes et trouvons un endroit très sympathique en terrasse.
 
 Cela fait plusieurs jours que nous sommes en Belgique et à chaque fois, Nico fait la même remarque. De loin, on aperçoit très souvent des tours imposantes avec des façades en briques ou pierres claires qui laissent supposer qu'il s'agit de châteaux ou de portes de ville. À chaque fois qu'on s'en rapproche on constate qu'il s'agit en fait d'églises. L'architecture flamande des bâtiments des places est, quant à elle, toujours aussi plaisante.
 
@@ -55,9 +55,9 @@ Notre journée s'achève à **Anvers** et encore une fois, nous sommes heureux d
 
 Au final, nous aurons roulé plus que prévu, près de septante cinq bornes au lieu de la cinquantaine envisagés initialement. Aucun regret, c'était une super journée ! Merci à Elisa et Tristan pour leurs conseils sur **Boom** et **Anvers** que nous pensions initialement parcourir bien plus rapidement 😉.
 
-Demain, nous traverserons la frontière direction les **Pays-Bas**, non sans une pointe de tristesse car la Belgique nous aura laissé de magnifiques souvenirs. La sympathie des gens, ses paysages, ses spécialités culinaires qui sont terribles pour nous qui sommes gourmands, ses pistes cyclables irréprochables et ses villes au centre piéton avec des places superbes. 
+Demain, nous traverserons la frontière direction les **Pays-Bas**, non sans une pointe de tristesse car la Belgique nous aura laissé de magnifiques souvenirs. La sympathie des gens, ses paysages, ses spécialités culinaires tellement gourmandes, ses pistes cyclables irréprochables et ses villes au centre piéton avec des places superbes. 
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Z6f7vzq3iP6Mw" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 
-On vous aime ! ❤️
+On vous aime ❤️ ! Changez rien les dauphins 🐬 !
