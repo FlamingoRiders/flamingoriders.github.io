@@ -89,5 +89,18 @@
     "weather": "🌤️",
     "startPointName": "Bruxelles",
     "endPointName": "Anvers"
+  },
+  {
+    "date": "2024-04-09",
+    "startPos": [51.222622, 4.397164],
+    "endPos": [51.633986, 4.801065],
+    "distance": 69.63,
+    "time": "03h25",
+    "averageSpeed": 20.4,
+    "elevationGain": 231,
+    "mood": 4,
+    "weather": "🌧️",
+    "startPointName": "Anvers",
+    "endPointName": "Bréda"
   }
 ]
