@@ -1,6 +1,6 @@
 ---
 title: 🧀 Le gouda d'Eduardo du 10 avril
-date: "2024-04-09"
+date: "2024-04-10"
 description: "Vent de face et moulins à vent !"
 ---
 
@@ -8,7 +8,7 @@ description: "Vent de face et moulins à vent !"
 
 Ce matin, nous nous levons avec un très beau ciel bleu. Cela fait plaisir à plus d'un titre. On va avoir une belle journée ensoleillée mais surtout, notre tente va pouvoir sécher d'ici qu'on décolle 😉. On a eu droit à une nuit fraîche et il a plu en plein milieu donc la toile est encore mouillée au réveil.
 
-Nous partons de Bréda et après seulement quelques minutes, tombons sur une magnifique éolienne d'époque, tout en brique et avec 4 pales en bois.
+Nous partons de **Bréda** et après seulement quelques minutes, tombons sur une magnifique éolienne d'époque, tout en brique et avec 4 pales en bois.
 
 🤷‍♀️ *"Mais Eduardo enfin ce n'est pas une éolienne mais un moulin à vent !*".
 
@@ -27,7 +27,7 @@ Nous affrontons donc le vent sur de longues portions. Nous sommes également ame
 ### Traversée de Dordrecht
 Nous roulons pendant deux heures et traversons **Dordrecht**. Nous passons notamment plein de petites maisons construites le long de canaux. Beaucoup d'oiseaux dans les parages, des oies, des canards, des cygnes et des hérons. C'est quand même sympa d'avoir ça directement dans son jardin. L'heure tourne et nous traversons la ville sans trouver un coin où manger 😱.
 
-On a cherché mais toutes les rues que nous passons n'ont pas de restaurants ou rien n'est ouvert.  Fatigués, vers 14h30, nous nous rendons à l'évidence et finissons par capituler pour nous rabattre chez un glacier 🍨🍦. C'était très bon au passage. 
+On a cherché mais toutes les rues que nous passons n'ont pas de restaurants ou bien rien n'est ouvert. Fatigués, vers 14h30, nous nous rendons à l'évidence et finissons par capituler pour nous rabattre chez un glacier 🍨🍦. C'était très bon au passage. 
 
 *"Mais mais, vous avez mangé du sucré au déjeuner ?!*"
 
@@ -50,14 +50,14 @@ Devant nous, d'immenses moulins, dix-neuf au total, se dressent au milieu du pol
 Nous avons de la chance car le ciel est complètement ensoleillé. Il y a de grands espaces verts, des entrées d'eau partout dans les terres. À nouveau des canards et des oies se baladent librement, certains de ces oiseaux volent au milieu de ce décor digne d'une carte postale. Nous sommes frappés par ce petit coin de paradis 😮.
 
 ### De Rotterdam à Gouda
-Nous sortons du village et rejoignons l'autre bras de rivière que celui par lequel nous sommes arrivées : le **Lek**. Ces deux bras vont ensuite aller se jeter dans le **Nieuwe Maas (la Nouvelle Meuse)**. Nous allons le parcourir car étant un peu juste niveau timing et ne pouvant traverser qu'en remontant la rivière, nous choisissons plutôt d'emprunter le waterboat qui nous amène à **Rotterdam** en 40 minutes.
+Nous sortons du village et rejoignons l'autre bras de rivière que celui par lequel nous sommes arrivés : le **Lek**. Ces deux bras vont ensuite aller se jeter dans le **Nieuwe Maas (la Nouvelle Meuse)**. Nous allons le parcourir car étant un peu juste niveau timing et ne pouvant traverser qu'en remontant la rivière, nous choisissons plutôt d'emprunter le waterboat qui nous amène à **Rotterdam** en 40 minutes.
 
-Nous nous baladons dans **Rotterdam** que nous apprécions bien qu'on nous ai prévenu : très différente des autres villes hollandaises. À notre débarquement, nous atterrissons au pied de gratte-ciels imposants. Le cadre n'est pas deplaisant. Il peut rappeler les alentours de la Tamise et de la City de Londres. 
+Nous nous baladons dans **Rotterdam** que nous apprécions bien qu'on nous ai prévenu : très différente des autres villes hollandaises. À notre débarquement, nous atterrissons au pied de gratte-ciels imposants. Le cadre n'est pas déplaisant. Il peut rappeler les alentours de la **Tamise** et de la **City de Londres**. 
 
 Nous nous baladons dans le centre, nous faisons vite mais savons que nous pourrons revenir à **Rotterdam**, c'est faisable en Thalys depuis Paris. 
 
 Nous avons tout de même le temps d'en apercevoir un bout et surtout les fameuses **maisons cubiques**. 
 
-Pour repartir, nous traversons de superbes banlieues entre **Rotterdam** et **Gouda**. Les maisons sont magnifiques, toujours bordés soigneusement par des canaux et la faune est omniprésente. Les routes cyclables sont toujours un régal.
+Pour repartir, nous traversons de superbes banlieues entre **Rotterdam** et **Gouda**. Les maisons sont magnifiques, toujours bordées soigneusement par des canaux et la faune est omniprésente. Les routes cyclables sont toujours un régal.
 
 Nous achèverons notre périple du jour avec 80 km au compteur. Une journée pleine ! 👌
