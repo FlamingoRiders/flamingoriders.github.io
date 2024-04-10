@@ -27,7 +27,7 @@ La deuxième c'est qu'il ne fait pas bien chaud aujourd'hui et qu'on dort au cam
 ### Le vilain vent
 Ayant prévu des salades en pique-nique, nous faisons une pause pas loin d'**Essen**. En fin de repas, nous sommes surpris par un très fort vent et nous dépêchons de repartir. Nana commence déjà à ne plus sentir ses doigts.
 
-Les bourrasques sont imprévisibles et nous déportent parfois de quelques centimètres sur la chaussée. Quand on ne s'y attend pas ça surprend et parfois le vent un peu violent tout de même 😲.
+Les bourrasques sont imprévisibles et nous déportent parfois de quelques centimètres sur la chaussée. Quand on ne s'y attend pas ça surprend et parfois le vent est un peu violent tout de même 😲.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/26n6Mr1bkvZNAJup2" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -37,7 +37,7 @@ On passe la frontière aux alentours de 14h. Encore une fois on y voit que du fe
 
 Je plaisante bien sûr. Quelle chance incroyable de pouvoir circuler librement sans se rendre compte qu'on change de pays. On vit vraiment sur un continent magique.
 
-On décide quand même de faire une pause dans un petit café pour se réchauffer. Il est 15h et c'est assez animé. On entre et là... Ça parle dans tous les sens et on ne comprends rien ! Je me sens complètement perdu alors que j'étais bien plus à l'aise en Belgique où l'on parlait flamand.
+On décide quand même de faire une pause dans un petit café pour se réchauffer. Il est 15h et c'est assez animé. On entre et là... Ça parle dans tous les sens et on ne comprend rien ! Je me sens complètement perdu alors que j'étais bien plus à l'aise en Belgique où l'on parlait flamand.
 
 *"Mais Eduardo, ça fait trois jours qu'on entend du néerlandais. Les flamands parlent le néerlandais. C'est la même langue*"
 
