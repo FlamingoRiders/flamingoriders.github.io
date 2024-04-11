@@ -115,5 +115,18 @@
     "weather": "☀️",
     "startPointName": "Bréda",
     "endPointName": "Gouda"
+  },
+  {
+    "date": "2024-04-11",
+    "startPos": [52.000341, 4.758854],
+    "endPos": [52.098790, 5.110396],
+    "distance": 44.35,
+    "time": "02h12",
+    "averageSpeed": 20.2,
+    "elevationGain": 61,
+    "mood": 4,
+    "weather": "☁️",
+    "startPointName": "Gouda",
+    "endPointName": "Utrecht"
   }
 ]
