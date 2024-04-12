@@ -1,7 +1,7 @@
 ---
 title: ☕ Le café d'Eduardo du 4 avril
 date: "2024-04-04"
-description: "Retrouvailles familiales"
+description: "Retrouvailles familiales."
 ---
 
 ![Café d'Eduardo](../cafe_eduardo.png)
