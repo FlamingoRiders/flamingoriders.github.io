@@ -128,5 +128,18 @@
     "weather": "☁️",
     "startPointName": "Gouda",
     "endPointName": "Utrecht"
+  },
+  {
+    "date": "2024-04-13",
+    "startPos": [52.098790, 5.110396],
+    "endPos": [52.282630, 4.505500],
+    "distance": 70.62,
+    "time": "04h44",
+    "averageSpeed": 14.9,
+    "elevationGain": 56,
+    "mood": 3,
+    "weather": "🌤️",
+    "startPointName": "Utrecht",
+    "endPointName": "Lisse"
   }
 ]
