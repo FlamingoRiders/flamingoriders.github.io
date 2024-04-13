@@ -8,17 +8,15 @@ description: "Balade dans Utrecht à la poursuite de Miffy !"
 
 Ce matin on se réveille avec un programme allégé qui ne sera pas pour nous déplaire. On pose les vélos aujourd'hui et on visite la ville d'**Utrecht** !
 
-**Utrecht** est une ville sympa pour flâner. Dès le matin,nous nous promeneons dans le centre et le long des canaux. Les canaux en contrebas abritent de nombreuses galeries marchandes et restaurants. Nous apprenons d'ailleurs des restaurants se faire livrer leur stock en péniche. 
+**Utrecht** est une ville sympa pour flâner. Dès le matin, nous nous promeneons dans le centre et le long des canaux. Les quais des canaux en contrebas sont occupés par de nombreuses galeries marchandes et des restaurants. Nous observons d'ailleurs des restaurants se faire livrer en péniche. 
 
-Alors que nous nous baladons, nous croisons énormément de jeunes. **Utrecht** est en effet une ville très étudiante, ses étudiants représentent 20% de sa population. Elle compte d'ailleurs la plus grande université du pays. Tout ceci pour indiquer que la ville déborde de lieux de vies comme des cafés, des bars et des parcs.
+Alors que nous nous baladons, nous croisons énormément de jeunes. **Utrecht** est en effet une ville très étudiante, ses étudiants représentent 20% de sa population. Elle compte d'ailleurs la plus grande université du pays. Tout ceci pour indiquer que la ville déborde de lieux de vie comme des cafés, des bars et des parcs.
 
-Nous nous baladons également autour de la cathédrale et de sa tour, la **Dom Tower**.
-
-On aime beaucoup, c'est une ville où l'on se sent bien.
+Nous nous baladons également autour de la cathédrale et de sa tour, la **Dom Tower**. On aime beaucoup, c'est une ville où l'on se sent bien.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4uUG5RXrOk84mYEfFvj3cK?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-**Utrecht** est la ville natale de **Dick Bruna** qui est le créateur du lapin blanc [Miffy (ou Nijntje)](https://fr.m.wikipedia.org/wiki/Miffy) en néerlandais. On retrouve **Miffy** un peu partout dans la ville. Sur une rue, il y a des feux tricolores avec son symbole en vert et rouge pour le passage piéton. Un peu partout, on retrouve des statues de **Miffy**. Une place porte même son nom : **ni­jnt­je pleint­je** !
+**Utrecht** est la ville natale de **Dick Bruna** qui est le créateur du lapin blanc [Miffy (ou Nijntje en néerlandais)](https://fr.m.wikipedia.org/wiki/Miffy). On retrouve **Miffy** un peu partout dans la ville, sur des statues, dans les commerces. Sur une rue, il y a des feux tricolores avec son symbole en vert et rouge pour le passage piéton. Une place porte même son nom : **ni­jnt­je pleint­je** !
 
 Bon, c'est bien sympa tout ça mais ils en feraient pas un peu beaucoup les néerlandais avec leur lapin ? Ne vous en faites pas, j'ai décidé de vérifier par moi-même ! Bon et accessoirement, je n'ai pas eu le choix non plus, Nana a entraîné Nico et moi au **musée Miffy**. Attention, pour ceux qui n'aiment pas les spoilers, ne lisez pas la section suivante 😉.
 
