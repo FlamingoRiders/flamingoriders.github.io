@@ -1,7 +1,7 @@
 ---
 title: 🧀 Le gouda d'Eduardo du 13 avril
 date: "2024-04-13"
-description: "Ça souffle fort sur les tulipes de Keukenhof"
+description: "Ça souffle fort sur les tulipes de Keukenhof."
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
@@ -10,7 +10,7 @@ Ce matin, on reprend la route après notre jour de repos à **Utrecht**.
 
 Nous sortons de la ville où la circulation en vélo est plus importante qu'en voiture. À une dizaine de kilomètres de notre point de départ, alors que nous longeons une piste cyclable au milieu d'un parc, nous avons l'agréable surprise de tomber sur le **Kasteel Haar**. 
 
-Nous l'avions repéré dans les guides touristiques de la ville comme étant *"à faire"* mais nous n'avions pas pu le visiter la veille car il est trop éloigné du centre. Par chance, notre itinéraire du jour nous y emmène, nous nous y arrêtons quelques instants car le chateau est splendide !
+Nous l'avions repéré dans les guides touristiques de la ville comme étant *"à faire"* mais nous n'avons pas pu le visiter la veille car il est trop éloigné du centre. Par chance, notre itinéraire du jour nous y emmène, nous nous y arrêtons quelques instants car le chateau est splendide !
 
 ### Le retour de l'ennemi juré 
 
@@ -28,7 +28,7 @@ Le genre de vent qui ne donne plus envie de pédaler car on a l'impression de g�
 
 Bref, le genre de vent qui fait ch\*\*\* 😡. 
 
-Aujourd'hui, il nous faut lutter contre ce genre de vent là. L'avantage dans notre situation, c'est qu'on ne peut pas juste renoncer en se disant je m'arrête et je rentre à la maison. On a plus le logement de la veille et on doit rallier notre prochain point. Il nous faut donc prendre notre mal en patience, même si c'est des moments de vélos franchement déplaisants.
+Aujourd'hui, il nous faut lutter contre ce genre de vent là. L'avantage dans notre situation, c'est qu'on ne peut pas juste renoncer en se disant je m'arrête et je rentre à la maison. On a plus le logement de la veille et on doit rallier notre prochain point. Il nous faut donc prendre notre mal en patience, même si c'est des moments de vélo franchement déplaisants.
 
 En début d'après-midi, on commence un peu à s'agacer et à tirer la langue.
 
@@ -46,7 +46,7 @@ Nous finissons par atteindre **Lisse**. Nous commençons à entrevoir nos premie
 
 **Keukenhof** est un jardin botanique célèbre dans le monde entier. Entre la fin du mois de mars et le début du mois de mai, des milliers de visiteurs y passent pour admirer les fleurs et particulièrement les tulipes.
 
-N'ayant pas de billets pour le parc car tout est vendu bien en avance, nous avons tout de même la possibilité de nous promener à vélo autour du domaine dans les champs de tulipes. C'est magnifique, nous sommes submergés par des fleurs de toutes les couleurs. Le vent qui nous a si lourdement impacté sur toutes nos journées vient nous conforter avec une brise nous permettant de sentir l'odeur des fleurs. on est pas loin de faire la paix pour cette fois-ci 😉.
+N'ayant pas de billets pour le parc car tout est vendu bien en avance, nous avons tout de même la possibilité de nous promener à vélo autour du domaine dans les champs de tulipes. C'est magnifique, nous sommes submergés par des fleurs de toutes les couleurs. Le vent qui nous a si lourdement impacté toute la journée vient nous conforter avec une brise nous permettant de sentir l'odeur des fleurs. On est pas loin de faire la paix pour cette fois-ci 😉.
 
 Pendant notre parcours, nous passons devant l'entrée de **Keukenhof** et là nous nous rendons compte de l'afflux de visiteurs. Des files interminables de voitures et bus cherchant à sortir du parc qui approche de son horaire de fermeture, un parking aussi grand qu'à EuroDisney. C'est vraiment une industrie !
 
