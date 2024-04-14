@@ -141,5 +141,18 @@
     "weather": "🌤️",
     "startPointName": "Utrecht",
     "endPointName": "Lisse"
+  },
+  {
+    "date": "2024-04-14",
+    "startPos": [52.282630, 4.505500],
+    "endPos": [52.374331, 4.897544],
+    "distance": 44.23,
+    "time": "02h39",
+    "averageSpeed": 14.9,
+    "elevationGain": 133,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Lisse",
+    "endPointName": "Amsterdam"
   }
 ]
