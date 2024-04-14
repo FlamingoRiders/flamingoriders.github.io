@@ -12,7 +12,7 @@ Aujourd'hui, on se lève avec le sourire. C'était sans doute notre meilleure nu
 
 
 ### Les dunes de sable entre Noordwijk et Zandvoort
-On part des champs de fleurs pour regagner la côte seulement quelques kilomètres plus loin. Lorsqu'on l'atteint, on voit une plage de sable fin, la mer du Nord et au loin, à plusieurs centaines de mètres, de nombreuses éoliennes offshore. De nombreux parapentes décollent depuis la plage.
+On part des champs de fleurs pour regagner la côte seulement quelques kilomètres plus loin. Lorsqu'on l'atteint, on voit une plage de sable fin, la mer du Nord. Au loin, à plusieurs centaines de mètres, on aperçoit de nombreuses éoliennes offshore. De nombreux parapentes décollent depuis la plage.
 
 Nous longeons la côte grâce à une piste cyclable qui coupe à travers le paysage. Nous sommes en plein milieu des [Hollands Duin](https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/hollands-duin), des dunes de sables de plusieurs mètres de haut qui bordent le littoral. C'est un cadre que nous trouvons formidable. Aucune voiture ne circule, l'espace est protégé, seulement un chemin de randonnée et cette piste cyclable. Elle est légèrement vallonnée car elle suit le tracé des dunes. Nous profitons pleinement de cette portion car même aux **Pays-Bas** où nous avons des pistes cyclables de qualité partout, nous sentons que celle-ci est toute particulière. 
 
