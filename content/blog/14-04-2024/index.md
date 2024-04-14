@@ -16,7 +16,7 @@ On part des champs de fleurs pour regagner la côte seulement quelques kilomètr
 
 Nous longeons la côte grâce à une piste cyclable qui coupe à travers le paysage. Nous sommes en plein milieu des [Hollands Duin](https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/hollands-duin), des dunes de sables de plusieurs mètres de haut qui bordent le littoral. C'est un cadre que nous trouvons formidable. Aucune voiture ne circule, l'espace est protégé, seulement un chemin de randonnée et cette piste cyclable. Elle est légèrement vallonnée car elle suit le tracé des dunes. Nous profitons pleinement de cette portion car même aux **Pays-Bas** où nous avons des pistes cyclables de qualité partout, nous sentons que celle-ci est toute particulière. 
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/eVh9uXk3aC6m4" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/9hEZaVdGkpZte" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Nous poursuivons sur cette voie une petite dizaine de kilomètres. C'est une des rares fois où on aurait aimé que ce soit 2 voire 3 fois plus long ! Nous basculons dans la province **Noord-Holland** (4ème province traversée!) et empruntons la vélo route de la mer du nord, l'[EuroVélo 12](https://fr.eurovelo.com/ev12/netherlands) sur une petite portion, la **kustroute**.
 
@@ -32,7 +32,7 @@ Quoi qu'il en soit, nous nous arrêtons pour manger sur le pouce dans une friter
 ### Amsterdam
 Nous repartons vers **Amsterdam**. À l'approche de la ville, on sent que la circulation s'intensifie. Pas en voiture mais en vélo bien sûr ! Malheureusement, nous arrivons dans le centre-ville et il y a beaucoup de travaux. Le GPS buggue en cherchant à recalculer. Nous sommes très chargés. Il y a plein de monde. On est dans une capitale. C'est un peu le bazar 😅.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/9hEZaVdGkpZte" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/T2bDC7TBZfdJAqNCSh" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Nous finissons par rejoindre notre destination après avoir zigzaguer comme on pouvait. Ça roule vite à **Amsterdam**. Nana et Nico me dise t que c'est parce que les locaux ont l'habitude. Je pense plutôt que c'est parce que tout le monde est un peu *"loco"* sur la route si vous voyez ce que je veux dire 😉.
 
