@@ -30,10 +30,10 @@ Sur la grand place centrale se déroule une fête foraine. Elle semble assez gro
 Quoi qu'il en soit, nous nous arrêtons pour manger sur le pouce dans une friterie 🍟😋.
 
 ### Amsterdam
-Nous repartons vers **Amsterdam**. À l'approche de la ville, on sent que la circulation s'intensifie. Pas en voiture mais en vélo bien sûr ! Malheureusement, nous arrivons dans le centre-ville et il y a beaucoup de travaux. Le GPS buggue en cherchant à recalculer. Nous sommes très chargés. Il y a plein de monde. On est dans une capitale. C'est un peu le bazar 😅.
+Nous repartons vers **Amsterdam**. À l'approche de la ville, on sent que la circulation s'intensifie. Pas en voiture mais en vélo bien sûr ! Malheureusement, nous arrivons dans le centre-ville et il y a beaucoup de travaux. Le GPS bugge en cherchant à recalculer. Nous sommes très chargés. Il y a plein de monde. On est dans une capitale. C'est un peu le bazar 😅.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/T2bDC7TBZfdJAqNCSh" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Nous finissons par rejoindre notre destination après avoir zigzaguer comme on pouvait. Ça roule vite à **Amsterdam**. Nana et Nico me dise t que c'est parce que les locaux ont l'habitude. Je pense plutôt que c'est parce que tout le monde est un peu *"loco"* sur la route si vous voyez ce que je veux dire 😉.
+Nous finissons par rejoindre notre destination après avoir zigzaguer comme on pouvait. Ça roule vite à **Amsterdam**. Nana et Nico me disent que c'est parce que les locaux ont l'habitude. Je pense plutôt que c'est parce que tout le monde est un peu *"loco"* sur la route si vous voyez ce que je veux dire 😉.
 
-Nous rejoignons Florence et Yan, qui habitent la ville et nous emmènent dans un super bar au bord de l'eau où nous goûtons pour la première fois les **bitterballen** ! 
+Nous rejoignons Florence et Yann, qui habitent la ville et nous emmènent dans un super bar au bord de l'eau où nous goûtons pour la première fois les **bitterballen** ! 
