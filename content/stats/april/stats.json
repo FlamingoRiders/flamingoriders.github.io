@@ -154,5 +154,18 @@
     "weather": "🌤️",
     "startPointName": "Lisse",
     "endPointName": "Amsterdam"
+  },
+  {
+    "date": "2024-04-15",
+    "startPos": [52.374331, 4.897544],
+    "endPos": [52.434479, 5.419618],
+    "distance": 55.34,
+    "time": "03h15",
+    "averageSpeed": 17,
+    "elevationGain": 83,
+    "mood": 2,
+    "weather": "🌧️",
+    "startPointName": "Amsterdam",
+    "endPointName": "Lelystad"
   }
 ]
