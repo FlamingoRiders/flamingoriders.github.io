@@ -167,5 +167,18 @@
     "weather": "🌧️",
     "startPointName": "Amsterdam",
     "endPointName": "Lelystad"
+  },
+  {
+    "date": "2024-04-16",
+    "startPos": [52.434479, 5.419618],
+    "endPos": [52.497077, 6.099445],
+    "distance": 66.40,
+    "time": "03h55",
+    "averageSpeed": 17.0,
+    "elevationGain": 67,
+    "mood": 3,
+    "weather": "🌧️",
+    "startPointName": "Lelystad",
+    "endPointName": "Zwolle"
   }
 ]
