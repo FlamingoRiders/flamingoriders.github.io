@@ -1,7 +1,6 @@
 ---
 title: 🧀 Le gouda d'Eduardo du 16 avril
-date: "2024-04-16
-6"
+date: "2024-04-16"
 description: "Tot ziens Flevopolder en Veluwemeer !"
 ---
 
@@ -59,4 +58,4 @@ On poursuit notre route et on passe dans la province de l'**Overijssel**, notre 
 
 On arrive à **Zwolle** et on adore le charme. On sent également que c'est une ville chargée d'histoire, on aperçoit entre autres son centre historique et la très belle porte **Sassenpoort (Saxon Gate)** à entrée.
 
-On a le temps de prendre Dre quelques belles photos sous le soleil puis la pluie retombe. Un peu une habitude aujourd'hui 😅.
+On a le temps de prendre quelques belles photos sous le soleil puis la pluie retombe. On est pas vraiment surpris 😅.
