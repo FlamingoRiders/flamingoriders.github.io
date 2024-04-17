@@ -180,5 +180,18 @@
     "weather": "🌧️",
     "startPointName": "Lelystad",
     "endPointName": "Zwolle"
+  },
+  {
+    "date": "2024-04-17",
+    "startPos": [52.497077, 6.099445],
+    "endPos": [52.933883, 6.286660],
+    "distance": 66.51,
+    "time": "03h59",
+    "averageSpeed": 16.7,
+    "elevationGain": 47,
+    "mood": 4,
+    "weather": "🌨️",
+    "startPointName": "Zwolle",
+    "endPointName": "Oosterwolde"
   }
 ]
