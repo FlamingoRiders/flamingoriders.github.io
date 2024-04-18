@@ -193,5 +193,18 @@
     "weather": "🌨️",
     "startPointName": "Zwolle",
     "endPointName": "Oosterwolde"
+  },
+  {
+    "date": "2024-04-18",
+    "startPos": [52.933883, 6.286660],
+    "endPos": [53.171559, 6.872985],
+    "distance": 75.73,
+    "time": "04h19",
+    "averageSpeed": 17.6,
+    "elevationGain": 153,
+    "mood": 4,
+    "weather": "☁️",
+    "startPointName": "Oosterwolde",
+    "endPointName": "Zuidbroek"
   }
 ]
