@@ -1,12 +1,12 @@
 ---
 title: 🧀 Le gouda d'Eduardo du 18 avril
 date: "2024-04-18"
-description: "réveil compliqué "
+description: "Drents-Friese Wold, Fochteloërveen et Groningen"
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
 
-Ce matin, le réveil est compliqué. Il faut dire qu'on a dormi dans un camping et pas très bien. En sortant de la tente, Nana observe que la toile extérieure a pris un peu de gel. Ça explique pourquoi il faisait un peu frisquet cette nuit 😅. Du coup qui dit nuit de mauvaise qualité et des affaires un peu humides dit un peu de retard à l'allumage. 
+Ce matin, le réveil est compliqué. Il faut dire qu'on a dormi dans un camping et qu'il a fait froid. En sortant de la tente, Nana observe que la toile extérieure a pris un peu de gel. Ça explique pourquoi il faisait un peu frisquet cette nuit 😅. Du coup, qui dit nuit de mauvaise qualité et des affaires un peu humides dit un peu de retard à l'allumage. 
 On trouve deux alliés pour nous aider à faire sécher en partie nos affaires, les douches du camping où un radiateur semble avoir bien fonctionné pendant la nuit et un rayon de soleil matinal pour la toile de tente. 
 
 On finit par partir vers 11h30 ce qui même pour nous est très tard. D'habitude on est plutôt sur un réveil à 8h et un départ à 10h30 après avoir mangé et tout ranger.  rapport. On a du retard et le programme est chargé mais qu'importe !
@@ -56,9 +56,7 @@ Nous passons par la charmante ville de **Groningen**. Elle nous semble assez gro
 
 En repartant, nous avons encore une vingtaine de kilomètres avant de retrouver notre point de chute. Malgré la longueur de notre journée, ces derniers kilomètres seront parmi les plus agréables de notre journée. C'est un réel plaisir de rouler sur cette portion. 
 
-Ce pays nous aura offert parmi les meilleurs moments vélo de notre vie. Ceux où vous êtes bien, ceux où vous ne pensez à rien, ceux où tout déroule. Le bonheur et la magie de ce sport !  
-
-### L'Arc-en-Ciel - Driver's High
+Ce pays nous aura offert parmi les meilleurs moments vélo de notre vie. Ceux où vous êtes bien, ceux où vous ne pensez à rien, ceux où tout déroule. Le bonheur et la magie du vélo 😍 !  
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4eL14qmwVFFgXoOqy9fWOt?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
