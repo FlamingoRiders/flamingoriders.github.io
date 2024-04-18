@@ -41,12 +41,12 @@ De petites maisons avec des toits en chaume se présentent de chaque côté des 
 
 En repartant, nous faisons face à une averse importante mais régulière. Nous n'avons pas de vent, nous sommes bien couverts. C'est donc plus que supportable. Les routes sont toujours aussi bonnes, c'est même le moment de la journée où on roule le mieux. On apprécie la pluie pendant plus d'une heure.
 
-Il semblerait que la météo cherche à dialoguer avec nous depuis quelques jours même si on ne comprend pas trop. Elle veut tour à tour nous tester, nous surprendre et éprouver notre patience. Comme si on doutait de ses capacités à se déchaîner gratuitement.
+Il semblerait que la météo cherche à dialoguer avec nous depuis quelques jours même si on ne la comprend pas trop. Elle veut tour à tour nous tester, nous surprendre et éprouver notre patience. Comme si on doutait de ses capacités à se déchaîner gratuitement.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/11cFgJK4tK4Jpu" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Et puis tout à coup elle décide carrément de nous envoyer des tartes dans la tronche ! Désolé mais on ne peut pas le dire autrement 😂.
 
-Non non on ne te sous-estime pas, on sait que tu peux nous mettre la misère, on veut juste que tu nous laisses tranquille en fait. Rien à faire. Un pluie de grêle s'abbat sur nous pendant près d'un quart d'heure. Elle s'intensifie et on est obligés de se réfugier sous un abri-bus le temps que ça passe un peu.
+*"Non non on ne te sous-estime pas, on sait que tu peux nous mettre la misère, on veut juste que tu nous laisses tranquille en fait"*. Rien à faire. Un pluie de grêle s'abbat sur nous pendant près d'un quart d'heure. Elle s'intensifie et on est obligés de se réfugier sous un abri-bus le temps que ça passe un peu.
 
 Lorsque l'on peut repartir, on traverse une forêt au cœur du **Nationaal Park Drents-Friese Wolf** où l'on constate les dégâts. Un drap blanc tapisse le sol, on croit d'abord à de la neige, il fait 1-2 degrés. Mais non ! C'est une nuée de grêlons qui recouvrent complètement le sol ! On a droit à des photos dantesques et également quelques lacs entourés de brume et de grêlons du fait du froid. Nous terminons cette journée bien humides et fatigués mais avec la sensation d'avoir traversé quelque chose d'épique. Au passage, nous franchissons la barre des 1000 kilomètres parcourus depuis notre départ 😀 !
