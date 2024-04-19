@@ -1,7 +1,7 @@
 ---
 title: 🧀 Le gouda d'Eduardo du 18 avril
 date: "2024-04-18"
-description: "Drents-Friese Wold, Fochteloërveen et Groningen"
+description: "À travers Drents-Friese Wold, Fochteloërveen et Groningen"
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
@@ -9,7 +9,7 @@ description: "Drents-Friese Wold, Fochteloërveen et Groningen"
 Ce matin, le réveil est compliqué. Il faut dire qu'on a dormi dans un camping et qu'il a fait froid. En sortant de la tente, Nana observe que la toile extérieure a pris un peu de gel. Ça explique pourquoi il faisait un peu frisquet cette nuit 😅. Du coup, qui dit nuit de mauvaise qualité et des affaires un peu humides dit un peu de retard à l'allumage. 
 On trouve deux alliés pour nous aider à faire sécher en partie nos affaires, les douches du camping où un radiateur semble avoir bien fonctionné pendant la nuit et un rayon de soleil matinal pour la toile de tente. 
 
-On finit par partir vers 11h30 ce qui même pour nous est très tard. D'habitude on est plutôt sur un réveil à 8h et un départ à 10h30 après avoir mangé et tout ranger.  rapport. On a du retard et le programme est chargé mais qu'importe !
+On finit par partir vers 11h30 ce qui même pour nous est très tard. D'habitude on est plutôt sur un réveil à 8h et un départ à 10h30 après avoir mangé et tout rangé. On a du retard et le programme est chargé mais qu'importe !
 
 ### Plusieurs parcs traversés
 
@@ -31,7 +31,7 @@ Toutefois, comme aujourd'hui est notre dixième jour dans le pays et que demain 
 
 ### Les Pays-Bas à vélo 
 
-Que l'on soit clair, nous ne visons pas à être dégradant vis-à-vis de la France (dans un premier temps 😝), nous voulons être objectifs avant tout.
+Que l'on soit clair, nous ne visons pas à être dégradant vis-à-vis de la France, nous voulons être objectifs avant tout.
 
 Les **Pays-Bas** sont un pays de vélo. La France ne l'est pas. Attention, nous ne disons pas qu'il n'y a pas de mordus de vélo dans notre pays, c'est faux car nous en sommes. Il y a bien sûr le tour de France, des cols de légende, des grands champions et des régions où plein de disciplines cyclistes sont pratiquées. Mais nous ne sommes pas un pays de vélo. Pas au sens des **Pays-Bas**.
 
@@ -45,11 +45,11 @@ Ce pays a des décennies d'avance sur nous sur ses infrastructures cyclables.
 
 ### Le problème des pistes cyclables en France
 
-En France, il y a un problème majeur dans l'aménagement du territoire et le cycliste n'est jamais considéré à sa juste valeur. On est ni pris au sérieux ni respecté que l'on soit sur une piste cyclable, sur la route ou sur un trottoir. Il n'y a pas d'espace dédié et cela entraîne des problèmes majeurs : les routes sont peu sûres et inconsistantes. Parfois, la piste commence sur la route puis termine sur un trottoir. 
+En France, il y a un problème majeur dans l'aménagement du territoire et le cycliste n'est jamais considéré à sa juste valeur. On n'est ni pris au sérieux ni respecté que l'on soit sur une piste cyclable, sur la route ou sur un trottoir. Il n'y a pas d'espace dédié et cela entraîne des problèmes majeurs : les routes sont peu sûres et inconsistantes. Parfois, la piste commence sur la route puis termine sur un trottoir. 
 
 On gêne tout le monde quand on est cycliste, comment voulez-vous qu'il n'y ait pas embrouille ou accident avec un automobiliste ou piéton ? Tout le monde va faire des erreurs et s'insulter car l'aménagement des pistes ne suit aucune logique. Il change d'une rue à l'autre. En tant que cycliste, vous courrez souvent plus de risques si vous roulez sur une piste cyclable *"partiellement aménagée"* que si vous êtes sur la route.
 
-Si l'on veut vraiment favoriser les mobilités douces, encourager la pratique sportive et protéger les plus vulnérables il faut penser les choses différemment et préparer la ville de demain. Pour l'instant, l'aménagement des pistes en France, au mieux c'est de l'incompétence au pire du green-washing 😬.
+Si l'on veut vraiment favoriser les mobilités douces, encourager la pratique sportive et protéger les plus vulnérables, il faut penser les choses différemment et préparer la ville de demain. Pour l'instant, l'aménagement des pistes en France, au mieux c'est de l'incompétence au pire du green-washing 😬.
 
 ### Visite de Groningen
 Nous passons par la charmante ville de **Groningen**. Elle nous semble assez grosse, plusieurs centres, au moins un **Grote-Markt** et un **Niewe-Markt**. Des bâtiments historiques et certains plus récents. La ville semble dynamique, nous croisons beaucoup de personnes en terrasses, dans les rues commerçantes du centre. Il semble également y avoir pas mal d'activités culturelles. Très plaisant malgré le peu de temps où nous y resterons.
@@ -65,7 +65,7 @@ Ce pays nous aura offert parmi les meilleurs moments vélo de notre vie. Ceux o�
 Demain, nous quitterons ce pays avec plein de beaux souvenirs en tête et un peu de nostalgie mais nous y reviendrons c'est certain 😉.
 
 Une liste non exhaustive de ce que nous avons apprécié :
-Les pistes cyclables, les tulipes, les moulins, les oiseaux en liberté (hérons, cigognes, canards, oies en tout genre), les shetlands, moutons chèvres en tout genre qui patûrent librement, les maisons et pelouses parfaitement décorées et pleines de charme.
+Les pistes cyclables, les tulipes, les moulins, les canaux, les oiseaux en liberté (hérons, cigognes, canards, oies en tout genre), les shetlands, moutons et chèvres qui patûrent librement, les maisons et pelouses parfaitement décorées et pleines de charme.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/NHh7D7qR0LTSDtfu8p" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
