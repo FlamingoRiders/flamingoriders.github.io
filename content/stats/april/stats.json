@@ -206,5 +206,18 @@
     "weather": "☁️",
     "startPointName": "Oosterwolde",
     "endPointName": "Zuidbroek"
+  },
+  {
+    "date": "2024-04-19",
+    "startPos": [53.171559, 6.872985],
+    "endPos": [53.000134, 7.494666],
+    "distance": 63.44,
+    "time": "03h36",
+    "averageSpeed": 17.6,
+    "elevationGain": 62,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Zuidbroek",
+    "endPointName": "Papenburg"
   }
 ]
