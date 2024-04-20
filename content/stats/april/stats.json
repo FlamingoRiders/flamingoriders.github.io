@@ -219,5 +219,18 @@
     "weather": "🌦️",
     "startPointName": "Zuidbroek",
     "endPointName": "Papenburg"
+  },
+  {
+    "date": "2024-04-20",
+    "startPos": [53.000134, 7.494666],
+    "endPos": [53.131450, 8.192638],
+    "distance": 57.17,
+    "time": "03h07",
+    "averageSpeed": 18.4,
+    "elevationGain": 71,
+    "mood": 2,
+    "weather": "🌦️",
+    "startPointName": "Papenburg",
+    "endPointName": "Oldenburg"
   }
 ]
