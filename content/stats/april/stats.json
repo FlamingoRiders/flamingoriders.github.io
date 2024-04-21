@@ -232,5 +232,18 @@
     "weather": "🌦️",
     "startPointName": "Papenburg",
     "endPointName": "Oldenburg"
+  },
+  {
+    "date": "2024-04-21",
+    "startPos": [53.131450, 8.192638],
+    "endPos": [53.078768, 8.804046],
+    "distance": 51.17,
+    "time": "03h03",
+    "averageSpeed": 16.8,
+    "elevationGain": 140,
+    "mood": 3,
+    "weather": "🌥️",
+    "startPointName": "Oldenburg",
+    "endPointName": "Bremen"
   }
 ]
