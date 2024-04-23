@@ -21,7 +21,7 @@ Il y a une fente en plein milieu et à l'intérieur de laquelle on peut insérer
 
 Nico parie sur un braiement d'âne et c'est un chant de coq qui tombe. Nana parie sur un chat et obtient bien un miaulement ! Quant à moi, je cherche à obtenir un chien. J'ai inséré 17 pièces, soit l'équivalent de mon argent de poche mensuel qui me sert à payer mes crevettes, en vain. J'ai jamais entendu le chien aboyer 😭. Bon après il paraît que certaines personnes se trompent de plaque donc je me console en me disant que j'ai quand même obtenu des cris d'animaux pour mes pièces 😬.
 
-Le trou se trouvant sur la **Marktplatz** centrale, immanquable par les visiteurs, on y entend beaucoup nos quatres animaux.
+Le trou se trouvant sur la **Marktplatz** centrale, immanquable par les visiteurs, on y entend beaucoup nos quatre animaux.
 
 Sur cette très grande place, on retrouve aussi la **cathédrale** ainsi que le **Rathaus (hôtel de ville)** et la **statue de Roland**, tous deux inscrits au patrimoine mondial de l'UNESCO. On est gâtés, le lieu est beau, évidemment, mais on le sent en plus chargé d'histoire. Il y a quelque chose qui se dégage. Les bâtiments ne sont pas parfaitement alignés ou dans l'axe d'une rue ni traversés par des voies de circulation. On a l'impression qu'il a su conserver au fur et à mesure des années toute son essence. On ira pas jusqu'à dire qu'il est comme il était il y a plusieurs siècles mais en tout cas, on se représente bien le lieu de vie et l'ancien cœur de la ville.
 
@@ -34,13 +34,13 @@ Et puis si vous voulez tout savoir, la veille quand on est passé devant la stat
 ### Des quartiers à voir absolument 
 Pendant deux jours, on a profité d'un beau ciel bleu avec un peu de soleil pour se promener un peu partout dans **Brême**.
 
-Parmi les incontournables de la vieille ville, il y a la rue **Böttcherstrasse** avec ses bâtiments à l'architecture remarquable datant des années 1920.  On a l'impression de tomber sur le chemin de traverse !
+Parmi les incontournables de la vieille ville, il y a la rue **Böttcherstrasse** avec ses bâtiments à l'architecture remarquable datant des années 1920. On a l'impression de tomber sur le chemin de traverse !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/VwUquCGtIatGg" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 C'est atypique et pittoresque, on adore. Les boutiques sont rigolotes et on y trouve surtout le magasin **Bremer Bonbon Manufaktur** où ils font des bonbons artisanaux très originaux. Oui, on en a pris 😇.
 
-On est également allé déambuler dans le **Schnoor**. Attention, ne confondez pas avec le **Ch'Nord**, c'est pas du tout le même endroit ! En tout cas, on a trouvé le **Schnoor** très mignon avec ces petites maisons, ces rues étroites pleines de galeries marchandes et cafés qui valent la peine de s'y promener.
+On est également allé déambuler dans le **Schnoor**. Attention, ne confondez pas avec le **Ch'Nord**, c'est pas du tout le même endroit ! En tout cas, on a trouvé le **Schnoor** très mignon avec ses petites maisons et ses rues étroites pleines de galeries marchandes et cafés qui valent la peine de s'y promener.
 
 Nous empruntons également la **Schlachte**, une promenade qui longe la rivière **Weser**. C'est très illuminé, surtout le soir. On y arrive peu avant 20h pour y admirer un beau coucher de soleil. idéal pour y boire un verre ou manger, on y fait coup double. Sans regrets, on y déguste des bières et plats typiquement allemands !
 
@@ -64,10 +64,12 @@ J'ai lu ses ouvrages il y a longtemps, mes souvenirs sont peut-être un peu vagu
 On prend également les vélos pour atteindre des coins plus éloignés du centre. On traverse notamment le 
 **Rhododendron park** où il y a de très belles plantes qui fleurissent.
 
-On passe dans l'immense **Burger Park**, on le parcourt en long et en large, très chouette !
+On passe dans l'immense **Bürgerpark**, on le parcourt en long et en large, très chouette !
 
-On décide de visiter l'**Universum Bremen**, un musée axé sur la science qui nous intrigue dès son approche. Il ressemble a une sorte de vaisseau ovni avec son architecture ovale à coquille noir. C'est effectivement une belle découverte, il regorge d'expérimentations ludiques et interactives. On y a passé plus de deux heures sans voir le temps passer !
+On décide de visiter l'**Universum Bremen**, un musée axé sur la science qui nous intrigue dès son approche. Il ressemble à une sorte de vaisseau ovni avec son architecture ovale à coquille noir. C'est effectivement une belle découverte, il regorge d'expérimentations ludiques et interactives. On y a passé plus de deux heures sans voir le temps passer !
 
-On pousse notre balade vélo jusqu'à atteindre le nord et l'ancienne zone marécageuse. Malgré le fait que l'on soit resté près de deux jours et demi dans la même ville, on a l'impression d'avoir tellement voyagé sur cette intervalle de temps !
+On pousse notre balade vélo jusqu'à atteindre le nord et l'ancienne zone marécageuse, le **Blockland**. 
 
-**Brême** est vraiment une ville épatante et pittoresque qui regorge de surprises 😍 !
+Malgré le fait que l'on soit resté près de deux jours et demi dans la même ville, on a l'impression d'avoir tellement voyagé sur cet intervalle de temps. **Brême** est vraiment une ville épatante et pittoresque qui regorge de surprises 😍 !
+
+Encore un grand merci à la **team Akuo** pour ce si beau cadeau.
