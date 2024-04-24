@@ -245,5 +245,18 @@
     "weather": "🌥️",
     "startPointName": "Oldenburg",
     "endPointName": "Bremen"
+  },
+  {
+    "date": "2024-04-24",
+    "startPos": [53.078768, 8.804046],
+    "endPos": [53.066367, 9.664378],
+    "distance": 70.60,
+    "time": "04h03",
+    "averageSpeed": 17.4,
+    "elevationGain": 136,
+    "mood": 4,
+    "weather": "🌨️",
+    "startPointName": "Bremen",
+    "endPointName": "Tewel"
   }
 ]
