@@ -10,7 +10,7 @@ Aujourd'hui, on reprend la route après deux jours de visite de **Brême**. Deux
 
 C'est une habitude, à **Bruxelles**, à **Utrecht** et maintenant à **Brême**, à chaque fois qu'on ne roule pas il fait beau ! Je pense que la météo se dit: *"Je vais leur mettre cher, mais uniquement les jours où ils roulent !*".
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Sr9NHwRKlsD3unMK43" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/fcK30LKXjG6Tm" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Devinez quel temps il fait aujourd'hui lorsqu'on reprend la route 🙄 ? Indice : j'ai eu les plumes mouillées toute la journée 🦩.
 
@@ -51,4 +51,4 @@ On repart après un petit quart d'heure à attendre que ça se calme car le calm
 
 Un peu plus loin, on trouve un nouveau refuge, un café. Enfin café c'est un peu réducteur. C'est surtout un glacier, Nico y prend 3 boules et Nana des pancakes. Même quand le temps n'est pas avec nous, on ne se laisse pas abattre 😉 !
 
-
+On finit par repartir pour nos derniers kilomètres. À l'entrée de **Tewel**, on est accueilli par une grosse statue de **Groot** ! 
