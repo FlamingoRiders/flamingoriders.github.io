@@ -258,5 +258,18 @@
     "weather": "🌨️",
     "startPointName": "Bremen",
     "endPointName": "Tewel"
+  },
+  {
+    "date": "2024-04-25",
+    "startPos": [53.066367, 9.664378],
+    "endPos": [53.222792, 10.375620],
+    "distance": 64.00,
+    "time": "03h36",
+    "averageSpeed": 17.8,
+    "elevationGain": 387,
+    "mood": 4,
+    "weather": "🌧️",
+    "startPointName": "Tewel",
+    "endPointName": "Lüneburg"
   }
 ]
