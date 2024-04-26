@@ -17,7 +17,7 @@ Ah bonne question ! C'est un type de pluie qui s'il dure moins de 30 minutes vou
 ### Une bonne forme
 Et pourtant, malgré ces conditions encore pluvieuses, on sent qu'il se joue quelque chose de particulier aujourd'hui. Dès les premières côtes, Nico se retourne et... surprise... Nana est juste derrière ! Étant donné que Nico aime rouler sans calcul, il n'est pas rare qu'il prenne quelques longueurs d'avance quitte à revenir sur ses pas ou repérer la prochaine intersection. Nana, elle, préfère prendre son temps et profiter du paysage. C'est donc assez inhabituel d'avoir Nana dans les roues avec la grinta 😮. Elle semble même activer le mode *super-guerrière*.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/J2ilWC0ZU4IThg034P https://giphy.com/gifs/jlzggZ8GntqZ6v3ONs" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/jlzggZ8GntqZ6v3ONs" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Avons-nous un rendez-vous urgent ? Y-a-t-il une exposition Miffy à ne pas rater ? Sommes-nous chronométrés ? Nana a-t-elle pris de la potion magique ?! Toutes ces pistes de réponse seraient envisageables mais non ! Il y a juste de l'énergie à revendre et une bonne forme ! On va entretenir sa motivation tout du long 😉 !
 
@@ -37,7 +37,7 @@ Tout ça pour dire, à l'avenir, on aura sans doute un peu de cash sur nous et o
 ### Arrivée à Hambourg
 On repart et on a encore du jus ! On pousse on pousse même dans les petits chemins. Au final, on arrivera à **Hambourg** avec une belle moyenne de 18km/h.
 
-On aura encore roulé sur la pluie et ça fait un certain nombre de jours d'affilés. En arrivant, on commence par laver nos braves montures **Pino** et **Hino** pour essayer de leur redonner leur lustre d'antan.
+On aura encore roulé sous la pluie et ça fait un certain nombre de jours d'affilés. En arrivant, on commence par laver nos braves montures **Pino** et **Hino** pour essayer de leur redonner leur lustre d'antan.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tJtx09XQnxaynZLOaTNfZ?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
