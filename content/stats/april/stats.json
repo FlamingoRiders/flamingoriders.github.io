@@ -271,5 +271,18 @@
     "weather": "🌧️",
     "startPointName": "Tewel",
     "endPointName": "Lüneburg"
+  },
+  {
+    "date": "2024-04-26",
+    "startPos": [53.222792, 10.375620],
+    "endPos": [53.550021, 10.036482],
+    "distance": 54.75,
+    "time": "02h52",
+    "averageSpeed": 19.1,
+    "elevationGain": 128,
+    "mood": 4,
+    "weather": "🌧️",
+    "startPointName": "Lüneburg",
+    "endPointName": "Hamburg"
   }
 ]
