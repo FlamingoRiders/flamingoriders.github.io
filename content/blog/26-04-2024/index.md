@@ -30,7 +30,7 @@ On s'arrête de l'autre côté de la rive pour manger dans un Döner. On fait l�
 2. Non, on ne peut pas payer partout avec la carte bancaire en **Allemagne**. Ni visa, ni MasterCard ne passent aujourd'hui dans le lecteur de cartes. De plus, certains commerçants imposent le cash.
 3. Vous ne trouverez pas systématiquement une personne qui vous viendra en aide lorsque vous êtes en galère. Aujourd'hui, les gens ne sont pas très aidants et préfèrent nous regarder de loin en rigolant.
 
-Alors pourquoi disons nous cela. Nous allons prendre un temps fou à passer commande. On va vivre tout un sketch au moment de payer car il faut impérativement une carte MasterCard "allemande" apparemment. Les gens vont nous regarder bizarrement et nous laisser dans un silence gênant. Nico va aller à 15 min de marche pour trouver un distributeur de billets. Une de ses cartes ne permettra pas de retirer. Du coup, grosse séquence en ligne avec le support en "*France** pour tenter de résoudre le problème, en vain, il faudra retirer avec une autre carte.
+Alors pourquoi disons nous cela. Nous allons prendre un temps fou à passer commande. On va vivre tout un sketch au moment de payer car il faut impérativement une carte MasterCard "allemande" apparemment. Les gens vont nous regarder bizarrement et nous laisser dans un silence gênant. Nico va aller à 15 min de marche pour trouver un distributeur de billets. Une de ses cartes ne permettra pas de retirer. Du coup, grosse séquence en ligne avec le support en **France** pour tenter de résoudre le problème, en vain, il faudra retirer avec une autre carte.
 
 Tout ça pour dire, à l'avenir, on aura sans doute un peu de cash sur nous et on évitera les petites enseignes. Malheureusement, des fois ça ne vaut juste pas le coup entre le temps perdu et le moment de gêne 😬.
 
@@ -56,7 +56,7 @@ Voici un petit récapitulatif de celle-ci :
 | Pays traversés |  🇨🇵🇧🇪🇳🇱🇩🇪  |
 | Comment c'était ? | 🥰😍🤩  |
 
-La soirée est marquée par les retrouvailles avec nos amis lyonnais **Cam Cam** et **Pierrot**.
+La soirée est marquée par les retrouvailles avec nos amis lyonnais **Camillou** et **Pierrot**.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/VduFvPwm3gfGO8duNN" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
