@@ -29,7 +29,7 @@ Nous arrivons dans la **Speicherstadt** qui littéralement se traduit en *« vil
 
 ### Balade en Ferry le long de l' Elbe
 
-Après avoir déjeuner dans un super resto vegan, nous rejoignons les débarcadères du **St. Pauli Landungsbrücken** pour prendre un ferry. À bord de celui-ci, nous remontons l'**Elbe** et observons depuis le bateau l'**Altonaer Fischmarkt (marché de poissons)**, la plage de l'**Elbstrand** et l'immense port de **Hambourg**. C'est le 3ème plus grand port d'**Europe** après **Rotterdam** et **Anvers**, deux villes que nous avons déjà traversées il y a quelques jours. 
+Après avoir déjeuné dans un super resto vegan, nous rejoignons les débarcadères du **St. Pauli Landungsbrücken** pour prendre un ferry. À bord de celui-ci, nous remontons l'**Elbe** et observons depuis le bateau l'**Altonaer Fischmarkt (marché de poissons)**, la plage de l'**Elbstrand** et l'immense port de **Hambourg**. C'est le 3ème plus grand port d'**Europe** après **Rotterdam** et **Anvers**, deux villes que nous avons déjà traversées il y a quelques jours. La différence c'est que nous n'avons pas directement vu les ports de ces villes. Ici, le port est réellement mis en avant par la ville comme une attraction touristique.
 
 Nous sommes impressionnés par le nombre de grues, les conteneurs et la taille globale du port. Il y en a des marchandises qui circulent !
 
@@ -42,7 +42,7 @@ C'est un quartier qui tranche avec les précédents. Il fait plus *"rebelle*", a
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/eSQKNSmg07dHq" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-On fait une première commande de deux grilled-cheese sandwiches. Ouai, c'était le feu 🔥. Puis on commande aussi des boissons pour tout le monde.
+On fait une première commande de deux *grilled-cheese sandwiches*. Ouai, c'était le feu 🔥. Puis on commande aussi des boissons pour tout le monde.
 
 | Personne | Boisson    |
 |----|----|
