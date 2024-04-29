@@ -284,5 +284,18 @@
     "weather": "🌧️",
     "startPointName": "Lüneburg",
     "endPointName": "Hamburg"
+  },
+  {
+    "date": "2024-04-29",
+    "startPos": [53.550021, 10.036482],
+    "endPos": [53.869156, 10.631199],
+    "distance": 67.58,
+    "time": "03h42",
+    "averageSpeed": 18.3,
+    "elevationGain": 337,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Hamburg",
+    "endPointName": "Lübeck"
   }
 ]
