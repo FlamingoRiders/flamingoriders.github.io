@@ -19,7 +19,7 @@ L'odeur de colza et de fumier nous signale que nous avons bien quitté l'immense
 
 On s'arrête vers midi pour déjeuner dans une **bäckerei** assez fréquentée, cela nous semble un plan sûr. On est pas sûr non plus de ce qu'on trouvera plus tard sur notre route. On prend un peu de temps à faire notre choix ce qui provoque quelques rires de la vendeuse. Il faut dire que tous les sandwichs et viennoiseries ont des apparences différentes de ce dont on a l'habitude. Tout était très bon, on ne s'est pas trompés !
 
-On croise dans un champ des veaux très curieux qui viennent spontanément à notre rencontre et approchent les barrières de leur enclos. À priori, ce sont tous des mâles tous des mâles. Nous sommes spectateurs d'une curieuse scène mêlant deux d'entre eux, appelons les *Didier* et *José*. Didier tente une approche très directe sur José, qui lui indique très clairement qu'il n'est pas intéressé et encore moins consentant à la proposition de Didier 😬.
+On croise dans un champ des veaux très curieux qui viennent spontanément à notre rencontre et approchent les barrières de leur enclos. À priori, ce sont tous des mâles. Nous sommes spectateurs d'une curieuse scène mêlant deux d'entre eux, appelons les *Didier* et *José*. Didier tente une approche très directe sur José, qui lui indique très clairement qu'il n'est pas intéressé et encore moins consentant à la proposition de Didier 😬.
 
 Le parcours du jour propose des montées et descentes. C'est normal vous me direz. Mais nos protagonistes ne sont pas tous d'accord sur le compte des montées et descentes. Disons que c'était une étape vallonnée 😉.
 
