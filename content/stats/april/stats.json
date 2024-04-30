@@ -297,5 +297,18 @@
     "weather": "🌤️",
     "startPointName": "Hamburg",
     "endPointName": "Lübeck"
+  },
+  {
+    "date": "2024-04-30",
+    "startPos": [53.869156, 10.631199],
+    "endPos": [54.323842, 11.072970],
+    "distance": 82.90,
+    "time": "05h06",
+    "averageSpeed": 16.3,
+    "elevationGain": 428,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Lübeck",
+    "endPointName": "Ostermade"
   }
 ]
