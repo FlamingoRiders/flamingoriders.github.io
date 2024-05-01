@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2024-05-01",
+    "startPos": [54.323842, 11.072970],
+    "endPos": [54.751485, 11.662672],
+    "distance": 76.43,
+    "time": "04h59",
+    "averageSpeed": 15.4,
+    "elevationGain": 320,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Ostermade",
+    "endPointName": "Sakskøbing"
+  }
+]
