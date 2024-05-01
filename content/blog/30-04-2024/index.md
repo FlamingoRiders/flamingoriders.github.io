@@ -38,3 +38,16 @@ Nana et Pierro trouveront la solution en abordant un couple d'allemands très sy
 La personne du camping nous indique notre emplacement, on est à une vingtaine de mètres de la mer, pas abrités et le vent souffle très fort. Ça va être une sacré nuit 😅. Mais bon, c'est sans doute le prix à payer pour passer une nuit face à la mer.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4nz1v2ghmGRo3RTZKxaC3P?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
+
+### Allemagne : le mot de la fin
+
+Demain, nous quitterons l'**Allemagne** pour rejoindre le **Danemark**. Nous aurons passé surtout du temps en **Basse-Saxe**, une région que nous ne connaissions pas. On en visitera d'autres c'est certains !
+
+Nous avons particulièrement apprécié :
+
+- les villes et leurs centres avec des architectures remarquables : **Oldenburg**, **Bremen**, **Lüneburg**, **Hamburg**, **Lübeck**.
+- les eis cafés qu'on trouve un peu partout 🍨😋
+- les bretzels 🥨 et spécialités à base de pomme de terre 🥔.
+- les grands parcs magnifiquement entretenus où il fait bon flâner.
+
+Auf Wiedersehen Deutschland 🇩🇪♥️ !
