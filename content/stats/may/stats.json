@@ -11,5 +11,18 @@
     "weather": "☀️",
     "startPointName": "Ostermade",
     "endPointName": "Sakskøbing"
+  },
+  {
+    "date": "2024-05-02",
+    "startPos": [54.751485, 11.662672],
+    "endPos": [54.989309, 12.285415],
+    "distance": 66.38,
+    "time": "04h18",
+    "averageSpeed": 15.5,
+    "elevationGain": 329,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Sakskøbing",
+    "endPointName": "Stege"
   }
 ]
