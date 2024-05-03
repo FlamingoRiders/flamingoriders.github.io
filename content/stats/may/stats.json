@@ -24,5 +24,18 @@
     "weather": "☀️",
     "startPointName": "Sakskøbing",
     "endPointName": "Stege"
+  },
+  {
+    "date": "2024-05-03",
+    "startPos": [54.989309, 12.285415],
+    "endPos": [55.398410, 12.287518],
+    "distance": 83.27,
+    "time": "04h08",
+    "averageSpeed": 20.2,
+    "elevationGain": 494,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Stege",
+    "endPointName": "Strøby"
   }
 ]
