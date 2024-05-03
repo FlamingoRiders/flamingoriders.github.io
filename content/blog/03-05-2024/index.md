@@ -1,7 +1,7 @@
 ---
 title: 🥪 Le smørrebrød d'Eduardo du 03 mai
 date: "2024-05-03"
-description: "On rejoint le Seeland pour mettre mettre le cap sur Copenhague !"
+description: "On rejoint le Seeland !"
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
@@ -43,8 +43,8 @@ Vers le kilomètre 50, la fatigue commence à s'installer pour Nico. On a rechar
 
 Un temps, Nico va se détourner de l'objectif pour rejoindre les amis qui passent un bon moment à discuter de tout et de rien. On est bien tous ensemble 🤗. La moyenne baisse mais tant pis.
 
-On aperçoit la **Faxe Bugt (baie de Face)** puis on remonte dans les terres. On aperçoit sur la journée des pâturages où l'on voit de très beaux animaux en particulier des tout petits veaux, des moutons et des poneys.
+On aperçoit la **Faxe Bugt (baie de Faxe)** puis on remonte dans les terres. On aperçoit sur la journée des pâturages où l'on voit de très beaux animaux en particulier des tout petits veaux, des moutons et des poneys.
 
 Puis on attaque un peu plus loin une longue piste cyclable qui longe la route. C'est alors que Camillou qui passe devant commence à envoyer du très lourd et dans la roue, c'est plus facile. La moyenne est remontée ! Mince, on a remis une pièce dans la machine : l'irréductible neuneu est relancé et poussera jusqu'au bout !
 
-On arrive finalement dans la **Køge Bugt (baie de Køge) et à notre point de chute **Strøby Egede**. Le cachet n'est pas le même que précédemment : des maisons magnifiques bordent la côte. On est sans doute sur de très belles maisons de vacances et résidences secondaires. Nico réussit sont objectif complètement rincé mais heureux, il n'en faut pas plus des fois pour passer une super journée 😁.
+On arrive finalement dans la **Køge Bugt (baie de Køge)** et à notre point de chute **Strøby Egede**. Le cachet n'est pas le même que précédemment : des maisons magnifiques bordent la côte. On est sans doute sur de très belles maisons de vacances et résidences secondaires. Nico réussit sont objectif complètement rincé mais heureux, il n'en faut pas plus des fois pour passer une super journée 😁.
