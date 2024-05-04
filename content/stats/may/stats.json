@@ -37,5 +37,18 @@
     "weather": "🌤️",
     "startPointName": "Stege",
     "endPointName": "Strøby"
+  },
+  {
+    "date": "2024-05-04",
+    "startPos": [55.398410, 12.287518],
+    "endPos": [55.658023, 12.562495],
+    "distance": 48.00,
+    "time": "02h38",
+    "averageSpeed": 18.3,
+    "elevationGain": 51,
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "Strøby",
+    "endPointName": "København"
   }
 ]
