@@ -6,12 +6,11 @@ description: "Petite étape sympathique et première balade à Copenhague !"
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
 
-### Commodores - Easy
 Ce matin, on se lève au camping pour la dernière étape qui nous mène à **Copenhague**. On est partis de **Hambourg** il y a tout juste 6 jours le lundi. On a bien avancé sur les 5 premiers jours et fait de très belles étapes. Aujourd'hui, on a donc le droit à une journée plus tranquille, un peu moins d'une cinquantaine de kilomètres et toute plate jusqu'à l'arrivée avec de longues pistes cyclables roulantes. Ça fait du bien une étape vélo plus facile 😀.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0wtHjEAzLYYyGuk2WtpGwS?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Le ciel est très couvert, on n'aperçoit pas le soleil mais une épais bandeau blanc. En revanche, la météo indique 6km/h de vent ce qui est négligeable. La température n'est pas vraiment descendu, on reste aux alentours des 15 degrés. Ce sont des conditions favorables pour nous. Même l'absence de soleil n'est pas de nature à miner le moral, elle nous offre même au contraire des vues étonnantes et peu courantes.
+Le ciel est très couvert, on n'aperçoit pas le soleil mais un épais bandeau blanc. En revanche, la météo indique 6km/h de vent ce qui est négligeable. La température n'est pas vraiment descendue, on reste aux alentours des 15 degrés. Ce sont des conditions favorables pour nous. Même l'absence de soleil n'est pas de nature à miner le moral, elle nous offre même au contraire des vues étonnantes et peu courantes.
 
 ### Le long de la Køge Bugt
 
