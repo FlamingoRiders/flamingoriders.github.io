@@ -10,19 +10,19 @@ Ce matin, on se lève au camping pour la dernière étape qui nous mène à **Co
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0wtHjEAzLYYyGuk2WtpGwS?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Le ciel est très couvert, on n'aperçoit pas le soleil mais un épais bandeau blanc. En revanche, la météo indique 6km/h de vent ce qui est négligeable. La température n'est pas vraiment descendue, on reste aux alentours des 15 degrés. Ce sont des conditions favorables pour nous. Même l'absence de soleil n'est pas de nature à miner le moral, elle nous offre même au contraire des vues étonnantes et peu courantes.
+Le ciel est très couvert, on n'aperçoit pas le soleil mais un épais bandeau blanc. En revanche, la météo indique 6km/h de vent ce qui est négligeable. La température n'est pas vraiment descendue, on reste aux alentours des 15 degrés. Ce sont des conditions favorables pour nous. Même l'absence de soleil n'est pas de nature à nous miner le moral, elle nous offre même au contraire des vues étonnantes et peu courantes.
 
 ### Le long de la Køge Bugt
 
-Nous remontons la **Køge Bugt (baie de Køge)** du sud vers le nord. Par endroits n'ayant pas de rayon de soleil, la couleur de l'eau n'est plus du même bleu que la veille et laisse place à une couleur plus blanchâtre. Sans vent, la mer est très calme, les vagues ont disparu, le surface de l'eau  est parfaitement lisse. Dans ces conditions, si l'on regarde l'horizon, mer et ciel se confondent. C'est assez bluffant.
+Nous remontons la **Køge Bugt (baie de Køge)** du sud vers le nord. Par endroits, n'ayant pas de rayon de soleil, la couleur de l'eau n'est plus du même bleu que la veille et laisse place à une couleur plus blanchâtre. Sans vent, la mer est très calme, les vagues ont disparu, la surface de l'eau est parfaitement lisse. Dans ces conditions, si l'on regarde l'horizon, mer et ciel se confondent. C'est assez bluffant.
 
 Nous traversons des paysages le long de la côte qui nous évoquent des souvenirs de **France**. Parfois un peu marécageux comme en **Camargue**, parfois des dunes sableuses comme à divers endroits le long de la **côte Atlantique**.
 
 On roule très bien, une bonne moyenne, peu d'efforts à fournir et de superbes pistes cyclables protégées des voies de voitures par un terre-plein central. On sent qu'on approche de **Copenhague**.
 
-De manière générale, il y a peu à redire sur les pistes cyclables danoises. C'est simple, si la zone est dense et qu'il y a de la circulation, il y aura de supers pistes cyclables (équivalentes à celles des Pays-Bas). Sinon, il n'y en a pas et on est directement sur la route. Vu le peu de voitures qu'on y croise, ce n'est pas vraiment gênant.
+De manière générale, il y a peu à redire sur les pistes cyclables danoises. C'est simple, si la zone est dense et qu'il y a de la circulation, il y aura de supers pistes cyclables équivalentes à celles des Pays-Bas. Sinon, il n'y en a pas et on est directement sur la route. Vu le peu de voitures qu'on y croise, ce n'est pas vraiment gênant.
 
-Nos amis s'offrent donc une belle balade quand tout à coup, c'est en effet une journée tranquille et très plaisante où l'on va rouler tous groupés et beaucoup discuter. Il y aura juste à l'entrée de la ville une petite chute, heureusement sans bobo de Camillou.
+Nos amis s'offrent donc une belle balade. C'est en effet une journée très plaisante où l'on va rouler tous groupés et beaucoup discuter. Il y aura juste à l'entrée de la ville une petite chute, heureusement sans bobo de Camillou.
 
 Nous arrivons à **Copenhague** et terminons donc la phase 2 de notre voyage.
 
@@ -39,7 +39,7 @@ Voici un petit récapitulatif de celle-ci :
 | Pays traversés  | 🇩🇪🇩🇰  |
 | Comment c’était ?  | 🥰😍🤩   |
 
-Nous sommes tous collectivement très heureux de cette belle semaine et de notre accomplissement commun. Cependant, il faut aussi savoir regarder au-delà des chiffres. C'est évocateur au premier regard mais ce n'est qu'une prise de photo instantanée à l'arrivée. 
+Nous sommes tous collectivement très heureux de cette belle semaine et de notre accomplissement commun. Cependant, il faut aussi savoir regarder au-delà des chiffres. C'est évocateur au premier regard mais ce n'est qu'une prise de photo instantanée. 
 
 Il y a surtout la route effectuée et ce que l'on a parcouru. Lundi, on partait d'**Hambourg**. Mardi, on apercevait pour la première fois la **mer Baltique**. Mercredi, on rejoignait le **Danemark**. Jeudi, on a traversé pas moins de 3 îles. Vendredi, on rejoignait le **Seeland** avant d'atteindre finalement **Copenhague** en début d'après-midi aujourd'hui. C'est fou ce qu'on peut faire en quelques jours de vélo ❤️.
 
