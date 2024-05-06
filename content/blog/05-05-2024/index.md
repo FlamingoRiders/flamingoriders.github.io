@@ -53,4 +53,4 @@ Elle est bien bien froide, ça gèle la tête et le torse 🥶 !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JIC3hbC28JZKZ8AlAqX8h?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Aucun regret, c'est à faire ! C'est pas tous les jours qu'on peut se baigner dans la mer et à **Copenhague** il y a plein de zones de baignades. Ne vous inquiétez pas ça arrive également dans la Seine #merciLesJeux 😂.
+Aucun regret, c'est à faire ! C'est pas tous les jours qu'on peut se baigner dans la mer et à **Copenhague** il y a plein de zones de baignade. Ne vous inquiétez pas ça arrive également dans la Seine #merciLesJeux 😂.
