@@ -56,7 +56,7 @@ Voici un petit récapitulatif de celle-ci :
 | Pays traversés |  🇨🇵🇧🇪🇳🇱🇩🇪  |
 | Comment c'était ? | 🥰😍🤩  |
 
-La soirée est marquée par les retrouvailles avec nos amis lyonnais **Camillou** et **Pierrot**.
+La soirée est marquée par les retrouvailles avec nos amis lyonnais **Camillou** et **Pierro**.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/VduFvPwm3gfGO8duNN" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
