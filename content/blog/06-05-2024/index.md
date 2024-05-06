@@ -20,15 +20,15 @@ On se rend aussi dans les rues de la vieille ville parmi lesquelles **Snaregade*
 Tandis que Pierro et Camillou doivent retourner à l'appartement afin de se préparer pour leur train, Nana, Nico et moi, poursuivons notre balade. 
 
 Nous passons par le marché couvert de **Torvehallerne**. Nos yeux fusent dans toutes les directions. On y trouve des produits frais et des mets raffinés à manger sur place. On craque pour des smørrebrød délicieux : 
-- un à base de pomme de terre et oignons frits
+- un à base de pomme de terre et oignons frits.
 - un à base d'oeufs, crevettes et zeste de citron.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/12zfAjyQ3RZNSw" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Après manger, nous nous rendons dans le quartier de **Nørrebro**. Nous traversons le **cimetière d'Assistens** qui fait parti d'un très grand parc où se promènent des gens et des vélos le traversent. Il n'a absolument rien de glauque, il y a des tombes très jolies, pas rangées dans des allées mais plutôt des pierres très sobres au milieu de fleurs où de pelouses très bien entretenues. Des personnes célèbres y reposent notamment **Hans Christian Andersen**, connu pour ses contes comme *"La Petite Sirène"*, *"La Reine des Neiges** ou encore *"Le Vilain Petit Canard"*. 
+Après manger, nous nous rendons dans le quartier de **Nørrebro**. Nous traversons le **cimetière d'Assistens** qui fait parti d'un très grand parc où se promènent des gens et des vélos le traversent. Il n'a absolument rien de glauque, il y a des tombes très jolies, pas rangées dans des allées mais plutôt des pierres tombales très sobres au milieu de fleurs ou de pelouses très bien entretenues. Des personnes célèbres y reposent notamment **Hans Christian Andersen**, connu pour ses contes comme *"La Petite Sirène"*, *"La Reine des Neiges** ou encore *"Le Vilain Petit Canard"*. 
 
 Nous passons dans la rue [Jægersborggade](
-https://www.visitdenmark.com/denmark/plan-your-trip/jaegersborggade-gdk414342) où l'on retrouve plein de petites enseignes, allant des magasins bio, aux produits "do it yourself" à d'excellentes boulangeries. Sans doute un peu chic et bobo, mais on aime bien les plaques à l'extérieur et regarder à l'intérieur des boutiques même si on y a rien acheter, c'est sympa de s'y balader 😁.  
+https://www.visitdenmark.com/denmark/plan-your-trip/jaegersborggade-gdk414342) où l'on retrouve plein de petites enseignes, allant de magasins bio, aux produits "do it yourself" à d'excellentes boulangeries. Sans doute un peu chic et bobo, mais on aime bien les plaques à l'extérieur et regarder à l'intérieur des boutiques même si on y a rien acheter, c'est sympa de s'y balader 😁.  
 
 On poursuit toujours dans le **Nørrebro** vers le **Superkillen park**. C'est un endroit avec un design très sympa où l'on trouve aussi bien des familles avec de jeunes enfants que des skateboarders.
 
@@ -44,7 +44,7 @@ Notre voyage va continuer et nous serons bientôt de nouveau sur la route seuls 
 
 Dans tout parcours, le plus dur est cette phase du milieu. Le début est facile car on regarde tellement devant nous qu'on n'est pas focalisé sur les difficultés sous notre nez. Puis, sur la fin, la confiance de tout ce qui a été accompli auparavant nous porte. Mais entre les deux, il y a cette phase de flottement qui est plus difficile.
 
-À présent, le plus important pour nous n'est pas de savoir quels problèmes nous allons rencontrer et comment nous allons les résoudre pour rallier le nord de la **Norvège**. Il faut que nous nous fassions confiance pour progresser au jour le jour et trouver les solution en cours de route 🙃.
+À présent, le plus important pour nous n'est pas de savoir quels problèmes nous allons rencontrer et comment nous allons les résoudre pour rallier le nord de la **Norvège**. Il faut que nous nous fassions confiance pour progresser au jour le jour et trouver des solutions en cours de route 🙃.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/07GvNcU1WdyZJq3XxP0kZa?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
@@ -53,6 +53,6 @@ Un immense merci à Camillou et Pierro pour ces belles journées et ce bout de c
 ### Les Jardins de Tivoli
 Nous passons la fin d'après-midi dans les **Jardins de Tivoli**, juste en face de la gare centrale. Construit en 1843, il s'agit d'un des plus anciens parcs d'attractions au monde. Il est souvent reconnu comme le premier parc à thème en Europe. Walt Disney l'a visité et s'en serait inspiré pour les parcs **Disneyland**.
 
-La grand-mère maternelle de Nico, d'origine allemande lui en avait parlé, elle l'a visité il y a plus de 70 ans !
+La grand-mère maternelle de Nico, d'origine allemande, lui en a parlé, elle l'a visité il y a plus de 70 ans !
 
 Nous prenons le temps de nous balader dans ce parc. Il est très joliment décoré, propose des spectacles en plein air et des concerts pendant la haute saison. Il a un charme par son côté un peu ancien et old school qu'on apprécie particulièrement. Nous y passons un super moment 🤗 ! 
