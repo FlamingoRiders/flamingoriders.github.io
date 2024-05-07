@@ -8,7 +8,7 @@ description: "Dégustation de smørrebrød et visite d'un des plus vieux parcs d
 
 Ce matin, on se réveille une nouvelle fois à **Copenhague**. Le logement où nous sommes offre une vue superbe sur les canaux et sur la ville. C'est la dernière journée pour la team Capinina 🥹.
 
-On commence notre promenade matinale en se rendant au Lego store. Oui c'est un arrêt indispnsable ! Vous savez pourquoi ? Parce que **Copenhague** est à l'image d'un magasin Lego : [everything is awesome!](https://en.m.wikipedia.org/wiki/Everything_Is_Awesome)
+On commence notre promenade matinale en se rendant au Lego store. Oui c'est un arrêt indispensable ! Vous savez pourquoi ? Parce que **Copenhague** est à l'image d'un magasin Lego : [everything is awesome!](https://en.m.wikipedia.org/wiki/Everything_Is_Awesome)
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/mXnO9IiWWarkI" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -25,10 +25,10 @@ Nous passons par le marché couvert de **Torvehallerne**. Nos yeux fusent dans t
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/12zfAjyQ3RZNSw" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Après manger, nous nous rendons dans le quartier de **Nørrebro**. Nous traversons le **cimetière d'Assistens** qui fait parti d'un très grand parc où se promènent des gens et des vélos le traversent. Il n'a absolument rien de glauque, il y a des tombes très jolies, pas rangées dans des allées mais plutôt des pierres tombales très sobres au milieu de fleurs ou de pelouses très bien entretenues. Des personnes célèbres y reposent notamment **Hans Christian Andersen**, connu pour ses contes comme *"La Petite Sirène"*, *"La Reine des Neiges** ou encore *"Le Vilain Petit Canard"*. 
+Après manger, nous nous rendons dans le quartier de **Nørrebro**. Nous traversons le **cimetière d'Assistens** qui fait parti d'un très grand parc où se promènent des gens et des vélos le traversent. Il n'a absolument rien de glauque, il y a des tombes très jolies, pas rangées dans des allées mais plutôt des pierres tombales très sobres au milieu de fleurs ou de pelouses très bien entretenues. Des personnes célèbres y reposent notamment **Hans Christian Andersen**, connu pour ses contes comme *"La Petite Sirène"*, *"La Reine des Neiges"* ou encore *"Le Vilain Petit Canard"*. 
 
 Nous passons dans la rue [Jægersborggade](
-https://www.visitdenmark.com/denmark/plan-your-trip/jaegersborggade-gdk414342) où l'on retrouve plein de petites enseignes, allant de magasins bio, aux produits "do it yourself" à d'excellentes boulangeries. Sans doute un peu chic et bobo, mais on aime bien les plaques à l'extérieur et regarder à l'intérieur des boutiques même si on y a rien acheter, c'est sympa de s'y balader 😁.  
+https://www.visitdenmark.com/denmark/plan-your-trip/jaegersborggade-gdk414342) où l'on retrouve plein de petites enseignes, allant de magasins bio, aux produits "do it yourself" à d'excellentes boulangeries. Sans doute un peu chic et bobo, mais on aime bien les plaques à l'extérieur et regarder à l'intérieur des boutiques même si on y a rien acheté, c'est sympa de s'y balader 😁.  
 
 On poursuit toujours dans le **Nørrebro** vers le **Superkillen park**. C'est un endroit avec un design très sympa où l'on trouve aussi bien des familles avec de jeunes enfants que des skateboarders.
 
@@ -40,7 +40,7 @@ Dire *"au revoir"* est difficile même si cela ne transparaît pas forcément. D
 
 Un bon mois s'est écoulé depuis notre départ. Jusqu'à présent les choses étaient "faciles" dans le sens où nous avions un plan, une projection et tout s'est déroulé comme prévu. Cette dernière semaine avec les amis était également très intense avec beaucoup de kilomètres avalées et des belles visites dans les villes d'**Hambourg** et **Copenhague** notamment. Beaucoup de choses se sont passées sur un laps de temps finalement assez court. 
 
-Notre voyage va continuer et nous serons bientôt de nouveau sur la route seuls avec un peu plus d'inconnu à affronter. On va s'en sortir hein mais c'est une étape qu'on a pas encore totalement *"projetée"* mentalement. 
+Notre voyage va continuer et nous serons bientôt de nouveau sur la route seuls avec un peu plus d'inconnu à affronter. On va s'en sortir hein mais c'est une étape qu'on n'a pas encore totalement *"projetée"* mentalement. 
 
 Dans tout parcours, le plus dur est cette phase du milieu. Le début est facile car on regarde tellement devant nous qu'on n'est pas focalisé sur les difficultés sous notre nez. Puis, sur la fin, la confiance de tout ce qui a été accompli auparavant nous porte. Mais entre les deux, il y a cette phase de flottement qui est plus difficile.
 
