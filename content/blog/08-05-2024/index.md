@@ -31,12 +31,13 @@ Après les **købing** et les **havn**, c'est la journée des **rød**. On passe
 
 On le surnomme même le **Versailles danois**. Si vous voulez notre ressenti, c'est exactement l'impression qui nous a laissé lorsqu'on est rentré par la porte principale. La disposition des bâtiments fait étrangement penser à notre château local. Les jardins sont aussi comparables. Il y a cependant des différences notables :
 
-- le style d'architecture, renaissance pour **Frederiksborg** et classique pour **Versailles** et - le château de **Frederiksborg** semble lui directement construit sur l'eau. En réalité il est sur plusieurs îlots faisant parti d'un lac.
+- le style d'architecture, renaissance pour **Frederiksborg** et classique pour **Versailles**
+- le château de **Frederiksborg** semble lui directement construit sur l'eau. En réalité il est sur plusieurs îlots faisant parti d'un lac.
 - le monde ! Nous sommes sur une journée ensoleillé et peu de visiteurs comparé à ce que nous observons un jour lambda à **Versailles**.
 
 On fait un tour rapide du lac et des jardins pour admirer différents points de vue. On en prend plein les yeux 🤩 !
 
-Nous reprenons ensuite la route en direction de **Frederiksværk**, notre destination du jour. Nous croisons encore tout plein de voiture et longeons des nationales. On en double tout plein ! Pas parce qu'on est rapide mais parce que ça bouchonne sur la route. Par moments les voitures sont à l'arrêt et le trafic est stoppé net un peu comme Paris en ligue des champions. Cela doit être frustrant.
+Nous reprenons ensuite la route en direction de **Frederiksværk**, notre destination du jour. Nous croisons encore énormément de voitures et longeons des nationales. On en double tout plein ! Pas parce qu'on est rapide mais parce que ça bouchonne sur la route. Par moments les voitures sont à l'arrêt et le trafic est stoppé net un peu comme Paris en ligue des champions. Cela doit être frustrant.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/S100e4ef9mDleByH8T" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
