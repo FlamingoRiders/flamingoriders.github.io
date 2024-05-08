@@ -50,5 +50,18 @@
     "weather": "☁️",
     "startPointName": "Strøby",
     "endPointName": "København"
+  },
+  {
+    "date": "2024-05-08",
+    "startPos": [55.658023, 12.562495],
+    "endPos": [55.971910, 12.012990],
+    "distance": 66.94,
+    "time": "04h06",
+    "averageSpeed": 16.3,
+    "elevationGain": 392,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "København",
+    "endPointName": "Frederiksværk"
   }
 ]
