@@ -63,5 +63,18 @@
     "weather": "☀️",
     "startPointName": "København",
     "endPointName": "Frederiksværk"
+  },
+  {
+    "date": "2024-05-09",
+    "startPos": [55.971910, 12.012990],
+    "endPos": [56.155973, 10.207534],
+    "distance": 53.41,
+    "time": "03h13",
+    "averageSpeed": 16.7,
+    "elevationGain": 333,
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "Frederiksværk",
+    "endPointName": "Aarhus"
   }
 ]
