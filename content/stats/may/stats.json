@@ -76,5 +76,18 @@
     "weather": "☁️",
     "startPointName": "Frederiksværk",
     "endPointName": "Aarhus"
+  },
+  {
+    "date": "2024-05-09",
+    "startPos": [56.155973, 10.207534],
+    "endPos": [56.634986, 9.782478],
+    "distance": 84.13,
+    "time": "05h01",
+    "averageSpeed": 16.8,
+    "elevationGain": 692,
+    "mood": 5,
+    "weather": "⛅",
+    "startPointName": "Aarhus",
+    "endPointName": "Hobro"
   }
 ]
