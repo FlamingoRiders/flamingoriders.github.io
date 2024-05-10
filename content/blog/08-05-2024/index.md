@@ -16,9 +16,9 @@ Puis, ça y est, nous quittons la ville ! On passe par les banlieues de **Copenh
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0hKF8N8aflF1uDzEEnPr2j?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Le paysage est également différent du sud. Nous sommes dans la province **Hovedstaden**. On croise tour à tour des ranchs, des petites forêts, de grands lacs. C'est très vallonné avec de bonnes côtes. On a pas une forme d'enfer, on les sent tout de suite 😆.
+Le paysage est également différent du sud. Nous sommes dans la province **Hovedstaden**. On croise tour à tour des ranchs, des petites forêts, de grands lacs. C'est très vallonné avec de bonnes côtes. On n'a pas une forme d'enfer, on le sent tout de suite 😆.
 
-Ça vous étonne qu'on galère un peu sur la matinée alors qu'on a pas roulé depuis 3 jours ? Oui, nous aussi, mais on a beaucoup visité, beaucoup marché et on commence aussi à ressentir le contrecoup de la semaine passée où on a été un peu trop gourmand 😅.
+Ça vous étonne qu'on galère un peu sur la matinée alors qu'on n'a pas roulé depuis 3 jours ? Oui, nous aussi, mais on a beaucoup visité, beaucoup marché et on commence aussi à ressentir le contrecoup de la semaine passée où on a été un peu trop gourmands 😅.
 
 
 Après les **købing** et les **havn**, c'est la journée des **rød**. On passe par **Birkerød**, **Lillerød** et enfin **Hillerød**.
@@ -43,4 +43,4 @@ Nous reprenons ensuite la route en direction de **Frederiksværk**, notre destin
 
 *"Non Eduardo, on avait dit non, on a encore des amis franciliens et on souhaite les garder !"*
 
-Oups sorry les amis 😇. On termine notre journée en atteignant notre destination. Nous nous baladons alors un peu a pied et réalisons que nous sommes au milieu d'un super paysage : le **Fjord de Roskilde** !
+Oups sorry les amis 😇. On termine notre journée en atteignant notre destination. Nous nous baladons alors un peu à pied et réalisons que nous sommes au milieu d'un super paysage : le **Fjord de Roskilde** !
