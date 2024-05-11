@@ -89,5 +89,18 @@
     "weather": "⛅",
     "startPointName": "Aarhus",
     "endPointName": "Hobro"
+  },
+  {
+    "date": "2024-05-11",
+    "startPos": [56.634986, 9.782478],
+    "endPos": [57.055825, 9.884992],
+    "distance": 63.15,
+    "time": "04h07",
+    "averageSpeed": 15.3,
+    "elevationGain": 426,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Hobro",
+    "endPointName": "Aalborg"
   }
 ]
