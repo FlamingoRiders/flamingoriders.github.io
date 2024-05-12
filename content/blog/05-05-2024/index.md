@@ -21,6 +21,7 @@ Alors que nous sommes en terrasse, nous faisons tous un constat. Les gens de Cop
 C'en est trop pour Pierro qui s'exclame auprès de Camillou : *"En rentrant à Lyon je vais dévaliser les magasins !*".
 
 Nous sommes toujours dans le même mood que la veille, on adore se balader dans cette ville et on va enchaîner les kilomètres à pied. D'ailleurs on n'est pas les seuls, c'est le jour du marathon ! On reste un peu pour regarder les courageux et profiter de la superbe ambiance. C'en est trop pour Nico qui déclare à Nana : *"En rentrant je me réinscris à un marathon !"*
+De plus, il va falloir s'entraîner, un nouveau challenger est né il y a un peu plus d'une semaine, Lightning Tino. Et il est déjà prêt à faire tomber les PR de la bande !
 
 Sur notre balade, nous repassons par des lieux que nous aimons bien à **Copenhague** et avons déjà vu la veille comme :
 - le château de **Christiansborg** où siège le parlement danois où on peut voir aussi des résidences et écuries royales.
