@@ -16,9 +16,9 @@ Au passage, si certains veulent voir des marques de bronzage totalement ridicule
 
 ### Une journée éprouvante
 
-On attaque tout de suite dès le kilomètre 0 par des petites côtes pour sortir de **Habro**. Ce ne seront pas les dernières 😉.
+On attaque tout de suite dès le kilomètre 0 par des petites côtes pour sortir de **Hobro**. Ce ne seront pas les dernières 😉.
 
-Notre matinée n'est pas marquante en termes de paysages traversés. À nouveau beaucoup de champs de colza, des grandes bandes de terres agricoles où l'on ne croise absolument personne. Pas de vent à signaler. On a pas grand chose d'autre à raconter, c'est une matinée qui ressemble en termes de sensations et paysages aux journées précédentes. Vélo-vélo-dodo 🤩 ! 
+Notre matinée n'est pas marquante en termes de paysages traversés. À nouveau beaucoup de champs de colza, des grandes bandes de terres agricoles où l'on ne croise absolument personne. Pas de vent à signaler. On n'a pas grand chose d'autre à raconter, c'est une matinée qui ressemble en termes de sensations et paysages aux journées précédentes. Vélo-vélo-dodo 🤩 ! 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jhsuQCUCJKA5f0bXb6XdJ?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
@@ -34,7 +34,7 @@ Cette forêt est tout simplement bluffante, des pins, des sapins, des arbres de 
 
 On croise aussi une petite ligne de chemin de fer qui traverse la forêt. C'est la seule chose qui brise le calme qui y règne. On commence à avoir l'habitude et les connaître ces danois, on entend un train arriver. Nico anticipe : *"Je parie qu'il n'a que 3 wagons"*. C'est gagné ! Bon c'est pas le jeu le plus dur au monde. Des trains régionaux avec 3 wagons on en voit tout plein ! Ça semble être une spécialité danoise comme les drapeaux devant les maisons 🇧🇻 😄.
 
-Au milieu de notre traversée on tombe sur un grand lac magnifique : **Store Økssø**. La vue est belle car il est entouré d'arbres de tous les côtés qui arrivent jusqu'à son bord. Et puis, il a cette couleur rouille brune du à la végétation autour. L'eau est en fait très propre, on peut s'y baigner sans aucun risque. La vue est juste trouble.
+Au milieu de notre traversée on tombe sur un grand lac magnifique : **Store Økssø**. La vue est belle car il est entouré d'arbres de tous les côtés qui arrivent jusqu'à son bord. Et puis, il a cette couleur rouille brune due à la végétation autour. L'eau est en fait très propre, on peut s'y baigner sans aucun risque. La vue est juste trouble.
 
 On ressort de la forêt et on se retrouve de nouveau soumis à la chaleur. Difficile de trouver un abri, grand ciel bleu et pas de vent.
 
