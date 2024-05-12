@@ -35,7 +35,7 @@ Décidément, les Danois ont vraiment des bâtiments atypiques. En matière d'ar
 Puis ça y est, nous quittons **Aarhus** que nous avons trouvé très jolie ! Cette ville justifie parfaitement son statut de *"double A"*. Elle pourrait même passer *"AAA"* d'après nos informations privilégiées de *Standard & Poor's*, les émissaires envoyés ayant beaucoup aimé la ville également. Il faudra juste prévoir de changer tous les panneaux 🤔 !
 
 ### Une grosse journée 
-On traverse rapidement de bonnes petites côtes qui font chauffer les cuissots. Si certains croient encore que le **Danemark** est plat, je vous propose le *"test de profil du parcours"*. Vous prenez un vélo à pignon fixe et vous faites le même tracé, si vous êtes encore en vie pour témoigner, je vous concéderais que c'est plat et que c'est juste Nana et Nico qui font du cinéma (ça arrive !).
+On traverse rapidement de bonnes petites côtes qui font chauffer les cuissots. Si certains croient encore que le **Danemark** est plat, je vous propose le *"test de profil du parcours"*. Vous prenez un vélo à pignon fixe et vous faites le même tracé, si vous êtes encore en vie pour témoigner, je vous concéderais que c'est plat et que ce sont juste Nana et Nico qui font du cinéma (ça arrive !).
 
 On enchaîne montées et descentes. C'est assez plaisant en réalité, pas le temps de s'ennuyer, en montée on s'emploie et on s'encourage et en descente, on déroule.
 
