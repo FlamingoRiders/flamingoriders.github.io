@@ -14,7 +14,7 @@ Ce matin, on prend la route vers le sud ! Attendez, non le sud ?! Ça ne va pas 
 
 🧍🏼‍♀️🧍🏼‍♂️ : *"Eduardo, on va aller à 4 kilomètres au sud d'Aarhus, il y a un parc avec des daims en liberté !*"
 
-🦩 : *"Mais c'est un détour, on a déjà 75 à faire ! Eh les amis je ne vous suffit plus ?*"
+🦩 : *"Mais c'est un détour, on a déjà 75 à faire ! Eh les amis je ne vous suffis plus ?*"
 
 🧍🏼‍♀️🧍🏼‍♂️ : *"On veut voir les daims ! On veut voir les daims !"*
 
@@ -26,7 +26,7 @@ L'accès au parc est libre et gratuit. Enfin pas tout à fait, ça dépend. Si v
 
 On a rien sur nous, on tente quelques approches discrètes mais ça ne marche pas trop. Ils ont compris qu'on avait rien et se désintéressent assez vite 😂. C'est pas grave, on les trouve bien mignons et on les observe.
 
-Apparemment, les **deer parks** sont assez fréquents au **Danemark**. C'est sans doute pour cela que certaines personnes sont venues préparées avec un tas de carottes à distribuer. On ne pas lutter contre le gavage de daims, ils se précipitent sur eux comme des enfants à l'ouverture de Disney. On me signale dans l'oreillette que cela ne concerne pas que les enfants et vous avez tout à fait raison 👍 !
+Apparemment, les **deer parks** sont assez fréquents au **Danemark**. C'est sans doute pour cela que certaines personnes sont venues préparées avec un tas de carottes à distribuer. On ne peut pas lutter contre le gavage de daims, ils se précipitent sur les gens comme des enfants à l'ouverture de Disney. On me signale dans l'oreillette que cela ne concerne pas que les enfants et vous avez tout à fait raison 👍 !
 
 On quitte donc ce charmant endroit pour retourner dans la ville d'**Aarhus** vers un quartier le long du front de mer avec de très beaux immeubles : **Isbjerget**. Ce complexe abrite des immeubles en forme d'iceberg. Les balcons bleus ressemblent à des glaçons. Avec les rayons du soleil, les différents angles de vue et les jeux d'ombres, le rendu est fascinant et très original.
 
@@ -40,7 +40,7 @@ On traverse rapidement de bonnes petites côtes qui font chauffer les cuissots. 
 On enchaîne montées et descentes. C'est assez plaisant en réalité, pas le temps de s'ennuyer, en montée on s'emploie et on s'encourage et en descente, on déroule.
 
 On traverse de nouveau de gigantesques espaces, des champs de colza, des hautes herbes avec des pissenlits. On voit aussi quelques animaux et quand cela arrive au milieu de nulle part, c'est vraiment appréciable. On aime les animaux et ça rompt avec la monotonie. Aujourd'hui on a droit à :
-- un énorme bœuf, de la trempe de ceux qu'on présentent au salon de l'agriculture.
+- un énorme bœuf, de la trempe de ceux qu'on présente au salon de l'agriculture.
 - un dindon prêt pour Thanksgiving mais un peu colérique avec nous.
 - des chevaux joueurs qui viennent à notre rencontre.
 - un lièvre qui a couru devant nous le 200 mètres plus rapidement qu'Usain Bolt. Impressionnant.
@@ -51,7 +51,7 @@ On passe aussi par **Randers** qui a l'air d'être une grosse ville. On la trave
 
 La fin de journée est marquée par un début d'hypoglycémie de Nana, on s'arrête où l'on peut pour bien manger avant de repartir. La zone est infestée de petits insectes et moustiques mais on veille.
 
-Malgré les nombreux kilomètres parcourus, le paysage qui se répète et la longueur de la journée, on ne peut s'empêcher de penser qu'on est pas au bureau. On est encore en plein air, il fait beau et on voit du pays. On est en totale liberté au milieu de nulle part et c'est incroyable.
+Malgré les nombreux kilomètres parcourus, le paysage qui se répète et la longueur de la journée, on ne peut s'empêcher de penser qu'on n'est pas au bureau. On est encore en plein air, il fait beau et on voit du pays. On est en totale liberté au milieu de nulle part et c'est incroyable.
 
 On finit par arriver à **Hobro** au bord du **Mariager fjord**. On s'arrête pour prendre des photos. Le cadre est grandiose. 
 
