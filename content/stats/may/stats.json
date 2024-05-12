@@ -102,5 +102,18 @@
     "weather": "☀️",
     "startPointName": "Hobro",
     "endPointName": "Aalborg"
+  },
+  {
+    "date": "2024-05-12",
+    "startPos": [57.055825, 9.884992],
+    "endPos": [57.433425, 10.543681],
+    "distance": 69.34,
+    "time": "04h10",
+    "averageSpeed": 16.5,
+    "elevationGain": 245,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Aalborg",
+    "endPointName": "Frederikshavn"
   }
 ]
