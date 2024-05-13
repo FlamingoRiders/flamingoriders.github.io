@@ -115,5 +115,18 @@
     "weather": "☀️",
     "startPointName": "Aalborg",
     "endPointName": "Frederikshavn"
+  },
+  {
+    "date": "2024-05-13",
+    "startPos": [57.433425, 10.543681],
+    "endPos": [59.933484, 10.720398],
+    "distance": 17.56,
+    "time": "01h10",
+    "averageSpeed": 15.0,
+    "elevationGain": 242,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Frederikshavn",
+    "endPointName": "Oslo"
   }
 ]
