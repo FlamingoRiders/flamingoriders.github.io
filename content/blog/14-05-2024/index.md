@@ -27,7 +27,8 @@ Nous arrivons au **palais royal d'Oslo**. Celui-ci est très sobre, c'est un bea
 
 Des gardes en tenue traditionnelles gardent l'entrée. On ne peut pas s'approcher trop près, ils nous font même signe de reculer. Tout à coup, un ballet de voitures débarque dans l'enceinte. À l'arrière d'une voiture, en robe blanche avec un chapeau, on aperçoit la princesse de Norvège ! On lui fait un coucou de la main, elle nous le rend 😀 !
 
-https://giphy.com/gifs/images-queen-elizabeth-2k4CSOMmoFZYc
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/2k4CSOMmoFZYc" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+
 
 ### Visite Royale
 
