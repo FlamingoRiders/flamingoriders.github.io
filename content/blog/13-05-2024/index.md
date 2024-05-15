@@ -15,7 +15,7 @@ Puis, progressivement elle se lève, l'horizon se découvre et plein de morceaux
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/23khhseCLQqVMCIT1WMAns?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-On débarque dans le quartier de **Bjørvika**, tout près de **l'Operahuset (Opera House)**. On aperçoit au milieu de l'eau une sculpture d'acier et de grandes vitres en verre ressemblant à un iceberg, intitulée ["She Lies"](https://en.m.wikipedia.org/wiki/She_Lies).
+On débarque dans le quartier de **Bjørvika**, tout près de **l'Operahuset (Opera House)**. On aperçoit au milieu de l'eau une sculpture d'acier et de grandes vitres en verre ressemblant à un iceberg, intitulée [She Lies](https://en.m.wikipedia.org/wiki/She_Lies).
 
 Il est temps pour nous de dire au revoir à nos amis aventuriers, nous prenons une dernière photo devant le panneau **Norge** avec notre copain cycliste néerlandais avant que nos chemins ne se séparent. Lui, prend la route vers **Trondheim** tandis que nous aurons quelques jours de repos à **Oslo**.
 
@@ -27,9 +27,9 @@ On voit un parc en hauteur, le **Kampen park** d'où nous supposons avoir une vu
 
 Complètement raté, c'est couvert par les arbres. Mais on a eu de bons petits murs de puncheurs pour y arriver et ça c'est chouette, selon Nico 💪 ! Ou pas, selon Nana, ça dépend des goûts 😅.
 
-Après quelques enchaînements de montées abruptes, Nana déclarera même : *"C'est pas Oslo, c'est San FranciscOslo ici !"*. Je vous avais prévenu, c'est une cador en jeu de mots 🤭.
+Après quelques enchaînements de montées abruptes, Nana déclarera même : *"C'est pas Oslo, c'est San FranciscOslo ici !"*. Je vous avais prévenus, c'est une cador en jeu de mots 🤭.
 
-On se rend au **Oslo Street Food**, un food court où comme son nom l'indique, on trouve de tout et ça s'est bien. On est fatigués, on a pas super bien dormi, il fait chaud, on a envie de se balader à pied mais on a encore les vélos. Autant dire que la pause fait du bien !
+On se rend au **Oslo Street Food**, un food court où comme son nom l'indique, on trouve de tout et ça s'est bien. On est fatigués, on n'a pas super bien dormi, il fait chaud, on a envie de se balader à pied mais on a encore les vélos. Autant dire que la pause va faire du bien !
 
 On poursuit dans la grande rue **Karl Johans Gate**, on passe par le **tigre d'Oslo** 🐯. On va aller se détendre un peu au bord de la plage de **Sørenga** pour terminer notre après-midi. Avec des glaces et des jeux de dés, il fait grand soleil, on est bien 😎.
 
