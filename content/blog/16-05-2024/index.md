@@ -31,9 +31,9 @@ On se rend ensuite au **Oslo Badstuforening**, un sauna le long du front d'eau p
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/C6JQPEUsZUyVq" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Oui, mais non, ici pas de bain chaud mais des saunas communs qui monte très haut en température 🥵 ! Quand on en peut plus, on se jette dans l'eau du fjord, que ça fait du bien d'alterner le chaud et le froid 😎.
+Oui, mais non, ici pas de bain chaud mais des saunas communs qui montent très haut en température 🥵 ! Quand on en peut plus, on se jette dans l'eau du fjord; que ça fait du bien d'alterner le chaud et le froid 😎.
 
-Pour finir la journée, nous irons à **Grünerløkka**, un quartier branché où l'on trouve plein de streetart sympa, des cafés et des restaurants. On remonte notamment un cours d'eau qui traverse un petit parc. Plein de jeunes sont installés dans l'herbe avec des bières et des pizzas. Un coin avec un ambiance très décontractée 😀.
+Pour finir la journée, nous irons à **Grünerløkka**, un quartier branché où l'on trouve plein de streetarts sympas, des cafés et des restaurants. On remonte notamment une rivière qui traverse une partie de la ville. Plein de jeunes sont installés dans l'herbe avec des bières et des pizzas. Un coin avec une ambiance très décontractée 😀.
 
 Vous vous demandez sûrement qu'en est-il de notre formidable série de 3 jours consécutifs a manger de la glace. Avons-nous une nouvelle fois récidivé pour un quatre à la suite ??
 
