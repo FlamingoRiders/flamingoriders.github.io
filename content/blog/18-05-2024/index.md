@@ -27,9 +27,10 @@ Après avoir longé l'**Oslofjord**, on aperçoit de magnifiques lacs puis on tr
 
 On finit par arriver à **Hokksund** qui devait être notre point d'arrivée. La personne à l'accueil du camping ne l'entend pas de cette oreille. Elle se tourne brièvement vers son patron qui ne nous adressera pas un regard. Ils échangent en norvégien et quand elle se retourne vers nous, la réponse est très claire.
 
-https://giphy.com/gifs/Bounce-TV-no-nah-let-me-think-about-it-VFAt3M4EEWnU4ADVX4
 
-Elle invoque soit disant un spectacle canin qui nous empêcherait de poser notre tente dans l'endroit habituellement réservé aux campeurs. On y croit pas une seconde mais les gens sont pas très agréables donc on décide d'aller voir plus loin. On appelle avant pour être sûr cette fois mais personne ne répond. On se met en route tout de même car on croit en un retournement de karma.
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/VFAt3M4EEWnU4ADVX4" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+
+Elle invoque soi-disant un spectacle canin qui nous empêcherait de poser notre tente dans l'endroit habituellement réservé aux campeurs. On y croit pas une seule seconde (pas de chiens en vue 🐕 !) mais les gens sont pas très agréables donc on décide d'aller voir plus loin. On appelle avant pour être sûr cette fois mais personne ne répond. On se met en route tout de même car on croit en un retournement de karma.
 
 Le *"plus loin"* c'est une douzaine de kilomètres avec une bonne petite côte supplémentaire. On est gourmands, on s'est servi du rab 🤭. On finit par atterrir dans un petit coin de paradis : à **Vestfossen** au bord du magnifique lac d'**Eikeren**. 
 
