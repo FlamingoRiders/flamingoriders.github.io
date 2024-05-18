@@ -128,5 +128,18 @@
     "weather": "☀️",
     "startPointName": "Frederikshavn",
     "endPointName": "Oslo"
+  },
+  {
+    "date": "2024-05-18",
+    "startPos": [59.933484, 10.720398],
+    "endPos": [59.683809, 9.896171],
+    "distance": 78.16,
+    "time": "05h03",
+    "averageSpeed": 15.6,
+    "elevationGain": 764,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Oslo",
+    "endPointName": "Vestfossen"
   }
 ]
