@@ -141,5 +141,18 @@
     "weather": "☀️",
     "startPointName": "Oslo",
     "endPointName": "Vestfossen"
+  },
+  {
+    "date": "2024-05-19",
+    "startPos": [59.683809, 9.896171],
+    "endPos": [59.564874, 9.209818],
+    "distance": 55.54,
+    "time": "03h39",
+    "averageSpeed": 15.2,
+    "elevationGain": 771,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Vestfossen",
+    "endPointName": "Nottoden"
   }
 ]
