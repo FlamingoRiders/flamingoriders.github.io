@@ -25,6 +25,8 @@ C'est le prix à payer pour traverser des paysages d'exception. Aujourd'hui, ça
 
 Après avoir longé l'**Oslofjord**, on aperçoit de magnifiques lacs puis on traverse **Drammen** avec une vue imprenable sur le **Drammensfjorden**. On remonte en longeant un bras du fjord qui par endroits a débordé. Certaines portions sont fermées ou alors déconseillées. 
 
+### Fausse joie à Hokksund 
+
 On finit par arriver à **Hokksund** qui devait être notre point d'arrivée. La personne à l'accueil du camping ne l'entend pas de cette oreille. Elle se tourne brièvement vers son patron qui ne nous adressera pas un regard. Ils échangent en norvégien et quand elle se retourne vers nous, la réponse est très claire.
 
 
