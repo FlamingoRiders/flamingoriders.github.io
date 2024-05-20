@@ -23,22 +23,22 @@ La sortie d'**Oslo** se passe super bien, les pistes cyclables et les itinérair
 
 C'est le prix à payer pour traverser des paysages d'exception. Aujourd'hui, ça va encore on va avoir un programme plus dur dans quelques jours. Très rapidement, on s'engouffre dans les montagnes et vallées dessinées par les fjords.
 
-Après avoir longé l'**Oslofjord**, on aperçoit de magnifiques lacs puis on traverse **Drammen** avec un vue imprenable sur le **Drammensfjorden**. On remonte en longeant un bras du fjord qui par endroits a débordé. certaines portions sont fermées ou alors déconseillées. 
+Après avoir longé l'**Oslofjord**, on aperçoit de magnifiques lacs puis on traverse **Drammen** avec une vue imprenable sur le **Drammensfjorden**. On remonte en longeant un bras du fjord qui par endroits a débordé. Certaines portions sont fermées ou alors déconseillées. 
 
 On finit par arriver à **Hokksund** qui devait être notre point d'arrivée. La personne à l'accueil du camping ne l'entend pas de cette oreille. Elle se tourne brièvement vers son patron qui ne nous adressera pas un regard. Ils échangent en norvégien et quand elle se retourne vers nous, la réponse est très claire.
 
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/VFAt3M4EEWnU4ADVX4" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Elle invoque soi-disant un spectacle canin qui nous empêcherait de poser notre tente dans l'endroit habituellement réservé aux campeurs. On y croit pas une seule seconde (pas de chiens en vue 🐕 !) mais les gens sont pas très agréables donc on décide d'aller voir plus loin. On appelle avant pour être sûr cette fois mais personne ne répond. On se met en route tout de même car on croit en un retournement de karma.
+Elle invoque soi-disant un spectacle canin qui nous empêcherait de poser notre tente dans l'endroit habituellement réservé aux campeurs. On n'y croit pas une seule seconde (pas de chiens en vue 🐕 !) mais les gens sont pas très agréables donc on décide d'aller voir plus loin. On appelle avant pour être sûr cette fois mais personne ne répond. On se met en route tout de même car on croit en un retournement de karma.
 
-Le *"plus loin"* c'est une douzaine de kilomètres avec une bonne petite côte supplémentaire. On est gourmands, on s'est servi du rab 🤭. On finit par atterrir dans un petit coin de paradis : à **Vestfossen** au bord du magnifique lac d'**Eikeren**. 
+Le *"plus loin"* c'est une douzaine de kilomètres avec une bonne petite côte supplémentaire. On est gourmands, on s'est servis du rab 🤭. On finit par atterrir dans un petit coin de paradis : à **Vestfossen** au bord du magnifique lac d'**Eikeren**. 
 
 Une petite boîte aux lettres est laissée à l'entrée avec une inscription qu'on ne comprend pas trop, on ne fait pas trop la différence entre les prix camping car ou tente, on laisse 200 couronnes dans le doute 😅.
 
 C'est très sommaire, un petit robinet dans l'herbe, des toilettes sèches et pas de douche.
 
-Enfin si ! Il y a le lac, douze degrés et avec un peu de pollen qui flotte dans l'eau car c'est la saison. On s'y rince très très rapidement puis on termine notre toilettes aux lingettes.
+Enfin si ! Il y a le lac, douze degrés et avec un peu de pollen qui flotte dans l'eau car c'est la saison. On s'y rince très très rapidement puis on termine notre toilette aux lingettes.
 
 Mais ne vous en faites pas pour nous ! On s'est quand même offert une vue de rêve pour notre réveil demain matin 😉.
 
