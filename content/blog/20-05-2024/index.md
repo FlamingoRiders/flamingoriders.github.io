@@ -8,6 +8,8 @@ description: "Heddal stavkyrkje, la plus grande église en bois debout de Norvè
 
 Depuis quelques jours, on constate tous les matins la même chose sur nos vélos. Une fine couche de pollen recouvre le cadre et la selle. Idem pour l'extérieur de notre tente et tout ce qui traine dehors. Normalement, Nana et Nico sont tous les deux sensibles au pollen en **France** mais ici, ils le supportent beaucoup mieux. C'est sans doute dû à l'accoutumance à force de passer du temps dehors.
 
+### Des églises comme on n'en a jamais vu
+
 On part du camping et à peine 4 kilomètres plus loin, on arrive devant **Heddal stavkyrkje**, la plus grande église en bois debout de **Norvège** édifiée au XIII ème siècle. Ce sera, pour tous les trois, notre toute première église médiévale en bois typique de la **Norvège**. Nous n'avons malheureusement pas le temps de visiter l'intérieur mais nous espérons en croiser plusieurs autres sur notre chemin et avoir la possibilité d'en visiter une. Paraît-il que l'intérieur est vraiment spectaculaire également !
 
 Nous longeons la rivière **Heddøla** puis **Hjartdøla** pendant plusieurs kilomètres. C'est sympa de suivre les rivières, surtout en descente. 
@@ -21,6 +23,8 @@ Nous passons par **Sauland** et sa très belle église **Sauland kyrkje**, plus 
 On emprunte la route menant à **Hjartdal**, toujours sur la **E134**. Soudain, on se met à longer un magnifique lac, le **Hjartsjåvatnet**. Lorsqu'on arrive à son bout, on bifurque. Les voitures ont le droit à un tunnel qui coupe en plein dans la montagne mais pas nous ! 
 
 Nous on a des côtes au programme 😎. On a descendu, il va falloir remonter. On le sait. Vous le savez. On sait même que vous le savez. C'est dire si l'on sait 😜.
+
+### Encore une journée magnifique 
 
 Le paysage est assez unique. On pense tour à tour à deux pays pour des similitudes :
 - le **Canada** 🇨🇦 pour les grands espaces et ses forêts vertes qui s'étendent à perte de vue.
