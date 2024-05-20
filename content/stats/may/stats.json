@@ -153,6 +153,19 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Vestfossen",
-    "endPointName": "Nottoden"
+    "endPointName": "Notodden"
+  },
+  {
+    "date": "2024-05-20",
+    "startPos": [59.564874, 9.209818],
+    "endPos": [59.634885, 8.395963],
+    "distance": 60.13,
+    "time": "03h51",
+    "averageSpeed": 15.7,
+    "elevationGain": 851,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Notodden",
+    "endPointName": "Åmotsdal"
   }
 ]
