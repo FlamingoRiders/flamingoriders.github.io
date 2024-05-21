@@ -167,5 +167,18 @@
     "weather": "🌤️",
     "startPointName": "Notodden",
     "endPointName": "Åmotsdal"
+  },
+  {
+    "date": "2024-05-21",
+    "startPos": [59.634885, 8.395963],
+    "endPos": [59.732047, 7.612332],
+    "distance": 71.22,
+    "time": "04h32",
+    "averageSpeed": 15.7,
+    "elevationGain": 1111,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Åmotsdal",
+    "endPointName": "Edland"
   }
 ]
