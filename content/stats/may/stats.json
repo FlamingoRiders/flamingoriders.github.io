@@ -180,5 +180,18 @@
     "weather": "🌤️",
     "startPointName": "Åmotsdal",
     "endPointName": "Edland"
+  },
+  {
+    "date": "2024-05-22",
+    "startPos": [59.732047, 7.612332],
+    "endPos": [59.828640, 6.811750],
+    "distance": 63.39,
+    "time": "03h40",
+    "averageSpeed": 17.3,
+    "elevationGain": 961,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Edland",
+    "endPointName": "Røldal"
   }
 ]
