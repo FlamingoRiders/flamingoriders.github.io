@@ -8,11 +8,11 @@ description: "Journée épique dans les Alpes Scandinaves : tunnels, lacs enneig
 
 Ce matin, on se réveille encore au pied d'un super lac, une habitude depuis qu'on a quitté **Oslo**. Depuis notre arrivée en **Norvège**, on n'a pas encore croisé de flamant rose, je me sens un peu seul 😰 !
 
-👧🏼 : *"Mais Eduardo, on en a pas croisé tout court depuis le départ"* 🤔
+👧🏼 : *"Mais Eduardo, on n'en a pas croisé tout court depuis le départ"* 🤔
 
-Ah oui tiens donc ! Ben ça m'a pas manqué en fin de compte je m'auto-suffis 🥰 ! Par contre ce qu'on a croisé depuis **Oslo**, c'est des personnes en ski à roulettes, des maisons avec toits végétalisés, des églises en bois debout, des petites stations de ski nordique et même des sautoirs de saut à ski ! 
+Ah oui tiens donc ! Ben ça ne m'a pas manqué en fin de compte je m'auto-suffis 🥰 ! Par contre ce qu'on a croisé depuis **Oslo**, c'est des personnes en ski à roulettes, des maisons avec toits végétalisés, des églises en bois debout, des petites stations de ski nordique et même des sautoirs de saut à ski ! 
 
-Hier, juste avant l'arrivée au camping, **Oslo** était indiquée à 260 kilomètres. On en a fait de la route sur nos quatres premières journées. On en est pas toujours convaincu car sur la carte, on a pas trop l'impression d'avancer mais par contre qu'est ce qu'on a vu comme paysages 🤩 !
+Hier, juste avant l'arrivée au camping, **Oslo** était indiquée à 260 kilomètres. On en a fait de la route sur nos quatres premières journées. On n'en est pas toujours convaincu car sur la carte, on n'a pas trop l'impression d'avancer mais par contre qu'est ce qu'on a vu comme paysages 🤩 !
 
 Ce matin, on aperçoit rapidement sur notre route le panneau de direction pour notre prochaine destination, **Røldal**, à 55 kilomètres. Facile sur le papier non 😉 ? 
 
@@ -22,7 +22,7 @@ La route s'élève, on continue à perdre des degrés, on remet même une petite
 
 ### Immergé au coeur des Alpes Scandinaves
 
-Les arbres se raréfient et la neige se dévoile sous nos yeux. Arrivés à ce premier sommet après une quinzaine de kilomètres, un premier lac se dresse devant nous. Sur la rive opposée, il y a quelque chose d'assez trouble qu'on arrive pas bien à distinguer. On fait la supposition qu'il s'agit de glace et qu'il est en parti gelé !
+Les arbres se raréfient et la neige se dévoile sous nos yeux. Arrivés à ce premier sommet après une quinzaine de kilomètres, un premier lac se dresse devant nous. Sur la rive opposée, il y a quelque chose d'assez trouble qu'on n'arrive pas bien à distinguer. On fait la supposition qu'il s'agit de glace et qu'il est en parti gelé !
 
 On continue notre route et on arrive au charmant village **Vågsli** et au pied d'un autre lac d'altitude, celui-ci entièrement gelé : le **Vågslivatn**. La neige est maintenant abondante et majoritaire, fini le vert. Bientôt, elle est partout ! Et quelle neige ! 
 
@@ -34,11 +34,11 @@ On se trouve au cœur des **Scandes** également appelées les **Alpes Scandinav
 
 ### Une journée qui bascule dans l'irréel 
 
-Cette **E134**, on l'emprunte souvent depuis notre départ d'**Oslo**. Parfois à contrecœur, car on préfère les voies vélo ou les plus petites routes. Sauf que des fois on a pas le choix. En **Norvège**, les tunnels sont fréquents. Certains sont ouverts aux cyclistes mais pas tous ! 
+Cette **E134**, on l'emprunte souvent depuis notre départ d'**Oslo**. Parfois à contrecœur, car on préfère les voies vélo ou les plus petites routes. Sauf que des fois on n'a pas le choix. En **Norvège**, les tunnels sont fréquents. Certains sont ouverts aux cyclistes mais pas tous ! 
 
-On se croit préparé car on utilise depuis le début **Komoot** qui est très fiable pour les itinéraires vélo et une [carte des tunnels répertoriés](https://www.cycletourer.co.uk/maps/tunnelmaplrge.shtml). On sait qu'on va en croiser pas moins de 5 sur la journée et seulement 2 sont empruntables d'après les indications. 
+On se croit préparés car on utilise depuis le début **Komoot** qui est très fiable pour les itinéraires vélo et une [carte des tunnels répertoriés](https://www.cycletourer.co.uk/maps/tunnelmaplrge.shtml). On sait qu'on va en croiser pas moins de 5 sur la journée et seulement 2 sont empruntables d'après les indications. 
 
-On arrive donc au premier et là on a un panneau avec un vélo et un bonhomme barré. Attends, on pouvait pas le premier ? Ben d'après la carte si, mais on décide donc de contourner dans un premier temps. Le problème n'est pas tant qu'il soit praticable pour les vélos. S'il est indiqué comme interdit aux vélos, aucune voiture ou camion le traversant ne va s'attendre à en croiser en route.
+On arrive donc au premier et là on a un panneau avec un vélo et un bonhomme barré. Attends, on ne pouvait pas le premier ? Ben d'après la carte si, mais on décide donc de contourner dans un premier temps. Le problème n'est pas tant qu'il soit praticable pour les vélos. S'il est indiqué comme interdit aux vélos, aucune voiture ou camion le traversant ne va s'attendre à en croiser en route.
 
 On choisit donc *"la vieille route"* sur le côté qui ne coupe pas la montagne mais grimpe par dessus. Forcément. Où est le fun sinon 😆 ! On se lance donc dans l'ascension. Et là, problème. Gros problème. La route est enneigé.
 
@@ -66,7 +66,7 @@ Oui, ça veut dire que le camion a doublé d'une traite la dame en voiture puis 
  
 La route qui suit est irréelle. Le genre de route sur vous voyez uniquement dans les films. Elle coupe littéralement en plein milieu des montagnes, on a une vue de tous les côtés sur des monts tous plus beaux les uns que les autres, des cascades de plusieurs centaines de mètres de hauteur, des cours d'eau d'un magnifique bleu turquoise et des lacs d'altitude complètement gelés.
 
-On arrive bientôt devant un nouveau tunnel, celui-ci fait 5 kilomètres et ne peut être emprunté par les vélos. C'est pas grave, on a une route bien déneigée rien pour nous et une montée de col 🥷🏼 !
+On arrive bientôt devant un nouveau tunnel, celui-ci fait 5 kilomètres et ne peut être emprunté par les vélos. Ce n'est pas grave, on a une route bien déneigée rien que pour nous et une montée de col 🥷🏼 !
 
 Cette montée est incroyable, la route est praticable mais sur chaque côté le banc de neige dépasse par endroits les 3 mètres. Du jamais vu, un moment de cyclisme comme on ne sait pas si on en revivra un jour. On accueille la difficulté de la montée avec bienveillance car chaque instant à contempler le paysage autour de nous est absolument unique 🤩. 
 
