@@ -206,5 +206,18 @@
     "weather": "🌤️",
     "startPointName": "Røldal",
     "endPointName": "Nå"
+  },
+  {
+    "date": "2024-05-24",
+    "startPos": [60.184024, 6.551916],
+    "endPos": [60.367530, 6.191481],
+    "distance": 81.55,
+    "time": "04h51",
+    "averageSpeed": 16.8,
+    "elevationGain": 877,
+    "mood": 5,
+    "weather": "⛅",
+    "startPointName": "Nå",
+    "endPointName": "Norheimsund"
   }
 ]
