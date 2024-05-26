@@ -1,6 +1,6 @@
 ---
 title: 🐟 Le saumon d'Eduardo du 26 mai
-date: "2024-05-25"
+date: "2024-05-26"
 description: "On marche derrière la cascade de Steinsdalsfossen !"
 ---
 
