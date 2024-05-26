@@ -14,7 +14,7 @@ On a un programme censé être *"plus cool"* aujourd'hui ! Seulement 45 kilomèt
 
 On commence notre itinéraire en se rendant à **Steinsdalsfossen**. C'est une cascade à seulement 2 kilomètres de **Norheimsund**. Le site est plutôt fréquenté, on a un peu de chance quand on y arrive puis des personnes débarqueront sur la fin de notre visite. Les cascades fascinent tout le monde ⛲.
 
-Alors vous devez vous dire qu'on parle tous les jours de cascades en ce moment et c'est vrai 😝 ! Il y en a [beaucoup qui valent le détour en Norvège](https://www.visitnorway.fr/activites-norvege/attractions-naturelles/cascades/) et il y en a pour tous les goûts (hauteur, puissance, chute ininterrompue, paliers etc.). Dix des trente plus hautes cascades du monde se trouvent dans ce pays. La région des fjords y est évidemment propice avec de longues parois rocheuses à dévaler et surtout beaucoup d'eau en altitude issue des fontes de neige. On est d'ailleurs pile dans la saison où le débit est maximal.
+Alors vous devez vous dire qu'on parle tous les jours de cascades en ce moment et c'est vrai 😝 ! Il y en a [beaucoup qui valent le détour en Norvège](https://www.visitnorway.fr/activites-norvege/attractions-naturelles/cascades/) et il y en a pour tous les goûts (hauteur, puissance, chute ininterrompue, paliers etc.). Dix des trente plus hautes cascades du monde se trouvent dans ce pays. La région des fjords y est évidemment propice avec de longues parois rocheuses à dévaler et surtout beaucoup d'eau en altitude issue de la fonte des neiges. On est d'ailleurs pile dans la saison où le débit est maximal.
 
 À **Steinsdalsfossen**, la cascade mesure plus de 40 mètres et son tenant principal en fait 20. Cependant, sa vraie spécificité n'est pas sa hauteur ! Il se trouve que le site permet de l'approcher de très près et même de marcher derrière elle grâce à un chemin piéton !
 
@@ -34,7 +34,7 @@ On emprunte donc le tunnel. Le premier d'une série de 4 pendant cette bonne mon
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ZSDreApKOo6eQYFx9qXfD?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
 S'ils sont pratiques pour les voitures, notamment en hiver, pour des vélos, même s'ils sont empruntables et que c'est le seul chemin, ils ont tout de même quelques inconvénients :
-- la largeur de la voie. Il n'y a pas de voie spéciale pour les vélos. Un tunnelier ça coûte cher et à l'époque où ils ont creusé ça devait pas être la priorité.
+- la largeur de la voie. Il n'y a pas de voie spéciale pour les vélos. Un tunnelier ça coûte cher et à l'époque où ils ont creusé ça ne devait pas être la priorité.
 - la luminosité n'est pas terrible. On vous verra si vous avez des lampes mais vous, pour voir, c'est autre chose. 
 - le bruit. Ça résonne fort au passage des voitures mais c'est aussi *"désorientant"*. Vous savez qu'une voiture approche mais vous ne saurez pas déterminer le sens dans lequel elle emprunte le tunnel et à quelle distance de vous elle se situe.
 - l'odeur. Un subtil mélange de pots d'échappement et de renfermé. Il y a mieux.
@@ -44,7 +44,7 @@ Tout ça pour dire que ça n'est pas notre attraction favorite 😂.
 
 Une fois arrivés en haut, on déjeune et on prend une glace en dessert, pour se remettre de nos émotions 🍦. C'est bon mais peut-être un peu trop sucré cette fois-ci.
 
-On redescend et dans ce sens, on parvient majoritairement à éviter les tunnels avec des bifurcations sur le côté ! C'est dommage car en descente la traversée est beaucoup moins longue, on aurait préféré lors de la montée 😅 !
+On redescend et dans ce sens, on parvient majoritairement à éviter les tunnels avec des bifurcations sur le côté ! C'est dommage car en descente la traversée est beaucoup moins longue, on aurait préféré cela lors de la montée 😅 !
 
 On atterrit dans le **Bjørnafjord**, très mignon également. On se fait la réflexion que ça nous rappelle les lacs du nord de l'**Italie**, qu'on adore ! 
 
