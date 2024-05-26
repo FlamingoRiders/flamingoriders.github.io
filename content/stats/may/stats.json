@@ -219,5 +219,18 @@
     "weather": "⛅",
     "startPointName": "Nå",
     "endPointName": "Norheimsund"
+  },
+  {
+    "date": "2024-05-26",
+    "startPos": [60.367530, 6.191481],
+    "endPos": [60.3763110, 5.6918467],
+    "distance": 44.9,
+    "time": "02h55",
+    "averageSpeed": 15.6,
+    "elevationGain": 880,
+    "mood": 3,
+    "weather": "🌥️",
+    "startPointName": "Norheimsund",
+    "endPointName": "Bjørvika"
   }
 ]
