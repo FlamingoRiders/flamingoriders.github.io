@@ -44,7 +44,7 @@ Tout ça pour dire que ça n'est pas notre attraction favorite 😂.
 
 Une fois arrivés en haut, on déjeune et on prend une glace en dessert, pour se remettre de nos émotions 🍦. C'est bon mais peut-être un peu trop sucré cette fois-ci.
 
-On redescend et dans ce sens, on parvient majoritairement à éviter les tunnels avec des bifurcations sur le côté ! C'est dommage car en descente la traversée est beaucoup moins longue, on aurait préféré cela lors de la montée 😅 !
+On redescend et dans ce sens, on parvient majoritairement à éviter les tunnels avec des bifurcations sur le côté ! C'est dommage car en descente la traversée est beaucoup moins longue, on aurait préféré cela lors de la montée 😅 ! Sur notre chemin, on croise également la puissante **Mørkhølsfossen**.
 
 On atterrit dans le **Bjørnafjord**, très mignon également. On se fait la réflexion que ça nous rappelle les lacs du nord de l'**Italie**, qu'on adore ! 
 
