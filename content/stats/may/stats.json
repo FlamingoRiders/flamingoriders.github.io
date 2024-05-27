@@ -231,6 +231,19 @@
     "mood": 3,
     "weather": "🌥️",
     "startPointName": "Norheimsund",
-    "endPointName": "Bjørvika"
+    "endPointName": "Samnanger"
+  },
+  {
+    "date": "2024-05-27",
+    "startPos": [60.3763110, 5.6918467],
+    "endPos": [60,3717343, 5,3664357],
+    "distance": 46.55,
+    "time": "03h14",
+    "averageSpeed": 14.3,
+    "elevationGain": 776,
+    "mood": 3,
+    "weather": "🌧️",
+    "startPointName": "Samnanger",
+    "endPointName": "Bergen"
   }
 ]
