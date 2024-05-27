@@ -50,7 +50,7 @@ On va se consoler avec des suprises qui dépassent encore nos attentes. Une habi
 🦩 : *"Je dirais même plus, une bonne habitude !"*
 
 En chemin, tout plein de villages mignons s'enchaînent les uns après les autres : **Aga, Grimo, Utne, Herand** pour ne citer que ceux-là !
-Beaucoup abritent de petits musées sur le folklore local. Peut-être qu'un jour, on en visitera un.
+Beaucoup abritent de petits musées sur le folklore local. Peut-être qu'un jour, on en visitera un. On croise aussi de nombreux arbres fruitiers et une fabrique de cidre. Le fjord est d'ailleurs surnommé le *"verger de la Norvège"* pour ses nombreux pommiers.
 
 On note les **hytter**, des huttes ou cabines qui font office de superbe résidences secondaires ou bien de pied-à-terre pour l'été. Elles sont construites en bois et comportent souvent des toits végétalisés qui offrent une excellente isolation thermique en plus d'avoir un look pittoresque.
 
