@@ -91,12 +91,12 @@ Depuis notre départ, voici notre avancement :
 | Pays traversés  | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻 |
 | Comment c’était ?  | 🥰😍🤩   |
 
-Sur ces dix derniers jours, on a pu confirmer ce que l'on soupçonnais déjà de longue date : faire du vélo en **Norvège** est exigeant. Il faut être patient et prêt à affronter des conditions différentes de celles auxquelles nous avons dû faire face jusqu'à présent : le dénivelé, les tunnels, la neige, la longueur de la route etc. Ajoutons à cela la fatigue générée et accumulée sur plusieurs jours.
+Sur ces dix derniers jours, on a pu confirmer ce que l'on soupçonnait déjà de longue date : faire du vélo en **Norvège** est exigeant. Il faut être patient et prêt à affronter des conditions différentes de celles auxquelles nous avons dû faire face jusqu'à présent : le dénivelé, les tunnels, la neige, la longueur de la route etc. Ajoutons à cela la fatigue générée et accumulée sur plusieurs jours.
 
 Maintenant que tout cela est dit, on peut répéter ce que l'on dit depuis quelques jours : quel incroyable pays 😮. Ok, on a eu de sacrées journées. Mais cette route, ces paysages, cette liberté est follement addictive 😍 ! À vélo, ce pays ne fait pas de cadeaux, mais il récompense comme nul autre les efforts consentis. Dur, mais juste 😉.
 
 À présent, nous allons profiter quelques jours de la belle **Bergen**. La clef pour nous sera de bien récupérer des derniers jours et peut-être d'affiner la suite de notre programme avec deux priorités en tête :
 - profiter un maximum et se faire plaisir.
-- rester raisonnable. On ne veut pas faire d'efforts dont on ne pourra pas récupérer et qui entraveraient la suite de notre voyage.
+- rester raisonnable. On ne veut pas faire d'efforts dont on ne pourrait pas récupérer et qui entraveraient la suite de notre voyage.
 
 Place au repos bien mérité 🦩😴.
