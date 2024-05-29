@@ -6,7 +6,7 @@ description: "On monte au mont Ulriken et on descend à Bryggen !"
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Hier et aujourd'hui, on est à **Bergen**, sur la côte sud-ouest de la **Norvège** ! C'est la seconde plus grande ville du pays. On est content d'être ici et on a l'impression de retrouver une atmosphère que l'on a déjà rencontrée lors de notre voyage. 
+Hier et aujourd'hui, on est à **Bergen**, sur la côte sud-ouest de la **Norvège** ! C'est la seconde plus grande ville du pays. On est contents d'être ici et on a l'impression de retrouver une atmosphère que l'on a déjà rencontrée lors de notre voyage. 
 
 D'une part car nous retrouvons la **Mer du Nord** que nous avons déjà aperçu aux **Pays-Bas** et entre-temps, nous avons vu la **Baltique**, parcouru l'**Allemagne** et le **Danemark**. Même si notre parcours donne l'impression que l'on tourne autour de la **mer du Nord**, on en a fait du chemin pour la retrouver !
 
@@ -24,7 +24,7 @@ C'est d'ailleurs ce que nous allons faire 😀 !
 
 *"Jour de repos, jour de rando ?"*
 
-Oui mais on ne va pas forcer cette fois 😉. Il se trouve que par chance, nous logeons dans les hauteurs de **Bergen** à environ 3,5 kilomètres du centre. Le plus haut mont de la ville, **Ulriken** est ses 642 mètres est le plus proche que nous pouvons rejoindre à pied. Il y a une télécabine qui monte en haut mais si vous êtes d'humeur aventureuse et que vous n'avez pas de problèmes physiques, nous vous recommandons de gravir les 1333 marches qui mènent à ce sommet !
+Oui mais on ne va pas forcer cette fois 😉. Il se trouve que par chance, nous logeons dans les hauteurs de **Bergen** à environ 3,5 kilomètres du centre. Le plus haut mont de la ville, **Ulriken** et ses 642 mètres, est le plus proche que nous pouvons rejoindre à pied. Il y a une télécabine qui monte en haut mais si vous êtes d'humeur aventureuse et que vous n'avez pas de problèmes physiques, nous vous recommandons de gravir les 1333 marches qui mènent à ce sommet !
 
 Nous sommes d'ailleurs surpris par le nombre de personnes qui ont la même idée que nous. Beaucoup se lancent dans cette ascension et aujourd'hui, alors que nous sommes un mardi, nous apercevons d'importants groupes d'enfants sur ce chemin ! Les marches sont assez régulières mais il y a quand même quinze à vingt centimètres à certains endroits.
 
