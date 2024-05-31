@@ -6,7 +6,7 @@ description: "Stupéfaits devant les fantastiques Nærøyfjord et Aurlandsfjord 
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Aujourd'hui est un jour particulier pour au moins trois raisons. Il y a deux mois, nous quittions **Paris** et on se mettait en route dans cette aventure formidable. On était en quête de découvertes, de défis et de frissons, on en a eu et devinez quoi, on est pas du tout rassasiés 🤩 ! Dès demain, on repartira pied au plancher vers le grand nord.
+Aujourd'hui est un jour particulier pour au moins trois raisons. Il y a deux mois, nous quittions **Paris** et nous nous mettions en route dans cette aventure formidable. On était en quête de découvertes, de défis et de frissons, on en a eu et devinez quoi, on est pas du tout rassasiés 🤩 ! Dès demain, on repartira pied au plancher vers le grand nord.
 
 C'est aussi le dernier jour du mois de mai. Un mois qui aura été incroyable sur tous les plans :
 - des journées à vélo formidables
