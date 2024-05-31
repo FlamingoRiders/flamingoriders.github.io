@@ -55,7 +55,8 @@ Une fois de retour, nous décidons de repartir dans les hauteurs ! Nous avions v
 Si vous vous posez la question, est-ce que ça vaut la peine de faire **Fløyen** si j'ai déjà fait **Ulriken** ou inversement, notre réponse est oui 💯 !
 
 Les deux :
-- sont accessibles soit par téléphérique, soit pas funiculaire. - proposent des chemins de rando pas très longs et surtout sympathiques jusqu'au sommet.
+- sont accessibles soit par téléphérique, soit pas funiculaire. 
+- proposent des chemins de rando pas très longs et surtout sympathiques jusqu'au sommet.
 - les deux vues valent le coup. **Ulriken** offre une vue plus large sur les alentours de **Bergen** et les îles environnantes tandis que **Fløyen** propose la meilleure vue du centre-ville.
 
 Nous rallions le sommet peu après 20 heures et malgré l'envie de rester, nous devons encore manger et nous préparer pour le le demain. Si l'on attendait le coucher de soleil, il aurait encore fallu attendre deux heures et demie de plus 😉.
