@@ -1,12 +1,12 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 1er Juin
+title: 🐟 Le saumon d'Eduardo du 1er juin
 date: "2024-06-01"
 description: "À travers les îles d' Holsnøy et Radøy !"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Ce matin, on quitte la belle **Bergen** 🥲. On aura bien profité de la ville et de ses environs. Après 4 jours de pause, on redémarre sur nos vélos !
+Ce matin, on quitte la belle **Bergen** 🥲. On aura bien profité de la ville et de ses environs. Après 4 jours de pause, on réattaque sur nos vélos !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7EOPueZHT9sV2k9NXwiIUG?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
