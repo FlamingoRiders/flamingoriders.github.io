@@ -11,5 +11,18 @@
     "weather": "⛅",
     "startPointName": "Bergen",
     "endPointName": "Bøvågen"
+  },
+  {
+    "date": "2024-06-02",
+    "startPos": [60.670927, 4.954216],
+    "endPos": [61.1725309, 5.3514318],
+    "distance": 78.58,
+    "time": "05h02",
+    "averageSpeed": 15.6,
+    "elevationGain": 1233,
+    "mood": 5,
+    "weather": "🌥️",
+    "startPointName": "Bøvågen",
+    "endPointName": "Leirvik"
   }
 ]
