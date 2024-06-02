@@ -1,5 +1,5 @@
 ---
-title: 🥪 Le smørrebrød d'Eduardo du 01 mai
+title: 🥪 Le smørrebrød d'Eduardo du 1er mai
 date: "2024-05-01"
 description: "Traversée de l'île de Fehmarn puis ferry jusqu'au Danemark !"
 ---
