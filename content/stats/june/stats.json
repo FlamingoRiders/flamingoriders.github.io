@@ -24,5 +24,18 @@
     "weather": "🌥️",
     "startPointName": "Bøvågen",
     "endPointName": "Leirvik"
+  },
+  {
+    "date": "2024-06-03",
+    "startPos": [61.1725309, 5.3514318],
+    "endPos": [61.4613820, 5.8877026],
+    "distance": 72.28,
+    "time": "05h10",
+    "averageSpeed": 14.0,
+    "elevationGain": 1280,
+    "mood": 2,
+    "weather": "🌧️",
+    "startPointName": "Leirvik",
+    "endPointName": "Førde"
   }
 ]
