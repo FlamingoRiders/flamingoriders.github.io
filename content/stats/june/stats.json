@@ -37,5 +37,18 @@
     "weather": "🌧️",
     "startPointName": "Leirvik",
     "endPointName": "Førde"
+  },
+  {
+    "date": "2024-06-04",
+    "startPos": [61.4613820, 5.8877026],
+    "endPos": [61.7314833, 6.4072713],
+    "distance": 72.17,
+    "time": "04h33",
+    "averageSpeed": 15.9,
+    "elevationGain": 448,
+    "mood": 2,
+    "weather": "🌧️",
+    "startPointName": "Førde",
+    "endPointName": "Byrkelo"
   }
 ]
