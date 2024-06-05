@@ -6,7 +6,7 @@ description: "Milles et une tenues pour atteindre Førde !"
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Aujourd'hui, on est à sec. Enfin, façon de parler, il pleut et ça a l'air parti pour durer 😅. Non, *"à sec"*, c'est surtout dans le sens où on a plus de réserves. On a regardé notre route du jour et à priori, on ne va rien trouver en cours de chemin.
+Aujourd'hui, on est à sec. Enfin, façon de parler, il pleut et ça a l'air parti pour durer 😅. Non, *"à sec"*, c'est surtout dans le sens où on n'a plus de réserves. On a regardé notre route du jour et à priori, on ne va rien trouver en cours de chemin.
 
 Il y a tout de même un magasin à quelques kilomètres d'où on est mais dans une autre direction. C'est un aller-retour de 10 kilomètres avec 150 mètres de dénivelé. Je spoile pas la suite mais le dénivelé, il y en a déjà au menu aujourd'hui 📈 !
 
