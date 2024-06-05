@@ -1,5 +1,5 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 2 Juin
+title: 🐟 Le saumon d'Eduardo du 2 juin
 date: "2024-06-02"
 description: "Grosse journée et gros dénivelé pour traverser le Fensfjord et le Sognefjord !"
 ---
