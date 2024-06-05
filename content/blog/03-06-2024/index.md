@@ -10,13 +10,7 @@ Aujourd'hui, on est à sec. Enfin, façon de parler, il pleut et ça a l'air par
 
 Il y a tout de même un magasin à quelques kilomètres d'où on est mais dans une autre direction. C'est un aller-retour de 10 kilomètres avec 150 mètres de dénivelé. Je spoile pas la suite mais le dénivelé, il y en a déjà au menu aujourd'hui 📈 !
 
-Pas le choix, la *"mission courses"* s'impose, Nico s'exécute.
-
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/gnFgmyqO6rRMYSxrGc" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
-
-https://giphy.com/gifs/xUOwG7C2HnR0WlBXfa
- 
-Pour ne pas perdre trop de temps il roule *"pas intelligemment"*, c'est à dire un peu trop engagé surtout avec un sac à dos sur le dos. Mais bon, il n'en est pas à sa première erreur de jugement 😏.
+Pas le choix, la *"mission courses"* s'impose, Nico s'exécute. Pour ne pas perdre trop de temps il roule *"pas intelligemment"*, c'est à dire un peu trop engagé surtout avec un sac à dos sur le dos. Mais bon, il n'en est pas à sa première erreur de jugement 😏.
 
 ### Un temps très capricieux
 Aujourd'hui, le temps est très changeant. Il fait plutôt frais mais pas froid. On commence sans vêtements de pluie puis quelques gouttes retentissent. On fait un premier arrêt pour les enfiler. On a bien fait, la demi-heure suivante se fera sous la pluie.
