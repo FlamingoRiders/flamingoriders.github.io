@@ -1,5 +1,5 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 3 Juin
+title: 🐟 Le saumon d'Eduardo du 3 juin
 date: "2024-06-03"
 description: "Milles et une tenues pour atteindre Førde !"
 ---
