@@ -50,5 +50,18 @@
     "weather": "🌧️",
     "startPointName": "Førde",
     "endPointName": "Byrkelo"
+  },
+  {
+    "date": "2024-06-06",
+    "startPos": [61.7314833, 6.4072713],
+    "endPos": [61.855006, 6.896486],
+    "distance": 86.87,
+    "time": "05h43",
+    "averageSpeed": 15.2,
+    "elevationGain": 1224,
+    "mood": 5,
+    "weather": "🌦️",
+    "startPointName": "Byrkelo",
+    "endPointName": "Loen"
   }
 ]
