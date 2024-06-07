@@ -50,9 +50,9 @@ On longe sur 20 kilomètres ce magnifique lac du **Lovatnet**. La route est trè
 
 Sur les derniers kilomètres, on croise une végétation majestueuse. Nous sommes entourés de tous les côtés par des montagnes toutes plus belles les unes que les autres. On a l'impression d'être dans un Indiana Jones ou un autre film d'aventures. Puis, la route devient un chemin de graviers. À présent les voitures ne peuvent plus circuler. Seuls les randonneurs ou les vélos pourraient passer.
 
-Par chance, il n'y a que nous. Les gens ont sans doute pensé que l'on ne verrait plus rien a cause de la brume et de la pluie très fine qui a commencé à retentir. Mais, nous sommes dans ce pays depuis un bout de temps pour savoir que le temps change vite. De plus, nous serons dans ce paradis naturel seulement aujourd'hui. C'est notre chance. On s'enfonce dans cette végétation alors que la visibilité se réduit.
+Par chance, il n'y a que nous. Les gens ont sans doute pensé que l'on ne verrait plus rien à cause de la brume et de la pluie très fine qui a commencé à retentir. Mais, nous sommes dans ce pays depuis un bout de temps pour savoir que le temps change vite. De plus, nous serons dans ce paradis naturel seulement aujourd'hui. C'est notre chance. On s'enfonce dans cette végétation alors que la visibilité se réduit.
 
-On entre dans un petit chemin bordé de fleurs violettes et tout plein de papillons blancs qui dansent au-dessus. Alors que l'on progresse, le ciel nuageux commence à se lever sur notre passage. Il est a présent derrière nous, de là où l'on vient ! Preuve que le temps change très vite 😉.
+On entre dans un petit chemin bordé de fleurs violettes et tout plein de papillons blancs qui dansent au-dessus. Alors que l'on progresse, le ciel nuageux commence à se lever sur notre passage. Il est à présent derrière nous, de là où l'on vient ! Preuve que le temps change très vite 😉.
 
 Nous sortons du chemin, nous y sommes ! À quelques dizaines de mètres de nous, on observe le pied du **Kjenndalsbreen**. Il est évidemment majestueux. On aperçoit même une immense coulée de glace mi-blanche, mi-bleue.
 
