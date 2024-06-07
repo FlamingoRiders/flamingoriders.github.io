@@ -27,7 +27,7 @@ Son ami passe à notre cabine vers 13h. Il regarde la roue arrière du vélo de 
 
 💁🏻‍♂️ : *"Voilà j'ai changer le pneu. La roue, les rayons sont en très bon état. Au départ je pensais intervenir dessus mais en fin de compte, c'est le pneu qui est déformé et rend la roue voilée*".
 
-On était donc pas fous hier, c'est vrai qu'à l'oeil nu, on avait pas vraiment l'impression qu'il y avait un problème avec les rayons ou le support de roue. 
+On n'était donc pas fous hier, c'est vrai qu'à l'oeil nu, on n'avait pas vraiment l'impression qu'il y avait un problème avec les rayons ou le support de roue. 
 
 Pour 200 NOK, soit le prix du pneu, on a :
 - à nouveau un vélo sûr.
@@ -47,7 +47,7 @@ Comme partout en **Norvège**, même quand on a l'impression d'être dans un coi
 On part à pied et on suit une route qui prend un peu de hauteur. On a alors une vue sur des glaciers au loin, **PeakLens** nous indique que l'on a dans notre ligne de mire le [Ceciliekruna](https://no.m.wikipedia.org/wiki/Ceciliekruna)
 à 1717 mètres.
 
-La pluie fine cesse et laisse maintenant place à une vue ensoleillée du lac. Elle ne durera pas, mais on l'a eu un petit quart d'heure. Il faut toujours être à l'affût 😉.
+La pluie fine cesse et laisse maintenant place à une vue ensoleillée du lac. Elle ne durera pas, mais on l'a eue un petit quart d'heure. Il faut toujours être à l'affût 😉.
 
 En somme, nous n'avons pas fait des kilomètres, pas d'heures d'activité et on a pu se ressourcer un petit peu. Parfois, la journée de repos, c'est la meilleure des solutions 😉 !
 
