@@ -63,5 +63,18 @@
     "weather": "🌦️",
     "startPointName": "Byrkelo",
     "endPointName": "Loen"
+  },
+  {
+    "date": "2024-06-07",
+    "startPos": [61.855006, 6.896486],
+    "endPos": [62.075621, 6.896770],
+    "distance": 68.47,
+    "time": "04h35",
+    "averageSpeed": 15.0,
+    "elevationGain": 793,
+    "mood": 5,
+    "weather": "🌥️",
+    "startPointName": "Loen",
+    "endPointName": "Hellesylt"
   }
 ]
