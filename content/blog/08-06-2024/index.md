@@ -6,7 +6,7 @@ description: "Le Geirangerfjord et ses cascades féeriques !"
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Aujourd'hui, on fait une pause dans notre trajet. Nos vélos sont restés au camping à deux kilomètres du centre de **Hellesyft** qu'on rallie donc à pied.
+Aujourd'hui, on fait une pause dans notre trajet. Nos vélos sont restés au camping à deux kilomètres du centre de **Hellesylt** qu'on rallie donc à pied.
 
 On embarque à bord d'un ferry pour partir découvrir un fjord très particulier : le **Geirangerfjord**.
 
@@ -34,7 +34,7 @@ C'est peut-être pour cela que les fameuses chutes d'eau ont des noms poétiques
 - **Friaren (“the Suitor”)**
 - **Brudesløret (the Bridal Veil)**
 
-Quoi qu'il s'en soit, pendant cette croisière que nous ferons une fois le matin dans le sens **Hellesylt - Geiranger** puis en fin d'après-midi dans le sens inverse, on sera d'accord pour dire que l'on s'est senti plongés dans un monde imaginaire. On est pas loin de l'attraction des poupées à Disney de *"It’s a Small World"*. Bon, il n'y avait ni poupées ni musique et on a fait qu'un seul pays. Pour le reste on y est hein 😉 ! 
+Quoi qu'il s'en soit, pendant cette croisière que nous ferons une fois le matin dans le sens **Hellesylt - Geiranger** puis en fin d'après-midi dans le sens inverse, on sera d'accord pour dire que l'on s'est senti plongés dans un monde imaginaire. On n'est pas loin de l'attraction des poupées à Disney de *"It’s a Small World"*. Bon, il n'y avait ni poupées ni musique et on a fait qu'un seul pays. Pour le reste on y est hein 😉 ! 
 
 La balade est à couper le souffle tout du long et dure tout de même une heure. Ça en fait du temps en apnée 😅.
 
@@ -58,11 +58,11 @@ Alors, on vous passe les détails, mais ils ne sont pas venus pour nous faire la
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/BmUFjWsYMg23oplAmC" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Non, celui qui s'arrêtera juste à côté de nous va nous tourner le dos, s'accroupir et... larguer sa cargaison devant nous 🫣. Ah il s'est pas gêné le coquin. Drôle d'accueil, après on était sans doute dans son coin *"toilettes"* 😅. On s'éloigne afin qu'il retrouve un peu d'intimité.
+Non, celui qui s'arrêtera juste à côté de nous va nous tourner le dos, s'accroupir et... larguer sa cargaison devant nous 🫣. Ah il ne s'est pas gêné le coquin. Drôle d'accueil, après on était sans doute dans son coin *"toilettes"* 😅. On s'éloigne afin qu'il retrouve un peu d'intimité.
 
 On poursuit notre chemin, on arrive bientôt à plus de 500 mètres, on est récompensés par une vue incroyable sur le **Geirangerfjord**. On aperçoit aussi une belle route en lacets : l'impressionnante route de l'aigle. Cette montée vers  [Ørnesvingen depuis Geiranger](https://climbfinder.com/fr/montees/ornesvingen-geiranger) présente des pourcentages terribles : 7.1 km à 8.8%. on voit ses pentes les plus relevées, on aimerait s'y lancer mais pas aujourd'hui 😉.
 
 De l'autre côté de la montagne, on rejoint vers 600 mètres d'altitude la magnifique [Storsæterfossen](
-https://www.visitnorway.com/listings/hike-to-storseterfossen-(waterfall)/234499/). La cascade chute de plus de 30 mètres et il y a de la force. On peut passer grâce à un chemin sécurisé juste en dessous ! C'est très impressionnant et la vue est top. On ne peut pas s'approcher plus sans finir dedans et croyez-nous, on imagine pas prendre une douche dessous 😅.
+https://www.visitnorway.com/listings/hike-to-storseterfossen-(waterfall)/234499/). La cascade chute de plus de 30 mètres et il y a de la force. On peut passer grâce à un chemin sécurisé juste en dessous ! C'est très impressionnant et la vue est top. On ne peut pas s'approcher plus sans finir dedans et croyez-nous, on n'imagine pas prendre une douche dessous 😅.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/mMctlNZo7Kmoo" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
