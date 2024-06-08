@@ -28,7 +28,7 @@ Bon, je vous avoue que ce n'est pas une franche surprise. Concernant le dénivel
 
 Pourtant je vous assure que Nana et Nico ne veulent pas s'infliger tous les jours de sacrées montées. Aujourd'hui encore, ça tire un peu la langue malgré qu'on en ai connu d'autres !
 
-On emprunte sur une courte section la route partant de [Stryn vers l'ouest] (https://www.visitnorway.fr/listings/the-panoramic-road/211739/) avant de passer par **Grodås**. 
+On emprunte sur une courte section la route partant de [Stryn vers l'ouest](https://www.visitnorway.fr/listings/the-panoramic-road/211739/) avant de passer par **Grodås**. 
 
 On traverse un tunnel de 800 mètres. Cela faisait plusieurs jours que l'on avait pas emprunté de tunnel. Notre compteur de tunnel est donc resté bloqué mais tout comme notre *"froussomètre"*. Finalement, ce n'est pas plus mal 😅.
 
