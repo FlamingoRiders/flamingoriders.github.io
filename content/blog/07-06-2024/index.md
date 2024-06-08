@@ -38,13 +38,13 @@ Le tunnel du jour est bien éclairé, pas trop emprunté, on le traverse sans tr
 
 On remonte dans les montagnes, la montée est irrégulière, des replats succèdent à des pentes importantes. Elle est longue cette montée. 
 
-Autour de nous, le calme règne. Cette route 60 est la seule construction aux alentours. On est entouré de montagnes de tous les côtés, c'est très beau et très sauvage. On est vraiment bien.
+Autour de nous, le calme règne. Cette route 60 est la seule construction aux alentours. On est entouré de montagnes, c'est très beau et très sauvage. On est vraiment bien.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/wmuyDdRNXYximlvYM1" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-On franchit un panneau qui nous indique qu'on rentre à présent dans le comté de **Møre og Romsdal** ! On croise des troupeaux d'alpagas et 2 vigognes. Franchement, on ne s'y attendait pas,es chèvres, les moutons et les vaches oui mais là on est sortis du quotidien 😅.
+On franchit un panneau qui nous indique qu'on rentre à présent dans le comté de **Møre og Romsdal** ! On croise des troupeaux d'alpagas et 2 vigognes. Franchement, on ne s'y attendait pas, les chèvres, les moutons et les vaches oui mais là on est sortis du quotidien 😅.
 
-On entame une longue descente vers **Hellesylt**. Le genre de descente très facile, pas technique et où l'on prend une vitesse suffisante pour se laisser aller à la pente sans avoir à user des freins. Ça fait plaisir des fois d'avoir des potions *"faciles"* comme celle-ci.
+On entame une longue descente vers **Hellesylt**. Le genre de descente très facile, pas technique et où l'on prend une vitesse suffisante pour se laisser aller à la pente sans avoir à user des freins. Ça fait plaisir des fois d'avoir des portions *"faciles"* comme celle-ci.
 
 On finit par rejoindre la ville et, en plein centre, on tombe sur sa cascade. Nous avons rejoint le bout du **Sunnylvsfjord**, une branche du **Storfjord**. 
 
