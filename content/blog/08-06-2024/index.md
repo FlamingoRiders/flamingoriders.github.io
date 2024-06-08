@@ -46,11 +46,11 @@ En fait, on se laissera guider par les panneaux de randonnée ! Ils indiquent no
 
 Cependant, le chemin ne s'arrête pas là ! En continuant à grimper on va découvrir de belles surprises. 
 
-Avant cela, on va avoir la chance de croiser plein de chèvres qui patûrent tranquillement dans les herbes. Et, tout à coup, on tombe sur des lamas ! À un moment, certains d'entre eux marchent même vers nous. Ils passent à deux mètres de nous. On est à ravis mais on se demande tout de même comment cette *"rencontre"* va tourner.
+Avant cela, on va avoir la chance de croiser plein de chèvres qui patûrent tranquillement dans les herbes. Et, tout à coup, on tombe sur des lamas ! À un moment, certains d'entre eux marchent même vers nous. Ils passent à deux mètres de nous. On est ravis mais on se demande tout de même comment cette *"rencontre"* va tourner.
 
 🦩 : *"Ohla, c'est des gros bestiaux quand même !"*
 
-👩🏼 : *"J'ai un peu peur, j'espère qu'ils vont passer leurs chemins"*
+👩🏼 : *"J'ai un peu peur, j'espère qu'ils vont passer leur chemin"*
 
 👨🏼 : *"Pourvu qu'ils nous crachent pas dessus..."*
 
