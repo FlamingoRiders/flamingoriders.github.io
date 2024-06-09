@@ -31,7 +31,7 @@ Le [Geiranger](https://www.visitnorway.com/places-to-go/fjord-norway/the-geirang
 
 C'est peut-être pour cela que les fameuses chutes d'eau ont des noms poétiques qui semblent sortis d'un conte de fées :
 - **De syv søstrene (the Seven Sisters)**
-- **Friaren (“the Suitor”)**
+- **Friaren (the Suitor)**
 - **Brudesløret (the Bridal Veil)**
 
 Quoi qu'il s'en soit, pendant cette croisière que nous ferons une fois le matin dans le sens **Hellesylt - Geiranger** puis en fin d'après-midi dans le sens inverse, on sera d'accord pour dire que l'on s'est senti plongés dans un monde imaginaire. On n'est pas loin de l'attraction des poupées à Disney de *"It’s a Small World"*. Bon, il n'y avait ni poupées ni musique et on a fait qu'un seul pays. Pour le reste on y est hein 😉 ! 
