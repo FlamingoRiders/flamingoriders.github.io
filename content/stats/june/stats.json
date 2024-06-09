@@ -76,5 +76,18 @@
     "weather": "🌥️",
     "startPointName": "Loen",
     "endPointName": "Hellesylt"
+  },
+  {
+    "date": "2024-06-08",
+    "startPos": [62.075621, 6.896770],
+    "endPos": [62.333003, 7.380537],
+    "distance": 55.09,
+    "time": "03h43",
+    "averageSpeed": 14.8,
+    "elevationGain": 910,
+    "mood": 4,
+    "weather": "🌧️",
+    "startPointName": "Hellesylt",
+    "endPointName": "Valldal"
   }
 ]
