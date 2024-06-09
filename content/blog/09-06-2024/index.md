@@ -20,17 +20,17 @@ On franchit alors un deuxième tunnel de 3,7 kilomètres. Comme le premier, on n
 
 On avait déjà remarqué que les routes empruntées par les voitures présentaient souvent des pentes bien plus faciles que celles pour les vélos. C'est encore plus vrai dans les tunnels. Quand il y a une alternative pour les vélos souvent la piste passe par dessus, elle est donc plus corsée en termes de pente. 
 
-Curieusement, les tunnels sont une bénédiction aujourd'hui car ils nous permettent de nous abrités de la pluie 🤗 !
+Curieusement, les tunnels sont une bénédiction aujourd'hui car ils nous permettent de nous abriter de la pluie 🤗 !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6H3kDe7CGoWYBabAeVWGiD?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Au final, notre matinée sera bien plus facile que prévue. On trouve une station-service qui propose pas mal de choix pour manger, sauvés !
+Au final, notre matinée sera bien plus facile que prévue. On trouve une station-service qui propose pas mal de choix pour manger. Sauvés !
 
 Dans la foulée, on rejoint **Stranda** et on prend le ferry de 14h15 qui nous amène à **Liabygda**. Ça y est on a traversé le grand **Storfjord** !
 
 De l'autre côté, qu'est ce qui nous attend ? Des tunnels ! On en a fait 3 au matin, il y en aura 4 l'après-midi.
 
-7 tunnels en une journée, pour un total de 12,5 kilomètres, record battu 😱 ! Bon, on va pas vous mentir, on a quand même l'impression d'être en compagnie d'un ami qui nous refait sans arrêt la même blague et ne sait s'arrêter. On a tous des amis comme ça, c'est les meilleurs 😉 !
+7 tunnels en une journée, pour un total de 12,5 kilomètres, record battu 😱 ! Bon, on ne va pas vous mentir, on a quand même l'impression d'être en compagnie d'un ami qui nous refait sans arrêt la même blague et ne sait pas s'arrêter. On a tous des amis comme ça, ce sont les meilleurs 😉 !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/l0MYKUoH722MdNJv2" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
