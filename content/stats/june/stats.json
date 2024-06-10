@@ -89,5 +89,18 @@
     "weather": "🌧️",
     "startPointName": "Hellesylt",
     "endPointName": "Valldal"
+  },
+  {
+    "date": "2024-06-10",
+    "startPos": [62.333003, 7.380537],
+    "endPos": [62.5358902, 7.4402520],
+    "distance": 50.92,
+    "time": "03h41",
+    "averageSpeed": 13.8,
+    "elevationGain": 1194,
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Valldal",
+    "endPointName": "Måndalen"
   }
 ]
