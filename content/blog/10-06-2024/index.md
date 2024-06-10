@@ -50,7 +50,7 @@ On reste un peu au sommet. Ça nous paraît foutu pour aujourd'hui mais descendr
 
 ### Et soudain, l'embellie
 
-Alors que Nico a quitté la boutique afin d'aller manger un bout près de son vélo, les nuages se lèvent brusquement. C'est un phénomène qu'on avait déjà observé quelques jours auparavant, le temps change vite. Là, on avait de la peine à y croire car en altitude, complètement dans les nuages, on ne voyait pas une lueur percer. Le ciel se disperse mais en l'espace de quelques minutes, les nuages se dispersent et laissent apparaître les alentours.
+Alors que Nico a quitté la boutique afin d'aller manger un bout près de son vélo, les nuages se lèvent brusquement. C'est un phénomène qu'on avait déjà observé quelques jours auparavant, le temps change vite. Là, on avait de la peine à y croire car en altitude, complètement dans les nuages, on ne voyait pas une lueur percer. Le ciel reste couvert mais en l'espace de quelques minutes, les nuages à notre altitude se dispersent et laissent apparaître les alentours.
 
 Ne croyant pas que cela va durer, Nico crie avec enthousiasme : *"Nana vite à la passerelle !!*"
 
@@ -70,7 +70,7 @@ Arrivés en bas au niveau d'un camping-restaurant, on découvre plein de statues
 
 Puisque la descente d'une telle route ne lui suffit pas, Nico entreprendra la remontée. Nana dans sa grande bonté acceptera de patienter un peu en attendant Monsieur neuneu.
 
-Dans l'autre sens, l'ascension est complètement différente. Les pourcentages sont plutôt autour de 7-8% tout du long avec quelques pointes dans les virages. Surtout, au tout début, vous vous trouvez au pied des montagnes qui dépassent très facilement les 1000 mètres. Elles se dressent devant vous avec une telle force qu'elles inspirent a la fois crainte, respect et admiration. Puis, les cascades que l'on voit tout du long. On entre dans la caverne d'Ali baba.
+Dans l'autre sens, l'ascension est complètement différente. Les pourcentages sont plutôt autour de 7-8% tout du long avec quelques pointes dans les virages. Surtout, au tout début, vous vous trouvez au pied des montagnes qui dépassent très facilement les 1000 mètres. Elles se dressent devant vous avec une telle force qu'elles inspirent a la fois crainte, respect et admiration. Puis, il y a ces cascades que l'on voit tout du long. On entre dans la caverne d'Ali baba.
 
 C'est très rare que des routes de montagnes offrent a la fois un cadre magnifique et une route superbe à rouler tout du long. C'est indéniablement le cas à **Trollstigen**. Un souvenir impérissable 🥹.
 
@@ -79,7 +79,7 @@ Il faut mentionner que nous avons une chance unique de parcourir cette route. Un
 
 Inaugurée en 1936, cette route connaît chaque année d'importants travaux de déneigement afin d'assurer son accès et sa sécurité. 
 
-Les avalanches et Les éboulements sont fréquents à la sortie de l'hiver. Il faut un travail de longue haleine et de plusieurs mois afin de rendre cette route pratiquable. Alors oui, il y a un intérêt économique pour la **Norvège** pour accueillir les touristes et vendre des produits dérivés. Il n'empêche, l'accès à la route est gratuit et le pays prouve encore une fois que l'accès aux attractions naturelles est quelque chose qui lui tient particulièrement à cœur. 
+Les avalanches et les éboulements sont fréquents à la sortie de l'hiver. Il faut un travail de longue haleine et de plusieurs mois afin de rendre cette route pratiquable. Alors oui, il y a un intérêt économique pour la **Norvège** pour accueillir les touristes et vendre des produits dérivés. Il n'empêche, l'accès à la route est gratuit et le pays prouve encore une fois que l'accès aux attractions naturelles est quelque chose qui lui tient particulièrement à cœur. 
 
 À **Trollstigen**, chaque virage porte le nom d'une personne ayant eu une importance cruciale dans la conception ou la maintenance de la route. Si vous voulez voir de plus près les opérations, voici une vidéo qui en [montre les coulisses](https://youtu.be/lG8jDu0xyQk?si=S3fyKDpZ9lhrDeLa).
 
