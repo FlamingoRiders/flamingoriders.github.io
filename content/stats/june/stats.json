@@ -102,5 +102,18 @@
     "weather": "🌧️",
     "startPointName": "Valldal",
     "endPointName": "Måndalen"
+  },
+  {
+    "date": "2024-06-11",
+    "startPos": [62.5358902, 7.4402520],
+    "endPos": [62.813543, 7.223841],
+    "distance": 52.18,
+    "time": "03h26",
+    "averageSpeed": 15.2,
+    "elevationGain": 630,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Måndalen",
+    "endPointName": "Malmefjorden"
   }
 ]
