@@ -20,11 +20,11 @@ Du côté où nous sommes, nous devons en fait monter à un col situé à 850 m�
 
 On est clairement sur une montée où il faut se montrer patient et économe sur son pédalage ce qui n'est pas toujours évident 😅. Les premières pentes ne sont pas terrifiantes, on serait tenté d'appuyer un peu plus sur les pédales pour avancer plus rapidement. Surtout que l'on voit défiler les montagnes mais aucun troll à l'horizon 😳.
 
-C'est vrai quoi, on veut sentir qu'on avance, c'est long 25 kilomètres en montée. En revanche, sur la fin, 2 kilomètres en lacets avec des pourcentages plus élevés rappellent a l'ordre les effrontés 😉 !
+C'est vrai quoi, on veut sentir qu'on avance, c'est long 25 kilomètres en montée. En revanche, sur la fin, 2 kilomètres en lacets avec des pourcentages plus élevés rappellent à l'ordre les effrontés 😉 !
 
-Alors qu'on commence à peine la montée, on tombe sur le **Gudbrandsjuvet**, un viewpoint qui surplombe une gorge traversée par une cascade. C'est sympa on en avait pas beaucoup vu des comme cela, on voit bien l'eau circuler entre les roches sous nos pieds.
+Alors qu'on commence à peine la montée, on tombe sur le **Gudbrandsjuvet**, un viewpoint qui surplombe une gorge traversée par une cascade. C'est sympa on n'en avait pas beaucoup vu des comme cela, on voit bien l'eau circuler entre les roches sous nos pieds.
 
-Initialement, c'est couvert, surtout dans la direction que l'on emprunte. On avance vers les nuages ce qui n'est jamais bon signe. De la pluie fine tombe sur nous, la route est complètement mouillé, cela fait deux jours qu'il pleut en continu. Au fur et à mesure de la montée, la pluie s'abat sur nous avec de plus en plus de force, notre visibilité se réduit, on est à présent la tête dans les nuages. 
+Initialement, c'est couvert, surtout dans la direction que l'on emprunte. On avance vers les nuages, ce qui n'est jamais bon signe. De la pluie fine tombe sur nous, la route est complètement mouillé, cela fait deux jours qu'il pleut en continu. Au fur et à mesure de la montée, la pluie s'abat sur nous avec de plus en plus de force, notre visibilité se réduit, on est à présent la tête dans les nuages. 
 
 On ne voit ni les montagnes d'où l'on vient, ni celles vers lesquelles on se dirige. Les conditions du jour sont assez épouvantables, il faut bien le dire 😅.
 
@@ -46,13 +46,13 @@ On ne peut même pas confirmer que la cascade qui s'écoule sous nous est immens
 
 Après avoir fantasmé pendant des mois ce moment, la désillusion est terrible. Nico avait déjà prévu la place dans le top du top pour ce col. Oui, c'est très sérieux, il appelle cela les *"Cols of Fame*". La perspective de devoir revoir son classement lui fend le cœur 😭.
 
-On reste un peu au sommet. Ça nous paraît foutu pour aujourd'hui mais descendre dans le brouillard complet ne nous enchante guère et on aimerait se réchauffer un peu avant de repartir. On alterne les va-et-vient entre les toilettes pour passer les mains sous le robinet d'eau chaude et la boutique souvenir pour se prendre des chips. Oui, on soigne le mal par le mal. Nana veut prendre des stickers **Trollstigen** pour le souvenir mais le coeur n'y est pas pour Nico. Dé-gou-té.
+On reste un peu au sommet. Ça nous paraît foutu pour aujourd'hui mais descendre dans le brouillard complet ne nous enchante guère et on aimerait se réchauffer un peu avant de repartir. On alterne les va-et-vient entre les toilettes et la boutique souvenir pour rester au chaud. On va même jusqu'à se prendre des chips pour rester un peu plus longtemps dans la boutique. Oui, on soigne le mal par le mal. Nana veut prendre des stickers **Trollstigen** pour le souvenir mais le coeur n'y est pas pour Nico. Dé-gou-té.
 
 ### Et soudain, l'embellie
 
 Alors que Nico a quitté la boutique afin d'aller manger un bout près de son vélo, les nuages se lèvent brusquement. C'est un phénomène qu'on avait déjà observé quelques jours auparavant, le temps change vite. Là, on avait de la peine à y croire car en altitude, complètement dans les nuages, on ne voyait pas une lueur percer. Le ciel reste couvert mais en l'espace de quelques minutes, les nuages à notre altitude se dispersent et laissent apparaître les alentours.
 
-Ne croyant pas que cela va durer, Nico crie avec enthousiasme : *"Nana vite à la passerelle !!*"
+Ne croyant pas que cela va durer, Nico crie avec enthousiasme : *"Nana vite !! A la passerelle !!*"
 
 On s'y précipite et là, sous nos yeux, le panorama caché il y a seulement quelques instants se dévoile.
 
@@ -68,7 +68,7 @@ On entreprend la descente avec prudence. On a de l'eau sur le sol, des flancs de
 
 Arrivés en bas au niveau d'un camping-restaurant, on découvre plein de statues sympas de trolls. Ils étaient donc là nos chers amis 😃.
 
-Puisque la descente d'une telle route ne lui suffit pas, Nico entreprendra la remontée. Nana dans sa grande bonté acceptera de patienter un peu en attendant Monsieur neuneu.
+Puisque la descente d'une telle route ne lui suffit pas, Nico entreprendra la remontée. Nana dans sa grande bonté acceptera de patienter un peu en attendant Monsieur neuneu. Elle gardera gentiment les bagages de Nico également.
 
 Dans l'autre sens, l'ascension est complètement différente. Les pourcentages sont plutôt autour de 7-8% tout du long avec quelques pointes dans les virages. Surtout, au tout début, vous vous trouvez au pied des montagnes qui dépassent très facilement les 1000 mètres. Elles se dressent devant vous avec une telle force qu'elles inspirent a la fois crainte, respect et admiration. Puis, il y a ces cascades que l'on voit tout du long. On entre dans la caverne d'Ali baba.
 
