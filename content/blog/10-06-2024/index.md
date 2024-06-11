@@ -28,7 +28,7 @@ Initialement, c'est couvert, surtout dans la direction que l'on emprunte. On ava
 
 On ne voit ni les montagnes d'où l'on vient, ni celles vers lesquelles on se dirige. Les conditions du jour sont assez épouvantables, il faut bien le dire 😅.
 
-À l'approche du sommet, même le vent s'y met ! Comme si la montagne usait de tous ses moyens pour nous indiquer de faire demi-tour. On a beau en avoir vu d'autres, ça nous met quand même un peu le doute pour tous vous avouer. 
+À l'approche du sommet, même le vent s'y met ! Comme si la montagne usait de tous ses moyens pour nous indiquer de faire demi-tour. On a beau en avoir vu d'autres, ça nous met quand même un peu le doute pour tout vous avouer. 
 
 Moi je vais vous dire, cette façon de recevoir les gens c'est tout à fait inacceptable ! Que les trolls soient bougons, ok, qu'ils nous matraquent de coups, c'est déshonorable et inhumain. On se lance pleinement dans la bataille !
 
