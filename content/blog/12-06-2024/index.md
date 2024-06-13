@@ -46,8 +46,6 @@ Elle apparaît dans le [dernier James Bond dans cette scène](https://youtu.be/1
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/19LTCwCTXO2ZTCYRcQNO3K?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
- Bridge
-
 On se fait d'ailleurs la réflexion que la scène est plutôt bien filmée, jusqu'à 1:14. Après c'est une private road et ensuite c'est l'eau 😂. Bien sûr dans la course poursuite du film, la seconde d'après on se retrouve à longer un lac qui n'est pas à côté. C'est plutôt convaincant au montage.
 
 On arrive au niveau du célèbre pont **Storseisundet Bridge**. Il a une forme vraiment sympa, il courbe à la fois en hauteur et en largeur. On ne voit les voitures d'en face qu'une fois qu'elles passent *"la bosse*", c'est assez amusant à regarder 😊.
@@ -69,5 +67,5 @@ Et ben si, elle dure et elle s'intensifie 😂 ! On arrête les frais de cette e
 
 On se pose à la station de bus à 17h. Le prochain part dans 30 minutes. Bien entendu, on est trempés de chez trempés donc on ne va pas sécher dans ce laps de temps. Par contre, on va avoir le temps de prendre froid car on a stoppé notre effort 😬.
 
-Le bus nous emmène à **Kristiansund**. La pluie ne s'est pas interrompu. Il nous reste 7 kilomètres. C'est parti 😅 ! Je vous garantis que ça caille, le comble pour un flamant !
+Le bus nous emmène à **Kristiansund**. La pluie ne s'est pas interrompue. Il nous reste 7 kilomètres. C'est parti 😅 ! Je vous garantis que ça caille, le comble pour un flamant !
  
