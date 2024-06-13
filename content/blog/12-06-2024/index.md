@@ -20,8 +20,6 @@ Une voiture nous double, est-ce qu'il s'agissait d'un véhicule particulier qui 
 
 Rien de tout cela, en fait Nico se rendra compte que c'est son portable qui a subitement émis ce son. Ça fait 3 ans qu'il l'a, il ne l'a jamais entendu faire ce bruit d'où sa surprise. Quand il regarde l'écran, une notif apparaît et il ne s'agit pas d'un SMS !
 
-![Screenshot_2024-06-12-12-01-41-186_lockscreen.jpg](https://github.com/FlamingoRiders/flamingoriders.github.io/assets/146456060/804c735b-3eea-441d-8a72-c89e2b3fa0d9)
-
 En fait, les autorités norvégiennes ont la capacité d'envoyer des alertes d'urgence sur le réseau mobile à tous les appareils dans un secteur donné. C'est un dispositif très surprenant si vous n'en avez jamais fait l'expérience mais qui marche super bien et qui est crucial ici.
 
 Nous avons déjà traversé des zones *"à risque"* comme la vallée de **Lodalen** qui a connu de [tragiques glissements de terrain et éboulements en 1905 et 1936 qui ont fait des dizaines de morts](https://www.lifeinnorway.net/lovatnet-the-beauty-spot-with-a-tragic-history/). Ou encore **Geiranger**, qui malgré son attrait touristique, est très menacé du fait de sa proximité avec une fissure qui pourrait un jour céder entraînant un [glissement de terrain qui pourrait à son tour déclencher un tsunami qui ravagerait le village](https://www.nationalgeographic.fr/environnement/catatrophe-naturelle-un-tsunami-vague-de-100-metres-de-haut-devrait-engloutir-ce-paisible-village-norvegien).
@@ -48,11 +46,11 @@ Elle apparaît dans le [dernier James Bond dans cette scène](https://youtu.be/1
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/19LTCwCTXO2ZTCYRcQNO3K?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Storseisundet Bridge
+ Bridge
 
 On se fait d'ailleurs la réflexion que la scène est plutôt bien filmée, jusqu'à 1:14. Après c'est une private road et ensuite c'est l'eau 😂. Bien sûr dans la course poursuite du film, la seconde d'après on se retrouve à longer un lac qui n'est pas à côté. C'est plutôt convaincant au montage.
 
-On a d'ailleurs la même impression quand on regarde le pont aujourd'hui. Il a une forme vraiment sympa, il courbe à la fois en hauteur et en largeur. On ne voit les voitures d'en face qu'une fois qu'elle passe *"la bosse*", c'est assez amusant à regarder 😊.
+On arrive au niveau du célèbre pont **Storseisundet Bridge**. Il a une forme vraiment sympa, il courbe à la fois en hauteur et en largeur. On ne voit les voitures d'en face qu'une fois qu'elles passent *"la bosse*", c'est assez amusant à regarder 😊.
 
 On parcourt les petites îles de **Geitøya** et **Eldhusøya** sur lesquelles on s'arrêtent plusieurs fois pour marcher sur les chemins aménagés le long des rochers.
 
@@ -62,7 +60,10 @@ On reprend notre route. Jusque là, le temps était couvert mais ça ne nous a p
 
 Et puis une pluie débute, comment la décrire... Vous voyez quand vous prenez une douche avec un bon jet d'eau ? Le jet d'eau fonctionnel pas celui à faible débit hein. Voilà 🚿😅. 
 
-C'est pas la première fois que ça nous arrive mais on a quand même encore un bout devant nous. Malins comme on est, on décide de pousser car elle ne va pas durer, pensons-nous. 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/RR4l7LBradoTcbQljJ
+" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+
+Ce n'est pas la première fois que ça nous arrive mais on a quand même encore un bout devant nous. Malins comme on est, on décide de pousser car elle ne va pas durer, pensons-nous. 
 
 Et ben si, elle dure et elle s'intensifie 😂 ! On arrête les frais de cette expédition sous-marine à **Bruhagen**. Initialement on avait prévu de rallier **Bremsnes** avant de prendre le bus. On doit le prendre de toute façon car il emprunte un tunnel sous l'eau interdit aux vélos. Mais ok, on l'admet, on a un peu changé d'avis. C'est une petite fracture du mental, rouler les derniers kilomètres sous la pluie ne s'annonçait pas comme une partie de plaisir 😟.
 
