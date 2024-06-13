@@ -128,5 +128,18 @@
     "weather": "🌧️",
     "startPointName": "Malmefjorden",
     "endPointName": "Kristiansund"
+  },
+  {
+    "date": "2024-06-13",
+    "startPos": [63.110751, 7.831596],
+    "endPos": [63.412403, 9.024631],
+    "distance": 82.28,
+    "time": "04h57",
+    "averageSpeed": 16.6,
+    "elevationGain": 1175,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Kristiansund",
+    "endPointName": "Heim"
   }
 ]
