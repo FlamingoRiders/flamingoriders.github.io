@@ -141,5 +141,18 @@
     "weather": "🌦️",
     "startPointName": "Kristiansund",
     "endPointName": "Heim"
+  },
+  {
+    "date": "2024-06-14",
+    "startPos": [63.412403, 9.024631],
+    "endPos": [63.2312581, 9.5427971],
+    "distance": 60.02,
+    "time": "03h37",
+    "averageSpeed": 16.6,
+    "elevationGain": 850,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Heim",
+    "endPointName": "Fannrem"
   }
 ]
