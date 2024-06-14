@@ -5,11 +5,11 @@ description: "Du soleil annoncé mais la pluie n'a pas dit son dernier mot !"
 ---
 
 
-Aujourd'hui, on a l'immense joie de commencer à pédaler sous le soleil. Si hier, ça s'est dégagé en partie, aujourd'hui le soleil tape fort. À l'arrêt on le sent bien sur nous. On avait vraiment perdu cette sensation depuis une bonne dizaine de jours 😅.
+Aujourd'hui, on a l'immense joie de commencer à pédaler sous le soleil. Si hier, on en a eu quelques bribes, aujourd'hui le soleil tape fort. À l'arrêt on le sent bien sur nous. On avait vraiment perdu cette sensation depuis une bonne dizaine de jours 😅.
 
 On avait le choix sur notre étape du jour. Soit on empruntait l'**EuroVelo 1** avec 80 kilomètres et 1200 mètres de dénivelé, un peu ce qu'on a réalisé hier, soit on prenait une route de 60 kilomètres et 850 mètres de dénivelés. Soit facile ? Peut-être mais la deuxième option suit la **E39** sur une quarantaine de bornes.
 
-Moi j'ai dis à Nana et Nico que le choix était tout fait ! Ils m'ont répondu que je ne pédales pas et par conséquent, je n'ai pas mon mot à dire. C'est rude 😬.
+Moi j'ai dis à Nana et Nico que le choix était tout fait ! Ils m'ont répondu que je ne pédale pas et par conséquent, je n'ai pas mon mot à dire. C'est rude 😬.
 
 Les fripouilles prennent donc la solution de facilité 😦 !
 
@@ -63,10 +63,10 @@ On se dirige vers la cuisine du camping pour le dîner. Les nuages au-dessus de 
 
 Une fois à l'intérieur, la pluie commence. Le ciel gronde, encore quelques éclairs au loin, une pluie torrentielle et puis des grêlons.
 
-🦩: *"Pas de soucis les guys, on reste là, on dîne et puis quand ça ce sera calmé on retournera à la tente ! Tiens faisons les pâtes, casserole, eau, réchaud et ... Où est le gaz ? Oh non...*" 😭
+🦩: *"Pas de soucis les guys, on reste là, on dîne et puis quand le calme reviendra on retournera à la tente ! Tiens faisons les pâtes, casserole, eau, réchaud et ... Où est le gaz ? Oh non...*" 😭
 
 La bonbonne est restée dans la tente. Erreur fatale. Vient le temps des regrets comme dit l'ami Gérald.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/w9t0aFMjahdxpKKvzN" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-Nico, tente une mission *"sauvetage de la bonbonne de gaz"*. Il court à la tente. Mais le sol est mouillé est terreux, il ne faut pas courir. Il revient avec des tâches sur le pantalon et le t-shirt 😅.
+Nico, tente une mission *"sauvetage de la bonbonne de gaz"*. Il court à la tente. Mais le sol est mouillé et terreux, il ne faut pas courir. Il revient avec des tâches sur le pantalon et le t-shirt 😅.
