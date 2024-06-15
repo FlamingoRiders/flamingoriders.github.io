@@ -70,3 +70,5 @@ La bonbonne est restée dans la tente. Erreur fatale. Vient le temps des regrets
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/w9t0aFMjahdxpKKvzN" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
 Nico, tente une mission *"sauvetage de la bonbonne de gaz"*. Il court à la tente. Mais le sol est mouillé et terreux, il ne faut pas courir. Il revient avec des tâches sur le pantalon et le t-shirt 😅.
+
+On sort de la cuisine du camping, tout est calme à présent. Il est 22h mais il y a un grand soleil. Ouf, la tente n'a subi aucun dommage. Allez place au dodo !
