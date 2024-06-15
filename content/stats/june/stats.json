@@ -154,5 +154,18 @@
     "weather": "🌦️",
     "startPointName": "Heim",
     "endPointName": "Fannrem"
+  },
+  {
+    "date": "2024-06-15",
+    "startPos": [63.2312581, 9.5427971],
+    "endPos": [63.422403, 10.385359],
+    "distance": 67.57,
+    "time": "03h53",
+    "averageSpeed": 17.4,
+    "elevationGain": 497,
+    "mood": 4,
+    "weather": "🌤️",
+    "startPointName": "Fannrem",
+    "endPointName": "Trondheim"
   }
 ]
