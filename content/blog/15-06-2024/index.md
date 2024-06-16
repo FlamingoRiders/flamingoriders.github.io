@@ -4,7 +4,7 @@ date: "2024-06-15"
 description: "On fonce sur Trondheim sous un grand soleil !"
 ---
 
-Aujourd'hui, on est réveillés par les rayons du soleil qui chauffe de bonne heure notre tente. Lorsque l'on dézippe les ouvertures latérales, un grand ciel bleu se présente devant nous 😀.
+Aujourd'hui, on est réveillés par les rayons du soleil qui chauffent de bonne heure notre tente. Lorsque l'on dézippe les ouvertures latérales, un grand ciel bleu se présente devant nous 😀.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/74z2lfZ7fj3IqoK71lHkZw?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
@@ -19,7 +19,7 @@ La première partie de la journée est facile. Après toutes les belles côtes q
 
 ### Plein de champions cyclistes 
 
-Aujourd'hui, c'est samedi, ce qui veut dire que c'est le premier jour du weekend. Il fait très beau, les routes que nous prenons longent le fjord et sont relativement plates. On croise tout plein de cyclistes de route. On se salue mutuellement lorsqu'on les passe.
+Aujourd'hui, c'est samedi, ce qui veut dire que c'est le premier jour du weekend. Il fait très beau, les routes que nous prenons longent le fjord et sont relativement plates. On croise tout plein de cyclistes de route. On se salue mutuellement lorsqu'on se croise.
 
 Plus surprenant, depuis plusieurs jours, on croise enfin quelques cyclo-randonneurs pendant la journée. Souvent, on en retrouvait aux campings mais assez rarement en chemin. C'est sans doute dû au fait que nous sommes à présent mi-juin et que nous sommes de nouveau sur la côte ouest empruntée notamment par l'**EuroVelo 1**. C'est moins commun ceux qui font un trajet un peu à la carte comme nous l'avons fait pendant plusieurs semaines.
 
@@ -33,7 +33,7 @@ Mission impossible ? On a suivi notre plan mais on a eu quelques doutes. Et puis
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/bKJKMmnCNdFjq" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Plein de bisous et de voeux de bonheurs à la petite famille savoyarde 🤩.
+Plein de bisous et de voeux de bonheur à la future petite famille savoyarde 🤩.
 
 Avec cette arrivée à **Trondheim**, on boucle ainsi la phase 5 de notre voyage 🤩 !
 
@@ -71,4 +71,4 @@ Depuis notre départ, voici notre avancement :
 
 Sur cette phase, on a pu voir des paysages formidables, de la côte ouest aux magnifiques fjords au nord de **Bergen** en passant par des vallées, des montagnes et des glaciers à couper le souffle : la totale 🤩 ! On a également emprunté des routes mythiques comme **Trollstigen** ou l'**Atlantic Road**.
 
-On a encore affronté du gros dénivelé, auquel on est un peu plus habitués à présent. Cependant, on a été moins chanceux avec la météo et il a fallu composer avec une dizaine de jours compliqués où l'on nous a pas fait de cadeau 😅. Qu'importe, ce pays nous met à l'épreuve mais nous gratifie aussi de moments inoubliables en liberté dans la nature environnante. C'est le jeu et il en vaut largement la peine 😉 !
+On a encore affronté du gros dénivelé, auquel on est un peu plus habitués à présent. Cependant, on a été moins chanceux avec la météo et il a fallu composer avec une dizaine de jours compliqués où l'on ne nous a pas fait de cadeau 😅. Qu'importe, ce pays nous met à l'épreuve mais nous gratifie aussi de moments inoubliables en liberté dans la nature environnante. C'est le jeu et il en vaut largement la chandelle 😉 !
