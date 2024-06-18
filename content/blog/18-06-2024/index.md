@@ -12,7 +12,7 @@ On a de la chance aujourd'hui, il fait grand soleil ☀️ !
 
 Alors qu'on s'apprête à embarquer, on fait la connaissance de Mika, un français qui est parti comme nous depuis **Paris** ! Une autre cycliste embarque également sur le ferry.
 
-En descendant du ferry, Mika l'aborde en remarquant qu'elle et lui ont le même vélo ! C'est alors qu'on fait la connaissance de Léa. Le courant passe très bien entre tout le monde, on se décide à faire un bout de chemin ensemble !
+En descendant du ferry, Mika l'aborde en remarquant qu'elle et lui ont le même vélo ! C'est alors qu'on fait la connaissance de Léa qui vient de Zürich. Le courant passe très bien entre tout le monde, on se décide à faire un bout de chemin ensemble !
 
 ### Une journée à rouler en très bonne compagnie
 
