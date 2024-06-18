@@ -167,5 +167,18 @@
     "weather": "🌤️",
     "startPointName": "Fannrem",
     "endPointName": "Trondheim"
+  },
+  {
+    "date": "2024-06-18",
+    "startPos": [63.422403, 10.385359],
+    "endPos": [63.803024, 10.807421],
+    "distance": 58.00,
+    "time": "03h53",
+    "averageSpeed": 14.9,
+    "elevationGain": 926,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Trondheim",
+    "endPointName": "Mosvik"
   }
 ]
