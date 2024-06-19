@@ -6,13 +6,13 @@ description: "Découverte de la belle Trondheim !"
 
 Hier et aujourd'hui, on visite **Trondheim**. C'est la troisième plus grande ville du pays et d'une haute importance historique. 
 
-Auoaravant connue sour le nom de **Nidaros** elle fut un temps la capitale de la **Norvège**.
+Auparavant connue sour le nom de **Nidaros** elle fut un temps la capitale de la **Norvège**.
 
 Ce qui saute aux yeux lorsqu'on se balade à **Trondheim**, c'est son dynamisme. Alors que nous y arrivons un samedi en fin d'après-midi, la ville est très animée, beaucoup de jeunes sont dehors et les bars sont remplis. En somme, c'est une ville où l'on se sent bien.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4fdFD4s1wn2QnSEKrNAixv?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-L'ambiance devient même un peu folle pendant la soirée. On voit beaucoup de vigiles a l'extérieur des bars et boîtes de nuit, des jeunes assez éméchés. Il faut dire qu'en **Norvège**, ils pratiquent souvent la fête l week-end. Les prix de l'alcool sont prohibitifs ici et donc, beaucoup de norvégiens se fournissent aux duty-free et chez les autres, notamment chez leur voisin suédois 😜.
+L'ambiance devient même un peu folle pendant la soirée. On voit beaucoup de vigiles a l'extérieur des bars et boîtes de nuit, des jeunes assez éméchés. Il faut dire qu'en **Norvège**, ils pratiquent souvent la fête le week-end. Les prix de l'alcool sont prohibitifs ici et donc, beaucoup de norvégiens se fournissent aux duty-free et chez les autres, notamment chez leur voisin suédois 😜.
 
 ### De belles balades
 
@@ -20,7 +20,7 @@ On va bien marcher dans cette ville, tout se fait facilement à pied et il y a p
 
 On va notamment se balader jusqu'à la plage **Korsvika**. En route, on croise plein de streetart originaux, des rochers dans lesquels on peut se rendre et également plusieurs bunkers allemands. Il y en a même un qui a été réhabilité en sauna 😮.
 
-On va également se rendre à la **Forteresse Kristiansten** avec sa forme en étoile et ses jolis canons. On peut marcher sans danger le long de ses remparts et avoir une magnifique vue de la ville de **Trondheim**. Cette forteresse fut construite pour défendre la ville contre les Suédois. Ceci nous surprend car il nous semblait que les relations étaient les plus difficiles avec le **Danemark**. Les trois royaumes scandinaves ont une riche histoire commune, fait d'alliances, de moments où l'une puissance était plus influente que les autres. Ce sont trois monarchies qui ont toujours eu de forts liens.
+On va également se rendre à la **Forteresse Kristiansten** avec sa forme en étoile et ses jolis canons. On peut marcher sans danger le long de ses remparts et avoir une magnifique vue de la ville de **Trondheim**. Cette forteresse fut construite pour défendre la ville contre les Suédois. Ceci nous surprend car il nous semblait que les relations les plus difficiles étaient avec le **Danemark**. Les trois royaumes scandinaves ont une riche histoire commune, faite d'alliances, de moments où l'une puissance était plus influente que les autres. Ce sont trois monarchies qui ont toujours eu de forts liens.
 
 Enfin, on ne peut passer à côté des quais de **Trondheim**, **Bryggene**. Le long du port fluvial, des bâtiments colorés forment d'immenses piles. Cela ressemble un petit peu à ce que l'on peut voir à **Bergen** mais la différence notable est que ces entrepôts sont construits sur pilotis. 
 
@@ -30,7 +30,7 @@ La suite du vieux quartier de **Bakklandet** est vraiment remarquable avec ses m
 
 ### Centre-ville vivant 
 
-Le centre-ville présente une grande place piétonne avec de superbes adresses. On mangera dans deux bonnes pizzeria sur les trois jours où nous serons dans la ville. On brunchera aussi dans une bonne adresse. **Trondheim** est une ville qui a un fort attrait gastronomique même si nous ne mangerons pas dans ses restaurants étoilés 😋.
+Le centre-ville présente une grande place piétonne avec de superbes adresses. On mangera dans deux bonnes pizzerias sur les trois jours où nous serons dans la ville. On brunchera aussi dans une bonne adresse. **Trondheim** est une ville qui a un fort attrait gastronomique même si nous ne mangerons pas dans ses restaurants étoilés 😋.
 
 On passe devant la Cathédrale de **Nidaros** et le moins que l'on puisse dire, c'est qu'elle est radicalement différente de toutes les églises que nous avons aperçues jusqu'à présent. Impressionnante par sa taille, ses statues extérieures, elle nous rappelle certaines de nos grandes cathédrales françaises et européennes. Elle est avant tout un témoin de l'importance de la ville au début du XIXème siècle.
 
@@ -52,6 +52,6 @@ On terminera le lundi soir par une nouvelle balade dans **Solsiden**. C'est un q
 
 👨🏼 : *"Woo woo woooow !! Comment ça on s'en fout ? C'est la patrie, c'est le maillot, c'est la fierté, c'est le devoir !"*
 
-Bref vous l'avez compris, on a regardé **France - Autriche** ou plutôt **Frankrike - Østerike** comme on dit par ici. C'était pas le match de l'année, mais on a gagné 😀. Et puis, on ne pourra pas suivre tous les matchs de l'équipe de France malheureusement.
+Bref vous l'avez compris, on a regardé **France - Autriche** ou plutôt **Frankrike - Østerike** comme on dit par ici. Ce n'était pas le match de l'année, mais on a gagné 😀. Et puis, on ne pourra pas suivre tous les matchs de l'équipe de France malheureusement.
 
-Demain, les Flamingo reprennent la route, direction le nord 😉 !
+Demain, les Flamingos reprennent la route, direction le nord 😉 !
