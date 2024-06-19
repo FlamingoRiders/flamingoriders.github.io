@@ -180,5 +180,18 @@
     "weather": "🌤️",
     "startPointName": "Trondheim",
     "endPointName": "Mosvik"
+  },
+  {
+    "date": "2024-06-19",
+    "startPos": [63.803024, 10.807421],
+    "endPos": [64.295676, 11.200905],
+    "distance": 103.14,
+    "time": "06h14",
+    "averageSpeed": 16.5,
+    "elevationGain": 965,
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "Mosvik",
+    "endPointName": "Namdalseid"
   }
 ]
