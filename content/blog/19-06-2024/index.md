@@ -4,11 +4,11 @@ date: "2024-06-19"
 description: "Une belle étape d'une centaine de kilomètres en direction de Namsos !"
 ---
 
-Aujourd'hui, on se réveille non loin de **Mosvik**. On est plusieurs sur le site de camping sauvage qui fut royal pour la nuit. Il y a toujours Lea de Zürich, Mika de Paris, deux autres suisses et un allemand qui est arrivé dans la soirée. Nous étions abrités sous un shelter et avons cuisiné sur le feu hier soir 😉.
+Aujourd'hui, on se réveille non loin de **Mosvik**. On est plusieurs sur le site de camping sauvage qui fut royal pour la nuit. Il y a toujours Léa de Zürich, Mika de Paris, deux autres suisses et un allemand qui est arrivé dans la soirée. Nous étions abrités sous un shelter et avons cuisiné sur le feu hier soir 😉.
 
 ### On part en direction de Steinkjer 
 
-On repart donc vers 10h30 avec Lea et Mika. Le temps est majoritairement couvert et on a pas mal de vent. Cependant, on est 4, heureux de faire du vélo ensemble, de bavarder et de partager ces bons moments 🤗
+On repart donc vers 10h30 avec Léa pet Mika. Le temps est majoritairement couvert et on a pas mal de vent. Cependant, on est 5, heureux de faire du vélo ensemble, de bavarder et de partager ces bons moments 🤗
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0G3fbPbE1vGeABDEZF0jeG?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
@@ -16,7 +16,7 @@ On repart donc vers 10h30 avec Lea et Mika. Le temps est majoritairement couvert
 
 Plus loin, on déjeunera entre un supermarché et une station-service. Il y a un peu de vent et il fait toujours aux alentours de 8 degrés. Cependant, on a la chance de déjeuner au sec. On se réfugie quand même à l'intérieur de la station-service afin de prendre une boisson chaude. On se réchauffe un peu avant de réattaquer la route 😁.
 
-Arrivés à **Steinkjer**, on décide de continuer la route avec Nana et Nico tandis que Lea et Mika bivouaqueront dans le coin. Cet au-revoir nous rend un peu triste 😭.
+Arrivés à **Steinkjer**, on décide de continuer la route avec Nana et Nico tandis que Léa et Mika bivouaqueront dans le coin. Cet au-revoir nous rend un peu triste 😭.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/pynZagVcYxVUk" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -39,11 +39,11 @@ Dans les deux cas, on sait que même si l'on se fixe des buts et que l'on projet
 
 ### Des criques et des animaux rigolos
 
-On poursuit donc notre route en remontant vers le Nord. On fait le tour du **Beitstadfjord**. Sur notre chemin, on croise plein de criques à marrée basse. Il est aux alentours de 17h et on sait qu'on va rouler encore un peu. C'est la première fois qu'on voit à marrée basse un fjord. Le retrait de l'eau laisse appercevoir des rochers et des bancs de sable et des digues qui permettent de regagner des petites îles.
+On poursuit donc notre route en remontant vers le Nord. On fait le tour du **Beitstadfjord**. Sur notre chemin, on croise plein de criques à marrée basse. Il est aux alentours de 17h et on sait qu'on va rouler encore un peu. C'est la première fois qu'on voit à marrée basse un fjord. Le retrait de l'eau laisse appercevoir des rochers, des bancs de sable et des digues qui permettent de regagner des petites îles.
 
 Plus loin, alors qu'on rentre dans les terres, on a un profil un peu plus vallonné. On a plein de champs situés sur des collines qui nous rappellent un peu le **Danemark**.
 
-C'est une journée où l'on croise aussi de nombreux animaux de pâturage. On croise notamment des vaches un peu dans le style écossais mais avec des poils moins longq et des cornes très fines et très longues. Elles sont vraiment impressionnantes ces cornes. Elles dépassent largement leurs têtes, leur taille fait penser à l'envergure de rapaces.
+C'est une journée où l'on croise aussi de nombreux animaux de pâturage. On croise notamment des vaches un peu dans le style écossais mais avec des poils moins longs et des cornes très fines et très longues. Elles sont vraiment impressionnantes ces cornes. Elles dépassent largement leur tête, leur taille fait penser à l'envergure de rapaces.
 
 On a aussi des moutons sur le bas côté, comme hier 🐑. Le mouton est un animal assez curieux. Il peut être allongé sur le carré d'herbe à quelques centimètres de la route. Le passage de voitures à 80 km/h ne le dérange pas dans sa sieste. Par contre, il prend peur instantanément a l'approche de deux cyclistes en montée à 10km/h 🤨.
 
