@@ -193,5 +193,18 @@
     "weather": "☁️",
     "startPointName": "Mosvik",
     "endPointName": "Namdalseid"
+  },
+  {
+    "date": "2024-06-20",
+    "startPos": [64.295676, 11.200905],
+    "endPos": [65.079877, 11.698519],
+    "distance": 32.82,
+    "time": "01h55",
+    "averageSpeed": 17.12,
+    "elevationGain": 443,
+    "mood": 2,
+    "weather": "🌧️",
+    "startPointName": "Namdalseid",
+    "endPointName": "Leka"
   }
 ]
