@@ -206,5 +206,18 @@
     "weather": "🌧️",
     "startPointName": "Namdalseid",
     "endPointName": "Leka"
+  },
+  {
+    "date": "2024-06-21",
+    "startPos": [65.079877, 11.698519],
+    "endPos": [65.214831, 12.045416],
+    "distance": 66.11,
+    "time": "03h59",
+    "averageSpeed": 16.6,
+    "elevationGain": 753,
+    "mood": 3,
+    "weather": "🌧️",
+    "startPointName": "Leka",
+    "endPointName": "Vennesund"
   }
 ]
