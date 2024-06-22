@@ -69,4 +69,4 @@ On finit par poser les vélos par terre, au moins ils ne s'abimeront pas. Le fer
 
 Vers 23h30, au moment de se brosser les dents, Nico tombe sur Lasse dans la salle d'eau ! Lui non plus n'a pas roulé, il est resté deux jours complets sur l'île. Il a eu un peu de beau temps, on espère que cela sera meilleur demain car il y a de belles choses à voir. Ce n'est pas ce qu'annonce la météo mais on ne sait jamais 🤞🏼.
 
-Au final, cette journée a été chaotique. Tous les cyclistes qu'on a rencontrés n'ont soit pas roulé, soit pris une journée de repos, soit connu l'enfer. On s'en sort bien dans notre malheur, on progresse sur la carte grâce au ferry et on a pu rejoindre Leka notre objectif du jour même si on n'avait pas prévu autant de galères 🫤.
+Au final, cette journée a été chaotique, on a subit une vraie tempête. Tous les cyclistes qu'on a rencontrés n'ont soit pas roulé, soit pris une journée de repos, soit connu l'enfer. On s'en sort bien dans notre malheur, on progresse sur la carte grâce au ferry et on a pu rejoindre Leka notre objectif du jour même si on n'avait pas prévu autant de galères 🫤.
