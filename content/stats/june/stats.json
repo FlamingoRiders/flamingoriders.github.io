@@ -219,5 +219,18 @@
     "weather": "🌧️",
     "startPointName": "Leka",
     "endPointName": "Vennesund"
+  },
+  {
+    "date": "2024-06-22",
+    "startPos": [65.214831, 12.045416],
+    "endPos": [65.872582, 12.466319],
+    "distance": 82.83,
+    "time": "04h53",
+    "averageSpeed": 17.0,
+    "elevationGain": 486,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Vennesund",
+    "endPointName": "Offersøy"
   }
 ]
