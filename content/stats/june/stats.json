@@ -232,5 +232,18 @@
     "weather": "☀️",
     "startPointName": "Vennesund",
     "endPointName": "Offersøy"
+  },
+  {
+    "date": "2024-06-23",
+    "startPos": [65.872582, 12.466319],
+    "endPos": [66.154852, 13.070987],
+    "distance": 61.97,
+    "time": "03h25",
+    "averageSpeed": 18.1,
+    "elevationGain": 511,
+    "mood": 3,
+    "weather": "🌧️",
+    "startPointName": "Offersøy",
+    "endPointName": "Leirfjord"
   }
 ]
