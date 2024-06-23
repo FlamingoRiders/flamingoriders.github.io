@@ -1,4 +1,3 @@
-
 ---
 title: 🐟 Le saumon d'Eduardo du 22 juin
 date: "2024-06-22"
