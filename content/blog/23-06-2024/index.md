@@ -6,13 +6,13 @@ description: "Journée pluvieuse sur les îles de Tjøtta et Alsta !"
 
 Aujourd'hui, on prend la route dans des conditions différentes d'hier 😅. On était prévenu que le beau temps ne durerait pas, on n'est pas surpris de démarrer sous la pluie.
 
-Vous devez penser que l'on parle souvent de la météo 😁. On va pas se mentir, même si on roule depuis près de 3 mois, qu'on a un peu de résilience face aux aléas climatiques et qu'on a l'expérience des journées pluvieuses, ça nous mine quand même un peu le moral.
+Vous devez penser que l'on parle souvent de la météo 😁. On ne va pas se mentir, même si on roule depuis près de 3 mois, qu'on a un peu de résilience face aux aléas climatiques et qu'on a l'expérience des journées pluvieuses, ça nous mine quand même un peu le moral.
 
-On repense avec un nostalgie à la journée d'hier où tous nos problèmes de pluie semblaient si loin.
+On repense avec nostalgie à la journée d'hier où tous nos problèmes de pluie semblaient si loin.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3BQHpFgAp4l80e1XslIjNI?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-### Agacements sous la pluie
+### Agacement sous la pluie
 
 Notre tracé d'aujourd'hui continue le long de la **FV17**. Comme la route est très touristique, elle est bien fréquentée en haute saison.
 
@@ -24,7 +24,7 @@ Ensuite, les véhicules qui viennent d'en face ou qui nous passent nous envoient
 
 *"Pollueur, fainéant, chauffard"* sont quelques-uns des qualificatifs peu élogieux qui nous viennent à l'esprit.
 
-Et puis, parfois, il y a ces véhicules qui ne ralentissent absolument pas avec la pluie et qui nous doublent sans visibilité juste avant un virage. Ils se rabattent juste devant nous ce qui fait plaisir car on se prend plein de flotte à la tronche et l'on est obligé de freiner sous la pluie, où l'on freine moins bien. Pour ces gens-là, on a encore d'autres mots qui nous viennent a l'esprit 🤣.
+Et puis, parfois, il y a ces véhicules qui ne ralentissent absolument pas avec la pluie et qui nous doublent sans visibilité juste avant un virage. Ils se rabattent juste devant nous ce qui fait plaisir car on se prend plein de flotte à la tronche et l'on est obligé de freiner sous la pluie, où l'on freine moins bien. Dans ces situations-là, on a encore d'autres mots qui nous viennent a l'esprit 🤣.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/EPsdF1SvWrzHy" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -37,8 +37,7 @@ Cependant, sur les derniers kilomètres, on traverse une nouvelle fois une vall�
 
 Il nous rappelle de nombreux autres lieux que nous avons traversés : la descente vers **Odda**, la balade en ferry dans le **Naeroyfjord**, le long de la vallée de **Lodalen**, lors de l'arrivée à **Hellesylt**, la traversée du *"canyon"* après **Trollstigen** etc.
 
-À chaque fois, on parcourt ces vallées et de chaque côté, on est entourés de montagnes qui montent à pic, qui nous dominent et qui nous frappent par leur démesure. On se sent petit face à l'immensément grand. C'est à la fois impressionnant et fascinant. Cette image, elle va rester. Cette image qui revient sans cesse va rester.
-On l'a eu tellement de fois depuis notre arrivée en **Norvège**. Si demain on repense à ce voyage et à notre passage dans ce pays, on aura forcément cette image là en tête.
+À chaque fois, on parcourt ces vallées et de chaque côté, on est entourés de montagnes qui montent à pic, qui nous dominent et qui nous frappent par leur démesure. On se sent petit face à l'immensément grand. C'est à la fois impressionnant et fascinant. Cette image qui revient sans cesse va rester. On l'a eu tellement de fois depuis notre arrivée en **Norvège**. Si demain on repense à ce voyage et à notre passage dans ce pays, on aura forcément cette image-là en tête.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/2wX0gLjH30bzzxpP8K" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
