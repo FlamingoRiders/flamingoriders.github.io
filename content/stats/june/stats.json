@@ -245,5 +245,18 @@
     "weather": "🌧️",
     "startPointName": "Offersøy",
     "endPointName": "Leirfjord"
+  },
+  {
+    "date": "2024-06-24",
+    "startPos": [66.154852, 13.070987],
+    "endPos": [66.509805, 13.218712],
+    "distance": 97.31,
+    "time": "05h17",
+    "averageSpeed": 18.4,
+    "elevationGain": 1130,
+    "mood": 3,
+    "weather": "🌧️",
+    "startPointName": "Leirfjord",
+    "endPointName": "Hilstad"
   }
 ]
