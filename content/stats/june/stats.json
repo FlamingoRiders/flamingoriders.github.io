@@ -258,5 +258,18 @@
     "weather": "🌧️",
     "startPointName": "Leirfjord",
     "endPointName": "Hilstad"
+  },
+  {
+    "date": "2024-06-25",
+    "startPos": [66.509805, 13.218712],
+    "endPos": [66.738455, 13.502950],
+    "distance": 32.44,
+    "time": "02h00",
+    "averageSpeed": 16.2,
+    "elevationGain": 655,
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "Hilstad",
+    "endPointName": "Forøy"
   }
 ]
