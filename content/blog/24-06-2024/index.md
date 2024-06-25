@@ -12,7 +12,7 @@ On se lève donc vers 7h pour prendre ce ferry. On se dit qu'à bord, on élabor
 
 Notre journée commence par un sprint massif sur cette portion de 5 kilomètres qui nous amène au ferry. On doit réemprunter le sentier terreux et dès qu'on enfourche nos vélos, la pluie s'abat sur nous. Ça promet 😅.
 
-On sait que la météo va être très difficile quand on aura passé midi. Sur [YR](https://www.yr.no/en), notre application de référence en **Norvège** pour la météo, il est annoncé de la *"heavy rain*" toute la journée avec plusieurs millimètres de précipitations toutes les heures. Ça se traduit grosso merdo par *"Vous allez déguster les petits poulets 🐔"* ! Enfin les petits flamants roses 🦩. Je ne sais pas si on peut parler de dégustation d'ailleurs parce que l'on peut déguster un plat, un bon vin mais de l'eau ? À méditer 🤔.
+On sait que la météo va être très difficile quand on aura passé midi. Sur [YR](https://www.yr.no/en), notre application de référence en **Norvège** pour la météo, il est annoncé de la *"heavy rain*" toute la journée avec plusieurs millimètres de précipitations toutes les heures. Ça se traduit grosso modo par *"Vous allez déguster les petits poulets 🐔"* ! Enfin les petits flamants roses 🦩. Je ne sais pas si on peut parler de dégustation d'ailleurs parce que l'on peut déguster un plat, un bon vin mais de l'eau ? À méditer 🤔.
 
 On prend ce premier ferry en direction de **Nesna**. À bord, on élabore un plan génialissime avec Nana et Nico, ou du moins, c'est ce que l'on croit à cet instant.
 
