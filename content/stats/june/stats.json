@@ -271,5 +271,18 @@
     "weather": "☁️",
     "startPointName": "Hilstad",
     "endPointName": "Forøy"
+  },
+  {
+    "date": "2024-06-26",
+    "startPos": [66.738455, 13.502950],
+    "endPos": [67.195471, 14.627345],
+    "distance": 112.56,
+    "time": "06h46",
+    "averageSpeed": 16.6,
+    "elevationGain": 1388,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Forøy",
+    "endPointName": "Saltstraumen"
   }
 ]
