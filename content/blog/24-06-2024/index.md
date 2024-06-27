@@ -77,4 +77,4 @@ On croise encore des paysages de folie. Le problème, c'est qu'avec ce temps, on
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qlJg0Wbj3sslxfwiaRNpq?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-C'est dur. On verra des photos après coup de ce que l'on a traversé. Les nôtres ne sont pas des photos de rêve et on n'a pas un bon téléphone avec des filtres pour tricher 😅. Il faut faire un petit effort mental pour se représenter ce que l'on a vu. Ça tombe bien, on le travail notre mental en ce moment 😉.
+C'est dur. On verra des photos après coup de ce que l'on a traversé. Les nôtres ne sont pas des photos de rêve et on n'a pas un bon téléphone avec des filtres pour tricher 😅. Il faut faire un petit effort mental pour se représenter ce que l'on a vu. Ça tombe bien, on le travaille notre mental en ce moment 😉.
