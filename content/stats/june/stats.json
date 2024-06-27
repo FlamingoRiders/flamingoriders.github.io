@@ -284,5 +284,18 @@
     "weather": "🌤️",
     "startPointName": "Forøy",
     "endPointName": "Saltstraumen"
+  },
+  {
+    "date": "2024-06-27",
+    "startPos": [67.195471, 14.627345],
+    "endPos": [67.281414, 14.403290],
+    "distance": 35.74,
+    "time": "02h19",
+    "averageSpeed": 15.4,
+    "elevationGain": 398,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Saltstraumen",
+    "endPointName": "Bodø"
   }
 ]
