@@ -38,6 +38,8 @@ On aime notre voyage et notre expérience en vélo, on ne va pas vous mentir. Ç
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/0LwfS4fGJK8FPQbMoV" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
+On passe même par des toilettes publiques considérées comme *"les meilleures au monde"* à [Ureddplassen sur la Helgeland coast](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) 😅.
+
 On roule jusqu'à 22h. Il n'y a aucun mètre ou minute en trop dans cette journée. Tout est à faire, à voir, rien n'est à retirer. On aurait sans doute ou continuer encore mais on approche de **Bodø** et on a le logement que le lendemain 😂.
 
 On s'arrête au spot de camping sauvage qu'on a repéré. On monte la tente à 22h30, on dîne tous ensemble à 23h30. On a trouvé un endroit idéal, au bord de l'eau avec une vue imprenable sur les montagnes teintées de rose par le soleil qui ne se couche plus depuis plusieurs jours. Malgré la longueur de la journée et la fatigue, personne ne souhaite qu'elle s'arrête. Les émotions vécues mettent un peu de temps à redescendre, cette journée aura été un rêve éveillé 😀. 
