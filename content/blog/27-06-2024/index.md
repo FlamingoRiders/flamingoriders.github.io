@@ -17,7 +17,7 @@ Une idée lumineuse a germé la veille : et si on se baignait dans cette eau cla
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/5t4gxm7fZD5sSUWpsi" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-On peut maintenant mettre à jour notre infographie sur les eaux dans lesquelles on s'est baignés.
+On peut maintenant mettre à jour notre infographie sur les eaux dans lesquelles on s'est baignées.
 
 |  Mer  | Ressenti   |
 |----|----|
@@ -35,8 +35,8 @@ Le soir, on a également un programme alléchant, c'est l'anniversaire de Mika �
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/WRL7YgP42OKns22wRD" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
 Pour l'occasion on va profiter tous ensemble d'un des meilleurs repas depuis le début de notre séjour 🔝 :
-- un copieux apéro 
-- un succulent risotto
+- un copieux apéro,
+- un succulent risotto,
 - un gâteau au chocolat beaucoup trop bon avec double dose de chocolat 😃.
 
 On fait même découvrir à Michel 🇳🇱 l'apéro et le guacamole. Aux Pays-Bas, on mange très tôt vers 17h ! On espère qu'il propage cela dans son pays natal 😁.
