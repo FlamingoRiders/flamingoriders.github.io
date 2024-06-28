@@ -1,6 +1,6 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 27 juin
-date: "2024-06-27"
+title: 🐟 Le saumon d'Eduardo du 26 juin
+date: "2024-06-26"
 description: "On roule sous un grand soleil jusqu'à 22h et on croise des paysages à couper le souffle !"
 ---
 
