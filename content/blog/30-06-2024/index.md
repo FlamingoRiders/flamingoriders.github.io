@@ -21,7 +21,7 @@ Ce sont de petits oiseaux avec un ventre blanc, un manteau noir et un bec orange
 On part à vélo pour rejoindre la côte de **Norlandshagen** à une dizaine de kilomètres. Très rapidement, on tombe sur des séchoirs à poissons en bois. Ils sont disposés à l'air libre en extérieur et on note tout de suite l'odeur prononcée qui s'en dégage.
 Ça sent fort le poisson salé 🐟.
 
-Pour rejoindre la rive au nord, on emprunte une route qui monte par de petits lacets dans les montagnes. Sur ce *"mini-golf"*, plein de gros trous sont présents sur la route. Les barrières en bordure sont complètement défoncées. Il y a eu des chutes de pierre on dirait 😅. On ne remarque pas de pierres sur la route donc à priori ce n'est pas récent. Ça n'en reste pas moins impressionnant. Le vent reste très important.
+Pour rejoindre la rive au nord, on emprunte une route qui monte par de petits lacets dans les montagnes. Sur ce *"mini col"*, plein de gros trous sont présents sur la route. Les barrières en bordure sont complètement défoncées. Il y a eu des chutes de pierre on dirait 😅. On ne remarque pas de pierres sur la route donc à priori ce n'est pas récent. Ça n'en reste pas moins impressionnant. Le vent reste très important.
 
 ### Superbe randonnée de Norlandshagen à Måstad
 
@@ -33,7 +33,7 @@ Sur un autre côté de l'île, on s'approche jusqu'au début de la réserve natu
 
 Sur le chemin du retour, le soleil surgit enfin et vient chasser les nuages environnants. La vue se dégage considérablement, des merveilles se révèlent à nous 😃.
 
-<div style="left: 0; width: 100%; height: 80px; position: relative;"><iframe src="https://open.spotify.com/embed/track/0DcrhZ12WcCqruCs8ibXSf?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0DcrhZ12WcCqruCs8ibXSf?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
 Au nord, on voit distinctement les îles principales des **Lofoten** où l'on se rend ensuite. C'est formidable cette chaîne montagneuse qui émerge subitement de l'eau.
 
