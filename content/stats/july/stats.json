@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2024-07-01",
+    "startPos": [67.667603, 12.658815],
+    "endPos": [67.900080, 13.052905],
+    "distance": 38.31,
+    "time": "02h24",
+    "averageSpeed": 15.96,
+    "elevationGain": 450,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Værøy",
+    "endPointName": "Moskenes"
+  }
+]
