@@ -18,9 +18,7 @@ La randonnée est très aérienne et part quasiment du niveau de la mer. Pour le
 
 En revanche, si vous êtes sujet au vertige, comme Nico, on ne vous garantit pas une ascension sans quelques sueurs froides 😅. On a souvent la vue sur le vide et tout en haut, ça tombe à pic des deux côtés. Le vertige c'est quelque chose d'un peu délicat à gérer car cela ne concerne pas seulement votre personne. Même si vous êtes à plusieurs mètres du bord de la falaise et que vous n'êtes pas vous-même en danger, voir beaucoup de monde sur le chemin, y compris quelques illuminés qui n'ont pas conscience du danger et prennent la selfie à quelques centimètres du vide, vous glace le sang 🧊.
 
-La beauté du lieu tient également au fait qu'il n'y est aucune barrière, ce qui très commun en **Norvège**. Les gens sont libres de s'approcher aussi près qu'ils le souhaitent, à leurs risques et périls, mais si on peut faire passer un message, ne prenez jamais de risque inutile et ne sous-estimez jamais une montagne.
-
-Le vent peut souffler soudainement et vous n'êtes jamais à l'abri d'un mauvais appui ou d'une pierre glissante. Ce n'est ni une question de niveau ni d'équilibre.
+La beauté du lieu tient également au fait qu'il n'y ai aucune barrière, ce qui très commun en **Norvège**. Les gens sont libres de s'approcher aussi près qu'ils le souhaitent, à leurs risques et périls, mais si on peut faire passer un message, ne prenez jamais de risque inutile et ne sous-estimez jamais une montagne. Le vent peut souffler soudainement et vous n'êtes jamais à l'abri d'un mauvais appui ou d'une pierre glissante. Ce n'est ni une question de niveau ni d'équilibre.
  
 Il est deux heures du matin lorsque l'on commence l'ascension et même s'il s'agit d'une randonnée extrêmement renommée, on est très surpris de croiser encore des dizaines de personnes sur le chemin. La plupart entreprend la descente après avoir sans doute passé minuit au sommet. C'est tout bon pour nous, on devrait être peu nombreux en haut 🥰.
 
@@ -43,6 +41,7 @@ On reste au sommet une bonne demi-heure, on ne veut pas mettre fin à ce moment.
 Après une bonne douche, on se couche et on essaie de dormir mais autour de nous le camping va progressivement s'éveiller et le soleil va chauffer notre tente.
 
 ### Visite de Å
+
 Dans l'après-midi, on se rend au village de **Å**, le plus au sud de l'île de **Moskenesøya**. Situé à 6 kilomètres de **Moskenes**, on s'y rend à vélo. Lorsque le chemin devient plus un sentier de terre, on pose les vélos et on continue à pied. On arrive au bout de la partie habitée de l'île, le reste étant complètement sauvage. On a également de très belles vues sur les montagnes et puis au loin, on aperçoit **Værøy**. Il y a 24 heures, on avait la vue opposée 😉.
 
 À **Å**, on trouve de très mignonnes maisons rouges et blanches sur pilotis. Le petit village de pêche est très fréquenté, on y croise beaucoup de monde mais encore plus de mouettes. 
