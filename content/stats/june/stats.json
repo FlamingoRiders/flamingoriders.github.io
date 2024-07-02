@@ -297,5 +297,18 @@
     "weather": "☀️",
     "startPointName": "Saltstraumen",
     "endPointName": "Bodø"
+  },
+  {
+    "date": "2024-06-28",
+    "startPos": [67.281414, 14.403290],
+    "endPos": [67.667603, 12.658815],
+    "distance": 15.0,
+    "time": "01h00",
+    "averageSpeed": 15.0,
+    "elevationGain": 84,
+    "mood": 5,
+    "weather": "🌥️",
+    "startPointName": "Bodø",
+    "endPointName": "Vaeroy"
   }
 ]
