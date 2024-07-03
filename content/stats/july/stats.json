@@ -11,5 +11,18 @@
     "weather": "☀️",
     "startPointName": "Værøy",
     "endPointName": "Moskenes"
+  },
+  {
+    "date": "2024-07-03",
+    "startPos": [67.900080, 13.052905],
+    "endPos": [68.092350, 13.234543],
+    "distance": 31.73,
+    "time": "01h49",
+    "averageSpeed": 17.5,
+    "elevationGain": 370,
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "Moskenes",
+    "endPointName": "Ramberg"
   }
 ]
