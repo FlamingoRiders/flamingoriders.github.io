@@ -24,5 +24,18 @@
     "weather": "☁️",
     "startPointName": "Moskenes",
     "endPointName": "Ramberg"
+  },
+  {
+    "date": "2024-07-04",
+    "startPos": [68.092350, 13.234543],
+    "endPos": [68.159422, 13.751950],
+    "distance": 54.10,
+    "time": "03h18",
+    "averageSpeed": 16.4,
+    "elevationGain": 570,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Ramberg",
+    "endPointName": "Stamsund"
   }
 ]
