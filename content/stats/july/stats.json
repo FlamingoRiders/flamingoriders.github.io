@@ -37,5 +37,18 @@
     "weather": "🌤️",
     "startPointName": "Ramberg",
     "endPointName": "Stamsund"
+  },
+  {
+    "date": "2024-07-04",
+    "startPos": [68.159422, 13.751950],
+    "endPos": [68.247507, 14.550653],
+    "distance": 83.90,
+    "time": "04h55",
+    "averageSpeed": 17.0,
+    "elevationGain": 687,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Stamsund",
+    "endPointName": "Svolvær"
   }
 ]
