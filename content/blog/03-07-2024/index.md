@@ -6,9 +6,7 @@ description: "Des vues complètement folles sur les Bunesfjord, Kjerkfjord et Re
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Ce matin, on se lève sous une pluie fine. Il a plu toute la nuit, cette fois c'est du côté de Nico que l'eau est rentrée, son matelas est un peu mouillé. Un partout, balle au centre 🤓 ! Plus sérieusement, le réveil est difficile dans ses conditions. On a encore la tête un peu dans les vapes mais il faut s'activer pour replier les affaires rapidement.
-
-Outre l'eau qui gagne du terrain, l'horloge tourne et on a prévu de prendre un ferry.
+Ce matin, on se lève sous une pluie fine. Il a plu toute la nuit, cette fois c'est du côté de Nico que l'eau est rentrée, son matelas est un peu mouillé. Un partout, balle au centre 🤓 ! Plus sérieusement, le réveil est difficile dans ces conditions. On a encore la tête un peu dans les vapes mais il faut s'activer pour replier les affaires rapidement. Outre l'eau qui gagne du terrain, l'horloge tourne et on a prévu de prendre un ferry.
 
 🦩 : *"Quoi on retourne encore à Bodø ?!"*
 
