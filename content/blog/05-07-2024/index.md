@@ -31,6 +31,6 @@ La légende ne nous dit pas si des buts insensés ont été marqués dans l'ence
 
 En tout cas, le terrain, lui, est de classe internationale 👌🏼.
 
-En repartant, on tombe encore sur une magnifique plage de sable blanc. Il y a même la possibilité d'y camper ! On hésiter un instant mais on a prévu d'aller un peu plus loin. Un peu plus loin, des moutons sont en plein milieu de la route et l'on passe doucement 🐑😊. On termine notre route à **Sortland** après une nouvelle journée à rouler sur des routes paradisiaques.
+En repartant, on tombe encore sur une magnifique plage de sable blanc. Il y a même la possibilité d'y camper ! On hésiter un instant mais on a prévu d'aller un peu plus loin. Un peu plus loin, des moutons sont en plein milieu de la route et l'on passe doucement 🐑😊. On termine notre route à **Svolvaer** après une nouvelle journée à rouler sur des routes paradisiaques.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1NCuYqMc8hKMb4cpNTcJbD?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
