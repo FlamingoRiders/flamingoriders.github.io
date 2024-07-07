@@ -50,5 +50,18 @@
     "weather": "🌤️",
     "startPointName": "Stamsund",
     "endPointName": "Svolvær"
+  },
+  {
+    "date": "2024-07-07",
+    "startPos": [68.247507, 14.550653],
+    "endPos": [68.702297, 15.387489],
+    "distance": 79.43,
+    "time": "04h27",
+    "averageSpeed": 17.9,
+    "elevationGain": 560,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Svolvær",
+    "endPointName": "Sortland"
   }
 ]
