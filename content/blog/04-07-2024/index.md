@@ -14,7 +14,7 @@ On laisse nos vélos à un parking puis on entame la randonnée.
 
 ### Randonnée vers Kvalvika puis Ryten
 
-On s'aperçoit très vite qu'on est pas seuls. [Cette randonnée](https://www.visitnorway.com/listings/hike-to-kvalvika-and-ryten-(543-m)/225286/) étant très populaire et la journée étant magnifique, on est tout de même nombreux sur le sentier 😉 ! C'est également notre deuxième excursion dans le cœur du **Lofotodden nasjonalpark**. C'est une chance de s'enfoncer dans ce parc protégé, loin des routes bétonnées et des habitations. 
+On s'aperçoit très vite qu'on n'est pas seuls. [Cette randonnée](https://www.visitnorway.com/listings/hike-to-kvalvika-and-ryten-(543-m)/225286/) étant très populaire et la journée étant magnifique, on est tout de même nombreux sur le sentier 😉 ! C'est également notre deuxième excursion dans le cœur du **Lofotodden nasjonalpark**. C'est une chance de s'enfoncer dans ce parc protégé, loin des routes bétonnées et des habitations. 
 
 L'accès à la plage de **Kvalvika** est assez simple, il faut monter puis descendre environ 200 mètres de dénivelé sur un chemin mêlant roches, terre sèche et petits ponts en bois. C'est accessible à tous. Peut-être même un peu trop, avec un peu plus de sélectivité, ce serait moins encombré. On a tout de même des parents qui randonnent avec de très jeunes enfants et on remarque un père qui porte un bébé grâce à un sac dans son dos et un dans ses bras. Il glisse légèrement par endroits. Est-ce bien raisonnable 🤔 ? 
 
@@ -26,7 +26,7 @@ Un peu plus haut, la montagne est recouverte de mousse imbibée d'eau. Cette mê
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/67urFpVn7qwcd2gWIl" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-Bon tant pis, on fera la suite sans ce bidon *"contaminé"*. Pour les curieux, vous en faîtes pas, il n'y a pas eu d'incident à déclarer, le bidon de Nico a survécu 😉.
+Bon tant pis, on fera la suite sans ce bidon *"contaminé"*. Pour les curieux, ne vous en faîtes pas, il n'y a pas eu d'incident à déclarer, le bidon de Nico a survécu 😉.
 
 La vue depuis **Ryten** est incroyable, ou plutôt les vues ! On aperçoit des montagnes, des fjords, des plages à perte de vue et de tous les côtés. Complément dément 😱 ! 
 
