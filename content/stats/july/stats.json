@@ -63,5 +63,18 @@
     "weather": "🌤️",
     "startPointName": "Svolvær",
     "endPointName": "Sortland"
+  },
+  {
+    "date": "2024-07-08",
+    "startPos": [68.702297, 15.387489],
+    "endPos": [69.272990, 15.947084],
+    "distance": 101.14,
+    "time": "05h28",
+    "averageSpeed": 18.5,
+    "elevationGain": 529,
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Sortland",
+    "endPointName": "Bleik"
   }
 ]
