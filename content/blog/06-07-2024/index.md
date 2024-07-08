@@ -22,7 +22,7 @@ On se quitte car nous n'avons pas les mêmes impératifs qu'eux en termes de dat
 
 ### On attend désespérément la fin de la pluie
 
-On reste donc un petit moment dans la salle commune du camping. On va notamment discuter avec un randonneur français vivant à Londres avec qui on va mutuellement partager plusieurs anecdotes de voyages. La veille, sous le soleil de minuit, il a fait la randonnée que nous avons également cochée, [Djevelporten et Fløya]( (https://www.visitnorway.com/listings/hike-to-fl%C3%B8ya-and-djevelporten-(590-m)/225061/). 
+On reste donc un petit moment dans la salle commune du camping. On va notamment discuter avec un randonneur français vivant à Londres avec qui on va mutuellement partager plusieurs anecdotes de voyages. La veille, sous le soleil de minuit, il a fait la randonnée que nous avons également cochée, [Djevelporten et Fløya](https://www.visitnorway.com/listings/hike-to-fl%C3%B8ya-and-djevelporten-(590-m)/225061/). 
 
 Toute la journée, on va scruter la météo et attendre le retournement de tendance. La fin de la pluie est annoncée à 14h puis 16h, puis 18h... En vérité, elle ne viendra jamais. C'est une journée pourrie de chez pourrie. La pluie ne va pas s'interrompre une seconde.
 
