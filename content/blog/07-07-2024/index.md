@@ -18,7 +18,7 @@ On commence notre route en remontant l'**Autnesfjord**. Sur notre passage, des m
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/CiXNIjGX1hY?si=jomWadEqaoUnVyhT&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
    
-Oui, on est dans le registre des pierres précieuses 😉. On a la sensation d'être au milieu d'un petit trésor de la nature. Le ciel et les eaux scintillent.
+Oui, on est dans le registre des pierres précieuses 😉. On a la sensation d'être au milieu d'un petit trésor de la nature avec ces eaux qui scintillent.
 
 Malgré le soleil, la température ambiante est très homogène depuis notre arrivée sur les îles. Peu importe la météo, depuis une semaine nous sommes aux alentours des quinze degrés ce qui est agréable pour rouler et correspond aux normales de saison. Par contre, la présence de soleil ou son absence affecte immédiatement notre ressenti. Les beaux jours comme aujourd'hui, le cuissard court et le t-shirt suffisent. Lorsque c'est couvert, on enfile généralement une petite polaire 🤗.
 
