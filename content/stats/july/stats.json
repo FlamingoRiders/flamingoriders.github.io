@@ -76,5 +76,18 @@
     "weather": "🌧️",
     "startPointName": "Sortland",
     "endPointName": "Bleik"
+  },
+  {
+    "date": "2024-07-09",
+    "startPos": [69.272990, 15.947084],
+    "endPos": [69.443401, 17.304348],
+    "distance": 52.85,
+    "time": "03h14",
+    "averageSpeed": 16.3,
+    "elevationGain": 805,
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Bleik",
+    "endPointName": "Skaland"
   }
 ]
