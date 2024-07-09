@@ -1,7 +1,7 @@
 ---
 title: 🐟 Le saumon d'Eduardo du 07 juillet
 date: "2024-07-07"
-description: "On quitte les Lofoten et on rejoint les îles Vesteralen !"
+description: "On quitte les Lofoten et on rejoint les îles Vesterålen !"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -22,7 +22,7 @@ Oui, on est dans le registre des pierres précieuses 😉. On a la sensation d'�
 
 Malgré le soleil, la température ambiante est très homogène depuis notre arrivée sur les îles. Peu importe la météo, depuis une semaine nous sommes aux alentours des quinze degrés ce qui est agréable pour rouler et correspond aux normales de saison. Par contre, la présence de soleil ou son absence affecte immédiatement notre ressenti. Les beaux jours comme aujourd'hui, le cuissard court et le t-shirt suffisent. Lorsque c'est couvert, on enfile généralement une petite polaire 🤗.
 
-Après 35 kilomètres on prend le ferry à **Fiskebøl** pour **Melbu**. Ça y est, on quitte l'île de **Austvågøya** et les **Lofoten** et on rejoint l'ile de **Hadseløya** sur l'archipel des **Vesteralen**.
+Après 35 kilomètres on prend le ferry à **Fiskebøl** pour **Melbu**. Ça y est, on quitte l'île de **Austvågøya** et les **Lofoten** et on rejoint l'ile de **Hadseløya** sur l'archipel des **Vesterålen**.
 
 Au final, nous aurons passé une semaine sur les **Lofoten** si l'on compte notre escale à **Værøy**. On ne va pas épiloguer sans fin, on a adoré, cela doit se ressentir à travers notre récit. Comme on en avait beaucoup entendu parler avant, on souhaite maintenant à notre tour partager notre avis 🤓.
 
@@ -34,7 +34,7 @@ Au final, nous aurons passé une semaine sur les **Lofoten** si l'on compte notr
 | *"Beaucoup de monde"*  | Oui, énormément de camping-cars sur la route et des randonnées parfois très fréquentées suivant la météo et l'heure. |
 | *"La route est plate"*  | En comparaison de la Norvège, il y a moins d'ascensions mais cela reste très vallonné, il y a beaucoup de ponts surélevés |
 | *"Idéal pour profiter du soleil de minuit*"   | Oui 💯   |
-| *"Idéal pour les aurores boréales"*   | On y était pas pendant la saison mais d'après les photos qu'on a vu, oui 😉 !   |
+| *"Idéal pour les aurores boréales"*   | On n'y était pas pendant la saison mais d'après les photos qu'on a vues, oui 😉 !   |
 | *"Parfait pour la randonnée"*   | Oui mais ça monte très fort. Souvent les randonnées sont courtes et montent quasiment en ligne droite d'un point A à un point B. Attention aux sensations de vertige. Prévoir de bonnes chaussures. Avoir une condition physique minimum.   |
 | *"On ne voit des choses qu'on ne voit que là*"  | Oui et non. Tous les paysages que nous avons vus aux Lofoten, nous avons pu les voir ailleurs, dans la région des fjords ou sur la côte par exemple. Des montagnes qui semblent surgir au milieu des eaux, il y en a plein en Norvège. Ce qui est vraiment spécifique, c'est de voir cela sur des îles. Par contre certaines vues *"cartes postales"* valent vraiment la peine. |
 | *"Ça sent fort le poisson"*   | Nous n'avons vu des poissons séchés qu'à Værøy, l'odeur n'est pas si forte et passé fin juin, les séchoirs sont généralement vides.  |
@@ -46,6 +46,6 @@ On rejoint l'île de **Langøya** grâce à un immense pont. Nous sommes stupéf
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ejF3VIsGq7YVq" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-Nous retrouvons de nouveau des moutons sur notre route. Ceux-là ne s'enfuient pas, preuve qu'ils ont tout de même un peu l'habitude de croiser des gens 😉.
+Nous retrouvons de nouveau des moutons sur notre route. Ceux-là ne s'enfuient pas, contrairement à ceux des **Lofoten** qui étaient inapprochables, ils sont sans doute moins souvent embêtés par des touristes 😉.
 
 En arrivant au camping, on aperçoit au loin un phénomène très amusant : les nuages recouvrent uniquement le sommet des montagnes, un peu comme un nappage de crème fouettée. À l'exception de ces montagnes, tous les environs sont sous un ciel bleu. Le temps change rapidement. Demain, tout devrait de nouveau être couvert. En attendant, on se satisfait de cette beauté éphémère 😉.
