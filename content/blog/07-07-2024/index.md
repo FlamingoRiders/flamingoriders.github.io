@@ -10,11 +10,11 @@ Aujourd'hui, on se lève sous un grand ciel bleu, le soleil est de retour !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/4ayE7jjRuUBQk" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-Cela nous rend heureux après la journée *"d'arrêt d'hier"*. On a beau avoir vérifié la météo qui annonçait une amélioration, on n'en revient pas. Hier soir, le ciel était complètement sombre et la pluie semblait interminable. En quelques heures, on est passé du tout au tour. Hallucinant 😲 !
+Cela nous rend heureux après la journée *"d'arrêt"* d'hier. On a beau avoir vérifié la météo qui annonçait une amélioration, on n'en revient pas. Hier soir, le ciel était complètement sombre et la pluie semblait interminable. En quelques heures, on est passé du tout au tout. Hallucinant 😲 !
 
 ### Goodbye Lofoten
    
-On commence notre route en remontant l'**Autnesfjord**. Sur notre passage, des montagnes de toute formes et surtout une eau on ne peut plus claire. On l'a décrite souvent turquoise ces derniers jours mais sous certains angles, elle dévoile parfois des reflets couleur émeraude. Le soleil, lui, brille de mille feux.
+On commence notre route en remontant l'**Autnesfjord**. Sur notre passage, des montagnes de toutes formes et surtout une eau on ne peut plus claire. On l'a décrite souvent turquoise ces derniers jours mais sous certains angles, elle dévoile parfois des reflets couleur émeraude. Le soleil, lui, brille de mille feux.
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/CiXNIjGX1hY?si=jomWadEqaoUnVyhT&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
    
@@ -40,16 +40,9 @@ Au final, nous aurons passé une semaine sur les **Lofoten** si l'on compte notr
 | *"Ça sent fort le poisson"*   | Nous n'avons vu des poissons séchés qu'à Værøy, l'odeur n'est pas si forte et passé fin juin, les séchoirs sont généralement vides.  |
 
 ### Sur les îles Vesteralen 
-Nous débarquons à **Melbu**. La première impression, c'est que nous avons tout de suite moins de monde sur les routes ! Fini les camping-cars allemands qui nous doublent toutes les minutes, la majorité des véhicules sont des voitures norvégiennes.
+Nous débarquons à **Melbu**. La première impression, c'est que nous avons tout de suite moins de monde sur les routes ! Fini les camping-cars allemands qui nous doublent toutes les minutes, les véhicules sont en grande majorité des voitures norvégiennes.
 
-Bien que l'endroit nous semble moins fréquenté, la côte n'en reste pas moins splendide !
-Le dénivelé n'est vraiment pas dur, ça fait du bien ! Par contre le vent est assez présent ! Et on l'a de face ! 
-
-On continue le long de la côte, la route est tout simplement splendide ! À notre droite, nous avons une chaîne de montagnes remarquable ! Elle est gigantesque. La couleur de l'eau est très jolie également. Cette journée ensoleillée réchauffe notre moral malgré une température avoisinant les 14 degrés (nous précisons que c'est une température normale pour là où nous sommes. En moyenne sur les Vesterålen, les températures d'été sont entre 12 et 14 degrés).
-
-On roule assez bien ! Après une quarantaine de kilomètres après le ferry, nous atteignons Sortland. Pour une fois, nous n'arrivons pas trop tard.On rejoint l'île de **Langøya** grâce à un immense pont.
-
-Nous sommes stupéfaits par la chaîne de montagne des **Vesteralsalpene**. C'est gigantesque et pourtant, leur style est différent des **Lofoten**, il y a des chaînes plissées, des cimes pointues mais également des reliefs qui nous rappellent plus la moyenne montagne avec beaucoup de végétation. C'est très varié et d'une grande richesse. Parfois, on prend un instant pour contempler tout ce qui nous entoure : les plages, les montagnes, les fjords, la mer. C'est assez troublant que tout cela puisse cohabiter dans un seul et même endroit.
+On rejoint l'île de **Langøya** grâce à un immense pont. Nous sommes stupéfaits par la chaîne de montagnes des **Vesteralsalpene**. C'est gigantesque et pourtant, leur style est différent des **Lofoten**, il y a des chaînes plissées, des cimes pointues mais également des reliefs qui nous rappellent plus la moyenne montagne avec beaucoup de végétation. C'est très varié et d'une grande richesse. Parfois, on prend un instant pour contempler tout ce qui nous entoure : les plages, les montagnes, les fjords, la mer. C'est assez troublant que tout cela puisse cohabiter dans un seul et même endroit.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ejF3VIsGq7YVq" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
