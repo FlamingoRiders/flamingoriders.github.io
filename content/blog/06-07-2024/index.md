@@ -38,7 +38,7 @@ Force est de constater qu'on n'a pas appris de nos erreurs depuis qu'on est en *
 
 Le serveur arrive et lorsqu'on lui dit qu'on souhaite deux pizzas : une grande et une normale, il réagit surpris : *"Ok, that's a lot of food guys. I can do it if you want but that's really big"*
 
-Nico n'est pas bien de cette situation. Il est piqué au vif et se dit intérieurement qu'il nous connait pas le bonhomme ! On est des champions, des guerriers nous, c'est peut-être beaucoup mais on a faim et on en brûle des calories sur le vélo ! Et puis même si c'est dur, ça se joue dans la tête, il faut y aller, col de montagne ou grosse assiette, c'est le même combat. 
+Nico n'est pas bien de cette situation. Il est piqué au vif et se dit intérieurement qu'il ne nous connait pas le bonhomme ! On est des champions, des guerriers nous, c'est peut-être beaucoup mais on a faim et on en brûle des calories sur le vélo ! Et puis même si c'est dur, ça se joue dans la tête, il faut y aller, col de montagne ou grosse assiette, c'est le même combat. 
 
 🤷🏼‍♂️ : *"Yes we are sure !"*, d'un air affirmé qui cache tout de même une petite appréhension. Et si le serveur avait raison ?
 
