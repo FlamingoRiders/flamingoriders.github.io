@@ -89,5 +89,18 @@
     "weather": "🌧️",
     "startPointName": "Bleik",
     "endPointName": "Skaland"
+  },
+  {
+    "date": "2024-07-10",
+    "startPos": [69.443401, 17.304348],
+    "endPos": [69.446476, 17.849927],
+    "distance": 51.39,
+    "time": "03h12",
+    "averageSpeed": 16.0,
+    "elevationGain": 487,
+    "mood": 5,
+    "weather": "⛅",
+    "startPointName": "Skaland",
+    "endPointName": "Botnhamn"
   }
 ]
