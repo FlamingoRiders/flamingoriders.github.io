@@ -102,5 +102,18 @@
     "weather": "⛅",
     "startPointName": "Skaland",
     "endPointName": "Botnhamn"
+  },
+  {
+    "date": "2024-07-11",
+    "startPos": [69.446476, 17.849927],
+    "endPos": [69.655897, 18.945302],
+    "distance": 65.01,
+    "time": "04h09",
+    "averageSpeed": 15.6,
+    "elevationGain": 659,
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Botnhamn",
+    "endPointName": "Tromsø"
   }
 ]
