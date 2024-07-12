@@ -1,7 +1,7 @@
 ---
 title: 🐟 Le saumon d'Eduardo du 08 juillet
 date: "2024-07-08"
-description: "Journée à 3 chiffres : centième jour et cent kilomètres sur les surprenantes îles d'Hinnøya et d'Andøya"
+description: "Journée à 3 chiffres : centième jour et cent kilomètres sur les surprenantes îles d'Hinnøya et d'Andøya !"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
