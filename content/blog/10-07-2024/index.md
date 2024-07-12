@@ -53,7 +53,7 @@ Après s'être remis de nos émotions et avoir mangé un bout, on repart à vél
 
 On emprunte plusieurs tunnels très étroits. Parfois, seulement une seule voiture peut passer et des aires de dégagements permettent les éventuels croisements. On se croirait dans une mine comme dit Nana 👷🏼‍♀️. 
 
-On continue la route qui enlace les fjords et on se fait la réflexion que l'île ressemble un peu à la **Corse**. On observent des montagnes très impressionnantes qui montent à pic comme [Breidtinden](https://en.wikipedia.org/wiki/Breidtinden_(Berg) ou [Segla](https://www.tripadvisor.fr/Attraction_Review-g1800180-d15061265-Reviews-Segla-Senja_Troms_Northern_Norway.html). Nous décidons de renoncer à la randonnée à **Hesten** qui offre la meilleure vue sur la proéminence de **Segla**. Il est déjà tard et notre journée a été bien remplie.
+On continue la route qui enlace les fjords et on se fait la réflexion que l'île ressemble un peu à la **Corse**. On observent des montagnes très impressionnantes qui montent à pic comme [Breidtinden](https://en.wikipedia.org/wiki/Breidtinden_(Berg)) ou [Segla](https://www.tripadvisor.fr/Attraction_Review-g1800180-d15061265-Reviews-Segla-Senja_Troms_Northern_Norway.html). Nous décidons de renoncer à la randonnée à **Hesten** qui offre la meilleure vue sur la proéminence de **Segla**. Il est déjà tard et notre journée a été bien remplie.
 
 Nous n'avons toujours pas de plan pour dormir lorsque nous arrivons à un croisement qui nous indique deux directions :
 - à droite : un camping à 4 kilomètres 
