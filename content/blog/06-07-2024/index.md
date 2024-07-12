@@ -1,7 +1,7 @@
 ---
 title: 🐟 Le saumon d'Eduardo du 06 juillet
 date: "2024-07-06"
-description: "Une journée placée sous le signe du repos, d'une mauvaise météo et des au revoir."
+description: "Une journée placée sous le signe du repos, d'une mauvaise météo et des au revoir à Svolvær."
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
