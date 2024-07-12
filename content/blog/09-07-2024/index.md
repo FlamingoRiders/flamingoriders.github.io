@@ -13,9 +13,11 @@ On se met donc en route pour **Andenes**, à l'extrémité de l'île. On ne part
 La route reste magnifique tout du long. On quitte la longue plage de **Bleik** mais on ne tarde pas à en revoir de toutes aussi belles. À l'entrée d'**Andenes** on croise des rues avec des maisons toutes colorées, typiques de ce que l'on a vu dans les villes de Scandinavie jusqu'à présent. Il y a un phare qui vaut le détour mais nous ne monterons pas en haut.
 
 ### Ferry pour Senja
-On arrive au ferry, il y a du monde ! La traversée dure 1h40, on a un doute sur la façon dont on a attaché nos vélos en bas et on a été un peu pressés par le personnel de bord, on se dit tant pis ça fera l'affaire. On déchante peu de temps après car la mer est très mouvementée, le ferry doit parcourir une bonne distance et la traversée dure un petit moment 😰 ! Le bateau penche fortement d'un côté puis de l'autre en franchissant les vagues. Nico est frustré car il ne voulait pas mettre son vélo comme on lui a indiqué, il le craint en déséquilibre et donc plus susceptible de tomber. On croise les doigts on verra les dégâts à la sortie. Pour le ventre en revanche c'est immédiat, le mal de mer est terrible 🥴.
+On arrive au ferry, il y a du monde ! La traversée dure 1h40, on a un doute sur la façon dont on a attaché nos vélos en bas et on a été un peu pressés par le personnel de bord, on se dit tant pis ça fera l'affaire. On déchante peu de temps après car la mer est très mouvementée, le ferry doit parcourir une bonne distance et la traversée dure un petit moment 😰 ! Le bateau penche fortement d'un côté puis de l'autre en franchissant les vagues. Ça secoue bien !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3ohhwF34cGDoFFhRfy" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+
+Nico est frustré car il ne voulait pas mettre son vélo comme on lui a indiqué, il le craint en déséquilibre et donc plus susceptible de tomber. On croise les doigts on verra les dégâts à la sortie. Pour le ventre en revanche c'est immédiat, le mal de mer est terrible 🥴.
 
 Soudain, le capitaine passe une annonce : *"Pour votre information, il y a des baleines à votre gauche"*. Tout le monde à bord se précipite aux fenêtres et contemple de longues minutes la mer mais personne ne voit rien. 
 
