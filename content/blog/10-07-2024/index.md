@@ -13,7 +13,7 @@ On commence la randonnée pour atteindre ce sommet peu avant midi. Oui, c'est un
 
 Le chemin de randonnée n'est pas difficile. En **Norvège**, les locaux parlent même d'une randonnée familiale mais ne vous y méprenez pas : cette définition s'applique pour les gens du coin ! Si vous êtes d'une autre nationalité, considérez que la catégorisation est largement sous-évaluée, cela correspond plutôt à une difficulté *"intermédiaire ou confirmé"* en **France**. La pente est modérée et le chemin n'est pas trop technique. Par contre, il y a beaucoup de boue 😅. Il faut bien choisir ses appuis sous peine de se salir 🤭 !
 
-Il s'agit également d'une randonnée *"sea to summit"*, on part du niveau de la mer et le but est de rejoindre le sommet ! À 327 mètres, on atteint **Sommardalhaugen** où deux itinéraires sont possibles. Le premier, sur la gauche, continue tranquillement jusqu'au sommet dans des conditions de montée homogènes tout du long. Le deuxième, sur la droite, monte jusqu'à une crête qu'il faut ensuite longer tout du long afin de rejoindre le sommet. C'est ce deuxième chemin que nous empruntons en ayant en tête qu'on redescendra par l'autre chemin, plus facile en descente. On monte donc jusqu'à cette arrête, la roche est légèrement plus friable mais le chemin est stable et sécurisé.
+Il s'agit également d'une randonnée *"sea to summit"*, on part du niveau de la mer et le but est de rejoindre le sommet ! À 327 mètres, on atteint **Sommardalhaugen** où deux itinéraires sont possibles. Le premier, sur la gauche, continue tranquillement jusqu'au sommet dans des conditions de montée homogènes tout du long. Le deuxième, sur la droite, monte jusqu'à une crête qu'il faut ensuite longer tout du long afin de rejoindre le sommet. C'est ce deuxième chemin que nous empruntons en ayant en tête qu'on redescendra par l'autre chemin, plus facile en descente. On monte donc jusqu'à cette arête, la roche est légèrement plus friable mais le chemin est stable et sécurisé.
 
 Le temps qui est assez couvert au début commence à se gâter. Petit à petit, nous voyons les nuages se rapprocher rapidement dans notre direction et au bout de quelques minutes, ils nous recouvrent entièrement 😯 ! C'est assez spectaculaire à voir et dans ce brouillard où on ne voit qu'une dizaine de mètres devant nous, on préfère s'arrêter et faire une pause. On s'imagine qu'on en a pour une dizaine de minutes tout au plus. 
 
@@ -23,7 +23,7 @@ C'est en regardant au loin qu'on reprend confiance. On voit une épaisse brume e
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/5p9XWUdvbUzmPCukOmwoU3?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
-On reprend notre route et on franchit l'arrête. Bien qu'ayant un peu la vue sur le vide, cela se fait très bien. De toutes les randonnées qu'on a faites sur les îles, c'est sans doute celle que nous conseillerons au plus grand nombre :
+On reprend notre route et on franchit l'arête. Bien qu'ayant un peu la vue sur le vide, cela se fait très bien. De toutes les randonnées qu'on a faites sur les îles, c'est sans doute celle que nous conseillerons au plus grand nombre :
 - sa difficulté est largement abordable avec une montée graduelle.
 - on a des vues très dégagées et remarquables tout du long.
 - elle est gratifiante : plus vous progressez, plus les vues sont belles.
@@ -51,13 +51,13 @@ C'est un échec cuisant, Nana tente un saut, perd légèrement l'équilibre et p
 
 Après s'être remis de nos émotions et avoir mangé un bout, on repart à vélo. On continue sur la superbe route scénique de **Senja**. On fait un arrêt au viewpoint de [Tungenest](https://www.nasjonaleturistveger.no/en/routes/senja/tungeneset/) où un petit chemin permet de rejoindre des rochers au bord de la mer et d'avoir une vue imprenable sur la chaîne de montagnes [Okshornan](https://www.legendaryadventure.no/okshornan).
 
-On emprunte plusieurs tunnels très étroits. Parfois, seulement une seule voiture peut passer et des aires de dégagements permettent les éventuels croisements. On se croirait dans une mine comme dit Nana 👷🏼‍♀️. 
+On emprunte plusieurs tunnels très étroits. Parfois, seulement une seule voiture peut passer et des aires de dégagements permettent les éventuels croisements. On se croirait dans un jeu vidéo tel que Crash Bandicoot comme dit Nana 👷🏼‍♀️. 
 
-On continue la route qui enlace les fjords et on se fait la réflexion que l'île ressemble un peu à la **Corse**. On observent des montagnes très impressionnantes qui montent à pic comme [Breidtinden](https://en.wikipedia.org/wiki/Breidtinden_(Berg)) ou [Segla](https://www.tripadvisor.fr/Attraction_Review-g1800180-d15061265-Reviews-Segla-Senja_Troms_Northern_Norway.html). Nous décidons de renoncer à la randonnée à **Hesten** qui offre la meilleure vue sur la proéminence de **Segla**. Il est déjà tard et notre journée a été bien remplie.
+On continue la route qui enlace les fjords et on se fait la réflexion que l'île ressemble un peu à la **Corse**. On observe des montagnes très impressionnantes qui montent à pic comme [Breidtinden](https://en.wikipedia.org/wiki/Breidtinden_(Berg)) ou [Segla](https://www.tripadvisor.fr/Attraction_Review-g1800180-d15061265-Reviews-Segla-Senja_Troms_Northern_Norway.html). Nous décidons de renoncer à la randonnée à **Hesten** qui offre la meilleure vue sur la proéminence de **Segla**. Il est déjà tard et notre journée a été bien remplie.
 
 Nous n'avons toujours pas de plan pour dormir lorsque nous arrivons à un croisement qui nous indique deux directions :
 - à droite : un camping à 4 kilomètres 
-- à gauche : le port de **Botnhamn** où nous pouvons prendre le ferry pour quitter **Segla**.
+- à gauche : le port de **Botnhamn** où nous pouvons prendre le ferry pour quitter **Senja**.
 
 Il est 21h passé, on a soit un plan sûr soit un quitte ou double où l'on ne sait pas si l'on peut dormir à proximité du ferry. Comme on est des forcenés mais surtout des neuneus, on choisit cette deuxième option 🤪.
 
