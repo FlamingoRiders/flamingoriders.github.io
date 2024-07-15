@@ -106,7 +106,7 @@
   {
     "date": "2024-07-11",
     "startPos": [69.446476, 17.849927],
-    "endPos": [69.655897, 18.945302],
+    "endPos": [69.650519, 18.950146],
     "distance": 65.01,
     "time": "04h09",
     "averageSpeed": 15.6,
@@ -115,5 +115,18 @@
     "weather": "🌧️",
     "startPointName": "Botnhamn",
     "endPointName": "Tromsø"
+  },
+  {
+    "date": "2024-07-15",
+    "startPos": [69.650519, 18.950146],
+    "endPos": [69.667575, 19.809880],
+    "distance": 49.76,
+    "time": "03h05",
+    "averageSpeed": 16.1,
+    "elevationGain": 438,
+    "mood": 4,
+    "weather": "☀️",
+    "startPointName": "Tromsø",
+    "endPointName": "Svensby"
   }
 ]
