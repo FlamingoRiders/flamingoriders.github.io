@@ -12,7 +12,7 @@ Aujourd'hui, nous sommes à **Tromsø** où nous avons prévu quelques jours de 
 
 ### Tromsø : une ville unique 
 
-Avec une population de 70 000 habitants, il s'agit de la huitième ville la plus peuplée du pays. C'est la ville de plus de 50 000 habitants la plus septentrionale au monde et la troisième plus peuplée au-delà du cercle polaire, les deux autres étant en **Russie**.
+Avec une population de 70 000 habitants, il s'agit de la huitième ville la plus peuplée du pays. C'est la ville de plus de 50 000 habitants la plus septentrionale au monde et la troisième plus peuplée au-delà du cercle polaire, les deux premières étant en **Russie**.
 
 La ville est située majoritairement sur l'île de **Tromsøya** et les résidents sur le continent peuvent rejoindre le centre grâce à deux très grands ponts, un de chaque côté de l'île, ou un tunnel sous l'eau. Le climat de **Tromsø** est très particulier. Les moyennes de températures annuelles s'étendent de -5°C au plus froid de l'hiver à 15°C en été. Bien qu'étant à une latitude très élevée, juste en dessous de 70°N, les vents de l'ouest et le Gulf Stream rendent le climat particulièrement doux. Au cœur de l'hiver, 50 kilomètres plus loin dans les terres, il peut faire bien plus froid, le mercure peut tutoyer les -30°C.
 
@@ -37,7 +37,7 @@ Oui, mais non ! Ici, ce n'est pas rare de voir six, huit vélos (du vélo de tou
 
 Dans son atelier, on observe pas moins d'une vingtaine de vélos. Comme le monsieur nous prend directement en charge, on ne sait pas trop si ce sont ses vélos ou ceux de clients. On lui pose la question : *"ah vous faites beaucoup de vélo, ils sont à vous ?"*
 
-*"Ceux-ci ? Non. Ce sont mes jouets !"*. On comprend qu'on a affaire à un véritable passionné. Il a des méthodes de la vieille école qu'il nous explique avec beaucoup de pédagogie. Il fait notamment craquer les rayons pour vérifier que la tension est uniforme sur la roue. Il balaie du regard nos vélos et trouvent immédiatement ce qui cloche, procède également à des réglages de prévention car certains éléments ont bougé comme nos plaquettes de frein. Il traite nos problèmes un par un et alors qu'il travaille vite et efficacement, on entame assez naturellement la conversation. C'est une mine d'informations. En voyant tout cela, on se dit que non seulement nos vélos sont entre de bonnes mains mais qu'en plus on a envie d'apprendre à savoir faire tout ça de nos propres mains.
+*"Ceux-ci ? Non. Ce sont mes jouets !"*. On comprend qu'on a affaire à un véritable passionné. Il a des méthodes de la vieille école qu'il nous explique avec beaucoup de pédagogie. Il fait notamment craquer les rayons pour vérifier que la tension est uniforme sur la roue. Il balaie du regard nos vélos et trouve immédiatement ce qui cloche, procède également à des réglages de prévention car certains éléments ont bougé comme nos plaquettes de frein. Il traite nos problèmes un par un et alors qu'il travaille vite et efficacement, on entame assez naturellement la conversation. C'est une mine d'informations. En voyant tout cela, on se dit que non seulement nos vélos sont entre de bonnes mains mais qu'en plus on a envie d'apprendre à savoir faire tout ça de nos propres mains.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Xb8GfUSYCqAkcNrd6pW0M?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
@@ -45,9 +45,9 @@ Bien évidemment, parce que nous sommes en voyage, nous ne sommes pas outillés 
 
 👴🏼 : *"Et voilà, vous êtes parés pour le Cap Nord !"*
 
-👨🏼👩🏼 : *"On y va pas, on file en Finlande puis en Suède pour la suite de notre périple !"*
+👨🏼👩🏼 : *"On n'y va pas, on file en Finlande puis en Suède pour la suite de notre périple !"*
 
-👴🏼 : *"Oh mosquito-lovers !"* nous lance-t-il 😅. C'est vrai, on nous avait prévenu que ça devenait plus rural et que les moustiques y sont très présents et virulents. On verra bien 😉.
+👴🏼 : *"Oh mosquito-lovers !"* nous lance-t-il 😅. C'est vrai, on nous avait prévenus que ça devenait plus rural et que les moustiques y sont très présents et virulents. On verra bien 😉.
 
 ### Des adresses sympas
 On se rend ensuite dans le centre où l'on visite la ville. On apprécie vraiment beaucoup ses lieux de vie comme ses rues, ses bars et ses cafés. On s'imagine aisément que cette ambiance chaleureuse puisse jaillir également lors des nuits sombres et froides de l'hiver. Il doit y faire bon vivre même à cette période !
@@ -55,4 +55,4 @@ On se rend ensuite dans le centre où l'on visite la ville. On apprécie vraimen
 On se rend dans un café où nous mangerons assez tard, [Risø](https://www.risoe-mk.no/). C'est très sympa y compris pour bruncher 😋 !
 
 Un peu plus loin, on tombe sur le kiosque
-[Raketten](https://www.tripadvisor.fr/Restaurant_Review-g190475-d7035146-Reviews-Raketten-Tromso_Troms_Northern_Norway.html). C'est un endroit avec une histoire unique, il est minuscule et se revendique comme étant *"le plus petit bar au monde"*. Nana et Nico y dégustent de supers hot-dogs. Ils font également des saucisses végétariennes. Oui, on aime bien ces bonnes adresses où l'on peut manger sur le pouce et à toute heure, c'est cela aussi le charme des villes 😀 !
+[Raketten](https://www.tripadvisor.fr/Restaurant_Review-g190475-d7035146-Reviews-Raketten-Tromso_Troms_Northern_Norway.html). C'est un endroit avec une histoire unique, il est minuscule et se revendique comme étant *"le plus petit bar de l'univers"*. Nana et Nico y dégustent de supers hot-dogs. Ils font également des saucisses végétariennes. Oui, on aime bien ces bonnes adresses où l'on peut manger sur le pouce et à toute heure, c'est cela aussi le charme des villes 😀 !
