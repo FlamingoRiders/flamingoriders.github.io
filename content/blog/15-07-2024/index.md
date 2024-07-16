@@ -10,7 +10,7 @@ Aujourd'hui, nous quittons **Tromsø** après trois superbes journées dans cett
 
 Cette fois-ci, il semblerait bien que nous nous croiserons plus du voyage : nous partons pour continuer notre route vers la Finlande puis la Suède tandis que Mika projette de rallier **Nordkapp** avec Noémie 🇩🇪 et Léa 🇨🇭 avec qui nous avons également roulé et partagé de supers moments !
 
-Avec Mika nous avons roulé une dizaine de jours, partagé des histoires personnelles, créé de nouvelles histoires, vécu une belle aventure enrichissante et sportive. Nous n'avons aucun doute que nous allons nous revoir. Nous lui souhaitons le meilleur pour la suite de son aventure en espérant qu'il trouvera la clé du bonheur !
+Avec Mika nous avons roulé une dizaine de jours, partagé des histoires personnelles, créé de nouvelles histoires, vécu une belle aventure enrichissante et sportive. Nous n'avons aucun doute que nous allons le revoir. Nous lui souhaitons le meilleur pour la suite de son aventure en espérant qu'il trouvera la clé du bonheur !
 
 ### La suite du programme
 Alors que nous quittons **Tromsø**, une nouvelle phase de notre voyage démarre. 
@@ -52,6 +52,6 @@ Finalement, on arrive devant l'embarcadère de **Breidvik** à 15h55 😎 ! C'es
 
 Depuis le ferry, les vues sur les montagnes sont incroyables, ces **alpes de Lyngen** sont vraiment fantastiques. On aperçoit même des glaciers aux alentours, on est gâtés 🏔️ !
 
-On descend du ferry à **Svensby**, notre camping se trouvant à un kilomètre seulement au milieu de ce décor de rêve. Le soir, après avoir mis la tente, il se passe un phénomène curieux sur l'**Ullsfjorden** que nous avons traversé. Un nuage de très basse altitude, allant de l'eau à une hauteur de 100 mètres environ, recouvre le côté opposé, celui dont nous venons. Il y a l'eau bleue, les nuages puis les montagnes encore au-dessus. On ne voit que la moitié supérieure de celles-ci et le nuage traverse lentement l'eau en *"slow motion"* 😱. La scène est surréaliste, on assiste à un énième tour de magie.
+On descend du ferry à **Svensby**, notre camping se trouvant à un kilomètre seulement au milieu de ce décor de rêve. Le soir, après avoir mis la tente, il se passe un phénomène curieux sur l'**Ullsfjorden** que nous avons traversé. Un nuage sur l'eau d'une hauteur de 100 mètres environ, recouvre le côté opposé, celui dont nous venons. Il y a l'eau bleue, les nuages puis les montagnes encore au-dessus. On ne voit que la moitié supérieure de celles-ci et le nuage traverse lentement l'eau en *"slow motion"* 😱. La scène est surréaliste, on assiste à un énième tour de magie.
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/3brm8qxTrdnbvuEOCloIch?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
