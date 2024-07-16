@@ -128,5 +128,18 @@
     "weather": "☀️",
     "startPointName": "Tromsø",
     "endPointName": "Svensby"
+  },
+  {
+    "date": "2024-07-16",
+    "startPos": [69.667575, 19.809880],
+    "endPos": [69.380881, 20.293904],
+    "distance": 92.64,
+    "time": "04h33",
+    "averageSpeed": 20.4,
+    "elevationGain": 705,
+    "mood": 4,
+    "weather": "🌤️",
+    "startPointName": "Svensby",
+    "endPointName": "Skibotn"
   }
 ]
