@@ -141,5 +141,18 @@
     "weather": "🌤️",
     "startPointName": "Svensby",
     "endPointName": "Skibotn"
+  },
+  {
+    "date": "2024-07-17",
+    "startPos": [69.380881, 20.293904],
+    "endPos": [69.047611, 20.798897],
+    "distance": 50.09,
+    "time": "03h09",
+    "averageSpeed": 15.9,
+    "elevationGain": 732,
+    "mood": 3,
+    "weather": "🌤️",
+    "startPointName": "Skibotn",
+    "endPointName": "Kilpisjärvi"
   }
 ]
