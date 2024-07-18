@@ -8,7 +8,7 @@ description: "De la Laponie norvégienne à la Laponie finlandaise !"
 
 Aujourd'hui, on se lève pour la dernière fois en **Norvège** 😢. Pour l'occasion, on a le plaisir d'observer dès le réveil le **Steindalsbreen** qui perce à travers la bande nuageuse. On ne l'avait même pas vu la veille 😅 ! Pourtant le temps nous semblait moins couvert hier soir que ce matin.
 
-Nous partons de **Skibotn** un peu plus tard que d'habitude. On quitte la **E6** pour la **E8**. Cette route est très particulière, par endroits on l'a voit indiquée comme étant la **Nordlysruten (Northern Lights Route)** et elle s'étale de **Tromsø** en **Norvège** à **Tornio** en **Finlande** en bordant la frontière suédoise et y faisant quelques incursions. C'est vraiment une route touristique partagée entre ces trois pays 🙂.
+Nous partons de **Skibotn** un peu plus tard que d'habitude. On quitte la **E6** pour la **E8**. Cette route est très particulière, par endroits, elle est indiquée comme étant la **Nordlysruten (Northern Lights Route)** et elle s'étale de **Tromsø** en **Norvège** à **Tornio** en **Finlande** en bordant la frontière suédoise et y faisant quelques incursions. C'est vraiment une route touristique partagée entre ces trois pays 🙂. Cette route possède même son propre logo avec le croisement des quatre drapeaux : norvégien, finlandais, suédois et sami.
 
  
 La route monte et nous avons beaucoup de dénivelé positif pour la distance que nous effectuons aujourd'hui. Derrière nous, nous apercevons le glacier, nous le voyons encore quelques temps avant de devoir lui dire au revoir. Le paysage commence à changer rapidement. Nous sommes toujours en **Norvège**, quasiment toute notre trace du jour y sera, mais on sent bien que nous commençons à entrevoir les prémisses d'un paysage différent. Le relief qui nous entoure est moins prononcé, les vallées et montagnes arborent une végétation luxuriante et sont couvertes d'arbres. 
@@ -16,7 +16,7 @@ La route monte et nous avons beaucoup de dénivelé positif pour la distance que
 ### Journée des dernières 
 Il fait chaud sur cette journée, très très chaud 🥵. On est en montée et il fait lourd, on a du mal avec cette chaleur suffocante. Notre compteur qui mesure la température nous indique 30°C, c'est beaucoup mais c'est sans doute parce qu'on est exposé plein soleil. On se décide à faire une pause après une ascension car on suffoque.
 
-On pique-nique au milieu de nulle part sur l'**E8**. Pour ce dernier déjeuner, on a pas fait sans l'originalité, on mange des sandwichs. Et oui, on fait comme on peut en itinérance et on mange surtout ce qui est pratique pour repartir rapidement 😏.
+On pique-nique au milieu de nulle part sur l'**E8**. Pour ce dernier déjeuner, on n'a pas fait sans l'originalité, on mange des sandwichs. Et oui, on fait comme on peut en itinérance et on mange surtout ce qui est pratique pour repartir rapidement 😏.
 
 En tranches de fromages, on utilise notre tout dernier paquet de **Norvegia Original**, le fromage le plus vendu dans le pays par **Tine**, le géant norvégien des produits laitiers. C'est un fromage très riche en protéines, en calcium et lactose-free. Par contre il n'a pas beaucoup de goût, c'est un peu un **Leerdammer** en encore plus léger. Il est donc parfait pour Nico qui aime les fromages *"légers"*. Oh qu'il va nous manquer ce Sweet Norvegia !
 
@@ -30,9 +30,9 @@ Si vous tenez vraiment à nous remercier, vous pouvez nous envoyer des tablettes
 
 *"Mais Nana, Nico, vous n'avez plus d'adresse fixe !"*
 
-C'est pas faux. Bon stockez-les chez vous, on fera le déplacement pour venir les chercher, c'est un *"win-win"* on vous épargne en plus les frais de port 😂.
+Ce n'est pas faux. Bon stockez-les chez vous, on fera le déplacement pour venir les chercher, c'est un *"win-win"* on vous épargne en plus les frais de port 😂.
 
-On reprend notre route après avoir bien casser la croûte. On croise à présent des panneaux dans 3 langues : le norvégien, le sami du Nord parlé en **Laponie** et le kvene, un dialecte finnois parlé par la population kvène en Norvège.
+On reprend notre route après avoir bien cassé la croûte. On croise à présent des panneaux dans 3 langues : le norvégien, le sami du Nord parlé en **Laponie** et le kvene, un dialecte finnois parlé par la population kvène en Norvège.
 
 On croise également des pistes avec des panneaux skidoo qui servent en hiver. Aucun doute, nous sommes bien en **Laponie** !
  
@@ -47,7 +47,7 @@ a d'ailleurs un nom différent dans chacune des 3 langues.
 |----|----|
 | Rovijokkfossen | Norvégien |
 | Rovvegorži | Sami du Nord |
-| Rovijoenkoski  | Kvene, un  |
+| Rovijoenkoski  | Kvene  |
 
 On continu de grimper. En se retournant on aperçoit une rivière qui coule dans la vallée qui prend parfois l'allure d'un canyon. C'est la **Skibotndalen**.
 
@@ -74,8 +74,8 @@ Alors que pouvons-nous dire de plus au sujet de ce pays que nous n'avons pas dé
 - les routes touristiques nationales (ou scenic routes) de **Hardanger**, **Trollstigen**, **Atlanterhavsveien**, **Helgelandskysten**, **Lofoten**, **Andøya** et **Senja** 🛣️.
 - la traversée du cercle polaire arctique et les soleils de minuit ☀️.
 - les tunnels 🚇 et les ferrys ⛴️ qui ont accompagné notre voyage.
-- les rencontres locales et ceux qui nous auront sauvé la mise : la dame qui nous a protégé dans un tunnel interdit aux vélos, le monsieur qui nous a gentiment pris dans sa camionnette pour en traverser un autre et celui qui a changé la roue de Nico. Nous pouvons en témoigner ici, les norvégiens sont des personnes adorables. Il y a deux types de personnes, celles curieuses qui nous abordent, celles plus introverties mais avec qui on peut facilement briser la glace après quelques minutes et qui nous partagerons des anecdotes incroyables ou des conseils pour nos aventures.
+- les rencontres locales et ceux qui nous auront sauvé la mise : la dame qui nous a protégés dans un tunnel interdit aux vélos, le monsieur qui nous a gentiment pris dans sa camionnette pour en traverser un autre et celui qui a changé la roue de Nico. Nous pouvons en témoigner ici, les norvégiens sont des personnes adorables. Il y a deux types de personnes, celles curieuses qui nous abordent, celles plus introverties mais avec qui on peut facilement briser la glace après quelques minutes et qui nous partagerons des anecdotes incroyables ou des conseils pour nos aventures.
 
-Pour toutes ces raisons, nous savons dès à présent que nous reviendrons un jour. Nous y serons forcés. Nous ne savons pas quand, n'y comment, ni combien de temps mais nous trouverons le moyen de revenir 💪🏼 ! Il ne peut pas en être autrement.
+Pour toutes ces raisons, nous savons dès à présent que nous reviendrons un jour. Nous y serons forcés. Nous ne savons pas quand, ni comment, ni combien de temps mais nous trouverons le moyen de revenir 💪🏼 ! Il ne peut pas en être autrement.
 
 En attendant, il ne nous reste plus qu'une chose à dire : Ha det Norge 🇧🇻♥️🥲 !
