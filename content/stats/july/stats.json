@@ -154,5 +154,18 @@
     "weather": "🌤️",
     "startPointName": "Skibotn",
     "endPointName": "Kilpisjärvi"
+  },
+  {
+    "date": "2024-07-18",
+    "startPos": [69.047611, 20.798897],
+    "endPos": [68.488909, 22.297172],
+    "distance": 100.27,
+    "time": "05h04",
+    "averageSpeed": 19.8,
+    "elevationGain": 590,
+    "mood": 3,
+    "weather": "🌥️",
+    "startPointName": "Kilpisjärvi",
+    "endPointName": "Kaaresuvanto"
   }
 ]
