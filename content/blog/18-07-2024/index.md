@@ -16,7 +16,7 @@ Des mois avant ce voyage, alors que Nico surfait sur le web, il est tombé sur u
 
 *"Imaginez un endroit où les frontières de trois pays, la **Norvège**, la **Finlande** et la **Suède** se touchent en un unique point. Imaginez que ce point, que l'on appelle un tripoint soit localisé en plein milieu d'un lac. Imaginez qu'un monument soit construit pour matérialiser ce tripoint et qu'une passerelle sur l'eau permette de s'y rendre et d'en faire le tour."*. 
 
-C'est alors que nous avons découvert le **Treriksröset (Kolmen valtakunnan rajapyykki en finnois)** ou plus plus simplement **Three-Country Cairn** 🇫🇮🇧🇻🇸🇪. Mais alors pourquoi donc se rendre dans un lieu pareil ? Un autre internaute nous apporte une piste de réponse.
+C'est alors que nous avons découvert le **Treriksröset (Kolmen valtakunnan rajapyykki en finnois)** ou plus simplement **Three-Country Cairn** 🇫🇮🇧🇻🇸🇪. Mais alors pourquoi donc se rendre dans un lieu pareil ? Un autre internaute nous apporte une piste de réponse.
  
 *"Vous savez ce que je ferai si je m'y rendais ? Je ferai le tour de la passerelle plusieurs fois pour dire que j'ai changé de pays 30 fois dans une seule et même journée !"*
 
@@ -33,7 +33,7 @@ Le seul problème de la randonnée dans la région, c'est ce mal bien connu qui 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ofyJ3MTnx7P3pboYUw" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
 ### Terribles moustiques
-Ah les moustiques ! On nous avait prévenu et on peut dire que malgré la mise en garde, il fallait qu'on expérimente de nous même pour véritablement se rendre compte du fléau qu'ils représentent. On ne s'est pas dit que les gens exagéraient mais on pensait tout de même pouvoir s'adapter avec des bons équipements et produits. On avait tord 🫣 !
+Ah les moustiques ! On nous avait prévenus et on peut dire que malgré la mise en garde, il fallait qu'on expérimente de nous même pour véritablement se rendre compte du fléau qu'ils représentent. On ne s'est pas dit que les gens exagéraient mais on pensait tout de même pouvoir s'adapter avec des bons équipements et produits. On avait tort 🫣 !
 
 C'est simple dès que l'on part du camping on a mis du produit anti-moustiques sur les zones découvertes. Après 10 minutes de randonnée seulement, Nico ressent une gêne dans le dos, il soulève son t-shirt, il y a déjà une dizaine de piqûres dessus, ça irrite fortement mais il ne faut pas se gratter sous peine de voir cela empirer 😫 ! Il fait très lourd aujourd'hui et dans cette ambiance pesante, ça n'aide pas à oublier ces désagréments. 
 
