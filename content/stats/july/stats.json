@@ -180,5 +180,18 @@
     "weather": "🌤️",
     "startPointName": "Kaaresuvanto",
     "endPointName": "Sonkamuotka"
+  },
+  {
+    "date": "2024-07-21",
+    "startPos": [68.156904, 23.288537],
+    "endPos": [67.809702, 24.803062],
+    "distance": 93.67,
+    "time": "05h43",
+    "averageSpeed": 16.4,
+    "elevationGain": 565,
+    "mood": 4,
+    "weather": "🌤️",
+    "startPointName": "Sonkamuotka",
+    "endPointName": "Levi"
   }
 ]
