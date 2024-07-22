@@ -193,5 +193,19 @@
     "weather": "🌤️",
     "startPointName": "Sonkamuotka",
     "endPointName": "Levi"
+  },
+
+  {
+    "date": "2024-07-22",
+    "startPos": [67.809702, 24.803062],
+    "endPos": [67.418718, 26.611891],
+    "distance": 107.57,
+    "time": "06h27",
+    "averageSpeed": 16.7,
+    "elevationGain": 535,
+    "mood": 2,
+    "weather": "☀️",
+    "startPointName": "Levi",
+    "endPointName": "Sodankylä"
   }
 ]
