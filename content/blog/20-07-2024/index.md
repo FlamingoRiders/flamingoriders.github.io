@@ -10,9 +10,9 @@ Ce matin, on fait de notre mieux pour plier la tente rapidement malgré les nomb
 
 ### La bonne surprise du matin
 
-On commence notre route en partant de **Kilpisjärvi**. En finnois, **järvi** signifie *"lac"*. On longe donc le lac de **Kilips** puis la rivière **Könkämäeno** qui y prend sa source. On doit faire des courses ce matin car on a regardé en ligne et très peu de possibilités s'offrent à nous. On se rend au K-market à 5 kilomètres du camping. 
+On commence notre route en partant de **Kilpisjärvi**. En finnois, **järvi** signifie *"lac"*. On longe donc le lac de **Kilpis** puis la rivière **Könkämäeno** qui y prend sa source. On doit faire des courses ce matin car on a regardé en ligne et très peu de possibilités s'offrent à nous. On se rend au **K-market** à 5 kilomètres du camping. 
 
-Juste avant d'y arriver, on tombe nez à nez avec un renne 😮. Il sort d'un buisson et traverse tranquillement la route comme si c'était le prolongement de la forêt. On reste là, un peu médusés, on ne prend pas le temps de prendre la photo encore une fois, la scène se déroule vite et on peine encore à réaliser. On reste bouche bée devant ce cervidé qui ne semble pas nous avoir vu, ses bois sont immenses proportionnellement à sa taille ! 
+Juste avant d'y arriver, on tombe nez à nez avec un renne 😮. Il sort d'un buisson et traverse tranquillement la route comme si c'était le prolongement de la forêt. On reste là, un peu ébahis, on ne prend pas le temps de prendre la photo encore une fois, la scène se déroule vite et on peine encore à réaliser. On reste bouche bée devant ce cervidé qui ne semble pas nous avoir vu, ses bois sont immenses proportionnellement à sa taille ! 
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/JSvSWYsCa7aDcKqP6U" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
