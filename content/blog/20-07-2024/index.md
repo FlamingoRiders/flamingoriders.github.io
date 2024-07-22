@@ -1,65 +1,54 @@
 ---
 title: 🍬 Le salmiakki d'Eduardo du 20 juillet
 date: "2024-07-20"
-description: "100 kilomètres pour finir dans la même municipalité d'Enontekiö comptant seulement 2000 habitants, le dépaysement est total !"
+description: "Deuxième journée le long de la frontière entre la Finlande et la Suède !"
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)
 
-Ce matin, on fait de notre mieux pour plier la tente rapidement malgré les nombreux moustiques qui sont actifs à tout moment de la journée.
+Aujourd'hui, on discute rapidement avec la dame qui tient le camping où l'on est. Elle nous demande si nous avons bien dormi. On lui répond que ça a été malgré les moustiques et elle paraît presque surprise tant la nuit a été chaude.
 
-### La bonne surprise du matin
+👨🏼 : *"Alors oui c'est vrai qu'on ne s'attendait pas à ça, mais il fait vraiment chaud depuis notre arrivée en Finlande, c'est habituel ?"*.
 
-On commence notre route en partant de **Kilpisjärvi**. En finnois, **järvi** signifie *"lac"*. On longe donc le lac de **Kilpis** puis la rivière **Könkämäeno** qui y prend sa source. On doit faire des courses ce matin car on a regardé en ligne et très peu de possibilités s'offrent à nous. On se rend au **K-market** à 5 kilomètres du camping. 
+Elle nous répond que non pas vraiment, il y a des journées chaudes mais que ça ne s'éternise pas en général, juillet étant d'habitude un des mois les plus pluvieux. En fait nous sommes dans une vague de chaleur en ce moment. Aux alentours de 30°C c'est inhabituel que cela dure plusieurs jours.
 
-Juste avant d'y arriver, on tombe nez à nez avec un renne 😮. Il sort d'un buisson et traverse tranquillement la route comme si c'était le prolongement de la forêt. On reste là, un peu ébahis, on ne prend pas le temps de prendre la photo encore une fois, la scène se déroule vite et on peine encore à réaliser. On reste bouche bée devant ce cervidé qui ne semble pas nous avoir vus, ses bois sont immenses proportionnellement à sa taille ! 
+On continue la conversation et elle nous dit ensuite qu'en hiver, on peut s'attendre à des températures qui descendent à -30°C. L'amplitude thermique est énorme en **Laponie** 🥶🥵 !  
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/JSvSWYsCa7aDcKqP6U" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+### Toujours sur la E8
 
-Puis, il disparaît et en tournant la tête, on s'aperçoit qu'un autre de ses congénères est tranquillement en train de brouter des fleurs. Lui a des bois moins longs et un pelage différent, pourtant il fait la même taille que son camarade. Chez les rennes, le mâle et la femelle ont tous les deux des bois mais ceux de la femelle sont bien plus petits (50 cm contre 130 cm pour le mâle). Un peu plus loin, on tombe encore sur un renne qui se cache à proximité d'un tipi, on croirait presque qu'il s'agit d'une statue 🦌. On t'a vu coquin 😉 !
+On reprend notre route depuis **Kaaresuvanto**. Nous sommes toujours sur la **E8** qui longe la rivière **Muonionjoki** qui commence au confluent de **Lätäseno** et de **Könkämäeno** que nous avons empruntée la veille. Toujours cette bonne vieille route européenne, on passe notre vie dessus depuis deux jours 😅.
 
-Au petit supermarché, on fait un achat essentiel : des bobs avec filets moustiquaires. Après avoir fait les courses, on repart sur la route. Quelle route ? L'**E8** bien sûr ! On n'a pas le choix, c'est la seule qui passe dans le coin 😅.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7jIFGkTBIK1UwWaEXMW2Nh?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-### De très longues lignes droites sur l'E8
+À présent que nous avons passé **Kaaresuvanto**, les panneaux kilométriques indique la prochaine commune, **Muonio**.
 
-Sur le compteur GPS, le tracé est très simple, on lit *"100 km jusqu'à votre destination"*. Au moins, les choses sont claires, pas d'indications complexes aujourd'hui ! Pour les panneaux de route, les indications sont également limpides, on voit afficher :
-
-|  Tornio<br>Duortnus<br><br>Kaaresuvanto <br>Gárasavvon  | 460<br><br><br>103 |
+|  Tornio<br>Duortnus<br><br>Muonio <br>Muoná  | 350<br><br><br>81 |
 |:----|---:|
 
-*"Ah d'accord, mais du coup ils indiquent que les grosses villes ?"*
+On avance même si on peine à s'en rendre compte. C'est dur de parcourir tant de distance sur la même route. Pourtant la route n'est pas monotone, nous traversons une très grande forêt mais qui laisse entrevoir des lacs, des marécages, des passages avec arbres très hauts formant une forêt épaisse et d'autres avec une végétation qui reste au niveau du sol avec des mousses et fougères. 
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/l0HUcAjsjfQq1vuhi" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+Le plus dur, c'est vraiment cette route qui n'en finit pas, qui est vallonnée et qui n'offre pas un rendement optimal. On n'atteint pas de grosses vitesses. De toute manière ce n'est pas possible, Nana et Nico sont tous les deux malades. Il y a pas mal de fatigue et un peu d'ennui également, on l'admet.
 
-Alors ça dépend ce qu'on entend par grosse ville, 
-**Kaaresuvanto (ou Gárasavvon en sami)**, c'est là où nous allons et il y a moins de 300 habitants 😂.
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/RKS1pHGiUUZ2g" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>  
 
-On croise aussi des panneaux bleus de deux mètres de long pour cinquante centimètres de hauteur avec le nom du lieu en finnois et en sami. Parfois, il n'y a qu'une maison, ce n'est même plus un village ou lieu-dit mais ils ont quand même leur beau panneau 😃.
 
-La route de l'**E8** s'enchaîne et elle est assez difficile pour nous. On est censé avoir moins de dénivelé qu'en **Norvège** mais ce qu'il faut voir c'est qu'elle est très vallonnée tout du long. Avec le poids de nos bagages, on ne peut pas capitaliser sur les descentes pour remonter, les pentes de ces bosses ne sont pas faciles à négocier. En plus, des panneaux danger *"dos d'âne ou cassis"* sont présents pour signaler ces portions de route.
+Après plus de 120 kilomètres entre hier et aujourd'hui sur la **E8**, on tombe enfin sur une *"aire de repos"*. Il y a des toilettes sèches et aussi un petit café sous une hutte tenue par des samis. On est fasciné par ce que l'on découvre à l'intérieur, des tapisseries, des préparations locales et surtout des photos pendant l'hiver de la région ! La majorité des personnes qui y vivent à l'année sont des samis. L'élevage de rennes mais aussi le tourisme lié à la découverte de la **Laponie**, des ces zones lointaines et reculées, et du mode de vie de ses habitants fascinent les visiteurs.
 
-Nana fait remarquer à juste titre qu'il s'agit plutôt de dos de diplodocus en l'occurrence 😁. On rejoint même après une énième côte le point de **Muotkatakka** à 565 mètres, le plus haut sommet de la route en **Finlande**.
+On sent que le lieu respire la convivialité et l'accueil typiquement finlandais.
 
-Ensuite il fait très chaud. On est surpris pour tout vous avouer, on ne pensait pas qu'il ferait aussi chaud et aussi lourd. Le thermomètre avoisine encore les 30°C 🌡️.
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/kGScT2XJPxCyikr5QN" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>  
 
-Une autre difficulté vient du fait que nous suivons cette même route sur de très nombreux kilomètres et qu'elle est en grande partie en ligne droite. On voit très loin devant, cette route ne paraît jamais finir, c'est terrible !
+🤦🏼‍♀️ : *"Oh non Eduardo, tu te goures complètement là, c'est de l'appropriation culturelle et en plus c'est des inuits que tu nous montre là"*
 
-*"C'est curieux, comment se fait-il qu'on ne croise pas un café, des maisons, une épicerie ?"*
+🦩 : *"Ah au temps pour moi ! Bon c'est vrai que la hutte n'est pas un igloo mais je fais avec les gifs qu'on me propose aussi 😮 !"*
 
-### Enontekiö : une commune lapone très particulière
+Toujours est-il que nous trouvons le lieu très accueillant et y apprenons nos premiers mots finnois.
 
-En fait, depuis le début de la journée, malgré les kilomètres qui défilent, nous ne voyons pas de nouvelles habitations, c'est même tout l'inverse ! Nous sommes toujours dans la même commune.  
-En **Finlande**, les communes forment les entités administratives fondamentales du pays, celles qui comportent un gouvernement local, comme le conseil municipal en **France**.
+| 🇨🇵   |  🇫🇮  |
+|----|----|
+| Bienvenue   | Tervetuloa 🤗  |
+| Sanglier   | Villisika 🐗   |
+| Renne  | Poro 🦌   |
 
-La commune dans laquelle nous nous trouvions à notre départ ce matin à **Kilpisjärvi** et celle de notre destination du jour à **Kaaresuvanto** est la même ! Il s'agit d'**Enontekiö**.
-
-**Enontekiö** compte moins de 2000 habitants et en cumulé, compte plus de 400 kilomètres de frontière commune avec la **Suède** au sud-ouest et la **Norvège** au nord-est ! La municipalité est vraiment une langue de terre coincée entre ses deux voisins scandinaves, une *"queue de poêle"* de la Finlande. 
-
-La commune est très allongée, elle mesure plus de 160 km de long, c'est la troisième plus grande de Finlande mais sa densité de population est l'une des plus faibles du pays : **0,22 habitants au kilomètre carré** 🫨 ! Pas étonnant qu'on ne croise personne.
-
-Nous sommes en pleine immersion dans cette immense forêt boréale composée de pins, d'épicéas et de bouleaux. On tombe sur des zones marécageuses avec de grandes mares de roseaux. Parfois, les arbres disparaissent temporairement, nous laissant apercevoir de grandes plaines avec des mousses, on a l'impression d'être dans des landes de bruyère. Pas un chat, pas un chien mais cette nature si riche qui nous entoure. Le dépaysement est total 🤩 !
-
-Après avoir longé pendant 90 kilomètres la rivière **Könkämäeno** qui matérialise la frontière entre la **Finlande** et la **Suède**, on finit par arriver à **Kaaresuvanto**. C'est effectivement tout petit, quelques maisons et un pont qui enjambe la rivière. De l'autre côté de celui-ci, se situe 
-**Karesuando**, le village suédois. Aujourd'hui on a donc roulé 100 kilomètres entre **Kilpisjärvi** et **Kaaresuvanto**. Entre ces deux villages, vous avez plus de chance de tomber sur un renne que sur une habitation. Ça surprend de pouvoir être si loin pendant si longtemps de la civilisation mais c'est une sacrée expérience, on est vraiment sur un autre monde 😉.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0A87jB4esj0cTaL9wJhvXi?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
+Nous repartons ensuite vers notre camping. Arrivés à **Sonkamuotka**, nous sommes ravis de voir qu'il y a peu de moustiques. Le lieu est très beau et idéalement placé juste à côté de la rivière **Muonionjoki**. 
+On dégraisse nos vélos puis on part à la douche. Dans les campings finlandais, on a même droit au sauna commun, un pour les hommes et un pour les femmes, une pause relaxante méritée après une nouvelle journée à rouler dans la chaleur 🧖🏼‍♂️.
