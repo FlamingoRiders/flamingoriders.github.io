@@ -21,13 +21,13 @@ On arrive à **Muonio** qui ressemble enfin à une petite commune avec quelques 
 
 On mange dans la station-service avant de reprendre notre route. On y mange pas très bien mais c'est dimanche et on a rien trouvé de mieux pour notre pause midi. On fait avec ce qu'on trouve et en **Laponie**, on vous garantit qu'on n'a pas pléthore de possibilités pour ravitailler 😉.
 
-On repart et l'on bifurque sur une nouvelle route, la *79*. Youpi, enfin une nouvelle route 🥳 ! On est ravis, vraiment... Pendant 10 minutes. Tiens donc elle ressemble un petit peu à là **E8** cette route 🤔 ? Une voie de chaque côté limitée entre 80 et 100 km/h, la rouge coupe à travers une immense forêt et les véhicules nous dépassent d'assez près. On s'attendait à quitter un grand axe pour une plus petite route, c'est raté !
+On repart et l'on bifurque sur une nouvelle route, la *79*. Youpi, enfin une nouvelle route 🥳 ! On est ravis, vraiment... Pendant 10 minutes. Tiens donc elle ressemble un petit peu à là **E8** cette route 🤔 ? Une voie de chaque côté limitée entre 80 et 100 km/h, la route coupe à travers une immense forêt et les véhicules nous dépassent d'assez près. On s'attendait à quitter un grand axe pour une plus petite route, c'est raté !
 
 ### Le sublime parc de Pallas-Yllästunturi
 
 Cependant, la route qui était jusqu'alors coincée entre les arbres semble se dégager un petit peu et nous laisse apercevoir des paysages formidables :
 - les lacs **Särkijärvi**, **Jerisjärvi** et **Äkäsjärvi** 🏞️.
-- les monts environnants d'**Olostunturi**, **Särkitunturi** et *Keimiötunturi** ⛰️.
+- les monts environnants d'**Olostunturi**, **Särkitunturi** et **Keimiötunturi** ⛰️.
 - une forêt avec des arbres qui montent encore plus haut et encore plus dense 🌳. Une forêt enfin enchantée !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/TuptaxRZphuyA" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
