@@ -207,5 +207,18 @@
     "weather": "☀️",
     "startPointName": "Levi",
     "endPointName": "Sodankylä"
+  },
+  {
+    "date": "2024-07-23",
+    "startPos": [67.418718, 26.611891],
+    "endPos": [66.956457, 26.296203],
+    "distance": 61.47,
+    "time": "03h45",
+    "averageSpeed": 16.4,
+    "elevationGain": 264,
+    "mood": 4,
+    "weather": "☀️",
+    "startPointName": "Sodankylä",
+    "endPointName": "Käyrämö"
   }
 ]
