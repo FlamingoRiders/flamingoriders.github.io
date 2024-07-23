@@ -25,7 +25,7 @@ On reprend notre route depuis **Kaaresuvanto**. Nous sommes toujours sur la **E8
 |  Tornio<br>Duortnus<br><br>Muonio <br>Muoná  | 350<br><br><br>81 |
 |:----|---:|
 
-On avance même si on peine à s'en rendre compte. C'est dur de parcourir tant de distance sur la même route. Pourtant la route n'est pas monotone, nous traversons une très grande forêt mais qui laisse entrevoir des lacs, des marécages, des passages avec arbres très hauts formant une forêt épaisse et d'autres avec une végétation qui reste au niveau du sol avec des mousses et fougères. 
+On avance même si on peine à s'en rendre compte. C'est dur de parcourir tant de distance sur la même route. Pourtant la route n'est pas monotone, nous traversons une très grande forêt mais qui laisse entrevoir des lacs, des marécages, des passages avec des arbres très hauts formant une forêt épaisse et d'autres avec une végétation qui reste au niveau du sol avec des mousses et fougères. 
 
 Le plus dur, c'est vraiment cette route qui n'en finit pas, qui est vallonnée et qui n'offre pas un rendement optimal. On n'atteint pas de grosses vitesses. De toute manière ce n'est pas possible, Nana et Nico sont tous les deux malades. Il y a pas mal de fatigue et un peu d'ennui également, on l'admet.
 
@@ -38,7 +38,7 @@ On sent que le lieu respire la convivialité et l'accueil typiquement finlandais
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/kGScT2XJPxCyikr5QN" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>  
 
-🤦🏼‍♀️ : *"Oh non Eduardo, tu te goures complètement là, c'est de l'appropriation culturelle et en plus c'est des inuits que tu nous montre là"*
+🤦🏼‍♀️ : *"Oh non Eduardo, tu te goures complètement là, c'est de l'appropriation culturelle et en plus c'est des inuits que tu nous montres là"*
 
 🦩 : *"Ah au temps pour moi ! Bon c'est vrai que la hutte n'est pas un igloo mais je fais avec les gifs qu'on me propose aussi 😮 !"*
 
