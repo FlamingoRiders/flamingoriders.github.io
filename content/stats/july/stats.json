@@ -220,5 +220,18 @@
     "weather": "☀️",
     "startPointName": "Sodankylä",
     "endPointName": "Käyrämö"
+  },
+  {
+    "date": "2024-07-24",
+    "startPos": [66.956457, 26.296203],
+    "endPos": [66.503646, 25.733871],
+    "distance": 70.20,
+    "time": "04h12",
+    "averageSpeed": 16.7,
+    "elevationGain": 379,
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Käyrämö",
+    "endPointName": "Rovaniemi"
   }
 ]
