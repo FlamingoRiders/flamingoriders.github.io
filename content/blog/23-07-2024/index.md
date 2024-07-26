@@ -21,7 +21,7 @@ On suppose que les routes sont des repères pour les rennes qui les empruntent �
 
 Les rennes en **Laponie** se baladent librement mais appartiennent à des élevages. Ils sont donc mi-domestiques, mi-sauvages. Pour pouvoir être reconnus par les éleveurs samis, [les rennes sont marqués](https://www.je-papote.com/marquage-rennes-laponie.html).
 
-Tous les rennes que nous observons ne semblent pas conscients du trafic routier autour d'eux. Ils déambulent tranquillement sur les routes, les gens ont interdiction de les déranger. Il n'est cependant pas rare d'entendre des automobilistes klaxonner si un renne bloque un peu trop longtemps la voie 😏. Si les rennes ne sont pas effrayés par les voitures, ce n'est pas le cas pour les vélos ! Peut-être parce qu'ils ont conscience qu'on est des hommes ou qu'ils nous méprennent pour un animal plus gros ? Toujours est-il qu'ils prennent rapidement la fuite lorsqu'ils nous voient.
+Tous les rennes que nous observons ne semblent pas conscients du trafic routier autour d'eux. Ils déambulent tranquillement sur les routes, les gens ont interdiction de les déranger. Il n'est cependant pas rare d'entendre des automobilistes klaxonner si un renne bloque un peu trop longtemps la voie 😏. Si les rennes ne sont pas effrayés par les voitures, ce n'est pas le cas pour les vélos ! Peut-être parce qu'ils ont conscience qu'on est des hommes ou qu'ils nous prennent pour un animal plus gros ? Toujours est-il qu'ils prennent rapidement la fuite lorsqu'ils nous voient.
 
 Cependant, la démarche du renne est très différente de celle d'un cerf par exemple, ce qui nous donne le droit d'être témoins de scènes très comiques.
 
@@ -39,7 +39,7 @@ Le plus surprenant est vraiment qu'il reste un long moment sur la route. Lorsqu'
 
 On poursuit notre route en direction de **Käyrämö** où nous logeons ce soir.
 
-À un moment, la route composée jusqu'à lors d'une voie dans chaque sens s'élargit brusquement, sans que cela soit indiqué par un panneau. La voie devient alors très large, il y a deux voies dans chaque côté, la bande est encore plus large ! Il y a de quoi faire tenir une dizaine de voitures. Cela n'a aucun sens, on a l'impression d'être sur une piste pour avions 🛬. Pourquoi cette expérimentation au beau milieu de nul part ? Nous ne savons pas 🤣. On pédale aussi vite que possible mais on ne décolle toujours pas.
+À un moment, la route composée jusqu'à lors d'une voie dans chaque sens s'élargit brusquement, sans que cela soit indiqué par un panneau. La voie devient alors très large, il y a deux voies de chaque côté, la bande est encore plus large ! Il y a de quoi faire tenir une dizaine de voitures. Cela n'a aucun sens, on a l'impression d'être sur une piste pour avions 🛬. Pourquoi cette expérimentation au beau milieu de nul part ? Nous ne savons pas 🤣. On pédale aussi vite que possible mais on ne décolle toujours pas.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5QrHfu4q83HjcFcRi2WlS3?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
