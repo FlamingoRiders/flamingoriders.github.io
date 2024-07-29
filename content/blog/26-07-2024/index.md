@@ -4,13 +4,13 @@ date: "2024-07-26"
 description: "Sur les hauteurs d'Ounasvaara qui surplombe Rovaniemi !"
 ---
 
-Pour cette deuxième journée à **Rovaniemi*, nous décidons de traverser l'un des ponts de la ville pour nous rendre sur la colline d'**Ounasvaara**. 
+Pour cette deuxième journée à **Rovaniemi**, nous décidons de traverser l'un des ponts de la ville pour nous rendre sur la colline d'**Ounasvaara**. 
 
 
 ### Un sentier de randonnée fort sympathique 
-Nous nous baladons dans la large forêt où plusieurs chemins de randonnée sont présents. Nous alternons entre deux sentiers
-- le *"Winter Trail"* ❄️ qui est accessible en raquettes l'hiver
--le "Nature Trail"* 🍀 qui rentre un peu plus dans les feuillages et où nous avons certains passages avec des planches de bois pour éviter les zones marécageuses.
+Nous nous baladons dans la large forêt où plusieurs chemins de randonnée sont présents. Nous alternons entre deux sentiers :
+- le *"Winter Trail"* ❄️ qui est accessible en raquettes l'hiver,
+- le *"Nature Trail"* 🍀 qui rentre un peu plus dans les feuillages et où nous avons certains passages avec des planches de bois pour éviter les zones marécageuses.
 
 C'est vraiment rigolo de voir tous ces panneaux de signalisation pour l'hiver lorsque nous faisons une marche sous 28 degrés en plein été. 
 On se dit que l'ambiance ici doit être incroyable en hiver. Il y a tellement de possibilités d'activités !
