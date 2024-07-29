@@ -36,4 +36,4 @@ Voilà, un petit aperçu de leurs spécialités ; même si nous ne sommes pas co
 
 Rassurez-vous, on est des gens sérieux, on a quand même acheté de nouveau des glaces 😜.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/iIlg2wrGQF6PhlU4TXvOdw?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6naxalmIoLFWR0siv8dnQQ?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
