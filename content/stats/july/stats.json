@@ -233,5 +233,18 @@
     "weather": "🌤️",
     "startPointName": "Käyrämö",
     "endPointName": "Rovaniemi"
+  },
+  {
+    "date": "2024-07-29",
+    "startPos": [66.503646, 25.733871],
+    "endPos": [66.172475, 25.268882],
+    "distance": 57.49,
+    "time": "03h07",
+    "averageSpeed": 18.5,
+    "elevationGain": 226,
+    "mood": 4,
+    "weather": "☁️",
+    "startPointName": "Rovaniemi",
+    "endPointName": "Tervola"
   }
 ]
