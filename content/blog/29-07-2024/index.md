@@ -20,9 +20,9 @@ Il n'y a pas grand chose à noter sur notre parcours. La route est encore très 
 ### Le long du Kemijoki 
 On longe le fleuve **Kemijoki**. D'une longueur de 550 kilomètres, c'est le plus grand de **Finlande**. Nous devrions le suivre jusqu'à son embouchure en **mer Baltique** au niveau du **Golfe de Botnie**.
 
-Nous nous arrêtons pour déjeuner au niveau d'un immense barrage hydraulique : le **Petäjäskoski**. Celui-ci est capable d'alimenter près de 100 000 foyers en électricité. On me signale dans l'oreillette que c'est plus que les barrages de castors 🦫.
+Nous nous arrêtons pour déjeuner au niveau d'un immense barrage hydraulique : le **Petäjäskoski**. Celui-ci est capable d'alimenter près de 100 000 foyers en électricité. On me signale dans l'oreillette que c'est plus que la production des barrages de castors 🦫.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/1FJayrPE7XGDe" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/1FJayrPE7XGDe" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 En **Finlande**, il s'agit d'une source de production d'énergie assez importante. [Le pays a d'ailleurs un mix énergétique assez spécifique](https://fr.m.wikipedia.org/wiki/%C3%89nergie_en_Finlande) avec  beaucoup d'énergies renouvelables (dont la biomasse avec tous ces arbres) mais aussi une consommation d'énergie très élevée !
  
