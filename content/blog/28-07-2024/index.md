@@ -11,7 +11,7 @@ Aujourd'hui, on est toujours à **Rovaniemi**. On a décidé de rester un peu pl
 Comme il s'agit de profiter d'une dernière journée en ville, on décide de faire notre activité reposante préférée : le sauna 😀.
 
 ### Des installations pour les sports d'hiver au top
-Pour s'y rendre, nous devons traverser le fleuve**Kemijoki** et marcher quelques kilomètres sur la rive opposée.
+Pour s'y rendre, nous devons traverser le fleuve **Kemijoki** et marcher quelques kilomètres sur la rive opposée.
 
 En route, on tombe sur le **Hiihtostadion**, le stade de ski avec ses pistes de ski nordiques, ses tribunes et des immenses sautoirs à ski. Grand tremplin, petit tremplin, tremplins d'entraînement, tout y est ⛷️ ! C'est impressionnant et ça donne envie, peut-être dans une prochaine vie.
 
@@ -26,7 +26,7 @@ Le cadre est bucolique, le lieu est calme, niché entre les arbres et éloigné 
  
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/QwtP7K0nASub2dHZru" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-On fait quelques allers-retours entre le sauna et la rivière pour se refroidir. L'eau est bonne, il y a un peu de courant tout de même, il ne faut pas trop s'éloigner. On ne voudrait s'endormir quelques instants et se retrouver dans la **mer Baltique** 😉.
+On fait quelques allers-retours entre le sauna et la rivière pour se refroidir. L'eau est bonne, il y a un peu de courant tout de même, il ne faut pas trop s'éloigner. On ne voudrait pas s'endormir quelques instants et se retrouver dans la **mer Baltique** 😉.
 
 Néanmoins, dans cette rivière un peu à l'écart du monde, on ne se sent pas pressés de rentrer 😁.
 
