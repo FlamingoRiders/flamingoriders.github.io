@@ -73,7 +73,7 @@ const HomePage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
         Retrouvez également toutes nos photos sur notre{" "}
         <a href={`https://www.polarsteps.com/${polarsteps}`}>Polarsteps</a> !
       </p>
-      <p>N'hésitez pas à rafraîchir les pages si le contenu ne vous semble pas à jour, nous publions tous les jours.</p>
+      <p>N'hésitez pas à rafraîchir les pages si le contenu ne vous semble pas à jour, nous publions tous les jours. </p>
     </Layout>
   );
 };
