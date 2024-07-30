@@ -246,5 +246,18 @@
     "weather": "☁️",
     "startPointName": "Rovaniemi",
     "endPointName": "Tervola"
+  },
+  {
+    "date": "2024-07-30",
+    "startPos": [66.172475, 25.268882],
+    "endPos": [65.832173, 24.202506],
+    "distance": 84.03,
+    "time": "03h57",
+    "averageSpeed": 21.3,
+    "elevationGain": 272,
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "Tervola",
+    "endPointName": "Tornio"
   }
 ]
