@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2024-08-01",
+    "startPos": [65.712997, 23.757127],
+    "endPos": [65.901953, 22.658437],
+    "distance": 90.00,
+    "time": "05h21",
+    "averageSpeed": 16.8,
+    "elevationGain": 469,
+    "mood": 4,
+    "weather": "🌧️",
+    "startPointName": "Seskarö",
+    "endPointName": "Töre"
+  }
+]
