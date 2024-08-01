@@ -27,13 +27,13 @@ Ce chemin en gravier dure plusieurs kilomètres. À ce rythme là, c'est sûr, l
 
 On finit par se sortir de cette galère et par miracle aucune crevaison n'est à déplorer ! Pino, Hino et moi-même allons bien ! Personne ne demande mais sachez qu'Eduardo Flamingo n'a subi aucune égratignure, un miracle dans ce champ de patates 🦩. De toute manière, Nana et Nico m'ont bien fait comprendre que je n'étais pas prioritaire sur les rustines 😭.
 
-https://giphy.com/gifs/news-trump-donald-fbi-raid-KIejvpaS6QrAOdCLvu
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/KIejvpaS6QrAOdCLvu" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
 ### L'archipel d'Haparanda
 
 Malgré toutes ces péripéties, on continue notre route sans tracas. La pluie continue de s'abattre sur nous mais ce ne sera pas une grosse journée. De toute manière, comme dit Nico, notre départ à midi équivaut à un départ à 11h. Eh oui, on va gagner une heure en rejoignant la **Suède**, cette même heure qu'on avait perdue en rejoignant la **Finlande** qui est sur un fuseau horaire GMT+2.
 
-https://giphy.com/gifs/beauty-and-the-beast-ApmxD78zQNaFi
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ApmxD78zQNaFi" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
 On traverse sur notre route plusieurs ponts et sans nous en rendre compte, nous passons d'île en île. Nous sommes en train de parcourir l'**archipel de Haparanda** qui abrite notamment un [parc national](https://www.sverigesnationalparker.se/en/choose-park---list/haparanda-skargard-national-park/). On regagne ainsi la côte de la **mer Baltique**. Cette mer, on l'aura vue pour la première fois tout au sud, près de Lübeck en **Allemagne**. À présent, nous sommes tout au nord de la **Baltique**. On en aura parcouru du chemin entre temps 🤗 !
 
