@@ -11,5 +11,18 @@
     "weather": "🌧️",
     "startPointName": "Seskarö",
     "endPointName": "Töre"
+  },
+  {
+    "date": "2024-08-02",
+    "startPos": [65.901953, 22.658437],
+    "endPos": [65.594655, 22.071899],
+    "distance": 87.51,
+    "time": "05h05",
+    "averageSpeed": 17.2,
+    "elevationGain": 484,
+    "mood": 4,
+    "weather": "☁️",
+    "startPointName": "Töre",
+    "endPointName": "Luleå"
   }
 ]
