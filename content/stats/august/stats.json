@@ -24,5 +24,18 @@
     "weather": "☁️",
     "startPointName": "Töre",
     "endPointName": "Luleå"
+  },
+  {
+    "date": "2024-08-04",
+    "startPos": [65.594655, 22.071899],
+    "endPos": [65.333289, 21.396157],
+    "distance": 56.19,
+    "time": "03h29",
+    "averageSpeed": 16.1,
+    "elevationGain": 342,
+    "mood": 4,
+    "weather": "🌥️",
+    "startPointName": "Luleå",
+    "endPointName": "Öjebyn"
   }
 ]
