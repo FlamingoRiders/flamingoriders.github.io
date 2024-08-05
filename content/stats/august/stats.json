@@ -37,5 +37,18 @@
     "weather": "🌥️",
     "startPointName": "Luleå",
     "endPointName": "Öjebyn"
+  },
+  {
+    "date": "2024-08-05",
+    "startPos": [65.333289, 21.396157],
+    "endPos": [64.947866, 21.234551],
+    "distance": 61.75,
+    "time": "03h53",
+    "averageSpeed": 15.9,
+    "elevationGain": 356,
+    "mood": 3,
+    "weather": "🌤️",
+    "startPointName": "Öjebyn",
+    "endPointName": "Byske"
   }
 ]
