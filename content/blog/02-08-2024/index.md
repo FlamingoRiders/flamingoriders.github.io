@@ -17,7 +17,7 @@ Notre objectif est réussi, on voulait des petites routes et moins de monde, on 
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/1YYhDizHx7PnDhAhko6cDS?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
-À un moment donné on s'arrête à côté d'un champ où deux beaux oiseaux se tiennent en plein milieu. Ils poussent un cri perçant qui résonne très fort. Il s'agit de grues cendrée. Leur cris sont même un peu effrayants si on est pris par suprise 😅.
+À un moment donné on s'arrête à côté d'un champ où deux beaux oiseaux se tiennent en plein milieu. Ils poussent un cri perçant qui résonne très fort. Il s'agit de grues cendrées. Leur cri est même un peu effrayant si on est pris par suprise 😅.
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3o6wraGHbaesVVebjW" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
 ### En entrant dans Luleå 
