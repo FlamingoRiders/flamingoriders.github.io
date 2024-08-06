@@ -50,5 +50,18 @@
     "weather": "🌤️",
     "startPointName": "Öjebyn",
     "endPointName": "Byske"
+  },
+  {
+    "date": "2024-08-06",
+    "startPos": [64.947866, 21.234551],
+    "endPos": [64.516638, 20.668401],
+    "distance": 75.11,
+    "time": "04h38",
+    "averageSpeed": 16.2,
+    "elevationGain": 511,
+    "mood": 4,
+    "weather": "☀️",
+    "startPointName": "Byske",
+    "endPointName": "Burträsk"
   }
 ]
