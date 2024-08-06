@@ -6,11 +6,11 @@ description: "On rejoint le comté de Västerbotten !"
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
 
-Ce matin, pour la deuxième fois de suite, on constate une surprise désagréable en sortant de la tente. On s'est encore fait ch\*\*\* par dessus par les oiseaux 😭. 
+Ce matin, pour la deuxième fois de suite, on constate une surprise désagréable en sortant de la tente. On s'est encore fait ch\*\*\* dessus par les oiseaux 😭. 
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/z9QnN2Kk2QOveHATE7" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-Comment en sommes-nous arrivés là ?Comme d'habitude, on a mis nos vélos sous un arbre pour qu'ils puissent reposer dessus. Comme souvent, on a étendu nos serviettes sur nos vélos en extérieur, afin qu'elles puissent sécher. Comme hier, les oiseaux ont choisi cette emplacement de choix pour faire leurs besoins 😡. On peut légitimement se dire qu'on aurait pu apprendre de notre erreur de la veille. Toutefois, il n'y a rien de mieux pour *"vraiment"* apprendre que faire deux fois de suite la même erreur 😇.
+Comment en sommes-nous arrivés là ? Comme d'habitude, on a mis nos vélos contre un arbre pour qu'ils puissent reposer dessus. Comme souvent, on a étendu nos serviettes sur nos vélos en extérieur, afin qu'elles puissent sécher. Comme hier, les oiseaux ont choisi cet emplacement de choix pour faire leurs besoins 😡. On peut légitimement se dire qu'on aurait pu apprendre de notre erreur de la veille. Toutefois, il n'y a rien de mieux pour *"vraiment"* apprendre que faire deux fois de suite la même erreur 😇.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qdFHfgUPmngzK7oTeflgs?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
