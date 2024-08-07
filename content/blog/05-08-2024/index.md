@@ -23,7 +23,7 @@ Le paysage commence à devenir très répétitif, on traverse une immense forêt
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3orieVB0zGmGaBIG8U" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
 
-On est obligés de s'arrêter vers 16h. Alors oui, 16h c'est l'heure du goûter mais on s'arrête surtout parce qu'on en peut plus de cette route 😂 ! 
+On est obligés de s'arrêter vers 16h. Alors oui, 16h c'est l'heure du goûter mais on s'arrête surtout parce qu'on n'en peut plus de cette route 😂 ! 
 
 Alors qu'on s'arrête, on a le droit à une divine surprise, un renne blanc traverse la route un peu en amont du chemin sur lequel on s'est arrêtés ! C'est notre premier en **Suède**, et comme souvent ça suffit à notre bonheur un petit renne 😃.
 
