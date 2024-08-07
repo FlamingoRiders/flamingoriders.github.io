@@ -63,5 +63,18 @@
     "weather": "☀️",
     "startPointName": "Byske",
     "endPointName": "Burträsk"
+  },
+  {
+    "date": "2024-08-07",
+    "startPos": [64.516638, 20.668401],
+    "endPos": [63.842284, 20.341314],
+    "distance": 94.09,
+    "time": "06h00",
+    "averageSpeed": 15.7,
+    "elevationGain": 531,
+    "mood": 4,
+    "weather": "☀️",
+    "startPointName": "Burträsk",
+    "endPointName": "Umeå"
   }
 ]
