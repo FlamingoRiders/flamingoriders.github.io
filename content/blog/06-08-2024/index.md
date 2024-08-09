@@ -9,7 +9,7 @@ description: "Une belle journée avec des paysages variés pour traverser la mun
 Ce matin il fait une chaleur étouffante dès le réveil ! Pourtant lorsqu'on ouvre les yeux, nous ne sommes pas dans un sauna mais bien dans notre tente 😲. Le soleil tape très fort de bon matin sur la toile et dans un tel four, on sort illico presto.
  
 ### Toujours sur les petites routes
-On reprend la route en empruntant les petites voies, on suit toujours le même itinéraire que l'**E4** vers le sud mais on ne l'emprunte pas. On a droit à des chemins de terre, des graviers, des anciennes routes. C'est assez varié et surtout peu emprunté 😀.
+On reprend la route en empruntant les petites voies, on suit toujours le même itinéraire que l'**E4** vers le sud mais on ne l'emprunte pas. On a le droit à des chemins de terre, des graviers, des anciennes routes. C'est assez varié et surtout peu emprunté 😀.
 
 À 18 kilomètres, on décide de faire une première pause. Oui c'est un peu tôt dans le trajet mais on n'est pas partis super tôt et on commence déjà à avoir un petit creux. On prend donc une glace sur les coups de 13h. Ne nous jugez pas, ils ne vendaient que ça dans le petit patelin et c'était un peu tôt pour déjeuner 😳.
 
