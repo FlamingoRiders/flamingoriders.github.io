@@ -76,5 +76,18 @@
     "weather": "☀️",
     "startPointName": "Burträsk",
     "endPointName": "Umeå"
+  },
+  {
+    "date": "2024-08-10",
+    "startPos": [63.842284, 20.341314],
+    "endPos": [63.574784, 19.457277],
+    "distance": 70.18,
+    "time": "04h31",
+    "averageSpeed": 15.5,
+    "elevationGain": 381,
+    "mood": 3,
+    "weather": "🌤️",
+    "startPointName": "Umeå",
+    "endPointName": "Nordmaling"
   }
 ]
