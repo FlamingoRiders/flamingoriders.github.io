@@ -8,7 +8,7 @@ description: "Malgré quelques soucis techniques, on arrive à Umeå, la plus gr
 
 Aujourd'hui, on a un programme conséquent. On veut rejoindre Umeå et l'étape fait 90 kilomètres. Au matin, on a l'impression que le ciel est couvert. En réalité, nous sommes en plein dans un nuage et le ciel va rapidement se dégager. 
 
-**Burträsk** nous aura offert de jolis vues entre le coucher de soleil de la veille et notre départ ce matin. On commence par longer le lac de **Burträsk** sur une piste cyclable. On enjambe des ponts en bois où seuls les cycles et piétons passent. Depuis notre arrivée dans le pays, nous traversons souvent des fleuves et rivières qui se jettent dans la mer.
+**Burträsk** nous aura offert de jolies vues entre le coucher de soleil de la veille et notre départ ce matin. On commence par longer le lac de **Burträsk** sur une piste cyclable. On enjambe des ponts en bois où seuls les cycles et piétons passent. Depuis notre arrivée dans le pays, nous traversons souvent des fleuves et rivières qui se jettent dans la mer.
 
 ### Une mauvaise surprise et un souci récurrent 
 Pour le déjeuner, on s'arrête au bord d'un terrain de foot, on s'installe seuls dans les quelques tribunes en bois. Le soleil est au zénith, on est bien.
@@ -28,7 +28,7 @@ C'est la 4ème fois que la roue arrière est voilée et la 3ème qu'un rayon lâ
 - une fragilité causée par l'accumulation des kilomètres et des chocs ?
 - un défaut de fabrication ?
 
-No idea ! Pourtant, on a sollicité plein d'avis 😂. On a un autre soucis cette fois, le voilage de la roue est telle qu'elle vient frotter sur une vis du porte bagage a chaque tour de roue. On a beau démonter et remonter la roue, pour tenter de la replacer dans son axe, le souci persiste. On croise les doigts pour pas que ça crève 😆. 
+No idea ! Pourtant, on a sollicité plein d'avis 😂. On a un autre souci cette fois, le voilage de la roue est telle qu'elle vient frotter sur une vis du porte bagage à chaque tour de roue. On a beau démonter et remonter la roue, pour tenter de la replacer dans son axe, le souci persiste. On croise les doigts pour pas que ça crève 😆. 
 
 ### Des jeux pour passer le temps
 La route est encore très longue. Pourtant aujourd'hui, on profite quand même, la route est un peu plus intéressante et variée que certains autres jours.
@@ -36,7 +36,7 @@ La route est encore très longue. Pourtant aujourd'hui, on profite quand même, 
 Le reste du temps on s'occupe comme on peut en faisant des jeux : un blind test et des quizz. L'un d'eux porte sur les lieux qu'on a traversés, un autre sur les enseignes de supermarchés qu'on a faites. Il y en a ! Eh oui, on rigole bien mais on s'accroche également 👌🏼.
 
 ### En arrivant sur Umeå 
-À l'approche d'**Umeå**, on rejoint une super poste cyclable, c'est sympa. On se fait également attaqués par des fourmies volantes, c'est moins sympa 😰 ! Elles s'accrochent aux vêtements les fourbes.
+À l'approche d'**Umeå**, on rejoint une super piste cyclable, c'est sympa. On se fait également attaqués par des fourmies volantes, c'est moins sympa 😰 ! Elles s'accrochent aux vêtements les fourbes.
 
 On finit par arriver à notre camping, un autre de l'enseigne **First Camp**, comme à **Luleå**. Comme il est tard, on mange au restaurant du camping, il y a également deux chanteurs qui chantent super bien en duo. Bien sûr que c'est la grosse ambiance 🤩 !
 
