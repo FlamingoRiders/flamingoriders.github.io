@@ -10,12 +10,12 @@ Aujourd'hui, on se réveille au camping à **Umeå**. On ne va pas reprendre la 
 
 ## Le superbe Nydalasjön
 
-On part du camping et on fait le tour d'un suoerbe lac à proximité :
+On part du camping et on fait le tour d'un superbe lac à proximité :
 le [Nydalasjön](https://visitumea.se/en/lake-nydalasjon).
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/YTEQrKe1bBPcDdKKtA" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Le sentier faisant Lee tour du lac fait à peu près 10 kilomètres. Il est idéal à vélo ou en randonnée et praticable facilement. Autour du lac, on aperçoit des aires de jeux, de musculation, des cabanes pour pêcher, de quoi faire des barbecues. C'est le genre d'endroit familial où chacun trouve son compte. En ce qui nous concerne, on apprécie cet endroit qui respire le calme et l'été avec le beau soleil de la matinée 😎.
+Le sentier faisant le tour du lac fait à peu près 10 kilomètres. Il est idéal à vélo ou en randonnée et praticable facilement. Autour du lac, on aperçoit des aires de jeux, de musculation, des cabanes pour pêcher, de quoi faire des barbecues. C'est le genre d'endroit familial où chacun trouve son compte. En ce qui nous concerne, on apprécie cet endroit qui respire le calme et l'été avec le beau soleil de la matinée 😎.
 
 Comme on craint un peu la pluie du vendredi, on a réservé la veille un petit Airbnb dans le centre d'**Umeå**. Par chance, on trouve un magasin de réparation de vélos juste à côté. Il est temps de réparer Hino !
 
@@ -29,4 +29,4 @@ Dans l'après-midi, on se rend dans le centre-ville d'**Umeå**. On se sent trè
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/l3mZfxgPWhmuXa8Cc" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Son centre est vraiment charmant. Il est de taille humaine, on peut y faire le tour à pied, c'est agréable. Dans la ville, tout est aménagé pour se balader à vélo ou à pied. On retrouve en son centre l'hôtel de ville et ses bâtiments historiques. Le fleuve longe le centre et offre une belle balade avec de belles vues sur d'autres quartiers d'Umeå. La ville est surnommée la ville aux bouleaux. Ils ont été plantés à la suite d'un incendie permettant de protéger la ville d'un feu. C'est aussi une ville connue pour sa culture, en effet, il y a plusieurs musées comme le Bildmuseet ou le musée consacré à la région **Vasterbottens**.
+Son centre est vraiment charmant. Il est de taille humaine, on peut y faire le tour à pied, c'est agréable. Dans la ville, tout est aménagé pour se balader à vélo ou à pied. On retrouve en son centre l'hôtel de ville et ses bâtiments historiques. Le fleuve longe le centre et offre une belle balade avec de belles vues sur d'autres quartiers d'Umeå. La ville est surnommée la ville aux bouleaux. Ils ont été plantés à la suite d'un incendie en 1888, permettant donc de protéger la ville s'il venait à y avoir de nouveau un feu. C'est aussi une ville connue pour sa culture, en effet, il y a plusieurs musées comme le Bildmuseet ou le musée consacré à la région **Vasterbottens**.
