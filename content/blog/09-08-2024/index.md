@@ -17,9 +17,9 @@ On arrive devant l'enseigne qui fait la fierté nationale 🇸🇪.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/rdcBcg07SdsPu" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Comme il est 15h et qu'on a pas déjeuner, on va aller à la cafétéria Ikea ! Et ben pour 15€ on a quand même deux repas complets pour 2 et on peut déguster les fameuses **köttbullar**. Et ben c'est pas mal 😅. On a juste un petit moment gênant devant la caisse lorsque l'on nous demande si l'on fait parti du *"family club Ikea"*. On a répondu qu'on ne savait pas ce que c'était. La dame a bien vu qu'on était pas suédois. D'ailleurs on ne demande pas aux suédois s'ils ont une carte Ikea, ce serait irrespectueux et déplacé. Dans un pays où un habitant sur un possède cette carte, la question n'aurait pas de sens 😉.
+Comme il est 15h et que l'on n'a pas déjeuné, on va aller à la cafétéria Ikea ! Et ben pour 15€ on a quand même deux repas complets et on peut déguster les fameuses **köttbullar**. Et ben c'est pas mal 😅. On a juste un petit moment gênant devant la caisse lorsque l'on nous demande si l'on fait parti du *"family club Ikea"*. On a répondu qu'on ne savait pas ce que c'était. La dame a bien vu qu'on n'était pas suédois. D'ailleurs on ne demande pas aux suédois s'ils ont une carte Ikea, ce serait irrespectueux et déplacé. Dans un pays où un habitant sur un possède cette carte, la question n'aurait pas de sens 😉.
 
-Nana est ravie de trouver à côté du Ikea un centre commercial. Cela lui permet de partir à la chasse aux [Moomins](https://fr.m.wikipedia.org/wiki/Moumines#:~:text=Les%20Moumines%2C%20ou%20Moomins%20(en,trolls%20ressemblant%20%C3%A0%20des%20hippopotames), sans aucun doute son activité préférée depuis que l'on a débarqué dans le pays. 
+Nana est ravie de trouver à côté du Ikea un centre commercial. Cela lui permet de partir à la chasse aux [Moomins](https://fr.wikipedia.org/wiki/Moumines), sans aucun doute son activité préférée depuis que l'on a débarqué dans le pays. 
 
 ### De retour dans le centre
 On continue notre balade et l'on revient dans le centre-ville. On s'arrête à un bar qui propose différentes activités. C'est vendredi soir et **Umeå** est une ville étudiante toute l'année, y compris en juillet-août, c'est donc plutôt fréquenté. On voit un bowling, des fléchettes, des arcades. On va jouer c'est sûr 😃 !
@@ -30,4 +30,4 @@ On souhaite initialement faire un bowling mais comme ça nous paraît un peu che
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Q5dhHAXr2M3TxB6XVk" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-C'est génial ! La première règle du Shuffle board ? Ça se pratique à 4 🤓 ! Le système de comptage de points, on n'y est pas non plus. Ah mince, on a tout faux. C'est pas grave on s'est bien amusés 😉.
+C'est génial ! La première règle du Shuffle board ? Ça se pratique à 4 🤓 ! Le système de comptage de points, on n'y est pas non plus. Ah mince, on a tout faux. Ce n'est pas grave on s'est bien amusés 😉.
