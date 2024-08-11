@@ -89,5 +89,18 @@
     "weather": "🌤️",
     "startPointName": "Umeå",
     "endPointName": "Nordmaling"
+  },
+  {
+    "date": "2024-08-11",
+    "startPos": [63.574784, 19.457277],
+    "endPos": [63.288633, 18.576223],
+    "distance": 72.73,
+    "time": "04h47",
+    "averageSpeed": 15.2,
+    "elevationGain": 555,
+    "mood": 3,
+    "weather": "🌥️",
+    "startPointName": "Nordmaling",
+    "endPointName": "Överhörnäs"
   }
 ]
