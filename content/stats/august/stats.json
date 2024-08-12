@@ -102,5 +102,18 @@
     "weather": "🌥️",
     "startPointName": "Nordmaling",
     "endPointName": "Överhörnäs"
+  },
+  {
+    "date": "2024-08-12",
+    "startPos": [63.288633, 18.576223],
+    "endPos": [63.065181, 18.336865],
+    "distance": 31.70,
+    "time": "01h55",
+    "averageSpeed": 16.6,
+    "elevationGain": 376,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Överhörnäs",
+    "endPointName": "Docksta"
   }
 ]
