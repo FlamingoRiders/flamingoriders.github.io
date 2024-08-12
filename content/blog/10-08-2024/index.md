@@ -51,4 +51,4 @@ La route d'aujourd'hui est encore difficile pour nous. C'est simple, on a l'impr
 
 On s'accroche comme on peut, le plaisir n'est pas toujours au rendez-vous mais on progresse. Ça nous permet de confirmer que oui la **Suède** est un grand pays, c'est conforme à ce que l'on observe sur la carte, c'est très étendu 😆. On ne perd pas espoir pour autant, petit à petit, on avance le long de cette côte suédoise. Après chaque longue journée, il y a quand même une chose dont le plaisir est décuplé : la douche du soir 😉 !
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/s05e02-hrk8ehR4lCZ27FtjPA" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/hrk8ehR4lCZ27FtjPA" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
