@@ -37,7 +37,7 @@ Oui on a mangé du sucré au déjeuner 😳. On avait faim, on approchait de l'h
 
 ### Les fabuleux moulins à vent de Kinderdijk 
 
-Après manger (goûter ?), on reprend notre route vers **Rotterdam**. Sur notre trace planifiée, on a simplement indiqué qu'on souhaite passer par **Kinderdijk**. Il s'agit d'un site exceptionnel, inscrit au patrimoine mondial de l'UNESCO et qui abrite de magnifiques moulins à vent datant de 1740.
+Après manger (goûter ?), on reprend notre route vers **Rotterdam**. Sur notre trace planifiée, on a simplement indiqué qu'on souhaite passer par [Kinderdijk](https://whc.unesco.org/fr/list/818/). Il s'agit d'un site exceptionnel, inscrit au patrimoine mondial de l'UNESCO et qui abrite de magnifiques moulins à vent datant de 1740.
 
 On a juste indiqué la ville, on sait qu'à l'intérieur on devra chercher le site. Nous longeons donc le **Noord** et espérons tomber dessus. Pendant de longues minutes, nous nous demandons si nous sommes dans la bonne direction ou si nous sommes passés à côté du site car nous ne voyons rien d'indiqué. Puis, d'un coup, nous voyons un marquage en peinture blanche sur la piste cyclable en forme de moulin. Ça commence à sentir bon !
 
