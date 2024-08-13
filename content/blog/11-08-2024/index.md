@@ -26,7 +26,7 @@ Aujourd'hui, on a droit à un vent qui décoiffe ! Ça fait bien longtemps qu'on
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/HmTLatwLWpTQk" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-La dernière fois c'était sans doute sur les îles au sud du **Danemark**. Pourtant le profil du jour est bien vallonné, on a des côtes tout du long. Cela n'empêche pas que le vent souffle comme sur une plaine dégagée. Lorsque l'on est sur le plat et en montée on est ralentis fortement. Lorsque l'on est en descente, nos roues sont chassées, il faut vraiment faire attention, c'est un vent dangereux 😣. C'est un cocktail explosif
+La dernière fois c'était sans doute sur les îles au sud du **Danemark**. Pourtant le profil du jour est bien vallonné, on a des côtes tout du long. Cela n'empêche pas que le vent souffle comme sur une plaine dégagée. Lorsque l'on est sur le plat et en montée on est ralentis fortement. Lorsque l'on est en descente, nos roues sont chassées, il faut vraiment faire attention, c'est un vent dangereux 😣.
 
 Sur notre route, on croise tout de même des belles choses : des grues, des églises en pierre, des lacs et des rivières.
 
