@@ -6,7 +6,7 @@ description: "On débarque dans le comté de Västernorrland et c'est une vérit
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
 
-Ce matin, on repart à vélo et après quelques kilomètres, on franchit un petit barage qui nous mène par hasard sur le parc sidérurgique  d'**Olofsfors Bruk** datant de 1762. Il est très bien préservé, c'est possible de le visiter, comme en **Norvège**, la **Suède** possède également de nombreux musées à ciel ouvert.
+Ce matin, on repart à vélo et après quelques kilomètres, on franchit un petit barage qui nous mène par hasard sur le parc sidérurgique  d'**Olofsfors Bruk** datant de 1762. Il est très bien préservé, c'est possible de le visiter, la **Suède** possède de nombreux musées à ciel ouvert.
 
 ### Des purs chemins gravel 
 
@@ -28,7 +28,7 @@ Aujourd'hui, on a droit à un vent qui décoiffe ! Ça fait bien longtemps qu'on
 
 La dernière fois c'était sans doute sur les îles au sud du **Danemark**. Pourtant le profil du jour est bien vallonné, on a des côtes tout du long. Cela n'empêche pas que le vent souffle comme sur une plaine dégagée. Lorsque l'on est sur le plat et en montée on est ralentis fortement. Lorsque l'on est en descente, nos roues sont chassées, il faut vraiment faire attention, c'est un vent dangereux 😣.
 
-Sur notre route, on croise tout de même des belles choses : des grues, des églises en pierre, des lacs et des rivières.
+Sur notre route, on croise tout de même des belles choses : des grues cendrées, des églises en pierre, des lacs et des rivières.
 
 Cependant, avec le vent, c'est une journée compliquée tout du long. On constate sa violence en observant autour de nous, les arbres qui se plient, les nuages qui sont balayés, et les ondulations sur la surface de l'eau. 
 
