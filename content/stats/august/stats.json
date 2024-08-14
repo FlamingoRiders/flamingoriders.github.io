@@ -111,9 +111,22 @@
     "time": "01h55",
     "averageSpeed": 16.6,
     "elevationGain": 376,
-    "mood": 4,
+    "mood": 5,
     "weather": "🌦️",
     "startPointName": "Överhörnäs",
     "endPointName": "Docksta"
+  },
+  {
+    "date": "2024-08-14",
+    "startPos": [63.065181, 18.336865],
+    "endPos": [ 62.644334, 17.971776],
+    "distance": 84.85,
+    "time": "05h32",
+    "averageSpeed": 15.3,
+    "elevationGain": 1107,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Docksta",
+    "endPointName": "Härnösand"
   }
 ]
