@@ -12,7 +12,7 @@ Pour nous y rendre, on poursuit notre route vers le sud. Malheureusement, celle-
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/eXUEJIGa2BXWjh8q6l" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Évidemment, on ne s'en satisfait pas, c'est bien peu avec la place que prennent nos bagages 😦. Le plus navrant c'est qu'on est ultra concentrés afin d'être précis sur nos trajectoires tandis que certains chauffeurs n'en ont clairement rien à faire de nous tasser sur la droite comme des sardines en boite de conserve. 
+Évidemment, on ne s'en satisfait pas, c'est bien peu avec la place que prend nos bagages 😦. Le plus navrant c'est qu'on est ultra concentrés afin d'être précis sur nos trajectoires tandis que certains chauffeurs n'en ont clairement rien à faire de nous tasser sur la droite comme des sardines en boite de conserve. 
 
 🎶 *"Ah qu'est-ce qu'on est serrés !"* 🎶
 
@@ -40,7 +40,7 @@ En effet, la [Haute Côte (Höga kusten](https://visitsweden.fr/destinations/nor
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/50JK22El2PTIzZBU2liLDI?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
-Pour comprendre ce phénomène il faut remonter des milliers d'années en arrière. Durant la dernière période glaciaire, des glaciers immenses (certains épais de 3000 mètres d'altitude) étaient responsables d'une forte pression sur la croûte continentale où nous nous trouvons. Après leur fonte il y a 10 000 ans, la pression en surface étant beaucoup moins importante, les terres ont connu un relèvement rapide afin de compenser ce déficit de masse. Ce phénomène de relèvement ou de *"rebond"* s'appelle l'[isostasie](https://fr.m.wikipedia.org/wiki/Isostasie).
+Pour comprendre ce phénomène il faut remonter des milliers d'années en arrière. Durant la dernière période glaciaire, des glaciers immenses, certains épais de 3000 mètres, étaient responsables d'une forte pression sur la croûte continentale où nous nous trouvons. Après leur fonte il y a 10 000 ans, la pression en surface étant beaucoup moins importante, les terres ont connu un relèvement rapide afin de compenser ce déficit de masse. Ce phénomène de relèvement ou de *"rebond"* s'appelle l'[isostasie](https://fr.m.wikipedia.org/wiki/Isostasie).
 
 Ainsi, des îles sont progressivement apparues, elles s'unissent, les péninsules grandissent, des lacs se forment et les terres *"se bombent*". On peut dire que les montagnes sont très jeunes d'un point de vue géologique.
 
