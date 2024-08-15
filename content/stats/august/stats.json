@@ -119,7 +119,7 @@
   {
     "date": "2024-08-14",
     "startPos": [63.065181, 18.336865],
-    "endPos": [ 62.644334, 17.971776],
+    "endPos": [62.644334, 17.971776],
     "distance": 84.85,
     "time": "05h32",
     "averageSpeed": 15.3,
@@ -128,5 +128,18 @@
     "weather": "☀️",
     "startPointName": "Docksta",
     "endPointName": "Härnösand"
+  },
+  {
+    "date": "2024-08-15",
+    "startPos": [62.644334, 17.971776],
+    "endPos": [62.358838, 17.371477],
+    "distance": 71.49,
+    "time": "04h36",
+    "averageSpeed": 15.5,
+    "elevationGain": 840,
+    "mood": 4,
+    "weather": "⛅",
+    "startPointName": "Härnösand",
+    "endPointName": "Sundsvall"
   }
 ]
