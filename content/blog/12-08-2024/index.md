@@ -8,7 +8,7 @@ description: "On grimpe au Skuleberget, la ligne de côte la plus haute du monde
 
 Aujourd'hui, on reprend la route avec pour objectif de rallier un camping à une trentaine de kilomètres dans la commune de **Kramfors**. On ne va pas loin mais on entre dans une région de la **Suède** que l'on souhaite absolument visiter : la [Haute Côte (Höga Kusten)](https://www.hogakusten.com/en).
 
-Pour nous y rendre, on poursuit notre route vers le sud. Malheureusement, celle-ci passe encore en grande partie par l'inévitable **E4**. Franchement, ce n'est pas une partie de plaisir. Il y a toujours pas mal de vent et on roule sur le bas côté. On profite comme on peut de cette généreuse bande de bitume de 50 centimètres qu'on nous a octroyé. 
+Pour nous y rendre, on poursuit notre route vers le sud. Malheureusement, celle-ci passe encore en grande partie par l'inévitable **E4**. Franchement, ce n'est pas une partie de plaisir. Il y a toujours pas mal de vent et on roule sur le bas côté. On profite comme on peut de cette généreuse bande de bitume de 50 centimètres qu'on nous a octroyée. 
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/eXUEJIGa2BXWjh8q6l" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -18,7 +18,7 @@ Pour nous y rendre, on poursuit notre route vers le sud. Malheureusement, celle-
 
 Le pire ce sont les poids lourds. À quelques reprises ils nous provoquent des frayeurs franchement évitables. Parfois, il y a quelques gestes d'humeur ou des noms d'oiseaux qu'on leur adresse instinctivement en réponse. Ils nous traitent avec zéro respect, ce n'est pas bien de s'abaisser à leur niveau mais pour nous il est question de notre vie 🤬. 
 
-La route commence à s'élever peu à peu, on commence a être entouré de collines. On arrive à notre camping situé au pied d'un magnifique petit lac, le **Gällstasjön**. Il est surtout à proximité immédiate d'un départ de randonnée vers le sommet **Skuleberget** ⛰️.
+La route commence à s'élever peu à peu, on commence à être entourés de collines. On arrive à notre camping situé au pied d'un magnifique petit lac, le **Gällstasjön**. Il est surtout à proximité immédiate d'un départ de randonnée vers le sommet **Skuleberget** ⛰️.
 
 ### Randonnée jusqu'au sommet du Skuleberget
 
@@ -36,11 +36,13 @@ On rejoint le sommet, 286 mètres au-dessus du niveau de la mer. Ça paraît peu
 
 ### L'isostasie: Un phénomène géologique incroyable
 
-En effet, la [Haute Côte (Höga kusten](https://visitsweden.fr/destinations/nord-de-la-suede/angermanland/la-haute-cote/)** est la région où le rebond post-glaciaire est le plus important, le terrain continue d'émerger aujourd'hui à raison de 8 millimètres par an ! Comment cette terre se met-elle mystérieusement en mouvement ? 
+En effet, la [Haute Côte (Höga Kusten](https://visitsweden.fr/destinations/nord-de-la-suede/angermanland/la-haute-cote/) est la région où le rebond post-glaciaire est le plus important, le terrain continue d'émerger aujourd'hui à raison de 8 millimètres par an ! Comment cette terre se met-elle mystérieusement en mouvement ? 
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/50JK22El2PTIzZBU2liLDI?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
 Pour comprendre ce phénomène il faut remonter des milliers d'années en arrière. Durant la dernière période glaciaire, des glaciers immenses, certains épais de 3000 mètres, étaient responsables d'une forte pression sur la croûte continentale où nous nous trouvons. Après leur fonte il y a 10 000 ans, la pression en surface étant beaucoup moins importante, les terres ont connu un relèvement rapide afin de compenser ce déficit de masse. Ce phénomène de relèvement ou de *"rebond"* s'appelle l'[isostasie](https://fr.m.wikipedia.org/wiki/Isostasie).
+
+Pour illustrer cela, on peut imaginer la croûte continentale comme un matelas sur lequel quelqu'un viendrait s'allonger. Initialement, celui-ci va se déformer sous l'effet du poids de la personne. Lorsque cette personne se relève, le matelas va reprendre sa forme et revenir à son état d'équilibre initial.
 
 Ainsi, des îles sont progressivement apparues, elles s'unissent, les péninsules grandissent, des lacs se forment et les terres *"se bombent*". On peut dire que les montagnes sont très jeunes d'un point de vue géologique.
 
