@@ -20,11 +20,11 @@ On avance et on fait des kilomètres mais on continue d'apercevoir des panneaux 
 
 Aujourd'hui, la route est magnifique tout du long : les vallons, les montagnes, les lacs, les forêts vierges etc. C'est fou comme un peu de relief change notre appréciation.
 
-Le revers de la médaille ? On a droit à des côtes très très raides avec des pourcentages de l'ordre de 10% à 15%. Comme par hasard, Nico se trompe plusieurs fois de chemin et on a même droit à du rab ! Croyez-moi, c'est pas aussi bon que le rab de patates à la cantine 😠 ! 
+Le revers de la médaille ? On a droit à des côtes très très raides avec des pourcentages de l'ordre de 10% à 15%. Comme par hasard, Nico se trompe plusieurs fois de chemin et on a même droit à du rab ! Croyez-moi, ce n'est pas aussi bon que le rab de patates à la cantine 😠 ! 
 
 Le problème de ce genre de journées où les côtes sont brèves mais présentes tout du long c'est qu'elles poussent à la bêtise. À bien des égards, c'est peut-être plus difficile qu'une montée sèche d'un col régulier.
 
-Comprenez-nous, lorsqu'on a une montée longue, on sait qu'on doit garder nos forces le plus longtemps possible, on pédale un maximum et on lisse l'effort. Quand, à l'inverse, il s'agit de côtes dont on croit voire le bout, on relance, on redouble d'efforts pour passer plus vite.
+Comprenez-nous, lorsqu'on a une montée longue, on sait qu'on doit garder nos forces le plus longtemps possible, on pédale un maximum et on lisse l'effort. Quand, à l'inverse, il s'agit de côtes dont on croit voir le bout, on relance, on redouble d'efforts pour passer plus vite.
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/1PtQJZVZIdWIYdARpZRDFO?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
@@ -45,6 +45,8 @@ Enfin bref, ça fait mal un peu partout et il faut s'accrocher. Mais le meilleur
 On arrive à l'embouchure du fleuve **Ångermanälven**, long de 460 kilomètres c'est un des plus longs du pays.
 
 Pour le franchir, une seule possibilité, il faut emprunter le **Högakustenbron (High Coast Bridge en anglais)**. Ce pont suspendu est traversé par l'**E4**.
+
+Cependant, **Komoot** a la brillante idée de nous faire prendre un raccourci qui nous mènerait tout en bas du pont, car celui-ci est suspendu. On va se faire à moitié piéger en empruntant un détour de plus avant de rebrousser chemin pour reprendre l'**E4** 🙃. Merci qui ? Merci **Komoot**.
 
 C'est le plus grand pont suspendu de **Suède** avec une longueur de 1867 mètres, une portée principale de 1210 mètres et une hauteur de 180 mètres. Des chiffres qui donnent le tournis 😵‍💫.
 
