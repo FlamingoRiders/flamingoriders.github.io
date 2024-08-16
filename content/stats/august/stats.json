@@ -141,5 +141,18 @@
     "weather": "⛅",
     "startPointName": "Härnösand",
     "endPointName": "Sundsvall"
+  },
+  {
+    "date": "2024-08-16",
+    "startPos": [62.358838, 17.371477],
+    "endPos": [61.955945, 17.338607],
+    "distance": 66.04,
+    "time": "04h11",
+    "averageSpeed": 15.8,
+    "elevationGain": 654,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Sundsvall",
+    "endPointName": "Mellanfjärden"
   }
 ]
