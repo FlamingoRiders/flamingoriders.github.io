@@ -47,6 +47,6 @@ On retrouve la **Kustvägen**, toujours avec son petit logo de soleil rieur, com
 
 La fin de la route n'en reste pas moins époustouflante. On passe par plein de petits villages tous plus beaux les uns que les autres : **Norrfjärden, Sörfjärden, Hårte** et enfin **Mellanfjärden**.
 
-La route est vallonnée tout du long et juste avant l'arrivée, on croise un immense champ de galets. On termine de nouveau notre journée au bord de la mer, avec des petites embarcations et des maisons de pêcheurs typiques. C'est journée restera épique 🤩 !
+La route est vallonnée tout du long et juste avant l'arrivée, on croise un immense champ de galets. On termine de nouveau notre journée au bord de la mer, avec des petites embarcations et des maisons de pêcheurs typiques. Cette journée restera épique 🤩 !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/FaccRs2HBiqVb328DE" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
