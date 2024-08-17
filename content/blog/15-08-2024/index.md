@@ -22,7 +22,7 @@ Bon il semblerait qu'on soit en route pour **Stockholm**. Ça me revient mainten
 
 ### Encore une journée bien vallonnée 
 
-En quittant **Härnösand**, on emprunte des petites routes et des pistes cyclables. Il y a un truc à dire sur les pistes cyclables en **Suède** : elles sont super ! Non vraiment elles sont top 👌🏼 ! Elles ne sont pas toujours présentes, souvent aux abords des villes. En tout cas, quand il y en a, c'est le bonheur. Pour ce qui est des plus petites routes, c'est également très plaisant, il y a peu de trafic. Par contre, on tombe souvent sur des chemins sans revêtement. En gravels c'est également très agréables, on roule moins vite, c'est plus sportif et ça secoue plus mais si les vélos sont adaptés comme c'est notre cas, c'est un régal 👍🏼.
+En quittant **Härnösand**, on emprunte des petites routes et des pistes cyclables. Il y a un truc à dire sur les pistes cyclables en **Suède** : elles sont super ! Non vraiment elles sont top 👌🏼 ! Elles ne sont pas toujours présentes, souvent aux abords des villes. En tout cas, quand il y en a, c'est le bonheur. Pour ce qui est des plus petites routes, c'est également très plaisant, il y a peu de trafic. Par contre, on tombe souvent sur des chemins sans revêtement. En gravel c'est également très agréable, on roule moins vite, c'est plus sportif et ça secoue plus mais si les vélos sont adaptés comme c'est notre cas, c'est un régal 👍🏼.
 
 On a encore de nombreuses côtes à franchir sur notre route. C'est assez dur et on ne bluffe pas, il faut s'employer 😉.
 
@@ -43,9 +43,9 @@ Puis, on se rapproche de la côte pour la fin de notre trajet. Ce ne sont plus d
 
 On finit par arriver à **Sundsvall**, une ville conséquente puisqu'elle compte 50 000 habitants. Malheureusement, nous voyons surtout les usines à sa périphérie et avons la vue du centre-ville depuis le grand pont de **Sundsvallsbron**. Sur le pont un panneau d'affichage est visible.
 
-| E4 ⬆️<br>Stockholm | E34 ➡️<br>Trondheim |
+| E4 ⬆️<br>Stockholm | E14 ➡️<br>Trondheim |
 |:----:|:---:|
 
 On est assez surpris de voir **Trondheim** indiqué. Cela nous paraît loin et pourtant, nous ne sommes effectivement qu'à 500 kilomètres de la ville norvégienne. Nous on y était il y a deux mois. Bien sûr, on a fait un petit bout de chemin entre-temps. C'est rigolo de voir toutes ces distances.
 
-Dorénavant, on ne réfléchit plus en kilométrage mais en jours, on a notre petit tableau d'équivalence dans la tête. Ce voyage nous aura permis de nous rendre compte d'une chose : la distance fonctionne comme le temps. Ce qui est devant nous peut paraître immense et une fois que c'est derrière nous, on se dit que c'est passé vite en fin de compte. Tout est relatif 😉.  
+Dorénavant, on ne réfléchit plus en kilométrage mais en nombre de jours, on a notre petit tableau d'équivalence dans la tête. Ce voyage nous aura permis de nous rendre compte d'une chose : la distance fonctionne comme le temps. Ce qui est devant nous peut paraître immense et une fois que c'est derrière nous, on se dit que c'est passé vite en fin de compte. Tout est relatif 😉.  
