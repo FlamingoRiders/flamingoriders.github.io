@@ -1,7 +1,7 @@
 ---
 title: 🥮 Le kanelbulle d'Eduardo du 17 août
 date: "2024-08-17"
-description: "Encore une journée rock and roll sur les chemins blancs du comté de Gävleborg !"
+description: "Encore une journée 'rock n roll' sur les chemins blancs du comté de Gävleborg !"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -10,7 +10,7 @@ Aujourd'hui, on repart de notre camping à **Mellanfjärden** assez tardivement.
 
 ### Des chemins techniques 
 
-On reprend la route et après quelques mètres, on est de nouveau dans un chemin avec plein de racines, du sable et des pierres. C'est technique, très technique. On ne serait pas repartis pour une journée rock and roll ?
+On reprend la route et après quelques mètres, on est de nouveau dans un chemin avec plein de racines, du sable et des pierres. C'est technique, très technique. On ne serait pas repartis pour une journée *"rock n roll"* ?
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/FeJkDewhTEw?si=lTxsTLfkCPfLqVxj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
@@ -36,7 +36,7 @@ On finit par arriver à un petit camping, le seul présent des kilomètres à la
 
 On lui dit qu'on a une tente mais il nous répond que le terrain est compliqué et que l'on peut essayer. On va sur le site, on réussit à planter notre tente sans problème.
 
-On retourne le voir et il nous donne la clef du bâtiment de service comportant des douches et des toilettes sèches pour seulement 100 SEK. Cela fera parfaitement l'affaire pour nous. Nico discute un peu avec lui, le monsieur est adorable et tient à lui offrir un café mais il est déjà 19h30 😅. Il nous donne tout de même deux kanelbullar gratuitement en prétextant qu'il ne peut pas les vendre car demain et c'est la fin de journée.
+On retourne le voir et il nous donne la clef du bâtiment de service comportant des douches et des toilettes sèches pour seulement 100 SEK. Cela fera parfaitement l'affaire pour nous. Nico discute un peu avec lui, le monsieur est adorable et tient à lui offrir un café mais il est déjà 19h30 😅. Il nous donne tout de même deux kanelbullar gratuitement en prétextant qu'il ne peut pas les vendre demain et c'est la fin de journée.
 
 Les gens sont juste tellement gentils ici 🤩 !
 
