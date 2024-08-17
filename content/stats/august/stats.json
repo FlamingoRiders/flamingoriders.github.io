@@ -154,5 +154,18 @@
     "weather": "☀️",
     "startPointName": "Sundsvall",
     "endPointName": "Mellanfjärden"
+  },
+  {
+    "date": "2024-08-17",
+    "startPos": [61.955945, 17.338607],
+    "endPos": [61.516005, 16.976705],
+    "distance": 70.98,
+    "time": "04h37",
+    "averageSpeed": 15.4,
+    "elevationGain": 585,
+    "mood": 4,
+    "weather": "☀️",
+    "startPointName": "Mellanfjärden",
+    "endPointName": "Enånger"
   }
 ]
