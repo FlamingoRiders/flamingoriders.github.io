@@ -18,11 +18,11 @@ Avec un mountain bike, ce ne serait pas un souci mais avec nos vélos, c'est un 
 
 Au bout d'une heure, on a à peine fait 10 kilomètres 😱. Cependant, on est forcé de reconnaître qu'on ne s'ennuie pas, c'est des sensations vélos sportives et après tout, c'est pour cela qu'on a pris des gravel 😉.
 
-On s'arrête à **Harmånger** pour déjeuner. On n'a pas roulé mais c'est l'heure de déjeuner. Il y a également un **ICA** pour faire des courses, enfin ! On attendait depuis deux jours de pouvoir ravitailler, on commençait à être vraiment juste en réserves.
+On s'arrête à **Harmånger** pour déjeuner. On n'a pas roulé mais c'est l'heure de déjeuner. Il y a également un **ICA** pour faire des courses, enfin ! On attendait depuis deux jours de pouvoir ravitailler, on commençait à être vraiment justes en réserves.
 
 ### Une après-midi longue
 
-L'après-midi, on continue notre chemin. Comme les jours précédentsw ce sont les lacs qui nous offre des vues magnifiques. On en longe certains et puis tout à coup, on se retrouve même sur une route qui passe en plein milieu de l'un d'eux, le **Harmångersån**.  Ce moment de liberté et de bien-être nous confirme que la **Suède** est décidément un pays incroyable 🤩.
+L'après-midi, on continue notre chemin. Comme les jours précédents ce sont les lacs qui nous offrent des vues magnifiques. On en longe certains et puis tout à coup, on se retrouve même sur une route qui passe en plein milieu de l'un d'eux, le **Harmångersån**.  Ce moment de liberté et de bien-être nous confirme que la **Suède** est décidément un pays incroyable 🤩.
 
 Par la suite, on retombe sur des chemins blancs. Au sol, on aperçoit dans les graviers blancs des traces de sabots. C'est sûr que les chevaux passent plus facilement que nous ici ! On s'interroge tout de même : comment se fait-il que Komoot nous fasse systématiquement emprunter ces champs de patates 😂 ?
 
@@ -32,11 +32,11 @@ On fait une pause à la station-service **Circle K** de **Hudiksvall**. On a bes
 
 La fin de journée est compliquée pour Nana du fait de l'enchaînement de côtes, on s'accroche jusqu'au bout 💪🏼.
 
-On finit par arriver à un petit camping, le seul présent des kilomètres à la ronde. Un monsieur sort et a l'air surpris de nous voir. Il a plutôt l'habitude des camping-car et loue quelques cabines mais elles sont toutes prises.
+On finit par arriver à un petit camping, le seul présent des kilomètres à la ronde. Un monsieur sort et a l'air surpris de nous voir. Il a plutôt l'habitude des camping-cars et loue  exactement trois cabines mais elles sont toutes prises.
 
 On lui dit qu'on a une tente mais il nous répond que le terrain est compliqué et que l'on peut essayer. On va sur le site, on réussit à planter notre tente sans problème.
 
-On retourne le voir et il nous donne la clef du bâtiment de service comportant des douches et des toilettes sèches pour seulement 100 SEK. Cela fera parfaitement l'affaire pour nous. Nico discute un peu avec lui, le monsieur est adorable et tient à lui offrir un café mais il est déjà 19h30 😅. Il nous donne tout de même deux kanelbullar gratuitement en prétextant qu'il ne peut pas les vendre demain et c'est la fin de journée.
+On retourne le voir et il nous donne la clef du bâtiment de service comportant une douche et des toilettes sèches pour seulement 100 SEK. Cela fera parfaitement l'affaire pour nous. Nico discute un peu avec lui, le monsieur est adorable et tient à lui offrir un café mais il est déjà 19h30 😅. Il nous donne tout de même deux kanelbullar gratuitement en prétextant qu'il ne pourra pas les vendre demain et que c'est la fin de journée.
 
 Les gens sont juste tellement gentils ici 🤩 !
 
