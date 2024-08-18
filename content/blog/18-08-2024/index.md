@@ -26,7 +26,7 @@ On repart en faisant le tour du lac d'**Ångerjsön**. Le temps est un peu plus 
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/zUsyW_-P398?si=88a-WoVbaCWU-HyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
-Le profil de la journée est moins vallonnée et pour une fois on roule bien ce matin. On fera une pause déjeuner après 30 kilomètres. C'est plus appréciable que les matinées où on fait seulement une dizaine de kilomètres parce qu'on est partis tard, l'après-midi peut parfois être (très) long 😇.
+Le profil de la journée est moins vallonnée et pour une fois on roule bien ce matin. On fera une pause déjeuner après 30 kilomètres. C'est plus appréciable que les matinées où l'on fait seulement une dizaine de kilomètres après que l'on soit partis tard, l'après-midi peut parfois être (très) long 😇.
 
 On s'arrête manger dans une boulangerie à **Söderhamn**. Ils servent de bons plats. On prendra quelques sucreries en dessert, un kanelbulle pour Nana, un sockerbulle et un café pour Nico 😋. Le voilà notre petit fika de la journée !
 
