@@ -15,7 +15,7 @@ Comme depuis quelques jours, on a encore le droit à un beau soleil. La piste cy
 
 Cette [Kustvägen](https://www.kustvägen.se) suit la côte et bien qu'elle serpente à travers les forêts et les terres agricoles, elle n'est jamais qu'à quelques mètres de la mer.
 
-Tout au long du parcours, on observe des plages, tantôt sableuses, tantôt rocailleuses. C'est assurément un coin de terre enchanté. On n'a pas beaucoup de nourriture sur nous et on a pas regardé avant de partir si on tombait sur des supermarchés. On est parti un peu *"au talent"*. Du coup, on constate que le talent ne suffit pas car on ne trouve absolument rien pour faire des courses 😂. Tant pis, on se débrouillera plus tard.
+Tout au long du parcours, on observe des plages, tantôt sableuses, tantôt rocailleuses. C'est assurément un coin de terre enchanté. On n'a pas beaucoup de nourriture sur nous et on n'a pas regardé avant de partir si on tombait sur des supermarchés. On est parti un peu *"au talent"*. Du coup, on constate que le talent ne suffit pas car on ne trouve absolument rien pour faire des courses 😂. Tant pis, on se débrouillera plus tard.
 
 On s'arrête dans le magnifique village de **Skatan** pour une pause boisson et glace. Il n'y a rien d'autre, ça fera notre déjeuner ce midi 🍨😋 ! Nous sommes au beau milieu d'un joyau, des cabanes de pêcheurs rouges et blanches avec des pontons qui donnent directement sur la **Baltique**, des îlots dans la baie, un petit port de pêche. Le genre d'endroit qui a une âme et respire la tranquilité. On aperçoit seulement deux pêcheurs et quelques gens qui se baladent. 
 
@@ -37,11 +37,11 @@ Bon ok, il manque les plantes carnivores et les lianes mais sinon on y est. On a
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3orif9cvf1QZWWaY36" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Il y a toujours un moment où l'on commence à douter de son plan et on envisage de faire demi-tour. Le problème c'est que ce moment c'était il y a une bonne demi-heure 🤣. On pousse, on pousse, on va pas rebrousser chemin maintenant ça sera tout aussi galère dans l'autre sens de toute façon.
+Il y a toujours un moment où l'on commence à douter de son plan et on envisage de faire demi-tour. Le problème c'est que ce moment c'était il y a une bonne demi-heure 🤣. On pousse, on pousse, on ne va pas rebrousser chemin maintenant ça sera tout aussi galère dans l'autre sens de toute façon.
 
 Cette traversée de la *"jungle"* de quatre kilomètres va nous prendre plus d'une heure, on marchera la majorité du temps. On fera tout de même une pause devant la magnifique plage de sable fin d'**Oxsand**. Enfin cette pause est quand même *"contrainte"*. On est obligés de mettre du répulsif anti-moustiques car si nous n'avons pas beaucoup mangé, pour eux c'est buffet illimité 😆 !
 
-Bon voilà, on aura vu une réserve naturelle, on se sera bien fait piqué, on aura gaspillé pas mal de temps et de force mais après tout, c'est aussi ça parfois l'aventure !
+Bon voilà, on aura vu une réserve naturelle, on se sera bien fait piquer, on aura gaspillé pas mal de temps et de force mais après tout, c'est aussi ça parfois l'aventure !
 
 On retrouve la **Kustvägen**, toujours avec son petit logo de soleil rieur, comme s'il savait ce que l'on venait de traverser et qu'il se moquait de nous. C'est mérité, on le conçoit 🤭.
 
