@@ -167,5 +167,18 @@
     "weather": "☀️",
     "startPointName": "Mellanfjärden",
     "endPointName": "Enånger"
+  },
+  {
+    "date": "2024-08-18",
+    "startPos": [61.516005, 16.976705],
+    "endPos": [61.048166, 17.157721],
+    "distance": 69.17,
+    "time": "04h15",
+    "averageSpeed": 16.2,
+    "elevationGain": 402,
+    "mood": 4,
+    "weather": "🌥️",
+    "startPointName": "Enånger",
+    "endPointName": "Axmar"
   }
 ]
