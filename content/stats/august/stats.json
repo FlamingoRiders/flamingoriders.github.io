@@ -180,5 +180,18 @@
     "weather": "🌥️",
     "startPointName": "Enånger",
     "endPointName": "Axmar"
+  },
+  {
+    "date": "2024-08-19",
+    "startPos": [61.048166, 17.157721],
+    "endPos": [60.578333, 17.448778],
+    "distance": 77.78,
+    "time": "04h33",
+    "averageSpeed": 17.1,
+    "elevationGain": 284,
+    "mood": 4,
+    "weather": "☀️",
+    "startPointName": "Axmar",
+    "endPointName": "Älvkarleby"
   }
 ]
