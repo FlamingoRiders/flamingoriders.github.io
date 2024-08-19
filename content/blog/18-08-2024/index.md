@@ -10,7 +10,7 @@ Aujourd'hui, on se réveille au bord du lac d'**Ångerjsön**. Le spot a très b
 
 ### Le fika : une institution suédoise 
 
-Alors qu'on replie la tente et qu'on se prépare à partir, une dame qui séjourne dans une hytte à côté (nous sommes comme souvent les seuls en tente) nous propose du café. Nana décline car elle n'en boit pas et qu'on a déjà petit-déjeuner. On avait déjà échangé quelques sourires avec nos voisins mais là on a raté le coche. C'est une faute grave de refuser un café.
+Alors qu'on replie la tente et qu'on se prépare à partir, une dame qui séjourne dans une hytte à côté (nous sommes comme souvent les seuls en tente) nous propose du café. Nana décline car elle n'en boit pas et qu'on a déjà petit-déjeuné. On avait déjà échangé quelques sourires avec nos voisins mais là on a raté le coche. C'est une faute grave de refuser un café.
 
 En **Suède**, le café ce n'est pas seulement le café, c'est la *"pause café"*. D'ailleurs *kaffe* en verlan donne plus ou moins le mot *fika*, et ici, le fika, c'est une véritable institution !
 
@@ -26,19 +26,19 @@ On repart en faisant le tour du lac d'**Ångerjsön**. Le temps est un peu plus 
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/zUsyW_-P398?si=88a-WoVbaCWU-HyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
-Le profil de la journée est moins vallonnée et pour une fois on roule bien ce matin. On fera une pause déjeuner après 30 kilomètres. C'est plus appréciable que les matinées où l'on fait seulement une dizaine de kilomètres après que l'on soit partis tard, l'après-midi peut parfois être (très) long 😇.
+Le profil de la journée est moins vallonné et pour une fois on roule bien ce matin. On fera une pause déjeuner après 30 kilomètres. C'est plus appréciable que les matinées où l'on fait seulement une dizaine de kilomètres après que l'on soit partis tard, l'après-midi peut parfois être (très) long 😇.
 
 On s'arrête manger dans une boulangerie à **Söderhamn**. Ils servent de bons plats. On prendra quelques sucreries en dessert, un kanelbulle pour Nana, un sockerbulle et un café pour Nico 😋. Le voilà notre petit fika de la journée !
 
 ### De belles curiosités sur notre route
 
-Le centre-ville de **Söderhamn** se révèle très mignon. Il est traversé par le canal **Söderhamnsån**, il y a pas mal d'animation pour un dimanche, les gens dégustent des glaces ou se promènent dans les petits parcs de la ville. Une colline surplombe la ville est avec elle, la tour d'observation d'[Oscarsborg](https://www.visitsoderhamn.se/en/oscarsborg-observation-tower) qui ressemble à une tour de château fort. Elle est jolie et c'est un symbole de la ville que l'on retrouve un peu partout.
+Le centre-ville de **Söderhamn** se révèle très mignon. Il est traversé par le canal **Söderhamnsån**, il y a pas mal d'animations pour un dimanche, les gens dégustent des glaces ou se promènent dans les petits parcs de la ville. Une colline surplombe la ville est avec elle, la tour d'observation d'[Oscarsborg](https://www.visitsoderhamn.se/en/oscarsborg-observation-tower) qui ressemble à une tour de château fort. Elle est jolie et c'est un symbole de la ville que l'on retrouve un peu partout.
 
-On repart dans l'après-midi. À peine quelques kilomètres en sortant de la ville et Nico déraille. C'est la toute première fois que cela arrive à un de nos vélos durant le voyage ! Ils ont été fiables les copains 👍🏼. Sauf que là, on remet la chaîne en place mais il semble que le dérailleur avant soit un peu endommagé. Il est désaxé, impossible de placer sur le grand plateau et la chaîne frotte un peu dessus. Bon tant pis, on peut largement s'en sortir avec le petit plateau, il n'y aura pas de moyenne record mais c'est la vie 🙃. Est-ce que ce sera notre dernier souci technique jusqu'à **Stockholm** ? On n'en sait rien mais on croise les doigts 🤞🏼.
+On repart dans l'après-midi. À peine quelques kilomètres en sortant de la ville que Nico déraille. C'est la toute première fois que cela arrive à un de nos vélos durant le voyage ! Ils ont été fiables les copains 👍🏼. Sauf que là, on remet la chaîne en place mais il semble que le dérailleur avant soit un peu endommagé. Il est désaxé, impossible de se placer sur le grand plateau et la chaîne frotte un peu dessus. Bon tant pis, on peut largement s'en sortir avec le petit plateau, il n'y aura pas de moyenne record mais c'est la vie 🙃. Est-ce que ce sera notre dernier souci technique jusqu'à **Stockholm** ? On n'en sait rien mais on croise les doigts 🤞🏼.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3ornk3ifPpyCwE8Ti8" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Un peu plus loin, on croise un cycliste suédois en vélo de route. Il fait sa sortie du dimanche mais semble très intéressé par notre voyage et comment on s'y prend. On papote un peu avec lui. Les Suédois nous abordent très facilement, on sent qu'ils sont très sociables, il n'y a rien de forcé. Ils paraissent naturellement curieux et attentionnés, on adore 🤩 ! Un peu plus loin ce sont deux motards qui nous salent gentiment.
+Un peu plus loin, on croise un cycliste suédois en vélo de route. Il fait sa sortie du dimanche mais semble très intéressé par notre voyage et comment on s'y prend. On papote un peu avec lui. Les Suédois nous abordent très facilement, on sent qu'ils sont très sociables, il n'y a rien de forcé. Ils paraissent naturellement curieux et attentionnés, on adore 🤩 ! Un peu plus loin ce sont deux motards qui nous saluent gentiment.
 
 On finit par arriver à **Axmar**. Juste avant notre arrêt du jour, on tombe sur l'[Axmar Bruk (moulin d'Axmar)](https://www.visitgavle.se/en/axmar-bruk). Une usine sidérurgique a été créée en 1671 et exploitée jusqu'au début du 20ème siècle sur le site. Le moulin à fer semble très bien entretenu et valoir la visite. Nous nous baladons aux abords du parc l'entourant, le cadre est très sympathique. 
 
