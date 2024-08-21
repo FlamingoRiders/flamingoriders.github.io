@@ -206,5 +206,18 @@
     "weather": "⛅",
     "startPointName": "Älvkarleby",
     "endPointName": "Uppsala"
+  },
+  {
+    "date": "2024-08-21",
+    "startPos": [59.871275, 17.615368],
+    "endPos": [59.359546, 17.960127],
+    "distance": 76.54,
+    "time": "04h50",
+    "averageSpeed": 15.8,
+    "elevationGain": 472,
+    "mood": 4,
+    "weather": "🌦️",
+    "startPointName": "Uppsala",
+    "endPointName": "Stockholm"
   }
 ]
