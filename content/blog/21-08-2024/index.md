@@ -58,12 +58,12 @@ Depuis notre départ, voici notre trajet total :
 | Comment c’était ?  | 🥰😍🤩   |
 
 Pour faire tout cela, on a :
-- longé des rivières et des lacs
-- traversé trois mers, la mer du Nord, la mer Baltique et la mer de Norvège,
-- roulé sous le niveau de la mer grâce à des polders,
-- emprunté des ponts gigantesques, traversé des passages à niveau, franchi des tunnels de plusieurs kilomètres,
-- gravi des côtes et des cols de montagne,
-- roulé sur de l'asphalte, de la terre, des graviers, dans les cailloux, dans la boue, dans le sable et même dans la neige,
+- longé des rivières et des lacs 🏞️,
+- traversé trois mers, la mer du Nord, la mer Baltique et la mer de Norvège 🌊,
+- roulé sous le niveau de la mer grâce à des polders 🤿,
+- emprunté des ponts gigantesques 🌉, traversé des passages à niveau 🛤️, franchi des tunnels de plusieurs kilomètres 🚇,
+- gravi des côtes et des cols de montagne ⛰️,
+- roulé sur de l'asphalte, de la terre, des graviers, dans les cailloux, dans la boue, dans le sable et même dans la neige 🪨⛱️🚵🏼‍♀️⛷️,
 
 Après avoir roulé :
 - sur des chemins boueux sur les voies vertes françaises 🇨🇵,
@@ -73,8 +73,8 @@ Après avoir roulé :
 - la majorité du temps sur des îles lors de notre passage au Danemark 🇩🇰,
 - dans des conditions dantesques pour braver la pluie, la neige et le dénivelé norvégien 🇧🇻,
 - sur des centaines de kilomètres avec pas un chat mais des millions de moustiques en Finlande 🇫🇮,
-- le long de l'immense côte  suédoise autour du golfe de Botnie 🇸🇪.
-- 
+- le long de l'immense côte suédoise autour du golfe de Botnie 🇸🇪.
+
 Après tout ça (et un café), on est enfin arrivés à **Stockholm** 🤩 !
 
 On a tenu notre objectif ! Ça mérite bien une bière ou deux 🍻 !
