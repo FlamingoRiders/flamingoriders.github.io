@@ -34,8 +34,8 @@ Voici un récapitulatif de celle-ci :
 | Dénivelé positif | 9371 m  |
 | Jours écoulés   |  24  |
 | Jours en itinérance  |  20 |
-| Nuits en tente  |  17 |
-| Nuits en hytte  |  3 |
+| Nuits en tente  |  14 |
+| Nuits en hytte  |  7 |
 | Tunnels empruntés   | 0 |
 | Ferry / bac empruntés  | 0 |
 | Chutes   |  0  |
@@ -49,8 +49,8 @@ Depuis notre départ, voici notre trajet total :
 | Dénivelé positif | 55870 m  |
 | Jours écoulés   |  144 |
 | Jours en itinérance  |  106 |
-| Nuits en tente  |  37 |
-| Nuits en hytte  |  25  |
+| Nuits en tente  |  51 |
+| Nuits en hytte  |  32 |
 | Tunnels empruntés   | 83 |
 | Ferry / bac empruntés  | 30 |
 | Chutes | 3 |
