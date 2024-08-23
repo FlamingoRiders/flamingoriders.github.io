@@ -42,6 +42,6 @@ On entre ensuite dans **Uppsala** même. On longe une longue piste d'aéroport q
 
 *"Tiens on dirait le tour de la base aérienne de Vélizy !"*
 
-On aperçoit tout au loin la cathédrale d'**Uppsala**. On l'a en ligne de mire, sur un bon 5 kilomètres 😂. Ah ces fameuses lignes droites infinies. Notre fin de journée est marqué par de belles couleurs dans le ciel. Le coucher du soleil est une demie-heure avant **Paris** vers 20h30. La durée de l'ensoleillement baisse considérablement en l'espace de quelques jours ! Il y a à peine un mois on avait encore le soleil de minuit. On ne va pas s'en plaindre, on a fait le plein de vitamine D et le spectacle est magnifique 😉.
+On aperçoit tout au loin la cathédrale d'**Uppsala**. On l'a en ligne de mire, sur un bon 5 kilomètres 😂. Ah ces fameuses lignes droites infinies. Notre fin de journée est marquée par de belles couleurs dans le ciel. Le coucher du soleil est une demie-heure avant **Paris** vers 20h30. La durée de l'ensoleillement baisse considérablement en l'espace de quelques jours ! Il y a à peine un mois on avait encore le soleil de minuit. On ne va pas s'en plaindre, on a fait le plein de vitamine D et le spectacle est magnifique 😉.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/J7CRqi4scgEaQ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
