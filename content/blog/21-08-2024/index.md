@@ -6,14 +6,14 @@ description: "On l'a fait : bien arrivés à Stockholm après plus de 7000 kilom
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
 
-Aujourd'hui est un jour unique dans notre voyage à vélo. Il y a deux raisons à cela. La première est qu'il s'agit de notre dernier jour pour rallier **Stockholm**, la destination qu'on a envisagée initialement. La deuxième, c'est que l'on part exceptionnellement tôt à 9h30. On est pas partis aussi tôt depuis le jour du départ 😂. En vérité, il fait beau depuis plusieurs jours mais une pluie intense est annoncée dans l'après-midi et l'on souhaite tout faire pour limiter les dégâts. On enfile donc nos vêtements cyclistes une toute dernière fois avec une once de satisfaction.
+Aujourd'hui est un jour unique dans notre voyage à vélo. Il y a deux raisons à cela. La première est qu'il s'agit de notre dernier jour pour rallier **Stockholm**, la destination qu'on a envisagée initialement. La deuxième, c'est que l'on part exceptionnellement tôt à 9h30. On n'est pas partis aussi tôt depuis le jour du départ 😂. En vérité, il fait beau depuis plusieurs jours mais une pluie intense est annoncée dans l'après-midi et l'on souhaite tout faire pour limiter les dégâts. On enfile donc nos vêtements cyclistes une toute dernière fois avec une once de satisfaction.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Q8IYWnnogTYM5T6Yo0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 ### Le centre-ville d'Uppsala
 On passe dans le centre-ville d'Uppsala afin d'admirer notamment sa cathédrale qu'on apercevait en fin de journée hier. Elle est très impressionnante, sa hauteur est vertigineuse même pour les standards d'une cathédrale et son architecture est remarquable. D'inspiration gothique, ses murs sont entièrement en briques rouges, ce n'est pas si commun et c'est la première de ce type que nous voyons en **Suède**.
 
-Le reste du centre-ville ne fait que confirmer l'impression qu'**Uppsala** mérite définitivement d'être visitée : son centre piéton avec des rues pavées, ses canaux, son beau château (**Uppsala Slott**), son atmosphère étudiante. Malheureusement, nous passons en vitesse pour cette fois mais là ville est proche de **Stockholm** en transports en commun et bien desservie, on aura sans doute une autre occasion d'y repasser 😉.
+Le reste du centre-ville ne fait que confirmer l'impression qu'**Uppsala** mérite définitivement d'être visitée : son centre piéton avec des rues pavées, ses canaux, son beau château (**Uppsala Slott**), son atmosphère étudiante. Malheureusement, nous passons en vitesse pour cette fois mais la ville est proche de **Stockholm** en transports en commun et bien desservie, on aura sans doute une autre occasion d'y repasser 😉.
 
 Le vent s'est un peu calmé aujourd'hui, la route est plus vallonnée. C'est une journée plaisante et c'est notre dernière, nos têtes et nos cuisses le savent donc on avance bien 😆.
  
