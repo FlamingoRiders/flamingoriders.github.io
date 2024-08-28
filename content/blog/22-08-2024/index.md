@@ -1,7 +1,7 @@
 ---
 title: 🥮 Le kanelbulle d'Eduardo du 22 août
 date: "2024-08-22"
-description: "Gamla Stan, Östermalm, Kungsholmen : Une première journée de visite à Stockholm bien remplie !"
+description: "Gamla Stan, Skeppsholmen, Östermalm, Kungsholmen : Une première journée de visite à Stockholm bien remplie !"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -34,7 +34,7 @@ Sur la façade principale du palais, le regard des nombreuses statues converge v
 
 On continue notre balade dans **Gamla Stan** et on atterrit sur la grande place, **Stortorget**. On y trouve notamment le bâtiment **Börshuset** qui contient le **musée Nobel (Nobelmuseet)** et l'**Académie suédoise (Svenska Akademien)**.
 
-**Stockholm** est une ville très cosmopolite. En s'y promenant, on entend parler anglais bien évidemment mais également beaucoup le français. D'ailleurs, on croise par hasard les parents d'une chère amie, preuve que l'on est pas les seuls 🇨🇵 !
+**Stockholm** est une ville très cosmopolite. En s'y promenant, on entend parler anglais bien évidemment mais également beaucoup le français. D'ailleurs, on croise par hasard les parents d'une chère amie, preuve que l'on n'est pas les seuls 🇨🇵 !
  
 On jette rapidement un oeil dans les boutiques du quartier. C'est très animé et lumineux mais, on trouve comme partout pour les magasins touristiques, plein de trucs inutiles 😅. On s'arrête toutefois sur les mignons petits chevaux en bois peints à la main (**dalahäst**) originaires de **Dalécarlie (Dalarna)**. 
 
@@ -43,7 +43,7 @@ On jette rapidement un oeil dans les boutiques du quartier. C'est très animé e
 
 On rejoint l'île adjacente à l'est de **Skeppsholmen**. Il y a des musées, une école d'art et au bout de l'île le petit fort **Kastellet Stockholm**.
 
-On tombe sur une ancienne église désacralisée qui nous interpelle. Il y a une plaque qui indique qu'il s'agit de la **kyrka Karl Johans**. Tiens, tiens, ce nom nous rappelle quelque chose. À **Oslo**, l'avenue principale s'appelle la **Karl Johans gate** du nom du roi norvégien **Karl III Johan**. Seulement en **Suède** il s'agit du roi **Karl XIV Johan**. Il s'agit de la même personne, en effet, c'est le même souverain qui a régné sur la **Suède** et la **Norvège** de 1818 jusqu'à sa mort en 1844. Surprenant ? Il y a encore plus incroyable 😀. En fait, en se renseignant un peu, on se rend compte que ce **Karl Johan** est né **Jean-Baptiste Bernadotte** en 1763 à **Pau**, qu'il a été général lors de la **Révolution française** et malgré des relations très particulières avec **Napoléon**, il devient même maréchal d'Empire en 1804. En 1810, par ces faits d'armes et le jeu géopolitique européen, il est choisi par le Parlement suédois comme héritier du roi Charles XIII et devient dès lors prince héritier avant d'accéder au trône quelques années plus tard. [Son histoire est totalement folle](https://fr.m.wikipedia.org/wiki/Charles_XIV_Jean) 😱 !
+On tombe sur une ancienne église désacralisée qui nous interpelle. Il y a une plaque qui indique qu'il s'agit de la **kyrka Carl Johans**. Tiens, tiens, ce nom nous rappelle quelque chose. À **Oslo**, l'avenue principale s'appelle la **Karl Johans gate** du nom du roi norvégien **Karl III Johan**. Seulement en **Suède** il s'agit du roi **Karl XIV Johan**. Il s'agit de la même personne, en effet, c'est le même souverain qui a régné sur la **Suède** et la **Norvège** de 1818 jusqu'à sa mort en 1844. Surprenant ? Il y a encore plus incroyable 😀. En fait, en se renseignant un peu, on se rend compte que ce **Karl Johan** est né **Jean-Baptiste Bernadotte** en 1763 à **Pau**, qu'il a été général lors de la **Révolution française** et malgré des relations très particulières avec **Napoléon**, il devient même maréchal d'Empire en 1804. En 1810, par ces faits d'armes et le jeu géopolitique européen, il est choisi par le Parlement suédois comme héritier du roi Charles XIII et devient dès lors prince héritier avant d'accéder au trône quelques années plus tard. [Son histoire est totalement folle](https://fr.m.wikipedia.org/wiki/Charles_XIV_Jean) 😱 !
 
 ### Le quartier d'Östermalm
 
