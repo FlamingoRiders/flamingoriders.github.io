@@ -17,7 +17,7 @@ On trouve aussi des musées sur les Vikings, sur les spiritueux et la culture de
 
 Et puis il y a un musée que l'on souhaitait absolument visiter, qui nous paraissait immanquable sur le papier : le [Vasamuseet](https://www.vasamuseet.se/en) qui conserve le **Vasa**, un navire de guerre datant du XVIIème siècle et mesurant plus de 60 mètres de long 😱. 
 
-Le **Vasa**, c'est une expérience qui commence dès qu'on approche du musée. On voit un bâtiment avec trois gigantesques mâts dessus, sans que l'on sache si ils appartiennent au navire. En entrant dans le bâtiment, une immense pièce centrale abrite le navire. On est pris par le gigantisme du bateau. Qu'est-ce que c'est que cette folie 😮 ?!
+Le **Vasa**, c'est une expérience qui commence dès qu'on approche du musée. On voit un bâtiment avec trois gigantesques mâts dessus, sans que l'on sache s'ils appartiennent au navire. En entrant dans le bâtiment, une immense pièce centrale abrite le navire. On est pris par le gigantisme du bateau. Qu'est-ce que c'est que cette folie 😮 ?!
 
 ### Le Vasa, une construction monumentale et un destin hors du commun
 
