@@ -23,7 +23,7 @@ Le **Vasa**, c'est une expérience qui commence dès qu'on approche du musée. O
 
 Construit entre 1626 et 1628, le **Vasa** est née de l'ambition démesurée du roi Gustave II Adolphe de Suède. Reconnu comme un des plus grands stratèges militaires de son temps, il entreprend la construction d'un navire lourdement armé et richement décoré symbolisant la toute puissance de la flotte suédoise. 
 
-Avec ses soixante-quatre canons et ses centaines de sculptures de couleurs vives, ce navire ne manquait décidément pas de prestige. Le problème, c'est qu'il n'a pas beaucoup navigué 😅 ! Lors de son voyage inaugural le 10 août 1968, il fait naufrage quelques centaines de mètres seulement après avoir quitté le quai. Un peu dommage au vu des dépenses consenties pour sa construction. Il ne sera renfloué qu'en 1961, après avoir passé 333 ans au fond de l'eau.
+Avec ses soixante-quatre canons et ses centaines de sculptures de couleurs vives, ce navire ne manquait décidément pas de prestige. Le problème, c'est qu'il n'a pas beaucoup navigué 😅 ! Lors de son voyage inaugural le 10 août 1628, il fait naufrage quelques centaines de mètres seulement après avoir quitté le quai. Un peu dommage au vu des dépenses consenties pour sa construction. Il ne sera renfloué qu'en 1961, après avoir passé 333 ans au fond de l'eau.
 
 On entre dans le musée, on approche de ce navire colossal et après un instant à l'observer, on reste pensifs et un peu médusés il faut bien l'avouer. En effet, on n'imagine pas qu'il puisse naviguer avec de telles dimensions. On ne sait pas non plus comment il a pu être conservé en si bon état.
 
