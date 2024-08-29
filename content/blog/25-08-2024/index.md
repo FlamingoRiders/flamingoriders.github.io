@@ -13,7 +13,7 @@ Aujourd'hui, le temps est moins radieux que la veille. Ce n'est pas grave, à **
 - [Skansen](https://skansen.se/), le plus vieux musée à ciel ouvert du monde.
 - le parc d'attraction **Gröna Lund** qui d'extérieur a l'air plutôt fun 😁.
 
-On trouve aussi des musées sur les Viking, sur les spiritueux et la culture de l'alcool en Suède ou encore le musée VRAK sur les épaves suédois le musée Vasa, le musée nordique, le musée ABBA, le musée VRAK aussi appelé musée des épaves.
+On trouve aussi des musées sur les Vikings, sur les spiritueux et la culture de l'alcool en Suède ou encore le musée VRAK sur les épaves suédoises.
 
 Et puis il y a un musée que l'on souhaitait absolument visiter, qui nous paraissait immanquable sur le papier : le [Vasamuseet](https://www.vasamuseet.se/en) qui conserve le **Vasa**, un navire de guerre datant du XVIIème siècle et mesurant plus de 60 mètres de long 😱. 
 
