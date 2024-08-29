@@ -21,7 +21,7 @@ Le **Vasa**, c'est une expérience qui commence dès qu'on approche du musée. O
 
 ### Le Vasa, une construction monumentale et un destin hors du commun
 
-Construit entre 1626 et 1628, le **Vasa** est née de l'ambition démesurée du roi Gustave II Adolphe de Suède. Reconnu comme un des plus grands stratèges militaires de son temps, il entreprend la construction d'un navire lourdement armé et richement décoré symbolisant la toute puissance de la flotte suédoise. 
+Construit entre 1626 et 1628, le **Vasa** est né de l'ambition démesurée du roi Gustave II Adolphe de Suède. Reconnu comme l'un des plus grands stratèges militaires de son temps, il entreprend la construction d'un navire lourdement armé et richement décoré symbolisant la toute puissance de la flotte suédoise. 
 
 Avec ses soixante-quatre canons et ses centaines de sculptures de couleurs vives, ce navire ne manquait décidément pas de prestige. Le problème, c'est qu'il n'a pas beaucoup navigué 😅 ! Lors de son voyage inaugural le 10 août 1628, il fait naufrage quelques centaines de mètres seulement après avoir quitté le quai. Un peu dommage au vu des dépenses consenties pour sa construction. Il ne sera renfloué qu'en 1961, après avoir passé 333 ans au fond de l'eau.
 
@@ -36,7 +36,7 @@ Ces réflexions nous amènent à deux hypothèses totalement contradictoires :
 Bon vous vous en doutez, les raisons pour lesquelles le Vasa a sombré si vite et pour lesquelles il est si bien conservé aujourd'hui, sont toutes autres. Le musée est fascinant car il apporte ces réponses et délivre plein d'autres anecdotes 😉. 
 
 ### Pourquoi le Vasa a-t-il coulé ?
-Tout d'abord, on apprend que si le navire a coulé, un procès a été tenu quelques semaines plus tard afin de déterminer des responsabilités. Des membres de l'équipage ayant échappé au naufrage ayant fait une trentaine de morts et des responsables de la construction ont été auditionnés. Aucune personne n'a été directement désignée comme responsable de la catastrophe. Pourtant on y apprend beaucoup de choses.
+Tout d'abord, on apprend que si le navire a coulé, un procès a été tenu quelques semaines plus tard afin d'identifier des responsables. Des membres de l'équipage ayant échappé au naufrage ayant fait une trentaine de morts et des chargés de la construction ont été auditionnés. Aucune personne n'a été directement désignée comme responsable de la catastrophe. Pourtant on y apprend beaucoup de choses.
 
 Si le navire ne souffrait pas de défauts de construction à proprement parler, c'est sa conception qui est problématique. Le roi aurait changé plusieurs fois d'avis au cours de la construction du navire concernant le nombre de canons, les ponts et les dimensions. Le maître d'ouvrage initial n'a pas vu la construction finale, décédé quelques mois après le début du chantier, c'est son assistant qui a pris le relais. Une fois la construction trop avancée, il était trop tard pour revenir sur certains éléments structurants et le roi mettait la pression afin que le Vasa soit livré au plus vite.
 
@@ -53,12 +53,11 @@ C'est vrai mais cela n'explique pas tout ! D'ordinaire, on supposerait qu'un bat
 
 En effet, lorsqu'il y a eu pour projet de retrouver et renflouer le **Vasa** au début des années 1950, l'hypothèse émise était que le navire devait se trouver à une trentaine de mètres du fond et devait être en bon état. Il fallait avoir un peu de conviction pour obtenir un financement couvrant les frais de recherche et de récupération du navire.
 
-Cette hypothèse s'est avérée juste ! En étant restée dans les eaux froides et pauvres en oxygène de la **Baltique**, l'épave a été conservée de manière spectaculaire. Dans d'autres circonstances, le bois aurait été rongé par les tarets ("shipworms"). Le musée avance même que 99% des matériaux sont d'origine ! Le bois est resté intact et seules certaines pièces métalliques ont rouillés avec le temps.
+Cette hypothèse s'est avérée juste ! En étant restée dans les eaux froides et pauvres en oxygène de la **Baltique**, l'épave a été conservée de manière spectaculaire. Dans d'autres circonstances, le bois aurait été rongé par les tarets ("shipworms"). Le musée avance même que 99% des matériaux sont d'origine ! Le bois est resté intact et seules certaines pièces métalliques ont rouillé avec le temps.
 
-C'est ainsi qu'en mai 1961, après des mois de travaux afin d'installer des immenses câbles d'aciers (au moyen de tunnels sous la coque) et un travail de longue haleine afin de progressivement vidé l'eau pour alléger le poids du navire, le Vasa a refait surface en un seul morceau 😀.
+C'est ainsi qu'en mai 1961, après des mois de travaux afin d'installer des immenses câbles d'aciers (au moyen de tunnels sous la coque) et un travail de longue haleine afin de progressivement vider l'eau pour alléger le poids du navire, le Vasa a refait surface en un seul morceau 😀.
 
-On continue notre tour du musée et notre tour du bateau. On découvre aussi le contexte historique entourant le navire. On est surpris par plusieurs statues récupérées du Vasa symbolisant des hommes rampants sous un banc juste en face de là où se trouvaient les toilettes sur le pont. On découvre alors qu'ils représentent des nobles polonais et que ces représentations ont pour but d'attiser le mépris et de les humilier. On apprend ainsi que la **Pologne** et la Suède
-étaient en guerre dans les années 1620. Ce n'étaient pas les meilleurs amis du monde 😅.
+On continue notre tour du musée et notre tour du bateau. On découvre aussi le contexte historique entourant le navire. On est surpris par plusieurs statues récupérées du Vasa symbolisant des hommes rampants sous un banc juste en face de là où se trouvaient les toilettes sur le pont. On découvre alors qu'ils représentent des nobles polonais et que ces représentations ont pour but d'attiser le mépris et de les humilier. On apprend ainsi que la **Pologne** et la **Suède** étaient en guerre dans les années 1620. Ce n'était pas les meilleurs amis du monde 😅.
  
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Rhw3Ikaq7Qfmq2Pc62" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
