@@ -1,7 +1,7 @@
 ---
 title: 🥮 Le kanelbulle d'Eduardo du 25 août
 date: "2024-08-25"
-description: "On visite le Vasa, un impressionnant navire de guerre qui a coulé après son premier mile avant d'être renfloué 333 ans plus tard !"
+description: "On visite le Vasa, un impressionnant navire de guerre qui a coulé après son premier mille avant d'être renfloué 333 ans plus tard !"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
