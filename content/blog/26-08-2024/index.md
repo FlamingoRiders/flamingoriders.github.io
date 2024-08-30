@@ -23,7 +23,7 @@ C'est-à-dire qu'il y a un pont classique pour les voitures mais les vélos eux 
 ### L'archipel de Stockholm 
 On finit par arriver sur le quai du ferry puis on embarque dans la foulée. La traversée pour nous rendre aux îles d'**Åland** dure quelques heures mais elle en vaut la peine. Certains ne prennent le ferry que pour faire un tour dans l'**archipel de Stockholm (Stockholms skärgård)**.
 
-Ce sont près de 24 000 îles qui composent cet archipel. Alors qu'on s'éloigne de **Stockholm**, plein de petits îlots se montrent, on a toujours la côte à une dizaine de mètres de nous. On ne comprend pas comment le ferry avance dans ce labyrinthe d'îles. Les paysages sont formidables et on a l'impression que les îles défilent devant nous les unes après les autres. 
+Ce sont près de 24 000 îles qui composent cet archipel. Alors qu'on s'éloigne de **Stockholm**, plein de petits îlots se montrent, on a toujours la côte à une dizaine de mètres de nous. On ne comprend pas comment le ferry avance dans ce labyrinthe d'îles. Les paysages sont formidables et on a l'impression que les îles défilent devant nous les unes après les autres. Il y a également d'autres curiosités qui défilent devant nous : des personnes avec des caddies remplies de bouteilles d'alcool et de boîtes de snuss. En effet, on entre dans la duty free zone, c'est le moment de faire les stocks pour nos amis suédois et finlandais 😂.
 
 On progresse vers l'est dans la mer Baltique et après 80 kilomètres, on finit par quitter l'**archipel de Stockholm**.
 
@@ -32,7 +32,7 @@ On retrouve très rapidement la vue de la terre ferme. On atteint l'archipel d'*
 **Åland** bénéficie d'un statut très particulier. Bien qu'appartenant techniquement à la Finlande, la province jouit d'une autonomie gouvernementale. De plus, ses habitants sont en immense majorité suédophones. Lorsque la **Finlande** déclare son indépendance en 1917 suite à la révolution russe, une guerre civile éclate l'année suivante. Les Ålandais demanderont alors leur rattachement à la **Suède** mais la Société des Nations (ancêtre de l'ONU) statuera en 1921 sur l'appartenance de l'archipel à la **Finlande**. Cependant, le territoire est démilitarisé, les habitants sont libres de garder leur langue et leurs coutumes et leur autonomie est garantie. Pour simplifier les choses, on pourrait dire d'**Åland** que :
 - son territoire fait partie de la Finlande,
 - ses habitants sont historiquement proches des suédois,
-- sur le plan politique, l'archipel fonctionne comme un *"état libre"*.
+- sur le plan politique, l'archipel fonctionne comme un *"état libre"*. Par ailleurs, il a son propre drapeau 🇦🇽.
 
 Situé au sud du **golfe de Botnie**, à distance équivalente de la Suède et de la Finlande, l'archipel est une destination touristique fréquentée par les finlandais et les suédois mais assez méconnu du reste du continent. L'archipel compte près de 30 000 habitants dont la moitié vivent dans sa capitale, **Mariehamn**, où nous débarquons. 
 
@@ -50,7 +50,7 @@ Juste à côté du château, on trouve également le superbe musée à ciel ouve
 
 Outre la situation géopolitique particulière d'Åland qui a été longtemps sous contrôle russe puis suédois avant d'être rattaché à la **Finlande**, l'emplacement stratégique de l'archipel en plein milieu de la mer Baltique servait de relais efficace entre la **Suède** et la **Finlande**.
 
-C'est pourquoi une route historique, la **Postvägen**, a été inaugurée en 1638 afin de permettre un échange d'informations sûr et rapide entre **Stockholm** et **Turku**. La route traverse en grande partie l'archipel, sur notre passage à vélo, nous la voyons indiquée par un logo composé d'un cor et d'une couronne. En hiver, certaines portions gèlent et la route passe sur cette couche de glace recouvrant la mer 🧊. Cette route n'était pas sans risques mais elle restait plus sûr et plus pratique que la bouteille à la mer 😅 !
+C'est pourquoi une route historique, la **Postvägen**, a été inaugurée en 1638 afin de permettre un échange d'informations sûr et rapide entre **Stockholm** et **Turku**. La route traverse en grande partie l'archipel, sur notre passage à vélo, nous la voyons indiquée par un logo composé d'un cor et d'une couronne. En hiver, certaines portions gèlent et la route passe sur cette couche de glace recouvrant la mer 🧊. Cette route n'était pas sans risque mais elle restait plus sûre et plus pratique que la bouteille à la mer 😅 !
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/1oYYd2gnWZYrt89EBXdFiO?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
