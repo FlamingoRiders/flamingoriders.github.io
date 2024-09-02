@@ -45,6 +45,8 @@ Cependant, il est tout même intéressant de noter que Les parties les plus éle
 
 Le chemin nous emmène à la forêt et les rochers et d'en haut, on monte au sommet d'une tour d'observation d'où on a une vue imparable sur les alentours des îles et de la Baltique 🤩.
 
+### Découvertes culinaires 
+
 On reprend les vélos et au retour, on repasse devant le beau château de **Kastelholm**. On décide de s'arrêter au restaurant [Smakbyn](https://smakbyn.ax/en/). Ici le chef est très connu, *Michael "Micke" Björklund*; il fait partie des chefs les plus connus de Suède et Finlande. Il a été chef de l'année en 1997 en Finlande et en 2000 en Suède. Il a décidé de retourner vers ses racines sur les îles Åland pour ouvrir son restaurant. Il élabore ses propres liqueurs qu’il laisse reposer dans sa cave, il élève ses propres cochons, n’utilise que des produits locaux (pommes, miel, bières…), fait son propre pain, etc... Il a plusieurs projets en préparation tournés vers la cuisine, l'éducation au "mieux manger" et la culture. 
 
 On n'y mangera pas mais on y fera une dégustation de boissons locales. Nana prendra un gin & Tonic de l'[Åland Distillery](https://alanddistillery.com/) et Nico, une bière de la brasserie locale [Stallhagen](https://www.stallhagen.com/en/) 🍹🍺 !
