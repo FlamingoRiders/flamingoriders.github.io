@@ -36,7 +36,7 @@ On retrouve très rapidement la vue de la terre ferme. On atteint l'archipel d'*
 
 Situé au sud du **golfe de Botnie**, à distance équivalente de la Suède et de la Finlande, l'archipel est une destination touristique fréquentée par les finlandais et les suédois mais assez méconnu du reste du continent. L'archipel compte près de 30 000 habitants dont la moitié vivent dans sa capitale, **Mariehamn**, où nous débarquons. 
 
-### Un archipel riche en histoire et traditions 
+### Åland : un territoire riche en histoire et traditions 
 
 On repère un camping au nord-est que l'on décide de rejoindre. Très vite en sortant de **Mariehamn** on se rend compte du charme de cet archipel. On se situe entre mer et campagne. La saison touristique vient de se terminer depuis une dizaine de jours et nous profitons seuls de ces pistes cyclables parfaitement entretenues. Nous traversons des champs et observons quelques maisons de campagne. Nous apercevons des vaches et moutons qui pâturent au grand air. Au loin, deux petites formes se laissent entrevoir, ce sont deux faons qui gambadent 😀.
 
