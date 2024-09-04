@@ -24,7 +24,7 @@ On se repose un peu puis on décide d'aller faire un tour dans l'eau. Il y a un 
 
 Entre-temps, les belges sont partis faire quelques courses avant que le seul magasin à proximité ne ferme. Ils en reviennent avec deux paquets cadeaux : une boite de riz pour le soir (on commençait à être à cours de provisions) et une bière pour Nico ! Comme c'est adorable et attentionné !
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/0TUeV2Uoeovc3TZcr1" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/vra43B4qa17k2p9RSk" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 On prend l'apéro tous ensemble autour de bières [Stallhagen](https://www.stallhagen.com/en/) et de chips [Taffel](https://www.taffel.fi/), que des produits locaux 🤗. En fin de journée, on a reservé le sauna privé du camping à 21h, juste après les belges qui l'ont reservé une heure avant. Lorsqu'on arrive dedans, il est bien chaud. Quel plaisir de mettre soit même le bois et l'eau sur les pierres.
 
