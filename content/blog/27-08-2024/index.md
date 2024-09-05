@@ -28,16 +28,18 @@ L'imposante tour a pris cinq ans à être construite et était armée de 20 cano
 Le reste de la forteresse tombera assez rapidement après huit jours de siège. Les troupes russes se rendent le 16 août 1854, plus de 2000 soldats sont faits prisonniers et la forteresse sera ensuite complètement rasée.
 
 Le traité de Paris du 30 mars 1856 acte la fin de la guerre de Crimée et les îles sont démilitarisées. On apprend également que certaines des briques rouges de la forteresse seront réutilisées pour la **cathédrale Ouspensk** à **Helsinki** 😮. Quant aux ruines restantes, elles sont bien conservées et leur disposition laisse clairement entrevoir à quoi devait ressembler l'édifice dans son ensemble. Il y a également une dizaine de canons qui dominent les hauteurs de la forteresse et surplombent le canal. Cela vaut vraiment le détour et l'histoire de ces îles **Åland** est vraiment fascinante. 
-ן
+
 ### Orrdalsklint : le point culminant d'Åland
 
 Dans l'après-midi, on part à vélo vers le nord de l'île. On se balade dans les communes de **Sund** et **Saltvik**.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/cEYFeDKVPTmRgIG9fmo" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
-
 Les routes que nous empruntons sont superbes. On est hors saison touristique, il y a très peu de monde, essentiellement des habitants. On croise plein d'animaux comme la veille, des daims, des vaches, des moutons. Le paysage alterne entre forêts, maisons de campagne et de larges champs. Le tout sous un soleil encore radieux, on est gâtés.
 
-On arrive vers **Saltvik** et l'on pose nos vélos à un parking. De là, on entreprend une marche pour se rendre au point le plus haut des îles **Åland**, **Orrdalsklint**, qui culmine à 129 mètres. Bon ok c'est pas exactement une montagne qu'on gravit. Après on n'a jamais dit qu'on partait pour l'ascension du Mont-Blanc 😆. 
+On arrive vers **Saltvik** et l'on pose nos vélos à un parking. De là, on entreprend une marche pour se rendre au point le plus haut des îles **Åland**, **Orrdalsklint**, qui culmine à 129 mètres.
+
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/cEYFeDKVPTmRgIG9fmo" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+
+Bon ok c'est pas exactement une montagne qu'on gravit. Après on n'a jamais dit qu'on partait pour l'ascension du Mont-Blanc 😆. 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JrbcoCC9Zotanq4Or4nST?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
