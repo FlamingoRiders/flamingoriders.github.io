@@ -2,6 +2,8 @@
 title: 🧀 Le gouda d'Eduardo du 12 avril
 date: "2024-04-12"
 description: "Balade dans Utrecht à la poursuite de Miffy !"
+location: "Utrecht, Pays-Bas"
+tags: ["heart", "culture"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
