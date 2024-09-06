@@ -2,6 +2,7 @@
 title: ☕ Le café d'Eduardo du 4 avril
 date: "2024-04-04"
 description: "Retrouvailles familiales."
+location: "Nord, France"
 ---
 
 ![Café d'Eduardo](../cafe_eduardo.png)
