@@ -2,6 +2,7 @@
 title: 🧀 Le gouda d'Eduardo du 18 avril
 date: "2024-04-18"
 description: "À travers Drents-Friese Wold, Fochteloërveen et Groningen"
+location: "Groningue, Pays-Bas"
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
