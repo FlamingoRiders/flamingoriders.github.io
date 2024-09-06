@@ -2,6 +2,8 @@
 title: 🧀 Le gouda d'Eduardo du 13 avril
 date: "2024-04-13"
 description: "Ça souffle fort sur les tulipes de Keukenhof."
+location: "Hollande-Méridionale, Pays-Bas"
+tags: ["heart", "scenic"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
