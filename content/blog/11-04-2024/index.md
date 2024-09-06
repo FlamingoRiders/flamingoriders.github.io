@@ -2,6 +2,8 @@
 title: 🧀 Le gouda d'Eduardo du 11 avril
 date: "2024-04-11"
 description: "Jour de chance, jour de marché à Gouda !"
+location: "Gouda, Pays-Bas"
+tags: ["culture"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
