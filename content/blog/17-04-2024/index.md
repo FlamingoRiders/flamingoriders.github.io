@@ -2,6 +2,8 @@
 title: 🧀 Le gouda d'Eduardo du 17 avril
 date: "2024-04-17"
 description: "Grêle, Giethoorn et cap des 1000 bornes !"
+location: "Overĳssel, Pays-Bas"
+tags: ["heart", "culture"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
