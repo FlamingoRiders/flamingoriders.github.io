@@ -2,6 +2,7 @@
 title: 🧀 Le gouda d'Eduardo du 16 avril
 date: "2024-04-16"
 description: "Tot ziens Flevopolder en Veluwemeer !"
+location: "Overĳssel, Pays-Bas"
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
