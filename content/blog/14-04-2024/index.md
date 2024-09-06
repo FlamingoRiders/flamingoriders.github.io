@@ -2,6 +2,8 @@
 title: 🧀 Le gouda d'Eduardo du 14 avril
 date: "2024-04-14"
 description: "De la mer du Nord à Amsterdam !"
+location: "Hollande-Septentrionale, Pays-Bas"
+tags: ["heart", "scenic"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
