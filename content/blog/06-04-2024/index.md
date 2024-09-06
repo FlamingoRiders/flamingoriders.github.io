@@ -2,6 +2,7 @@
 title: 🍺 La bière d'Eduardo du 6 avril
 date: "2024-04-06"
 description: "En route vers la capitale, Bruxelles here we come !"
+location: "Bruxelles, Belgique"
 ---
 
 ![Bière d'Eduardo](../biere_eduardo.png)
