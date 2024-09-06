@@ -2,6 +2,7 @@
 title: ☕ Le café d'Eduardo du 2 avril
 date: "2024-04-02"
 description: "C'est le jour 3, l'EuroVélo 3 !"
+location: "Aisne, France"
 ---
 
 ![Café d'Eduardo](../cafe_eduardo.png)
