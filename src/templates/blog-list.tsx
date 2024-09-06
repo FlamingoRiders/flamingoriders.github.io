@@ -3,6 +3,8 @@ import { Link, PageProps, graphql } from "gatsby";
 import Layout from "components/layout/layout";
 import SEO from "components/layout/seo";
 import { AppRoutes, AppSections } from "routes/app-routes";
+import TagList from "components/layout/tag-list";
+import DateAndLocation from "components/layout/date-and-location";
 
 type QueryReturn = {
   allMarkdownRemark: {
@@ -15,6 +17,8 @@ type QueryReturn = {
         date: string;
         title: string;
         description: string;
+        location: string;
+        tags: Array<string>;
       };
     };
   }[];
@@ -77,7 +81,8 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>{post.frontmatter.date}</small>
+                  <small><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location}/></small>
+                  <TagList tags={post.frontmatter.tags} />
                 </header>
                 <section>
                   <p
@@ -143,6 +148,8 @@ export const blogListQuery = graphql`
           date(formatString: "DD MMMM YYYY", locale: "fr-FR")
           title
           description
+          location
+          tags
         }
         fields {
           slug

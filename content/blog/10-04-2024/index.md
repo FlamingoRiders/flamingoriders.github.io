@@ -2,6 +2,8 @@
 title: 🧀 Le gouda d'Eduardo du 10 avril
 date: "2024-04-10"
 description: "Vent de face et moulins à vent !"
+location: "Pays-Bas - Comté de machin"
+tags: ["heart", "unesco", "hike", "scenic", "culture"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)

@@ -5,6 +5,8 @@ import Layout from "components/layout/layout";
 import Seo from "components/layout/seo";
 import DayRecap from "components/stats/day-recap";
 import { Day } from "models/day";
+import TagList from "components/layout/tag-list";
+import DateAndLocation from "components/layout/date-and-location";
 
 type Post = {
   id: string;
@@ -17,6 +19,8 @@ type Post = {
     date: string;
     title: string;
     description: string;
+    location: string;
+    tags: Array<string>;
   };
 };
 
@@ -58,7 +62,7 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location}/> <TagList tags={post.frontmatter.tags} /></p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -119,6 +123,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD MMMM YYYY", locale: "fr-FR")
         description
+        location
+        tags
       }
     }
     statsJson(date: { eq: $date }) {

@@ -18,6 +18,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id
           frontmatter {
             date
+            location
+            tags
           }
           fields {
             slug
@@ -130,6 +132,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      location: String
+      tags: [String]
     }
 
     type Fields {
