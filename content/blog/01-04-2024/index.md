@@ -2,6 +2,7 @@
 title: ☕ Le café d'Eduardo du 1er avril
 date: "2024-04-01"
 description: "Le jour d'après : go go les cuissots, la seconde étape here we go !"
+location: "Oise, France"
 ---
 
 ![Café d'Eduardo](../cafe_eduardo.png)
