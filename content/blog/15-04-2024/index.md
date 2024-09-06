@@ -2,6 +2,8 @@
 title: 🧀 Le gouda d'Eduardo du 15 avril
 date: "2024-04-15"
 description: "Ça mouille dans le Flevoland !"
+location: "Flevoland, Pays-Bas"
+tags: ["culture"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
