@@ -91,6 +91,7 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
                     }}
                     itemProp="description"
                   />
+                  
                 </section>
               </article>
             </li>
