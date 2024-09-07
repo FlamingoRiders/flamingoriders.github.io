@@ -2,6 +2,7 @@
 title: 🥪 Le smørrebrød d'Eduardo du 11 mai
 date: "2024-05-11"
 description: "On traverse la superbe forêt de Rold Skov pour rallier Aalborg !"
+location: "Jutland, Danemark"
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
