@@ -2,6 +2,7 @@
 title: 🥪 Le smørrebrød d'Eduardo du 12 mai
 date: "2024-05-12"
 description: "Dernière journée au Danemark à travers l'île Vendsyssel jusqu'à Frederikshavn !"
+location: "Jutland du Nord, Danemark"
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
