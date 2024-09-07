@@ -2,6 +2,8 @@
 title: 🥪 Le smørrebrød d'Eduardo du 04 mai
 date: "2024-05-04"
 description: "Petite étape sympathique et première balade à Copenhague !"
+location: "Copenhague, Danemark"
+tags: ["heart"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
