@@ -2,6 +2,7 @@
 title: 🥨 Le bretzel d'Eduardo du 26 avril
 date: "2024-04-26"
 description: "On fonce sur Hambourg !"
+location: "Hambourg, Allemagne"
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
