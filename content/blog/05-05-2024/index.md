@@ -2,6 +2,8 @@
 title: 🥪 Le smørrebrød d'Eduardo du 05 mai
 date: "2024-05-05"
 description: "On se baigne à Copenhague !"
+location: "Copenhague, Danemark"
+tags: ["heart", "culture"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
