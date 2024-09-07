@@ -2,6 +2,7 @@
 title: 🥨 Le bretzel d'Eduardo du 25 avril
 date: "2024-04-25"
 description: "Accidenté et vallonné : une vraie étape gravel pour rallier Lüneburg !"
+location: "Basse-Saxe, Allemagne"
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
