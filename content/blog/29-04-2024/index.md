@@ -1,7 +1,7 @@
 ---
 title: 🥨 Le bretzel d'Eduardo du 29 avril
 date: "2024-04-29"
-description: "Ça repart sous le soleil vers Lübeck!",
+description: "Ça repart sous le soleil vers Lübeck!"
 location: "Schleswig-Holstein, Allemagne"
 tags: ["culture"]
 ---
