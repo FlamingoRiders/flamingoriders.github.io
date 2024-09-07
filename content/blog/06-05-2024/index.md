@@ -2,6 +2,8 @@
 title: 🥪 Le smørrebrød d'Eduardo du 06 mai
 date: "2024-05-06"
 description: "Dégustation de smørrebrød et visite d'un des plus vieux parcs d'attractions au monde à Copenhague !"
+location: "Copenhague, Danemark"
+tags: ["heart", "culture"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
