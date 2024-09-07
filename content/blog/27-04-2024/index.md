@@ -2,6 +2,8 @@
 title: 🥨 Le bretzel d'Eduardo du 27 avril
 date: "2024-04-27"
 description: "Retrouvailles avec les amis et visite d'Hambourg !"
+location: "Hambourg, Allemagne"
+tags: ["heart", "unesco", "culture"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
