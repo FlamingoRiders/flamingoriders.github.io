@@ -2,6 +2,8 @@
 title: 🥨 Le bretzel d'Eduardo du 28 avril
 date: "2024-04-28"
 description: "Deuxième journée de visite à Hambourg !"
+location: "Hambourg, Allemagne"
+tags: ["heart", "culture"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
