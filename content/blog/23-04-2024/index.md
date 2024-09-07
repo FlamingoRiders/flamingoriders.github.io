@@ -2,6 +2,7 @@
 title: 🥨 Le bretzel d'Eduardo du 23 avril
 date: "2024-04-23"
 description: "Incruste auprès des musiciens de Brême !"
+location: "Brême, Allemagne"
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
