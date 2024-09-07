@@ -2,6 +2,7 @@
 title: 🥨 Le bretzel d'Eduardo du 30 avril
 date: "2024-04-30"
 description: "Face à la mer Baltique !"
+location: "Schleswig-Holstein, Allemagne"
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
