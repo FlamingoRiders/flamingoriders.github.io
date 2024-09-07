@@ -2,6 +2,7 @@
 title: 🥪 Le smørrebrød d'Eduardo du 03 mai
 date: "2024-05-03"
 description: "On rejoint le Seeland !"
+location: "Sjælland, Danemark"
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
