@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 07 mai
 date: "2024-05-07"
 description: "Escale à Malmö pour rendre visite à Zlatan !"
+location: "Malmö, Suède"
+tags: ["heart"]
 ---
 
 
