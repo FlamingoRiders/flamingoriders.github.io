@@ -2,6 +2,7 @@
 title: 🥨 Le bretzel d'Eduardo du 19 avril
 date: "2024-04-19"
 description: "Ciao Dutch-Land, Hallo Deutschland !"
+location: "Basse-Saxe, Allemagne"
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
