@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 25 mai
 date: "2024-05-25"
 description: "On longe le Hardangerfjord sur 80 bornes : plein de villages très mignons en cours de route !"
+location: "Vestland, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
