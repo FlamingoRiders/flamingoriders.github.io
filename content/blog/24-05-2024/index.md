@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 24 mai
 date: "2024-05-24"
 description: "Jour de repos, jour de rando : on rejoint le sommet Hanakamb à 1080 mètres qui nous offre des vues époustouflantes sur une cascade, un lac, un fjord et un glacier !"
+location: "Vestland, Norvège"
+tags: ["heart", "hike"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
