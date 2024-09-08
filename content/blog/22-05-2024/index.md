@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 22 mai
 date: "2024-05-22"
 description: "Journée épique dans les Alpes Scandinaves : tunnels, lacs enneigés et sommets à plus de 1500 mètres !"
+location: "Vestland, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
