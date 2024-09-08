@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 17 mai
 date: "2024-05-17"
 description: "Nasjonaldagen : fête nationale à Oslo !"
+location: "Oslo, Norvège"
+tags: ["heart", "culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
