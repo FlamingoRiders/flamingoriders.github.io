@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 16 mai
 date: "2024-05-16"
 description: "Parc, musée et sauna à Oslo !"
+location: "Oslo, Norvège"
+tags: ["heart", "culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
