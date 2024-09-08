@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 14 mai
 date: "2024-05-14"
 description: "On dit bonjour à la princesse de Norvège à Oslo !"
+location: "Oslo, Norvège"
+tags: ["heart"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
