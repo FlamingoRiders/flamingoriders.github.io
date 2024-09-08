@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 23 mai
 date: "2024-05-23"
 description: "On monte un col avant d'être bloqués par la neige puis on fait du stop et on aperçoit des cascades enchantées !"
+location: "Vestland, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
