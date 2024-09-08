@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 20 mai
 date: "2024-05-20"
 description: "Heddal stavkyrkje, la plus grande église en bois debout de Norvège !"
+location: "Telemark, Norvège"
+tags: ["heart", "culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
