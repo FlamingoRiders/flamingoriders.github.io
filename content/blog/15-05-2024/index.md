@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 15 mai
 date: "2024-05-15"
 description: "Sur les îles du fjord d'Oslo !"
+location: "Oslo, Norvège"
+tags: ["heart"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
