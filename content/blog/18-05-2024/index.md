@@ -2,7 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 18 mai
 date: "2024-05-18"
 description: "On s'est fait recaler mais on a peut-être gagné au change : coucher devant le magnifique lac d'Eikeren !"
-location: "Oslo, Norvège"
+location: "Buskerud, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
