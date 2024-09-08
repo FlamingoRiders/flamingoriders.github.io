@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 21 mai
 date: "2024-05-21"
 description: "Deux belles ascensions à 900 mètres et des points de vue complètement fous sur les montagnes et les lacs de Lognvikvatn et Totak !"
+location: "Telemark, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
