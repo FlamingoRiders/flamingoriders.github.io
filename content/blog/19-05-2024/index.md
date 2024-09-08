@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 19 mai
 date: "2024-05-19"
 description: "Rivières, lacs et montagnes : on rentre dans le comté de Telemark !"
+location: "Telemark, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
