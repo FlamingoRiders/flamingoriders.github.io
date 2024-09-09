@@ -2,6 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 22 juillet
 date: "2024-07-22"
 description: "Journée interminable dans la vague de chaleur finlandaise !"
+location: "Sodankylä, Laponie, Finlande"
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 12 juillet
 date: "2024-07-12"
 description: "Réparations et journée tranquille à Tromsø !"
+location: "Troms, Norvège"
+tags: ["culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

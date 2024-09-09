@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 01 juillet
 date: "2024-07-01"
 description: "Soleil de minuit au Reinebringen et balade au mignon village de Å !"
+location: "Nordland, Norvège"
+tags: ["heart", "hike", "scenic", "culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

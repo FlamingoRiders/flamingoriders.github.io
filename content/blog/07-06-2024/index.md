@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 7 juin
 date: "2024-06-07"
 description: "On quitte le comté de Vestland pour entrer dans celui de Møre og Romsdal !"
+location: "Møre og Romsdal, Norvège"
+tags: ["scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

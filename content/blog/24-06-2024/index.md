@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 24 juin
 date: "2024-06-24"
 description: "On essaie de prendre un raccourci mais le destin en décide autrement : on doit faire le grand tour du fjord sous une pluie battante."
+location: "Nordland, Norvège"
+tags: ["scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

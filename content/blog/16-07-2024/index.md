@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 16 juillet
 date: "2024-07-16"
 description: "90 kilomètres le long du formidable fjord de Lyngen !"
+location: "Troms, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 9 juin
 date: "2024-06-09"
 description: "Des tunnels, un ferry et encore des tunnels pour traverser le Storfjord !"
+location: "Møre og Romsdal, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 26 mai
 date: "2024-05-26"
 description: "On marche derrière la cascade de Steinsdalsfossen !"
+location: "Vestland, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 8 juin
 date: "2024-06-08"
 description: "Le Geirangerfjord et ses cascades féeriques !"
+location: "Møre og Romsdal, Norvège"
+tags: ["heart", "unesco", "hike"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

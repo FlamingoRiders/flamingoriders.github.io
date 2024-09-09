@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 30 juin
 date: "2024-06-30"
 description: "À la recherche des puffins lors d'une superbe randonnée sur l'île de Værøy !"
+location: "Nordland, Norvège"
+tags: ["heart", "hike"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

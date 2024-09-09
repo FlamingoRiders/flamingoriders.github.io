@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 14 juin
 date: "2024-06-14"
 description: "Du soleil annoncé mais la pluie n'a pas dit son dernier mot !"
+location: "Trondelag, Norvège"
 ---
 
 

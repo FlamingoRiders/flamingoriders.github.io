@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 31 mai
 date: "2024-05-31"
 description: "Stupéfaits devant les fantastiques Nærøyfjord et Aurlandsfjord !"
+location: "Vestland, Norvège"
+tags: ["heart", "unesco", "hike"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

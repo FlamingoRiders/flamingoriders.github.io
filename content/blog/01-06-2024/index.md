@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 1er juin
 date: "2024-06-01"
 description: "À travers les îles d' Holsnøy et Radøy !"
+location: "Vestland, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

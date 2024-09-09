@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 22 juin
 date: "2024-06-22"
 description: "On marche sur l'eau grâce au Trælvikosen et on reste bouche bée devant les montagnes des septs sœurs !"
+location: "Nordland, Norvège"
+tags: ["scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

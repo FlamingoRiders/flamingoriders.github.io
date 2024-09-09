@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 10 juin
 date: "2024-06-10"
 description: "On gravit le légendaire Trollstigen !"
+location: "Møre og Romsdal, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -50,7 +52,7 @@ On reste un peu au sommet. Ça nous paraît foutu pour aujourd'hui mais descendr
 
 ### Et soudain, l'embellie
 
-Alors que Nico a quitté la boutique afin d'aller manger un bout près de son vélo, les nuages se lèvent brusquement. C'est un phénomène qu'on avait déjà observé quelques jours auparavant, le temps change vite. Là, on avait de la peine à y croire car en altitude, complètement dans les nuages, on ne voyait pas une lueur percer. Le ciel reste couvert mais en l'espace de quelques minutes, les nuages à notre altitude se dispersent et laissent apparaître les alentours.
+Alors que Nico a quitté la boutique afin d'aller manger un bout près de son vélo, les nuages se lèvent brusquement. C'est un phénomène qu'on avait déjà observé quelques jours auparavant, le temps change vite. Là, on a eu de la peine à y croire car en altitude, complètement dans les nuages, on ne voyait pas une lueur percer. Le ciel reste couvert mais en l'espace de quelques minutes, les nuages à notre altitude se dispersent et laissent apparaître les alentours.
 
 Ne croyant pas que cela va durer, Nico crie avec enthousiasme : *"Nana vite !! A la passerelle !!*"
 
@@ -62,7 +64,7 @@ Les immenses montagnes prennent forme, deux somptueuses chutes d'eau sont révé
 
 Il s'opère un mélange d'émerveillement et d'incrédulité. On a vraiment construit cette route au milieu de ce paysage aussi beau ?! Certains apprécient les musées, d'autres la nature. Là on a quelque chose qui est de l'ordre des deux : si la nature est responsable du cadre, le génie civil est responsable de la dimension artistique de cette route qui se fond magnifiquement dedans. 
 
-Cela ne peut pas être l'œuvre exclusive de l'un ou de l'autre. La nature ne propose pas de route bitumée et l'artiste seul n'aurait pas imaginé un tableau pareil. En somme, on a le droit au meilleur de deux mondes qui se complètent magnifiquement.
+Cela ne peut pas être l'œuvre exclusive de l'un ou de l'autre. La nature ne propose pas de route bitumée et l'artiste seul n'aurait pas imaginé un tableau pareil. En somme, on a le droit au meilleur de deux mondes qui se complètent parfaitement.
 
 On entreprend la descente avec prudence. On a de l'eau sur le sol, des flancs de falaises sur le côté et des bagages sur le vélo donc autant ne pas rigoler. Tout se passe bien, on y va à notre rythme tout en profitant du cadre.
 
@@ -70,7 +72,7 @@ Arrivés en bas au niveau d'un camping-restaurant, on découvre plein de statues
 
 Puisque la descente d'une telle route ne lui suffit pas, Nico entreprendra la remontée. Nana dans sa grande bonté acceptera de patienter un peu en attendant Monsieur neuneu. Elle gardera gentiment les bagages de Nico également.
 
-Dans l'autre sens, l'ascension est complètement différente. Les pourcentages sont plutôt autour de 7-8% tout du long avec quelques pointes dans les virages. Surtout, au tout début, vous vous trouvez au pied des montagnes qui dépassent très facilement les 1000 mètres. Elles se dressent devant vous avec une telle force qu'elles inspirent a la fois crainte, respect et admiration. Puis, il y a ces cascades que l'on voit tout du long. On entre dans la caverne d'Ali baba.
+Dans l'autre sens, l'ascension est complètement différente. Les pourcentages sont plutôt autour de 7-8% tout du long avec quelques pointes dans les virages. Surtout, au tout début, vous vous trouvez au pied des montagnes qui dépassent très facilement les 1000 mètres. Elles se dressent devant vous avec une telle force qu'elles inspirent à la fois crainte, respect et admiration. Puis, il y a ces cascades que l'on voit tout du long. On entre dans la caverne d'Ali baba.
 
 C'est très rare que des routes de montagnes offrent a la fois un cadre magnifique et une route superbe à rouler tout du long. C'est indéniablement le cas à **Trollstigen**. Un souvenir impérissable 🥹.
 

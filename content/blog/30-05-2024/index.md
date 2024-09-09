@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 30 mai
 date: "2024-05-30"
 description: "Toujours sous le charme de Bergen !"
+location: "Vestland, Norvège"
+tags: ["heart", "culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

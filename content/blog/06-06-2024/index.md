@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 6 juin
 date: "2024-06-06"
 description: "Des trésors en pagaille : la montagne Utvikfjellet, les bras du Nordfjord, la vallée Lodalen et le glacier Kjenndalsbreen !"
+location: "Vestland, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

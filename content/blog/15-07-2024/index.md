@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 15 juillet
 date: "2024-07-15"
 description: "On quitte Tromsø et on atteint les Alpes de Lyngen avec 5000 kilomètres au compteur !"
+location: "Troms, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

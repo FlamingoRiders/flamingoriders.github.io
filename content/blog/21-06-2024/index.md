@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 21 juin
 date: "2024-06-21"
 description: "On fait le tour de la fascinante île de Leka et l'on rejoint le comté de Nordland !"
+location: "Nordland, Norvège"
+tags: ["scenic"]
 ---
 
 Aujourd'hui, on est le 21 juin. C'est le jour calendaire le plus long, le solstice d'été. Enfin, pour les puristes, l'inclinaison maximale de la Terre c'était la veille vers 20h45 mais vous nous avez compris 😉. 

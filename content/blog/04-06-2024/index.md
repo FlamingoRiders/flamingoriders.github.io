@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 4 juin
 date: "2024-06-04"
 description: "Il pleut, il mouille le long du lac Jølstravatnet !"
+location: "Vestland, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

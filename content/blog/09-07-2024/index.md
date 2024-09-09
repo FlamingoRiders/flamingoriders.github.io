@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 09 juillet
 date: "2024-07-09"
 description: "Pluie fine et continue pour quitter les Vesterålen et rejoindre l'île de Senja !"
+location: "Troms, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

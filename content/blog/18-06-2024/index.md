@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 18 juin
 date: "2024-06-18"
 description: "On reprend la route vers le Nord et on fait un tas de superbes rencontres !"
+location: "Trondelag, Norvège"
+tags: ["scenic"]
 ---
 
 Aujourd'hui, on quitte **Trondheim** après deux belles journées de repos. On a beaucoup aimé cette ville, on y a trouvé ce qu'on aime particulièrement dans les villes norvégiennes à savoir une atmosphère détendue et chaleureuse.

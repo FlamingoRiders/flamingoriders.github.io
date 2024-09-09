@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 05 juillet
 date: "2024-07-05"
 description: "On foule la pelouse du Henningsvær stadion, lun des terrains de foot les plus insolites au monde !"
+location: "Nordland, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -2,6 +2,8 @@
 title: 🍬 Le salmiakki d'Eduardo du 29 juillet
 date: "2024-07-29"
 description: "On reprend vers le sud en longeant le Kemijoki, le plus long fleuve de Finlande !"
+location: "Rovaniemi, Laponie, Finlande"
+tags: ["culture"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

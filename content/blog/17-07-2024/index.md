@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 17 juillet
 date: "2024-07-17"
 description: "De la Laponie norvégienne à la Laponie finlandaise !"
+location: "Troms, Norvège"
+tags: ["scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

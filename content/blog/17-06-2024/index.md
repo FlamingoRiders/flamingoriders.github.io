@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 17 juin
 date: "2024-06-17"
 description: "Découverte de la belle Trondheim !"
+location: "Trondheim, Norvège"
+tags: ["heart", "culture"]
 ---
 
 Hier et aujourd'hui, on visite **Trondheim**. C'est la troisième plus grande ville du pays et d'une haute importance historique. 
@@ -28,7 +30,7 @@ La suite du vieux quartier de **Bakklandet** est vraiment remarquable avec ses m
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Od0QRnzwRBYmDU3eEO" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-### Centre-ville vivant 
+### Un centre-ville vivant 
 
 Le centre-ville présente une grande place piétonne avec de superbes adresses. On mangera dans deux bonnes pizzerias sur les trois jours où nous serons dans la ville. On brunchera aussi dans une bonne adresse. **Trondheim** est une ville qui a un fort attrait gastronomique même si nous ne mangerons pas dans ses restaurants étoilés 😋.
 

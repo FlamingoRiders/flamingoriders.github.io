@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 11 juillet
 date: "2024-07-11"
 description: "Quelques péripéties avant d'atteindre enfin Tromsø !"
+location: "Troms, Norvège"
+tags: ["scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

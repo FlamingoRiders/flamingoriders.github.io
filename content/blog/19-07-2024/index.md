@@ -2,6 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 19 juillet
 date: "2024-07-19"
 description: "100 kilomètres pour finir dans la même municipalité d'Enontekiö comptant seulement 2000 habitants, le dépaysement est total !"
+location: "Enontekiö, Laponie, Finlande"
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

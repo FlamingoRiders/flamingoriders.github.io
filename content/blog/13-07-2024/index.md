@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 13 juillet
 date: "2024-07-13"
 description: "Randonnée depuis la Cathédrale Arctique de Tromsø jusqu'à Fjellheisen et Fløya !"
+location: "Troms, Norvège"
+tags: ["heart", "hike", "culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

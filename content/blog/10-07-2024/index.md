@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 10 juillet
 date: "2024-07-10"
 description: "Une superbe randonnée au Husfjellet avec une vue à 360 degrés sur les merveilles de Senja !"
+location: "Troms, Norvège"
+tags: ["heart", "hike", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -2,6 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 23 juillet
 date: "2024-07-23"
 description: "On descend la Route Arctique et la future EuroVélo 11 !"
+location: "Sodankylä, Laponie, Finlande"
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

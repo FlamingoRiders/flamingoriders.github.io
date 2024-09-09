@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 19 juin
 date: "2024-06-19"
 description: "Une belle étape d'une centaine de kilomètres en direction de Namdalseid !"
+location: "Trondelag, Norvège"
+tags: ["scenic"]
 ---
 
 Aujourd'hui, on se réveille non loin de **Mosvik**. On est plusieurs sur le site de camping sauvage qui fut royal pour la nuit. Il y a toujours Léa de Zürich, Mika de Paris, deux autres suisses et un allemand qui est arrivé dans la soirée. Nous étions abrités sous un shelter et avons cuisiné sur le feu hier soir 😉.

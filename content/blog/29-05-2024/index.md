@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 29 mai
 date: "2024-05-29"
 description: "On monte au mont Ulriken et on descend à Bryggen !"
+location: "Vestland, Norvège"
+tags: ["heart", "unesco", "hike", "culture"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 27 juin
 date: "2024-06-27"
 description: "On se baigne au-delà du cercle polaire Arctique et on arrive à Bodø pour fêter un anniversaire très spécial !"
+location: "Nordland, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

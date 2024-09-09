@@ -2,6 +2,8 @@
 title: 🍬 Le salmiakki d'Eduardo du 26 juillet
 date: "2024-07-26"
 description: "Sur les hauteurs d'Ounasvaara qui surplombe Rovaniemi !"
+location: "Rovaniemi, Laponie, Finlande"
+tags: ["hike"]
 ---
 
 Pour cette deuxième journée à **Rovaniemi**, nous décidons de traverser l'un des ponts de la ville pour nous rendre sur la colline d'**Ounasvaara**. 

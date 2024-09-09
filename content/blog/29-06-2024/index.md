@@ -2,6 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 29 juin
 date: "2024-06-29"
 description: "On échappe à la tempête grâce à un abri de fortune sur l'île de Værøy !"
+location: "Nordland, Norvège"
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

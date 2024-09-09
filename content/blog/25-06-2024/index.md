@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 25 juin
 date: "2024-06-25"
 description: "On retrouve une incroyable team de champions cyclistes et on passe le cercle polaire Arctique !"
+location: "Nordland, Norvège"
+tags: ["heart", "scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

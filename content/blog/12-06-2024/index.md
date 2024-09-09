@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 12 juin
 date: "2024-06-12"
 description: "On roule sur l'eau grâce à l'Atlanterhavsvegen !"
+location: "Møre og Romsdal, Norvège"
+tags: ["scenic"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

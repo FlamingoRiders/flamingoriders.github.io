@@ -2,6 +2,8 @@
 title: 🐟 Le saumon d'Eduardo du 13 juin
 date: "2024-06-13"
 description: "À travers les îles de Frei, Tustna, Stabblandet et Ertvågsøya !"
+location: "Trondelag, Norvège"
+tags: ["scenic"]
 ---
 
 Ce matin, on quitte notre hytte sous un grand soleil et un beau ciel bleu. C'est merveilleux, **Sól**, la divinité nordique du soleil, a entendu nos prières. On ne voudrait pas fâcher **Thor** mais on est forcés d'admettre que c'est bien aussi quand il se calme un peu le pépère. 
