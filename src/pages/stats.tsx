@@ -1,13 +1,19 @@
 import React, { useCallback, useMemo, useState } from "react";
-import Layout from "components/layout/layout";
-import Seo from "components/layout/seo";
+import StatsLayout from "components/layout/stats";
 import { PageProps, graphql } from "gatsby";
 import { useStats } from "hooks/useStats";
 import Activities from "components/stats/activities";
 import Summary from "components/stats/summary";
 import CategoryPicker from "components/stats/category-picker";
 import { MonthStats } from "models/stats";
-import { AppSections } from "routes/app-routes";
+import Layout from "components/layout/layout";
+import Seo from "components/layout/seo";
+import { title } from "process";
+import { AppSections, AppRoutes } from "routes/app-routes";
+import { sep } from "path/posix";
+import BikeStats from "components/stats/bike-stats";
+import GeoStats from "components/stats/geo-stats";
+import TriviaStats from "components/stats/trivia-stats";
 
 type QueryReturn = {
   allStatsJson: {
@@ -23,78 +29,39 @@ type QueryReturn = {
   site: {
     siteMetadata: {
       title: string;
-      social: {
-        strava: string;
-      };
     };
   };
 };
 
 const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
-  const stravaLink = data.site.siteMetadata.social.strava;
   const allStats = data.allStatsJson.nodes;
-  const daysActiveCaption = "Jours pédalés";
   const stats = useStats(allStats);
 
-  const [selectedCategoryIndex, setSelectedCategoryIndex] = useState<number>(0);
+  const [selectedStatTab, setSelectedStatTab] = useState<number>(0);
 
-  const onSelectCategory = useCallback(
+  const onSelectTab = useCallback(
     (index: number) => {
-      setSelectedCategoryIndex(index);
+      setSelectedStatTab(index);
     },
-    [setSelectedCategoryIndex],
+    [setSelectedStatTab],
   );
-
-  const categories = [
-    "Global",
-    ...stats.monthStats.map((monthStat) => monthStat.month),
-  ];
-
-  const selectedMonthStat: MonthStats | undefined = useMemo(() => {
-    if (selectedCategoryIndex === 0) {
-      return undefined;
-    }
-
-    return stats.monthStats[selectedCategoryIndex - 1];
-  }, [selectedCategoryIndex]);
 
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title={AppSections.STATS} />
       <h1>📈📉 {AppSections.STATS}</h1>
-      <p>
-        Pour les amoureux des chiffres, retrouvez toutes nos activités sportives
-        sur <a href={`https://www.strava.com/athletes/${stravaLink}`}>Strava</a>
-        .
-      </p>
-      <>
-        <CategoryPicker
-          onSelectCategory={onSelectCategory}
-          categories={categories}
-          selectedIndex={selectedCategoryIndex}
-        />
-
-        {selectedMonthStat ? (
-          <>
-            <Summary
-              statisticsCaption={`Statistiques du mois`}
-              daysActiveCaption={daysActiveCaption}
-              summary={selectedMonthStat.summary}
-            />
-            <Activities
-              activities={selectedMonthStat.activities}
-              caption={`Détail des activités`}
-            />
-          </>
-        ) : (
-          <Summary
-            statisticsCaption={`Statistiques globales`}
-            daysActiveCaption={daysActiveCaption}
-            summary={stats.summary}
-          />
-        )}
-      </>
+      <p>Notre voyage en quelques chiffres clés !</p>
+      <div className="tabs is-centered">
+        <ul className="mb-0">
+          <li className={`is-clickable ${selectedStatTab === 0 ? 'is-active' : ''}`}><a onClick={() => onSelectTab(0)}>🚲 Vélo</a></li>
+          <li className={`is-clickable ${selectedStatTab === 1 ? 'is-active' : ''}`}><a onClick={() => onSelectTab(1)}>🌎 Géographie</a></li>
+          <li className={`is-clickable ${selectedStatTab === 2 ? 'is-active' : ''}`}><a onClick={() => onSelectTab(2)}>💡 Fun Facts</a></li>
+        </ul>
+      </div>
+      {selectedStatTab === 0 && <BikeStats stats={stats} />}
+      {selectedStatTab === 1 && <GeoStats />}
+      {selectedStatTab === 2 && <TriviaStats />}
     </Layout>
   );
 };
@@ -106,9 +73,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        social {
-          strava
-        }
       }
     }
     allStatsJson(sort: { date: DESC }) {

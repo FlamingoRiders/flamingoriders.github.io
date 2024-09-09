@@ -2,7 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 18 juin
 date: "2024-06-18"
 description: "On reprend la route vers le Nord et on fait un tas de superbes rencontres !"
-location: "Trondelag, Norvège"
+location: "Trøndelag, Norvège"
 tags: ["scenic"]
 ---
 

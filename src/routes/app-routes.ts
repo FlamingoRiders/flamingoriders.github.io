@@ -13,7 +13,7 @@ export enum AppSections {
   BLOG = "Le récit",
   PRESENTATION = "Qui sommes-nous ?",
   MAPS = "La carte",
-  STATS = "Les stats",
+  STATS = "Les chiffres",
   PREPARATION = "La préparation",
   TRACE = "Le tracé",
   EQUIPMENT = "Notre équipement",

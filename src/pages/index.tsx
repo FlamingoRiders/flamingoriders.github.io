@@ -65,8 +65,7 @@ const HomePage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           voir notre trajet sur chaque étape et depuis le début.
         </li>
         <li>
-          <Link to={AppRoutes.STATS}>{AppSections.STATS}</Link> pour une idée
-          plus concrète de nos journées à vélo.
+          Notre voyage en quelques <Link to={AppRoutes.STATS}>chiffres clés</Link>.
         </li>
       </ul>
       <p>
@@ -74,7 +73,7 @@ const HomePage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
         <a href={`https://www.polarsteps.com/${polarsteps}`}>Polarsteps</a> !
       </p>
       <p>N'hésitez pas à rafraîchir les pages si le contenu ne vous semble pas à jour, nous publions tous les jours. </p>
-    </Layout>
+    </Layout >
   );
 };
 

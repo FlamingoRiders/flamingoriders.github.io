@@ -2,7 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 19 juin
 date: "2024-06-19"
 description: "Une belle étape d'une centaine de kilomètres en direction de Namdalseid !"
-location: "Trondelag, Norvège"
+location: "Trøndelag, Norvège"
 tags: ["scenic"]
 ---
 

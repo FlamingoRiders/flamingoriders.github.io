@@ -2,7 +2,7 @@
 title: 🐟 Le saumon d'Eduardo du 13 juin
 date: "2024-06-13"
 description: "À travers les îles de Frei, Tustna, Stabblandet et Ertvågsøya !"
-location: "Trondelag, Norvège"
+location: "Trøndelag, Norvège"
 tags: ["scenic"]
 ---
 
