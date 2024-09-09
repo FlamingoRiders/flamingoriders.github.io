@@ -21,3 +21,8 @@ export const getFullDate = (value: string): string => {
     timeZone: "Europe/Paris",
   }).format(date);
 };
+
+export const getPostDate = (value: string): string => {
+  const date = new Date(value);
+  return new Intl.DateTimeFormat('fr-FR').format(date).replace(/\//g, '-');
+};

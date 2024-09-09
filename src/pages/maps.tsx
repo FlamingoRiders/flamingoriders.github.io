@@ -23,12 +23,14 @@ type QueryReturn = {
   site: {
     siteMetadata: {
       title: string;
+      siteUrl: string;
     };
   };
 };
 const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const allPositions = data.allStatsJson.nodes;
+  const siteUrl = data.site.siteMetadata.siteUrl;
 
   const {
     startDate,
@@ -56,6 +58,7 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
       <SimpleMap
         positionMarkers={allPositions}
         displayedPositionMarker={displayedPositionMarker}
+        siteUrl={siteUrl}
       />
       <br />
       <Step
@@ -79,6 +82,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
     allStatsJson(sort: { date: ASC }) {

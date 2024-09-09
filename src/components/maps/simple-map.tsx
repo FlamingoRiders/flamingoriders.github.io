@@ -7,24 +7,26 @@ import {
   Popup,
   Polyline,
 } from "react-leaflet";
-import { getDayOfWeek } from "utils/date";
+import { getDayOfWeek, getPostDate } from "utils/date";
 
-const CENTER = [59.980488, 13, 8793165];
+const CENTER = [60.980488, 13, 8793165];
 
 interface SimpleMapProps {
   positionMarkers: Array<PositionMarker>;
   displayedPositionMarker?: PositionMarker;
+  siteUrl: string;
 }
 
 const SimpleMap: React.FC<SimpleMapProps> = ({
   positionMarkers,
   displayedPositionMarker,
+  siteUrl
 }) => {
   return (
     <>
       <MapContainer
-        style={{ height: "400px", zIndex: 10 }}
-        center={displayedPositionMarker?.startPos || CENTER}
+        style={{ height: "500px", zIndex: 10 }}
+        center={CENTER}
         zoom={4}
         scrollWheelZoom={true}
         placeholder={
@@ -40,7 +42,7 @@ const SimpleMap: React.FC<SimpleMapProps> = ({
         />
         {displayedPositionMarker && (
           <Marker position={displayedPositionMarker.endPos}>
-            <Popup>{getDayOfWeek(displayedPositionMarker.date)}</Popup>
+            <Popup><a href={`${siteUrl}/${getPostDate(displayedPositionMarker.date)}`}>Accéder au récit du {getDayOfWeek(displayedPositionMarker.date)}</a></Popup>
           </Marker>
         )}
         {positionMarkers
