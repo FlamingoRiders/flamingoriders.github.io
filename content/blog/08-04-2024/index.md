@@ -1,8 +1,8 @@
 ---
 title: 🍺 La bière d'Eduardo du 8 avril
 date: "2024-04-08"
-description: "Sous le soleil de Bruxelles, Mechelen, Boom et Anvers."
-location: "Flandre, Belgique"
+description: "Sous le soleil de Bruxelles, Mechelen, Boom et Anvers !"
+location: "Anvers, Flandre, Belgique"
 tags: ["heart"]
 ---
 

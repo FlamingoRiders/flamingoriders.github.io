@@ -2,7 +2,7 @@
 title: ☕ Le café d'Eduardo du 31 mars
 date: "2024-03-31"
 description: "Le jour tant attendu du grand départ, allez c'est parti ! Une journée au top avec les amis et la météo en prime."
-location: "Seine-et-Marne, France"
+location: "Seine-et-Marne, Île-de-France, France"
 ---
 
 ![Café d'Eduardo](../cafe_eduardo.png)

@@ -2,7 +2,7 @@
 title: ☕ Le café d'Eduardo du 3 avril
 date: "2024-04-03"
 description: "Dédicacé à tous ceux qui viennent des petits patelins !"
-location: "Aisne, France"
+location: "Aisne, Hauts-de-France, France"
 ---
 
 ![Café d'Eduardo](../cafe_eduardo.png)

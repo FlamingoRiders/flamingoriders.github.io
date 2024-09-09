@@ -2,7 +2,7 @@
 title: 🍺 La bière d'Eduardo du 5 avril
 date: "2024-04-05"
 description: "Bye bye Chti'land, hello Belgium !"
-location: "Wallonie, Belgique"
+location: "Hainaut, Wallonie, Belgique"
 ---
 
 ![Bière d'Eduardo](../biere_eduardo.png)

@@ -2,7 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 26 août
 date: "2024-08-26"
 description: "On débarque sur l'archipel d'Åland !"
-location: "Åland, Finlande"
+location: "Sund, Åland, Finlande"
 tags: ["heart", "scenic", "culture"]
 ---
 

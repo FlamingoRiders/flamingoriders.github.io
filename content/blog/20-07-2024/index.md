@@ -2,7 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 20 juillet
 date: "2024-07-20"
 description: "Deuxième journée le long de la frontière entre la Finlande et la Suède !"
-location: "Enontekiö, Finlande"
+location: "Enontekiö, Laponie, Finlande"
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

@@ -2,7 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 25 juillet
 date: "2024-07-25"
 description: "Repos bien mérité à Rovaniemi !"
-location: "Rovaniemi, Finlande"
+location: "Rovaniemi, Laponie, Finlande"
 tags: ["culture"]
 ---
 

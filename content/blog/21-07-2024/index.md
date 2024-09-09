@@ -2,7 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 21 juillet
 date: "2024-07-21"
 description: "On traverse le sublime parc national de Pallas-Yllästunturi !"
-location: "Kittilä, Finlande"
+location: "Kittilä, Laponie, Finlande"
 tags: ["heart", "scenic"]
 ---
 
