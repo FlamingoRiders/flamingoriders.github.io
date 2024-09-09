@@ -2,6 +2,7 @@
 title: 🥮 Le kanelbulle d'Eduardo du 17 août
 date: "2024-08-17"
 description: "Encore une journée 'rock n roll' sur les chemins blancs du comté de Gävleborg !"
+location: "Gävleborg, Suède"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

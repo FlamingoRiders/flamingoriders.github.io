@@ -2,7 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 24 juillet
 date: "2024-07-24"
 description: "On rallie Rovaniemi en franchissant Napapiiri et en faisant coucou au Joulupukki !"
-location: "Rovaniemi, Laponie, Finlande"
+location: "Rovaniemi, Finlande"
 tags: ["culture"]
 ---
 

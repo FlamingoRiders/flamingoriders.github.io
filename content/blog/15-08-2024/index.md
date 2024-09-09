@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 15 août
 date: "2024-08-15"
 description: "De nombreux lacs et de superbes baies dans le golfe de Botnie !"
+location: "Västernorrland, Suède"
+tags: ["scenic"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

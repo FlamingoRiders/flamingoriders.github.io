@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 23 août
 date: "2024-08-23"
 description: "Une après-midi dans le Norrmalm avant de rejoindre le Södermalm pour la soirée !"
+location: "Stockholm, Suède"
+tags: ["heart", "culture"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

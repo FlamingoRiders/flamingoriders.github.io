@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 29 août
 date: "2024-08-29"
 description: "On quitte les îles Åland pour retourner à Stockholm !"
+location: "Stockholm, Suède"
+tags: ["heart", "scenic"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

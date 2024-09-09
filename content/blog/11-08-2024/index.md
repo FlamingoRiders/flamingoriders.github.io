@@ -2,6 +2,7 @@
 title: 🥮 Le kanelbulle d'Eduardo du 11 août
 date: "2024-08-11"
 description: "On débarque dans le comté de Västernorrland et c'est une véritable soufflerie !"
+location: "Västernorrland, Suède"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

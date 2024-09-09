@@ -2,6 +2,7 @@
 title: 🥮 Le kanelbulle d'Eduardo du 31 juillet
 date: "2024-07-31"
 description: "On rejoint la Suède et l'île de Seskarö dans l'archipel d'Haparanda !"
+location: "Norrbotten, Suède"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

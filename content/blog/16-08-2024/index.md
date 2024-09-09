@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 16 août
 date: "2024-08-16"
 description: "Journée épique en suivant la Kustvägen du comté de Västernorrland à celui de Gävleborg !"
+location: "Gävleborg, Suède"
+tags: ["heart", "scenic"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

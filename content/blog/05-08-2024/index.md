@@ -2,6 +2,7 @@
 title: 🥮 Le kanelbulle d'Eduardo du 05 août
 date: "2024-08-05"
 description: "On rejoint le comté de Västerbotten !"
+location: "Västerbotten, Suède"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

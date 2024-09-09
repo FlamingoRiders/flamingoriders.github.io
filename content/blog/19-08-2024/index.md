@@ -2,6 +2,7 @@
 title: 🥮 Le kanelbulle d'Eduardo du 19 août
 date: "2024-08-19"
 description: "On quitte le comté de Gävleborg après avoir vu sa capitale, Gävle !"
+location: "Uppsala, Suède"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

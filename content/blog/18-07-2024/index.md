@@ -2,7 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 18 juillet
 date: "2024-07-18"
 description: "Une randonnée de 25 kilomètres pour se rendre au Treriksröset, le tripoint entre la Finlande, la Norvège et la Suède !"
-location: "Enontekiö, Laponie, Finlande"
+location: "Enontekiö, Finlande"
 tags: ["hike"]
 ---
 

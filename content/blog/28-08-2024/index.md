@@ -2,6 +2,8 @@
 title: 🍬 Le salmiakki d'Eduardo du 28 août
 date: "2024-08-28"
 description: "On se rend de l'autre côté de Fasta Åland jusqu'au superbe spot de Kattnäs !"
+location: "Åland, Finlande"
+tags: ["heart", "scenic"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

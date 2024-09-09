@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 14 août
 date: "2024-08-14"
 description: "On emprunte le plus grand pont suspendu de Suède pour quitter la Höga Kusten !"
+location: "Västernorrland, Suède"
+tags: ["heart", "scenic"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

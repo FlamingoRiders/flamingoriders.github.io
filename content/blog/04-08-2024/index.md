@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 04 août
 date: "2024-08-04"
 description: "On reprend la route et on s'arrête par hasard non loin d'Öjeby Kyrkstad, une ville-église remarquable !"
+location: "Norrbotten, Suède"
+tags: ["culture"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

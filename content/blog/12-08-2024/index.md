@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 12 août
 date: "2024-08-12"
 description: "On grimpe au Skuleberget, la ligne de côte la plus haute du monde !"
+location: "Västernorrland, Suède"
+tags: ["heart", "unesco", "hike"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

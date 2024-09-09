@@ -2,6 +2,8 @@
 title: 🍬 Le salmiakki d'Eduardo du 30 juillet
 date: "2024-07-30"
 description: "On roule jusqu'à Tornio, à deux doigts de la mer Baltique et de la Suède !"
+location: "Tornio, Finlande"
+tags: ["culture"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

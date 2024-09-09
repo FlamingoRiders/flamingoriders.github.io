@@ -2,6 +2,7 @@
 title: 🥮 Le kanelbulle d'Eduardo du 10 août
 date: "2024-08-10"
 description: "On continue de descendre le long du golfe de Botnie !"
+location: "Västerbotten, Suède"
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

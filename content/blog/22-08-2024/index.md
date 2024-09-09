@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 22 août
 date: "2024-08-22"
 description: "Gamla Stan, Skeppsholmen, Östermalm, Kungsholmen : Une première journée de visite à Stockholm bien remplie !"
+location: "Stockholm, Suède"
+tags: ["heart", "culture"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

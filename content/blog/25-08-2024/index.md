@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 25 août
 date: "2024-08-25"
 description: "On visite le Vasa, un impressionnant navire de guerre qui a coulé lors de son trajet inaugural avant d'être renfloué 333 ans plus tard !"
+location: "Stockholm, Suède"
+tags: ["heart", "culture"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

@@ -2,6 +2,8 @@
 title: 🍬 Le salmiakki d'Eduardo du 27 août
 date: "2024-08-27"
 description: "Visite de la forteresse de Bomarsund, du point culminant de l'archipel d'Åland et découverte de la gastronomie locale !"
+location: "Åland, Finlande"
+tags: ["heart", "hike", "culture"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

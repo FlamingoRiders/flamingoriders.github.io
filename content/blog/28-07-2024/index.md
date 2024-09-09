@@ -2,7 +2,7 @@
 title: 🍬 Le salmiakki d'Eduardo du 28 juillet
 date: "2024-07-28"
 description: "Un petit sauna pour finir notre visite de Rovaniemi !"
-location: "Rovaniemi, Laponie, Finlande"
+location: "Rovaniemi, Finlande"
 tags: ["culture"]
 ---
 

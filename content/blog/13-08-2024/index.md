@@ -2,6 +2,8 @@
 title: 🥮 Le kanelbulle d'Eduardo du 13 août
 date: "2024-08-13"
 description: "Les merveilles du Skuleskogen National Park !"
+location: "Västernorrland, Suède"
+tags: ["heart", "hike"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
