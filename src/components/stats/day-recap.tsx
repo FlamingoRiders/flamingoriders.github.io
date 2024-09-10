@@ -26,7 +26,7 @@ const DayRecap: React.FC<DayRecapProps> = ({
         {weather && <div style={{ fontSize: "3rem" }}>{weather}</div>}
       </div>
 
-      <table>
+      {time && distance && <table>
         <thead>
           <tr>
             <th align="center">Temps écoulé</th>
@@ -39,7 +39,7 @@ const DayRecap: React.FC<DayRecapProps> = ({
             <td align="center">🚲 {formatInUnit(distance, Unit.DISTANCE)}</td>
           </tr>
         </tbody>
-      </table>
+      </table>}
       {mood && <MoodBar mood={mood} />}
       <p>
         Retrouvez toutes les photos de la journée sur{" "}

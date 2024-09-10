@@ -36,7 +36,7 @@ const BikeStats: React.FC<BikeStatsProps> = ({ stats }) => {
 
     return (
         <>
-            <p>Les stats pour une idée plus concrète de nos journées à vélo.</p>
+            <p>Retrouvez le détail kilométrique de nos journées à vélo.</p>
             <CategoryPicker
                 onSelectCategory={onSelectCategory}
                 categories={categories}

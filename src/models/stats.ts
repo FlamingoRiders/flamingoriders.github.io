@@ -4,6 +4,7 @@ export interface Activity {
   time: string;
   averageSpeed: number;
   elevationGain: number;
+  endCountryName: string;
 }
 
 export interface Summary {
@@ -41,4 +42,9 @@ export interface MonthStats {
 export interface AllStats {
   monthStats: Array<MonthStats>;
   summary: Summary;
+}
+
+export interface CountryStats {
+  days: number;
+  distance: number;
 }

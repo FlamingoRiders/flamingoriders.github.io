@@ -10,7 +10,8 @@
     "mood": 4,
     "weather": "🌧️",
     "startPointName": "Seskarö",
-    "endPointName": "Töre"
+    "endPointName": "Töre",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-02",
@@ -23,7 +24,18 @@
     "mood": 4,
     "weather": "☁️",
     "startPointName": "Töre",
-    "endPointName": "Luleå"
+    "endPointName": "Luleå",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-03",
+    "startPos": [65.594655, 22.071899],
+    "endPos": [65.594655, 22.071899],
+    "mood": 4,
+    "weather": "☁️",
+    "startPointName": "Luleå",
+    "endPointName": "Luleå",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-04",
@@ -36,7 +48,8 @@
     "mood": 4,
     "weather": "🌥️",
     "startPointName": "Luleå",
-    "endPointName": "Öjebyn"
+    "endPointName": "Öjebyn",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-05",
@@ -49,7 +62,8 @@
     "mood": 3,
     "weather": "🌤️",
     "startPointName": "Öjebyn",
-    "endPointName": "Byske"
+    "endPointName": "Byske",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-06",
@@ -62,7 +76,8 @@
     "mood": 4,
     "weather": "☀️",
     "startPointName": "Byske",
-    "endPointName": "Burträsk"
+    "endPointName": "Burträsk",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-07",
@@ -75,7 +90,28 @@
     "mood": 4,
     "weather": "☀️",
     "startPointName": "Burträsk",
-    "endPointName": "Umeå"
+    "endPointName": "Umeå",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-08",
+    "startPos": [63.842284, 20.341314],
+    "endPos": [63.842284, 20.341314],
+    "mood": 4,
+    "weather": "☁️",
+    "startPointName": "Umeå",
+    "endPointName": "Umeå",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-09",
+    "startPos": [63.842284, 20.341314],
+    "endPos": [63.842284, 20.341314],
+    "mood": 4,
+    "weather": "☁️",
+    "startPointName": "Umeå",
+    "endPointName": "Umeå",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-10",
@@ -88,7 +124,8 @@
     "mood": 3,
     "weather": "🌤️",
     "startPointName": "Umeå",
-    "endPointName": "Nordmaling"
+    "endPointName": "Nordmaling",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-11",
@@ -101,7 +138,8 @@
     "mood": 3,
     "weather": "🌥️",
     "startPointName": "Nordmaling",
-    "endPointName": "Överhörnäs"
+    "endPointName": "Överhörnäs",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-12",
@@ -114,7 +152,18 @@
     "mood": 5,
     "weather": "🌦️",
     "startPointName": "Överhörnäs",
-    "endPointName": "Docksta"
+    "endPointName": "Docksta",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-13",
+    "startPos": [63.107665, 18.4882666],
+    "endPos": [63.107665, 18.4882666],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Skuleskogen",
+    "endPointName": "Skuleskogen",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-14",
@@ -127,7 +176,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Docksta",
-    "endPointName": "Härnösand"
+    "endPointName": "Härnösand",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-15",
@@ -140,7 +190,8 @@
     "mood": 4,
     "weather": "⛅",
     "startPointName": "Härnösand",
-    "endPointName": "Sundsvall"
+    "endPointName": "Sundsvall",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-16",
@@ -153,7 +204,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Sundsvall",
-    "endPointName": "Mellanfjärden"
+    "endPointName": "Mellanfjärden",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-17",
@@ -166,7 +218,8 @@
     "mood": 4,
     "weather": "☀️",
     "startPointName": "Mellanfjärden",
-    "endPointName": "Enånger"
+    "endPointName": "Enånger",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-18",
@@ -179,7 +232,8 @@
     "mood": 4,
     "weather": "🌥️",
     "startPointName": "Enånger",
-    "endPointName": "Axmar"
+    "endPointName": "Axmar",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-19",
@@ -192,7 +246,8 @@
     "mood": 4,
     "weather": "☀️",
     "startPointName": "Axmar",
-    "endPointName": "Älvkarleby"
+    "endPointName": "Älvkarleby",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-20",
@@ -205,7 +260,8 @@
     "mood": 3,
     "weather": "⛅",
     "startPointName": "Älvkarleby",
-    "endPointName": "Uppsala"
+    "endPointName": "Uppsala",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-08-21",
@@ -218,6 +274,123 @@
     "mood": 4,
     "weather": "🌦️",
     "startPointName": "Uppsala",
-    "endPointName": "Stockholm"
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-22",
+    "startPos": [59.359546, 17.960127],
+    "endPos": [59.359546, 17.960127],
+    "mood": 5,
+    "weather": "⛅",
+    "startPointName": "Stockholm",
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-23",
+    "startPos": [59.359546, 17.960127],
+    "endPos": [59.359546, 17.960127],
+    "mood": 5,
+    "weather": "⛅",
+    "startPointName": "Stockholm",
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-24",
+    "startPos": [59.359546, 17.960127],
+    "endPos": [59.359546, 17.960127],
+    "mood": 5,
+    "weather": "⛅",
+    "startPointName": "Stockholm",
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-25",
+    "startPos": [59.359546, 17.960127],
+    "endPos": [59.359546, 17.960127],
+    "mood": 5,
+    "weather": "⛅",
+    "startPointName": "Stockholm",
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-26",
+    "startPos": [59.359546, 17.960127],
+    "endPos": [60.214530, 20.232295],
+    "distance": 51.38,
+    "time": "03h14",
+    "averageSpeed": 15.8,
+    "elevationGain": 415,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Stockholm",
+    "endPointName": "Bomarsund",
+    "endCountryName": "Finlande"
+  },
+  {
+    "date": "2024-08-27",
+    "startPos": [60.214530, 20.232295],
+    "endPos": [60.214530, 20.232295],
+    "distance": 48.02,
+    "time": "02h56",
+    "averageSpeed": 16.3,
+    "elevationGain": 484,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Bomarsund",
+    "endPointName": "Bomarsund",
+    "endCountryName": "Finlande"
+  },
+  {
+    "date": "2024-08-28",
+    "startPos": [60.214530, 20.232295],
+    "endPos": [60.196132, 19.689705],
+    "distance": 40.75,
+    "time": "02h41",
+    "averageSpeed": 15.2,
+    "elevationGain": 322,
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Bomarsund",
+    "endPointName": "Kättnas",
+    "endCountryName": "Finlande"
+  },
+  {
+    "date": "2024-08-29",
+    "startPos": [60.196132, 19.689705],
+    "endPos": [59.318275, 18.0254781],
+    "distance": 30.47,
+    "time": "02h06",
+    "averageSpeed": 14.5,
+    "elevationGain": 168,
+    "mood": 5,
+    "weather": "🌦️",
+    "startPointName": "Kättnas",
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-30",
+    "startPos": [59.318275, 18.0254781],
+    "endPos": [59.318275, 18.0254781],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Stockholm",
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
+  },
+  {
+    "date": "2024-08-31",
+    "startPos": [59.318275, 18.0254781],
+    "endPos": [59.318275, 18.0254781],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Stockholm",
+    "endPointName": "Stockholm",
+    "endCountryName": "Suède"
   }
 ]

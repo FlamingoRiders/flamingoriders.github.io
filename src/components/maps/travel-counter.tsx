@@ -20,13 +20,13 @@ const TravelCounter: React.FC<TravelCounterProps> = ({
         </tr>
       </thead>
       <tbody>
-        <tr>
+        {displayedPositionMarker.time && displayedPositionMarker.distance && <tr>
           <th scope="row">Sur l'étape</th>
           <td>{displayedPositionMarker.time}</td>
           <td>
             {formatInUnit(displayedPositionMarker.distance, Unit.DISTANCE)}
           </td>
-        </tr>
+        </tr>}
         <tr>
           <th scope="row">Depuis le départ</th>
           <td>{cumulatedPositionMarker.time}</td>

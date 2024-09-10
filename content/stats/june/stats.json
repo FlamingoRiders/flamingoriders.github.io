@@ -10,7 +10,8 @@
     "mood": 4,
     "weather": "⛅",
     "startPointName": "Bergen",
-    "endPointName": "Bøvågen"
+    "endPointName": "Bøvågen",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-02",
@@ -23,7 +24,8 @@
     "mood": 4,
     "weather": "🌥️",
     "startPointName": "Bøvågen",
-    "endPointName": "Leirvik"
+    "endPointName": "Leirvik",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-03",
@@ -36,7 +38,8 @@
     "mood": 2,
     "weather": "🌧️",
     "startPointName": "Leirvik",
-    "endPointName": "Førde"
+    "endPointName": "Førde",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-04",
@@ -49,7 +52,18 @@
     "mood": 2,
     "weather": "🌧️",
     "startPointName": "Førde",
-    "endPointName": "Byrkelo"
+    "endPointName": "Byrkelo",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-06-05",
+    "startPos": [61.7314833, 6.4072713],
+    "endPos": [61.7314833, 6.4072713],
+    "mood": 3,
+    "weather": "🌧️",
+    "startPointName": "Byrkelo",
+    "endPointName": "Byrkelo",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-06",
@@ -62,7 +76,8 @@
     "mood": 5,
     "weather": "🌦️",
     "startPointName": "Byrkelo",
-    "endPointName": "Loen"
+    "endPointName": "Loen",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-07",
@@ -75,7 +90,18 @@
     "mood": 5,
     "weather": "🌥️",
     "startPointName": "Loen",
-    "endPointName": "Hellesylt"
+    "endPointName": "Hellesylt",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-06-08",
+    "startPos": [62.0988151, 7.1990516],
+    "endPos": [62.0988151, 7.1990516],
+    "mood": 5,
+    "weather": "🌥️",
+    "startPointName": "Geiranger",
+    "endPointName": "Geiranger",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-09",
@@ -88,7 +114,8 @@
     "mood": 4,
     "weather": "🌧️",
     "startPointName": "Hellesylt",
-    "endPointName": "Valldal"
+    "endPointName": "Valldal",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-10",
@@ -101,7 +128,8 @@
     "mood": 5,
     "weather": "🌧️",
     "startPointName": "Valldal",
-    "endPointName": "Måndalen"
+    "endPointName": "Måndalen",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-11",
@@ -114,7 +142,8 @@
     "mood": 4,
     "weather": "🌦️",
     "startPointName": "Måndalen",
-    "endPointName": "Malmefjorden"
+    "endPointName": "Malmefjorden",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-12",
@@ -127,7 +156,8 @@
     "mood": 4,
     "weather": "🌧️",
     "startPointName": "Malmefjorden",
-    "endPointName": "Kristiansund"
+    "endPointName": "Kristiansund",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-13",
@@ -140,7 +170,8 @@
     "mood": 4,
     "weather": "🌦️",
     "startPointName": "Kristiansund",
-    "endPointName": "Heim"
+    "endPointName": "Heim",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-14",
@@ -153,7 +184,8 @@
     "mood": 4,
     "weather": "🌦️",
     "startPointName": "Heim",
-    "endPointName": "Fannrem"
+    "endPointName": "Fannrem",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-15",
@@ -166,7 +198,28 @@
     "mood": 4,
     "weather": "🌤️",
     "startPointName": "Fannrem",
-    "endPointName": "Trondheim"
+    "endPointName": "Trondheim",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-06-16",
+    "startPos": [63.422403, 10.385359],
+    "endPos": [63.422403, 10.385359],
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Trondheim",
+    "endPointName": "Trondheim",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-06-17",
+    "startPos": [63.422403, 10.385359],
+    "endPos": [63.422403, 10.385359],
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Trondheim",
+    "endPointName": "Trondheim",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-18",
@@ -179,7 +232,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Trondheim",
-    "endPointName": "Mosvik"
+    "endPointName": "Mosvik",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-19",
@@ -192,7 +246,8 @@
     "mood": 5,
     "weather": "☁️",
     "startPointName": "Mosvik",
-    "endPointName": "Namdalseid"
+    "endPointName": "Namdalseid",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-20",
@@ -205,7 +260,8 @@
     "mood": 2,
     "weather": "🌧️",
     "startPointName": "Namdalseid",
-    "endPointName": "Leka"
+    "endPointName": "Leka",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-21",
@@ -218,7 +274,8 @@
     "mood": 3,
     "weather": "🌧️",
     "startPointName": "Leka",
-    "endPointName": "Vennesund"
+    "endPointName": "Vennesund",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-22",
@@ -231,7 +288,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Vennesund",
-    "endPointName": "Offersøy"
+    "endPointName": "Offersøy",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-23",
@@ -244,7 +302,8 @@
     "mood": 3,
     "weather": "🌧️",
     "startPointName": "Offersøy",
-    "endPointName": "Leirfjord"
+    "endPointName": "Leirfjord",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-24",
@@ -257,7 +316,8 @@
     "mood": 3,
     "weather": "🌧️",
     "startPointName": "Leirfjord",
-    "endPointName": "Hilstad"
+    "endPointName": "Hilstad",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-25",
@@ -270,7 +330,8 @@
     "mood": 5,
     "weather": "☁️",
     "startPointName": "Hilstad",
-    "endPointName": "Forøy"
+    "endPointName": "Forøy",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-26",
@@ -283,7 +344,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Forøy",
-    "endPointName": "Saltstraumen"
+    "endPointName": "Saltstraumen",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-27",
@@ -296,7 +358,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Saltstraumen",
-    "endPointName": "Bodø"
+    "endPointName": "Bodø",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-06-28",
@@ -309,6 +372,27 @@
     "mood": 5,
     "weather": "🌥️",
     "startPointName": "Bodø",
-    "endPointName": "Værøy"
+    "endPointName": "Værøy",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-06-29",
+    "startPos": [67.6526089, 12.7080487],
+    "endPos": [67.6526089, 12.7080487],
+    "mood": 3,
+    "weather": "🌧️",
+    "startPointName": "Værøy",
+    "endPointName": "Værøy",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-06-30",
+    "startPos": [67.6751601, 12.6669899],
+    "endPos": [67.6751601, 12.6669899],
+    "mood": 5,
+    "weather": "🌦️",
+    "startPointName": "Værøy",
+    "endPointName": "Værøy",
+    "endCountryName": "Norvège"
   }
 ]

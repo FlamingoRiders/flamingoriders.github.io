@@ -10,7 +10,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Ostermade",
-    "endPointName": "Sakskøbing"
+    "endPointName": "Sakskøbing",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-02",
@@ -23,7 +24,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Sakskøbing",
-    "endPointName": "Stege"
+    "endPointName": "Stege",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-03",
@@ -36,7 +38,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Stege",
-    "endPointName": "Strøby"
+    "endPointName": "Strøby",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-04",
@@ -49,7 +52,38 @@
     "mood": 5,
     "weather": "☁️",
     "startPointName": "Strøby",
-    "endPointName": "København"
+    "endPointName": "København",
+    "endCountryName": "Danemark"
+  },
+  {
+    "date": "2024-05-05",
+    "startPos": [55.658023, 12.562495],
+    "endPos": [55.658023, 12.562495],
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "København",
+    "endPointName": "København",
+    "endCountryName": "Danemark"
+  },
+  {
+    "date": "2024-05-06",
+    "startPos": [55.658023, 12.562495],
+    "endPos": [55.658023, 12.562495],
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "København",
+    "endPointName": "København",
+    "endCountryName": "Danemark"
+  },
+  {
+    "date": "2024-05-07",
+    "startPos": [55.5702379, 12.9335723],
+    "endPos": [55.5702379, 12.9335723],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Malmö",
+    "endPointName": "Malmö",
+    "endCountryName": "Suède"
   },
   {
     "date": "2024-05-08",
@@ -62,7 +96,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "København",
-    "endPointName": "Frederiksværk"
+    "endPointName": "Frederiksværk",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-09",
@@ -75,7 +110,8 @@
     "mood": 5,
     "weather": "☁️",
     "startPointName": "Frederiksværk",
-    "endPointName": "Aarhus"
+    "endPointName": "Aarhus",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-10",
@@ -88,7 +124,8 @@
     "mood": 5,
     "weather": "⛅",
     "startPointName": "Aarhus",
-    "endPointName": "Hobro"
+    "endPointName": "Hobro",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-11",
@@ -101,7 +138,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Hobro",
-    "endPointName": "Aalborg"
+    "endPointName": "Aalborg",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-12",
@@ -114,7 +152,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Aalborg",
-    "endPointName": "Frederikshavn"
+    "endPointName": "Frederikshavn",
+    "endCountryName": "Danemark"
   },
   {
     "date": "2024-05-13",
@@ -127,7 +166,48 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Frederikshavn",
-    "endPointName": "Oslo"
+    "endPointName": "Oslo",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-14",
+    "startPos": [59.933484, 10.720398],
+    "endPos": [59.933484, 10.720398],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Oslo",
+    "endPointName": "Oslo",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-15",
+    "startPos": [59.933484, 10.720398],
+    "endPos": [59.933484, 10.720398],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Oslo",
+    "endPointName": "Oslo",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-16",
+    "startPos": [59.933484, 10.720398],
+    "endPos": [59.933484, 10.720398],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Oslo",
+    "endPointName": "Oslo",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-17",
+    "startPos": [59.933484, 10.720398],
+    "endPos": [59.933484, 10.720398],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Oslo",
+    "endPointName": "Oslo",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-18",
@@ -140,7 +220,8 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Oslo",
-    "endPointName": "Vestfossen"
+    "endPointName": "Vestfossen",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-19",
@@ -153,7 +234,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Vestfossen",
-    "endPointName": "Notodden"
+    "endPointName": "Notodden",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-20",
@@ -166,7 +248,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Notodden",
-    "endPointName": "Åmotsdal"
+    "endPointName": "Åmotsdal",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-21",
@@ -179,7 +262,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Åmotsdal",
-    "endPointName": "Edland"
+    "endPointName": "Edland",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-22",
@@ -192,7 +276,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Edland",
-    "endPointName": "Røldal"
+    "endPointName": "Røldal",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-23",
@@ -205,7 +290,18 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Røldal",
-    "endPointName": "Nå"
+    "endPointName": "Nå",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-24",
+    "startPos": [60.184024, 6.551916],
+    "endPos": [60.184024, 6.551916],
+    "mood": 5,
+    "weather": "☁️",
+    "startPointName": "Nå",
+    "endPointName": "Nå",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-25",
@@ -218,7 +314,8 @@
     "mood": 5,
     "weather": "⛅",
     "startPointName": "Nå",
-    "endPointName": "Norheimsund"
+    "endPointName": "Norheimsund",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-26",
@@ -231,7 +328,8 @@
     "mood": 3,
     "weather": "🌥️",
     "startPointName": "Norheimsund",
-    "endPointName": "Samnanger"
+    "endPointName": "Samnanger",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-05-27",
@@ -244,6 +342,47 @@
     "mood": 3,
     "weather": "🌧️",
     "startPointName": "Samnanger",
-    "endPointName": "Bergen"
+    "endPointName": "Bergen",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-28",
+    "startPos": [60.3717343, 5.3664357],
+    "endPos": [60.3717343, 5.3664357],
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Bergen",
+    "endPointName": "Bergen",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-29",
+    "startPos": [60.3717343, 5.3664357],
+    "endPos": [60.3717343, 5.3664357],
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Bergen",
+    "endPointName": "Bergen",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-30",
+    "startPos": [60.3717343, 5.3664357],
+    "endPos": [60.3717343, 5.3664357],
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Bergen",
+    "endPointName": "Bergen",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-05-31",
+    "startPos": [60.8584343, 7.092247],
+    "endPos": [60.8584343, 7.092247],
+    "mood": 5,
+    "weather": "🌥️",
+    "startPointName": "Flåm",
+    "endPointName": "Flåm",
+    "endCountryName": "Norvège"
   }
 ]

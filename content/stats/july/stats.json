@@ -10,7 +10,18 @@
     "mood": 5,
     "weather": "☀️",
     "startPointName": "Værøy",
-    "endPointName": "Moskenes"
+    "endPointName": "Moskenes",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-07-02",
+    "startPos": [67.9276955, 13.0562175],
+    "endPos": [67.9276955, 13.0562175],
+    "mood": 5,
+    "weather": "☀️",
+    "startPointName": "Moskenes",
+    "endPointName": "Moskenes",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-03",
@@ -23,7 +34,8 @@
     "mood": 5,
     "weather": "☁️",
     "startPointName": "Moskenes",
-    "endPointName": "Ramberg"
+    "endPointName": "Ramberg",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-04",
@@ -36,7 +48,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Ramberg",
-    "endPointName": "Stamsund"
+    "endPointName": "Stamsund",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-05",
@@ -49,7 +62,18 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Stamsund",
-    "endPointName": "Svolvær"
+    "endPointName": "Svolvær",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-07-06",
+    "startPos": [68.247507, 14.550653],
+    "endPos": [68.247507, 14.550653],
+    "mood": 2,
+    "weather": "🌧️",
+    "startPointName": "Svolvær",
+    "endPointName": "Svolvær",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-07",
@@ -62,7 +86,8 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Svolvær",
-    "endPointName": "Sortland"
+    "endPointName": "Sortland",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-08",
@@ -75,7 +100,8 @@
     "mood": 5,
     "weather": "🌧️",
     "startPointName": "Sortland",
-    "endPointName": "Bleik"
+    "endPointName": "Bleik",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-09",
@@ -88,7 +114,8 @@
     "mood": 5,
     "weather": "🌧️",
     "startPointName": "Bleik",
-    "endPointName": "Skaland"
+    "endPointName": "Skaland",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-10",
@@ -101,7 +128,8 @@
     "mood": 5,
     "weather": "⛅",
     "startPointName": "Skaland",
-    "endPointName": "Botnhamn"
+    "endPointName": "Botnhamn",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-11",
@@ -114,7 +142,38 @@
     "mood": 5,
     "weather": "🌧️",
     "startPointName": "Botnhamn",
-    "endPointName": "Tromsø"
+    "endPointName": "Tromsø",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-07-12",
+    "startPos": [69.650519, 18.950146],
+    "endPos": [69.650519, 18.950146],
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Tromsø",
+    "endPointName": "Tromsø",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-07-13",
+    "startPos": [69.650519, 18.950146],
+    "endPos": [69.650519, 18.950146],
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Tromsø",
+    "endPointName": "Tromsø",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-07-14",
+    "startPos": [69.650519, 18.950146],
+    "endPos": [69.650519, 18.950146],
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Tromsø",
+    "endPointName": "Tromsø",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-15",
@@ -127,7 +186,8 @@
     "mood": 4,
     "weather": "☀️",
     "startPointName": "Tromsø",
-    "endPointName": "Svensby"
+    "endPointName": "Svensby",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-16",
@@ -140,7 +200,8 @@
     "mood": 4,
     "weather": "🌤️",
     "startPointName": "Svensby",
-    "endPointName": "Skibotn"
+    "endPointName": "Skibotn",
+    "endCountryName": "Norvège"
   },
   {
     "date": "2024-07-17",
@@ -153,7 +214,18 @@
     "mood": 4,
     "weather": "🌤️",
     "startPointName": "Skibotn",
-    "endPointName": "Kilpisjärvi"
+    "endPointName": "Kilpisjärvi",
+    "endCountryName": "Norvège"
+  },
+  {
+    "date": "2024-07-18",
+    "startPos": [69.0599754, 20.5460683],
+    "endPos": [69.0599754, 20.5460683],
+    "mood": 5,
+    "weather": "🌧️",
+    "startPointName": "Treriksröset",
+    "endPointName": "Treriksröset",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-19",
@@ -166,7 +238,8 @@
     "mood": 3,
     "weather": "🌥️",
     "startPointName": "Kilpisjärvi",
-    "endPointName": "Kaaresuvanto"
+    "endPointName": "Kaaresuvanto",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-20",
@@ -179,7 +252,8 @@
     "mood": 4,
     "weather": "🌤️",
     "startPointName": "Kaaresuvanto",
-    "endPointName": "Sonkamuotka"
+    "endPointName": "Sonkamuotka",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-21",
@@ -192,7 +266,8 @@
     "mood": 4,
     "weather": "🌤️",
     "startPointName": "Sonkamuotka",
-    "endPointName": "Levi"
+    "endPointName": "Levi",
+    "endCountryName": "Finlande"
   },
 
   {
@@ -206,7 +281,8 @@
     "mood": 2,
     "weather": "☀️",
     "startPointName": "Levi",
-    "endPointName": "Sodankylä"
+    "endPointName": "Sodankylä",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-23",
@@ -219,7 +295,8 @@
     "mood": 4,
     "weather": "☀️",
     "startPointName": "Sodankylä",
-    "endPointName": "Käyrämö"
+    "endPointName": "Käyrämö",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-24",
@@ -232,7 +309,48 @@
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Käyrämö",
-    "endPointName": "Rovaniemi"
+    "endPointName": "Rovaniemi",
+    "endCountryName": "Finlande"
+  },
+  {
+    "date": "2024-07-25",
+    "startPos": [66.503646, 25.733871],
+    "endPos": [66.503646, 25.733871],
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Rovaniemi",
+    "endPointName": "Rovaniemi",
+    "endCountryName": "Finlande"
+  },
+  {
+    "date": "2024-07-26",
+    "startPos": [66.503646, 25.733871],
+    "endPos": [66.503646, 25.733871],
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Rovaniemi",
+    "endPointName": "Rovaniemi",
+    "endCountryName": "Finlande"
+  },
+  {
+    "date": "2024-07-27",
+    "startPos": [66.503646, 25.733871],
+    "endPos": [66.503646, 25.733871],
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Rovaniemi",
+    "endPointName": "Rovaniemi",
+    "endCountryName": "Finlande"
+  },
+  {
+    "date": "2024-07-28",
+    "startPos": [66.503646, 25.733871],
+    "endPos": [66.503646, 25.733871],
+    "mood": 5,
+    "weather": "🌤️",
+    "startPointName": "Rovaniemi",
+    "endPointName": "Rovaniemi",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-29",
@@ -245,7 +363,8 @@
     "mood": 4,
     "weather": "☁️",
     "startPointName": "Rovaniemi",
-    "endPointName": "Tervola"
+    "endPointName": "Tervola",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-30",
@@ -258,7 +377,8 @@
     "mood": 5,
     "weather": "☁️",
     "startPointName": "Tervola",
-    "endPointName": "Tornio"
+    "endPointName": "Tornio",
+    "endCountryName": "Finlande"
   },
   {
     "date": "2024-07-31",
@@ -271,6 +391,7 @@
     "mood": 4,
     "weather": "🌧️",
     "startPointName": "Tornio",
-    "endPointName": "Seskarö"
+    "endPointName": "Seskarö",
+    "endCountryName": "Suède"
   }
 ]

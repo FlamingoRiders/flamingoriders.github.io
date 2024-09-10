@@ -43,7 +43,7 @@ const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
             </tr>
           </thead>
           <tbody>
-            {activities.map((activity) => (
+            {activities.filter(activity => activity.distance && activity.time).map((activity) => (
               <RowStat
                 key={activity.date}
                 title={getDayOfWeek(activity.date)}

@@ -1,5 +1,5 @@
 import { useCallback, useMemo } from "react";
-import { Activity, Summary, MonthStats, AllStats } from "models/stats";
+import { Activity, Summary, MonthStats, AllStats, CountryStats } from "models/stats";
 import { calculateDaysInBetweenDates, toDecimalTime } from "utils/time";
 import {
   calculateTotal,
@@ -9,15 +9,18 @@ import {
 import { getMonthName } from "utils/date";
 
 export const useStats = (activities: Array<Activity>) => {
+
   const calculateSummary = useCallback((activities: Array<Activity>) => {
-    const distances = activities.map((activity) => activity.distance);
-    const elevations = activities.map((activity) => activity.elevationGain);
-    const speeds = activities.map((activity) => activity.averageSpeed);
-    const times = activities.map((activity) => toDecimalTime(activity.time));
+    const distances = activities.filter(activity => activity.distance).map((activity) => activity.distance);
+    const elevations = activities.filter(activity => activity.elevationGain).map((activity) => activity.elevationGain);
+    const speeds = activities.filter(activity => activity.averageSpeed).map((activity) => activity.averageSpeed);
+    const times = activities.filter(activity => activity.time).map((activity) => toDecimalTime(activity.time));
     const daysInBetween = calculateDaysInBetweenDates(
       activities[activities.length - 1].date,
       activities[0].date,
     );
+
+    const activeDays = activities.filter(activity => activity.distance && activity.time);
 
     return {
       totalDistance: calculateTotal(distances),
@@ -40,9 +43,9 @@ export const useStats = (activities: Array<Activity>) => {
       minSpeed: Math.min(...speeds),
 
       totalDays: daysInBetween,
-      daysActive: activities.length,
-      daysInactive: daysInBetween - activities.length,
-      activityRatio: calculatePercentageRatio(activities.length, daysInBetween),
+      daysActive: activeDays.length,
+      daysInactive: daysInBetween - activeDays.length,
+      activityRatio: calculatePercentageRatio(activeDays.length, daysInBetween),
     } as Summary;
   }, []);
 
@@ -81,3 +84,24 @@ export const useStats = (activities: Array<Activity>) => {
 
   return globalStats;
 };
+
+export const useCountryStats = (activities: Array<Activity>) => {
+
+  const countryStats: Map<String, CountryStats> = useMemo(() => {
+
+    const stats: Map<String, CountryStats> = new Map();
+
+    activities.forEach(activity => {
+      const countryStats = stats.get(activity.endCountryName);
+      if (countryStats) {
+        stats.set(activity.endCountryName, { days: countryStats.days + 1, distance: +(countryStats.distance + activity.distance).toFixed(2) })
+      } else {
+        stats.set(activity.endCountryName, { days: 1, distance: activity.distance ? +activity.distance.toFixed(2) : 0 });
+      }
+    });
+
+    return stats;
+  }, [activities]);
+
+  return countryStats;
+}
