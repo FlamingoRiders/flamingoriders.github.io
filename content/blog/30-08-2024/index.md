@@ -35,12 +35,14 @@ Cela ne gâchera pas le plaisir des fans du groupe et l'on ne peut que remercier
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/08GOw3NsrJ0LsCCeyqzt3b?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
 ### Le parc d'attraction de Gröna Lund
-À peine sortis du musée, on reste sur l'île de **Djurgården** et l'on se rend quelques mètres plus loin à Gronä Lund](https://www.gronalund.com/en) 🎢.
+À peine sortis du musée, on reste sur l'île de **Djurgården** et l'on se rend quelques mètres plus loin à [Gronä Lund](https://www.gronalund.com/en) 🎢.
 
 Il s'agit d'un parc d'attractions datant de 1883. Un petit peu à la manière de Tivoli à Copenhague, le parc a un charme certain avec ses décors anciens et son histoire de 140 ans.
 
 Bien que petit, le parc offre pas mal d'attractions à sensations avec notamment trois chutes libres différentes. L'occasion d'avoir une belle vue de Stockholm avant de se sentir tomber 😉. Situé en bord du lac **Mälar**, le parc est également un endroit privilégié pour profiter du coucher de soleil !
 
-Ensuite, on décide de rentrer à pied pour nous remettre de nos émotions, ce qui représente 6,5 kilomètres de marche. Il fait bon et c'est agréable de marcher dans les rues de Stockholm de nuit. Nous sommes vendredi soir, et c'est la fête un peu partout ici. Il y a une super ambiance. On tombe d'ailleurs sur le **Out of Office Festival** au niveau du pont **Djurgårdsbron**. Il y a une immense scène, des centaines de gens qui font la fête et une pieuvre gonflable géante. Oui, on omet aucun détail 😉. Soudain, le DJ passe l'incontournable tube *"Levels"* de **Avicii**, on est transportés 🤩. 
+Ensuite, on décide de rentrer à pied pour nous remettre de nos émotions, ce qui représente 6,5 kilomètres de marche. Il fait bon et c'est agréable de marcher dans les rues de Stockholm de nuit. Nous sommes vendredi soir, et c'est la fête un peu partout ici. Il y a une super ambiance. On tombe d'ailleurs sur le **Out of Office Festival** au niveau du pont **Djurgårdsbron**. Il y a une immense scène, des centaines de gens qui font la fête et une pieuvre gonflable géante. Oui, on omet aucun détail 😆. Soudain, le DJ passe l'incontournable tube **Levels** de **Avicii**.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/xyzKWcuNACqBO" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
+
+Encore un artiste suédois dont la musique a fait le tour du monde 😉.
