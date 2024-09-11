@@ -178,6 +178,18 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
                     </tr>
                 </tbody>
             </table>
+            <br />
+            <hr />
+            <p>Sur notre chemin, nous sommes égalements passés par les 7 sites suivants classés au patrimoine mondial de l'UNESCO : </p>
+            <ul>
+                <li><a href="https://whc.unesco.org/fr/list/818/">les moulins à vent de Kinderdijk</a></li>
+                <li><a href="https://whc.unesco.org/fr/list/1087/">l'hôtel de ville et la statue de Roland sur la place du marché de Brême</a></li>
+                <li><a href="https://whc.unesco.org/fr/list/1467/">la Speicherstadt et le quartier Kontorhaus avec la Chilehaus à Hambourg</a></li>
+                <li><a href="https://whc.unesco.org/fr/list/59/">le quartier de « Bryggen » dans la ville de Bergen</a></li>
+                <li><a href="https://whc.unesco.org/fr/list/1195">les fjords de l'Ouest de la Norvège : le Geirangerfjord et le Nærøyfjord</a></li>
+                <li><a href="https://whc.unesco.org/fr/list/762">la ville-église de Gammelstad à Luleå</a></li>
+                <li><a href="https://whc.unesco.org/fr/list/898">la région de la Haute-Côte en Suède</a></li>
+            </ul>
         </>
     );
 };
