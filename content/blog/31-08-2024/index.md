@@ -2,6 +2,7 @@
 title: 🥮 Le kanelbulle d'Eduardo du 31 août
 date: "2024-08-31"
 description: "Dernière journée à Stockholm avant de rentrer !"
+pictures: ["31-08-2024/tt8zec7nlbq4yesw6rs1", "31-08-2024/j8mmlkrm2klvwtn5kkn4", "31-08-2024/ed6zessqqbgvs4a7or3p", "31-08-2024/v8ysdbndopcqmuyxipzd", "31-08-2024/oxlzgbyiszlv1ltii0ol", "31-08-2024/gqu1xjlhtpkj92dmf7gc", "31-08-2024/syrzgxjkzwb5ptlqesgn", "31-08-2024/ipgqaithptbjeslcjdlt", "31-08-2024/pprqvodmpdjgbmzbj4q3"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

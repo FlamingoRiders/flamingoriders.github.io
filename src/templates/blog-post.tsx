@@ -7,6 +7,7 @@ import DayRecap from "components/stats/day-recap";
 import { Day } from "models/day";
 import TagList from "components/layout/tag-list";
 import DateAndLocation from "components/layout/date-and-location";
+import Slideshow from "components/slideshow/slideshow";
 
 type Post = {
   id: string;
@@ -21,6 +22,7 @@ type Post = {
     description: string;
     location: string;
     tags: Array<string>;
+    pictures: Array<string>;
   };
 };
 
@@ -36,6 +38,7 @@ type QueryReturn = {
       description: string;
       image: string;
       siteUrl: string;
+      picturesUrl: string;
     };
   };
 };
@@ -62,13 +65,14 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location}/> <TagList tags={post.frontmatter.tags} /></p>
+          <p><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location} /> <TagList tags={post.frontmatter.tags} /></p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
         {day && <DayRecap day={day} />}
+        <Slideshow picturesUrl={data.site.siteMetadata.picturesUrl} pictureIds={post.frontmatter.pictures} />
       </article>
       <hr />
       <nav className="blog-post-nav">
@@ -113,6 +117,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        picturesUrl
       }
     }
     markdownRemark(id: { eq: $id }) {
@@ -125,6 +130,7 @@ export const pageQuery = graphql`
         description
         location
         tags
+        pictures
       }
     }
     statsJson(date: { eq: $date }) {
