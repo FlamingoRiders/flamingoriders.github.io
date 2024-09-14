@@ -51,12 +51,12 @@ C'est ainsi que s'achève notre dernière journée en **Suède**. Il y a une ém
 Nous aurons roulé de longues heures le long du **golfe de Botnie**, traversant d'immenses forêts vierges et longeant de superbes côtes. On aura également roulé pas mal de fois sur des petites routes et des chemins gravel accidentés, tout cela dans le but d'éviter la fatidique **E4** qui commence à **Tornio** et descend jusqu'à **Helsingborg** tout au sud.
 
 La **Suède** est un pays que nous avons grandement apprécié. Nous retiendrons tout particulièrement :
-- l'archipel d'**Haparanda** qui fut notre premier arrêt dans le pays.
-- les villes-églises de **Gammelstad** et d'**Öjeby Kyrkstad**, ces villes historiques remarquablement préservées avec leur élégante architecture et organisation.
+- l'archipel d'**Haparanda** qui fut notre premier arrêt dans le pays,
+- les villes-églises de **Gammelstad** et d'**Öjeby Kyrkstad**, ces villes historiques remarquablement préservées avec leur élégante architecture et organisation,
 - la **Höga Kusten** et le **Skuleskogen National Park**, pour leurs paysages et histoire géologique hors du commun.
-- ces gigntesques lacs et forêts, symbole d'une nature florissante.
-- les villes d'**Umeå**, **Luleå** et **Uppsala** où l'on se dit qu'il doit faire bon vivre avec leur atmosphère étudiante et leurs infrastructures cyclables en parfait état.
-- l'inoubliable **Stockholm**, cette capitale bâtie sur 14 îles où l'on trouve assurément de quoi satisfaire tous les goûts ! 
+- ces gigntesques lacs et forêts, symbole d'une nature florissante,
+- les villes d'**Umeå**, **Luleå** et **Uppsala** où l'on se dit qu'il doit faire bon vivre avec leur atmosphère étudiante et leurs infrastructures cyclables en parfait état,
+- l'inoubliable **Stockholm**, cette capitale bâtie sur 14 îles où l'on trouve assurément de quoi satisfaire tous les goûts,
 - le suédois : des gens adorables qui nous abordent très facilement. Ils sont au moins aussi curieux des visiteurs et de leurs histoires que nous qui avons tout à découvrir en étant immergés dans leur pays. On apprécie également le rythme de vie. Ici, on sent que l'équilibre vie pro et vie perso n'est pas juste un mot pour faire joli. On sent les gens épanouis sans faire d'efforts démentiels, il suffit d'un mode de vie centré sur les plaisirs simples comme la famille, les proches, la musique pop et le *fika* !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7xzgJNufqvox5oQQa1dP1O?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
