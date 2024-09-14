@@ -10,7 +10,7 @@ tags: ["culture"]
 
 Aujourd'hui, on est de retour à **Stockholm** pour une nouvelle journée de visite de la ville. On était bien sûr les îles **Åland** mais on est également ravis de retrouver cette superbe ville 🤩.
 
-On commence notre journée par une balade dans la vieille ville. Il y a beaucoup de magasins de souvenirs. Dû à la logistique de notre voyage, on est un peu limité en choses que l'on peut ramener (sorry les copains et la famille 😅). Cependant, on aime bien flâner dans les boutiques même si elles proposent globalement toutes la même chose. Il faut quand même en faire 3-4 afin de trouver les meilleures chaussettes Moomins, les meilleurs stickers et les meilleures cartes postales 😁.
+On commence notre journée par une balade dans la vieille ville. Il y a beaucoup de magasins de souvenirs. Due à la logistique de notre voyage, on est un peu limités en choses que l'on peut ramener (sorry les copains et la famille 😅). Cependant, on aime bien flâner dans les boutiques même si elles proposent globalement toutes la même chose. Il faut quand même en faire 3-4 afin de trouver les meilleures chaussettes Moomins, les meilleurs stickers et les meilleures cartes postales 😁.
 
 On déjeune dans un super café qui vaut le détour pour son cadre atypique, sa décoration intérieure vintage et sa *"healthy food"* : le [Café Kallarbyn](https://www.tripadvisor.fr/Restaurant_Review-g189852-d21502804-Reviews-Kallarbyn-Stockholm.html). Ensuite on prend le bateau pour rejoindre *"l'île aux musées"*, **Djurgården**.
 
@@ -27,7 +27,7 @@ De plus, le musée est très interactif, il y a des quizz sur des tablettes, des
 
 En somme, le musée est amusant et on y apprend des choses mais il révèle aussi une facette très *"business"* du groupe. On apprend que tous les membres sans exception étaient déjà très connus en **Suède** bien avant la formation du groupe. Ils avaient tous réussi à percer avec des groupes précédents et avaient chacun des tournées dans le pays à leur actif. Lorsque le groupe gagne l'Eurovision en 1974 avec **Waterloo**, il est déjà *"prêt"* à surfer sur son succès et déferler sur les radios du monde entier. Tout cela pour dire que **ABBA** n'est pas seulement le hasard de la rencontre de quatres musiciens de talent, c'est également une machine à produire des tubes et imposer sa marque. Aujourd'hui encore, le groupe reste une entreprise très profitable comme en témoignent :
 - tous les goodies que l'on peut trouver dans le musée, 
-- la promotion faite pour leur [spectacle à **Londres** dans une arène construite spécialement pour l'occasion](https://abbavoyage.com/) 
+- la promotion faite pour leur [spectacle à **Londres** dans une arène construite spécialement pour l'occasion](https://abbavoyage.com/), 
 - le prix du billet d'entrée au musée qui n'est pas donné.
 
 Cela ne gâchera pas le plaisir des fans du groupe et l'on ne peut que remercier le groupe pour toute sa musique qui continue de vivre aujourd'hui 😉.
