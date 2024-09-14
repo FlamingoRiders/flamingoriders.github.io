@@ -72,7 +72,7 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
           itemProp="articleBody"
         />
         {day && <DayRecap day={day} />}
-        <Slideshow picturesUrl={data.site.siteMetadata.picturesUrl} pictureIds={post.frontmatter.pictures} />
+        {post.frontmatter.pictures && <Slideshow picturesUrl={data.site.siteMetadata.picturesUrl} pictureIds={post.frontmatter.pictures} />}
       </article>
       <hr />
       <nav className="blog-post-nav">
