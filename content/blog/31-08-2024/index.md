@@ -53,7 +53,7 @@ Nous aurons roulé de longues heures le long du **golfe de Botnie**, traversant 
 La **Suède** est un pays que nous avons grandement apprécié. Nous retiendrons tout particulièrement :
 - l'archipel d'**Haparanda** qui fut notre premier arrêt dans le pays,
 - les villes-églises de **Gammelstad** et d'**Öjeby Kyrkstad**, ces villes historiques remarquablement préservées avec leur élégante architecture et organisation,
-- la **Höga Kusten** et le **Skuleskogen National Park**, pour leurs paysages et histoire géologique hors du commun.
+- la **Höga Kusten** et le **Skuleskogen National Park**, pour leurs paysages et histoire géologique hors du commun,
 - ces gigntesques lacs et forêts, symbole d'une nature florissante,
 - les villes d'**Umeå**, **Luleå** et **Uppsala** où l'on se dit qu'il doit faire bon vivre avec leur atmosphère étudiante et leurs infrastructures cyclables en parfait état,
 - l'inoubliable **Stockholm**, cette capitale bâtie sur 14 îles où l'on trouve assurément de quoi satisfaire tous les goûts,
