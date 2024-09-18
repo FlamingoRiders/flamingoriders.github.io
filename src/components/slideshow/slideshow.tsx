@@ -32,8 +32,7 @@ const Slideshow: React.FC<SlideshowProps> = ({ picturesUrl, pictureIds }) => {
             <div className="slideshow-container">
                 {pictureIds.map((pictureId, index) => {
                     return <div className="mySlides fade" style={{ display: index === slideIndex ? 'block' : 'none' }}>
-                        <div className="numbertext">{index + 1} / {nbPictures}</div>
-                        <img src={`${picturesUrl}${pictureId}`} style={{ width: "100%" }} />
+                        <img src={`${picturesUrl}${pictureId}`} style={{ width: "100%", height: "auto", objectFit: "contain" }} />
                     </div>
                 })}
                 <a className="prev" onClick={() => plusSlides(-1)}>&#10094;</a>

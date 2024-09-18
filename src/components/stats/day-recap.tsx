@@ -41,10 +41,6 @@ const DayRecap: React.FC<DayRecapProps> = ({
         </tbody>
       </table>}
       {mood && <MoodBar mood={mood} />}
-      <p>
-        Retrouvez toutes les photos de la journée sur{" "}
-        <a href={`https://www.polarsteps.com/FlamingoRiders/10709256-bike-trip-northern-europe`}>Polarsteps</a> !
-      </p>
     </>
   );
 };
