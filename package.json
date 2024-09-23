@@ -44,9 +44,13 @@
     "@types/node": "^20.3.3",
     "@types/react": "^18.2.51",
     "@types/react-dom": "^18.2.6",
-    "bulma": "^0.9.4",
     "gatsby-plugin-root-import": "^2.0.9",
     "prettier": "3.2.4",
     "typescript": "^5.1.6"
+  },
+  "overrides": {
+    "react-server-dom-webpack@0.0.0-experimental-c8b778b7f-20220825": {
+      "react": "^18.2.0"
+    }
   }
 }

@@ -181,6 +181,10 @@ ol {
   list-style-image: none;
 }
 
+ul {
+  list-style-type: circle;
+}
+
 ul li,
 ol li {
   padding-left: var(--spacing-0);
@@ -238,8 +242,16 @@ table {
 
 table thead tr {
   background-color: var(--color-primary);
-  color: #ffffff;
   text-align: left;
+}
+
+table thead tr th {
+  color: white;
+}
+
+table td,
+table th {
+  vertical-align: middle;
 }
 
 th,

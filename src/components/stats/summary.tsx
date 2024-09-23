@@ -16,16 +16,16 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
         <caption>{caption}</caption>
         <thead>
           <tr>
-            <th scope="col">Jours</th>
-            <th scope="col">✅</th>
-            <th scope="col">🚳</th>
+            <th align="center" scope="col">Jours</th>
+            <th align="center" scope="col">✅</th>
+            <th align="center" scope="col">🚳</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>{summary.totalDays}</td>
-            <td>{summary.daysActive}</td>
-            <td>{summary.daysInactive}</td>
+            <td align="center">{summary.totalDays}</td>
+            <td align="center">{summary.daysActive}</td>
+            <td align="center">{summary.daysInactive}</td>
           </tr>
         </tbody>
         <tfoot>
@@ -59,20 +59,20 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
       <caption>{caption}</caption>
       <thead>
         <tr>
-          <th scope="col">&nbsp;</th>
-          <th scope="col">
+          <th align="center" scope="col">&nbsp;</th>
+          <th align="center" scope="col">
             <span className="d-desktop">Durée</span>
             <span className="d-mobile">⏳</span>
           </th>
-          <th scope="col">
+          <th align="center" scope="col">
             <span className="d-desktop">Distance</span>
             <span className="d-mobile">🚴</span>
           </th>
-          <th scope="col">
+          <th align="center" scope="col">
             <span className="d-desktop">Dénivelé positif</span>
             <span className="d-mobile">📈</span>
           </th>
-          <th scope="col">
+          <th align="center" scope="col">
             <span className="d-desktop">Vitesse moyenne</span>
             <span className="d-mobile">⏱️</span>
           </th>

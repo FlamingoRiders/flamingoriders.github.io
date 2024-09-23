@@ -8,58 +8,58 @@ const TriviaStats: React.FC = () => {
             <caption>Fun Facts</caption>
             <thead>
                 <tr>
-                    <th>Nombre de …</th>
-                    <th></th>
+                    <th align="center" scope="col">Nombre de …</th>
+                    <th align="center" scope="col"></th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>Kilomètres</td>
-                    <td>7200 kilomètres soit plus de 2 Tours de France complétés</td>
+                    <td align="center">Kilomètres</td>
+                    <td align="center">7200 kilomètres soit plus de 2 Tours de France complétés</td>
                 </tr>
                 <tr>
-                    <td>Dénivelé positif</td>
-                    <td>55 000 mètres soit plus de 6 fois l'Ascension de l'Everest</td>
+                    <td align="center">Dénivelé positif</td>
+                    <td align="center">55 000 mètres soit plus de 6 fois l'Ascension de l'Everest</td>
                 </tr>
                 <tr>
-                    <td>Heures sur la selle</td>
-                    <td>420 heures soit presque 3 mois de travail en équivalent 35 heures</td>
+                    <td align="center">Heures sur la selle</td>
+                    <td align="center">420 heures soit presque 3 mois de travail en équivalent 35 heures</td>
                 </tr>
                 <tr>
-                    <td>Jours sur la route</td>
-                    <td>157 jours soit presque 4 aventures Koh Lanta</td>
+                    <td align="center">Jours sur la route</td>
+                    <td align="center">157 jours soit presque 4 aventures Koh Lanta</td>
                 </tr>
                 <tr>
-                    <td>Mois entiers écoulés</td>
-                    <td>5 mois soit un peu plus que le temps de gestation d'une chèvre</td>
+                    <td align="center">Mois entiers écoulés</td>
+                    <td align="center">5 mois soit un peu plus que le temps de gestation d'une chèvre</td>
                 </tr>
                 <tr>
-                    <td>Monnaies utilisées</td>
-                    <td>4 monnaies : euro <strong>(€)</strong>, couronne danoise <strong>(DKK)</strong>, couronne norvégienne <strong>(NOK)</strong>, couronne suédoise <strong>(SEK)</strong></td>
+                    <td align="center">Monnaies utilisées</td>
+                    <td align="center">4 monnaies : euro <strong>(€)</strong>, couronne danoise <strong>(DKK)</strong>, couronne norvégienne <strong>(NOK)</strong>, couronne suédoise <strong>(SEK)</strong></td>
                 </tr>
                 <tr>
-                    <td>Passages de frontière</td>
-                    <td>18 passages</td>
+                    <td align="center">Passages de frontière</td>
+                    <td align="center">18 passages</td>
                 </tr>
                 <tr>
-                    <td>Présentations de passeport</td>
-                    <td>0️⃣</td>
+                    <td align="center">Présentations de passeport</td>
+                    <td align="center">0️⃣</td>
                 </tr>
                 <tr>
-                    <td>Visites chez un un réparateur vélo</td>
-                    <td>7 visites : 2 à Bergen, 1 à Reed, 1 à Trondheim, 1 à Tromsø, 1 à Luleå et 1 à Umeå</td>
+                    <td align="center">Visites chez un un réparateur vélo</td>
+                    <td align="center">7 visites : 2 à Bergen, 1 à Reed, 1 à Trondheim, 1 à Tromsø, 1 à Luleå et 1 à Umeå</td>
                 </tr>
                 <tr>
-                    <td>Crevaisons</td>
-                    <td>0️⃣</td>
+                    <td align="center">Crevaisons</td>
+                    <td align="center">0️⃣</td>
                 </tr>
                 <tr>
-                    <td>Paquets de pâtes / riz mangés</td>
-                    <td>💯</td>
+                    <td align="center">Paquets de pâtes / riz mangés</td>
+                    <td align="center">💯</td>
                 </tr>
                 <tr>
-                    <td>Tablettes de chocolat mangées</td>
-                    <td>♾️</td>
+                    <td align="center">Tablettes de chocolat mangées</td>
+                    <td align="center">♾️</td>
                 </tr>
             </tbody>
         </table></>

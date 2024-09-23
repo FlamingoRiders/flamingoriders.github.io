@@ -3,24 +3,35 @@
 @import "style/navigation/footer";
 @import "style/selection/category-picker";
 
-// Define bulma override variables
-$primary: #005b99;
-$tabs-boxed-link-active-background-color: $primary;
-$tabs-toggle-link-active-background-color: $primary;
-$footer-padding: var(--spacing-6);
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css";
 
-// Import only what you need from Bulma
-@import "../node_modules/bulma/sass/utilities/_all.sass";
-@import "../node_modules/bulma/sass/helpers/spacing.sass";
-@import "../node_modules/bulma/sass/helpers/visibility.sass";
-@import "../node_modules/bulma/sass/helpers/other.sass";
-@import "../node_modules/bulma/sass/components/navbar.sass";
-@import "../node_modules/bulma/sass/components/tabs.sass";
-@import "../node_modules/bulma/sass/components/pagination.sass";
-@import "../node_modules/bulma/sass/elements/tag.sass";
-@import "../node_modules/bulma/sass/elements/button.sass";
-@import "../node_modules/bulma/sass/elements/progress.sass";
-@import "../node_modules/bulma/sass/layout/footer.sass";
+$primary: #005b99;
+
+:root {
+  --bulma-primary-h: 204deg;
+  --bulma-primary-l: 30%;
+  --bulma-link-h: 204deg;
+  --bulma-link-l: 30%;
+  --bulma-link-s: 53%;
+  --bulma-body-overflow-y: auto;
+}
+
+a.navbar-item.is-active {
+  color: white;
+  background-color: $primary;
+}
+
+.footer {
+  --bulma-footer-padding: var(--spacing-6);
+}
+
+.tabs {
+  --bulma-tabs-boxed-link-active-background-color: var(--color-primary);
+  --bulma-tabs-toggle-link-active-background-color: var(--color-primary);
+  --bulma-tabs-link-active-border-bottom-color: var(--color-primary);
+  --bulma-tabs-toggle-link-active-border-color: var(--color-primary);
+  --bulma-tabs-link-active-color: var(--color-primary);
+}
 
 // Override unwanted bulma styles
 .navbar-item img {

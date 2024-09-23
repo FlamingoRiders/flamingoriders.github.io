@@ -32,73 +32,73 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
                 <caption>Répartition jours et kilomètres par pays</caption>
                 <thead>
                     <tr>
-                        <th scope="col">
+                        <th align="center" scope="col">
                             <span>Pays</span>
                         </th>
-                        <th scope="col">
+                        <th align="center" scope="col">
                             <span>Nombre de jours</span>
                         </th>
-                        <th scope="col">
+                        <th align="center" scope="col">
                             <span>Kilomètres</span>
                         </th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {FRANCE}<span className="d-mobile">&nbsp;{FRANCE_FLAG}</span>
                         </th>
-                        <td>{stats.get(FRANCE)?.days}</td>
-                        <td>{stats.get(FRANCE)?.distance}</td>
+                        <td align="center">{stats.get(FRANCE)?.days}</td>
+                        <td align="center">{stats.get(FRANCE)?.distance}</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {BELGIUM}<span className="d-mobile">&nbsp;{BELGIUM_FLAG}</span>
                         </th>
-                        <td>{stats.get(BELGIUM)?.days}</td>
-                        <td>{stats.get(BELGIUM)?.distance}</td>
+                        <td align="center">{stats.get(BELGIUM)?.days}</td>
+                        <td align="center">{stats.get(BELGIUM)?.distance}</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {NETHERLANDS}<span className="d-mobile">&nbsp;{NETHERLANDS_FLAG}</span>
                         </th>
-                        <td>{stats.get(NETHERLANDS)?.days}</td>
-                        <td>{stats.get(NETHERLANDS)?.distance}</td>
+                        <td align="center">{stats.get(NETHERLANDS)?.days}</td>
+                        <td align="center">{stats.get(NETHERLANDS)?.distance}</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {GERMANY}<span className="d-mobile">&nbsp;{GERMANY_FLAG}</span>
                         </th>
-                        <td>{stats.get(GERMANY)?.days}</td>
-                        <td>{stats.get(GERMANY)?.distance}</td>
+                        <td align="center">{stats.get(GERMANY)?.days}</td>
+                        <td align="center">{stats.get(GERMANY)?.distance}</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {DANMARK}<span className="d-mobile">&nbsp;{DANMARK_FLAG}</span>
                         </th>
-                        <td>{stats.get(DANMARK)?.days}</td>
-                        <td>{stats.get(DANMARK)?.distance}</td>
+                        <td align="center">{stats.get(DANMARK)?.days}</td>
+                        <td align="center">{stats.get(DANMARK)?.distance}</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {NORWAY}<span className="d-mobile">&nbsp;{NORWAY_FLAG}</span>
                         </th>
-                        <td>{stats.get(NORWAY)?.days}</td>
-                        <td>{stats.get(NORWAY)?.distance}</td>
+                        <td align="center">{stats.get(NORWAY)?.days}</td>
+                        <td align="center">{stats.get(NORWAY)?.distance}</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {FINLAND}<span className="d-mobile">&nbsp;{FINLAND_FLAG}</span>
                         </th>
-                        <td>{stats.get(FINLAND)?.days}</td>
-                        <td>{stats.get(FINLAND)?.distance}</td>
+                        <td align="center">{stats.get(FINLAND)?.days}</td>
+                        <td align="center">{stats.get(FINLAND)?.distance}</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             {SWEDEN}<span className="d-mobile">&nbsp;{SWEDEN_FLAG}</span>
                         </th>
-                        <td>{stats.get(SWEDEN)?.days}</td>
-                        <td>{stats.get(SWEDEN)?.distance}</td>
+                        <td align="center">{stats.get(SWEDEN)?.days}</td>
+                        <td align="center">{stats.get(SWEDEN)?.distance}</td>
                     </tr>
                 </tbody>
             </table>
@@ -106,75 +106,75 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
                 <caption>Lieux traversés</caption>
                 <thead>
                     <tr>
-                        <th scope="col">
+                        <th align="center" scope="col">
                             <span>Lieu</span>
                         </th>
-                        <th scope="col">
+                        <th align="center" scope="col">
                             <span>Détail</span>
                         </th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             8 pays
                         </th>
-                        <td><span className="d-desktop">France, Belgique, Pays-Bas, Allemagne, Danemark, Norvège, Finlande, Suède</span>
+                        <td align="center"><span className="d-desktop">France, Belgique, Pays-Bas, Allemagne, Danemark, Norvège, Finlande, Suède</span>
                             <span className="d-mobile">France 🇨🇵, Belgique 🇧🇪, Pays-Bas 🇳🇱, Allemagne 🇩🇪, Danemark 🇩🇰, Norvège 🇧🇻, Finlande 🇫🇮, Suède 🇸🇪</span></td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             3 mers
                         </th>
-                        <td>mer du Nord, mer Baltique, mer de Norvège</td>
+                        <td align="center">mer du Nord, mer Baltique, mer de Norvège</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             7 départements français
                         </th>
-                        <td>Hauts-de-Seine (92), Paris (75), Seine-Saint-Denis (93), Seine et Marne (77), Oise(60), Aisne (02), Nord (59)</td>
+                        <td align="center">Hauts-de-Seine (92), Paris (75), Seine-Saint-Denis (93), Seine et Marne (77), Oise(60), Aisne (02), Nord (59)</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             4 provinces belges
                         </th>
-                        <td>Hainaut, Brabant Wallon, Brabant flamand, Anvers</td>
+                        <td align="center">Hainaut, Brabant Wallon, Brabant flamand, Anvers</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             10 provinces néerlandaises
                         </th>
-                        <td>Brabant-Septentrional, Hollande-Méridionale, Utrecht, Hollande-Septentrionale, Flevoland, Gueldre, Overijssel, Frise, Drenthe, Groningue</td>
+                        <td align="center">Brabant-Septentrional, Hollande-Méridionale, Utrecht, Hollande-Septentrionale, Flevoland, Gueldre, Overijssel, Frise, Drenthe, Groningue</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             4 länder allemands
                         </th>
-                        <td>Basse-Saxe, Brême, Hambourg, Schleswig-Holstein</td>
+                        <td align="center">Basse-Saxe, Brême, Hambourg, Schleswig-Holstein</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             4 régions danoises
                         </th>
-                        <td>Sjælland, Hovedstaden, Jutland central, Jutland du Nord</td>
+                        <td align="center">Sjælland, Hovedstaden, Jutland central, Jutland du Nord</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             9 comtés norvégiens
                         </th>
-                        <td>Oslo, Akershus, Buskerud, Telemark, Vestland, Møre og Romsdal, Trøndelag, Nordland, Troms</td>
+                        <td align="center">Oslo, Akershus, Buskerud, Telemark, Vestland, Møre og Romsdal, Trøndelag, Nordland, Troms</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             2 régions finlandaises
                         </th>
-                        <td>Laponie, Åland</td>
+                        <td align="center">Laponie, Åland</td>
                     </tr>
                     <tr>
-                        <th scope="row">
+                        <th align="center" scope="row">
                             7 comtés suédois
                         </th>
-                        <td>Norrbotten, Västerbotten, Västernorrland, Gävleborg, Uppsala, Stockholm, Scanie</td>
+                        <td align="center">Norrbotten, Västerbotten, Västernorrland, Gävleborg, Uppsala, Stockholm, Scanie</td>
                     </tr>
                 </tbody>
             </table>

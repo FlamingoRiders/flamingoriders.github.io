@@ -14,23 +14,23 @@ const TravelCounter: React.FC<TravelCounterProps> = ({
     <table>
       <thead>
         <tr>
-          <th scope="col">🦩</th>
-          <th scope="col">Durée</th>
-          <th scope="col">Distance</th>
+          <th align="center" scope="col">🦩</th>
+          <th align="center" scope="col">Durée</th>
+          <th align="center" scope="col">Distance</th>
         </tr>
       </thead>
       <tbody>
         {displayedPositionMarker.time && displayedPositionMarker.distance && <tr>
-          <th scope="row">Sur l'étape</th>
-          <td>{displayedPositionMarker.time}</td>
-          <td>
+          <th align="center" scope="row">Sur l'étape</th>
+          <td align="center">{displayedPositionMarker.time}</td>
+          <td align="center">
             {formatInUnit(displayedPositionMarker.distance, Unit.DISTANCE)}
           </td>
         </tr>}
         <tr>
-          <th scope="row">Depuis le départ</th>
-          <td>{cumulatedPositionMarker.time}</td>
-          <td>
+          <th align="center" scope="row">Depuis le départ</th>
+          <td align="center">{cumulatedPositionMarker.time}</td>
+          <td align="center">
             {formatInUnit(cumulatedPositionMarker.distance, Unit.DISTANCE)}
           </td>
         </tr>

@@ -20,14 +20,14 @@ const RowStat: React.FC<RowStatProps> = ({
 }) => {
   return (
     <tr>
-      <th scope="row">
+      <th align="center" scope="row">
         <span className="d-desktop">{title}</span>
         <span className="d-mobile">{titleShort ? titleShort : title}</span>
       </th>
-      <td>{time}</td>
-      <td>{formatInUnit(distance, Unit.DISTANCE)}</td>
-      <td>{formatInUnit(elevation, Unit.ELEVATION)}</td>
-      <td>{speed ? formatInUnit(speed, Unit.SPEED) : "-"}</td>
+      <td align="center">{time}</td>
+      <td align="center">{formatInUnit(distance, Unit.DISTANCE)}</td>
+      <td align="center">{formatInUnit(elevation, Unit.ELEVATION)}</td>
+      <td align="center">{speed ? formatInUnit(speed, Unit.SPEED) : "-"}</td>
     </tr>
   );
 };

@@ -20,23 +20,23 @@ const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
           <caption>{caption}</caption>
           <thead>
             <tr>
-              <th scope="col">
+              <th align="center" scope="col">
                 <span className="d-desktop">Date</span>
                 <span className="d-mobile">📅</span>
               </th>
-              <th scope="col">
+              <th align="center" scope="col">
                 <span className="d-desktop">Durée</span>
                 <span className="d-mobile">⏳</span>
               </th>
-              <th scope="col">
+              <th align="center" scope="col">
                 <span className="d-desktop">Distance</span>
                 <span className="d-mobile">🚴</span>
               </th>
-              <th scope="col">
+              <th align="center" scope="col">
                 <span className="d-desktop">Dénivelé positif</span>
                 <span className="d-mobile">📈</span>
               </th>
-              <th scope="col">
+              <th align="center" scope="col">
                 <span className="d-desktop">Vitesse moyenne</span>
                 <span className="d-mobile">⏱️</span>
               </th>
