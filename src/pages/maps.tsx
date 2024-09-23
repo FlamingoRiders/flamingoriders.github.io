@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "components/layout/layout";
-import Seo from "components/layout/seo";
+import SEO from "components/layout/seo";
 import { PageProps, graphql } from "gatsby";
 import { useMarkers } from "hooks/useMarkers";
 import DatePicker from "components/maps/date-picker";
@@ -43,7 +43,6 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title={AppSections.MAPS} />
       <h1>🌍📍 {AppSections.MAPS}</h1>
       <DatePicker
         selectedDate={selectedDate}
@@ -98,3 +97,7 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+export const Head = () => {
+  return <SEO title={AppSections.MAPS} />;
+}

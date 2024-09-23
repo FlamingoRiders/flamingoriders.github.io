@@ -292,6 +292,10 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 
+.main-content {
+  padding-top: 3.25rem;
+}
+
 /* Details and summary */
 details {
   user-select: none;

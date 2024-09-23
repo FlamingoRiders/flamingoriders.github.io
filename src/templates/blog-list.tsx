@@ -49,7 +49,6 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <SEO title={AppSections.BLOG} />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
           directory you specified for the "gatsby-source-filesystem" plugin in
@@ -61,7 +60,6 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title={AppSections.BLOG} />
       <h1>📝{AppSections.BLOG}</h1>
       <p>Retrouvez ici tous nos posts !</p>
       <ol style={{ listStyle: `none` }}>
@@ -81,7 +79,7 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location}/></small>
+                  <small><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location} /></small>
                   <TagList tags={post.frontmatter.tags} />
                 </header>
                 <section>
@@ -91,7 +89,7 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
                     }}
                     itemProp="description"
                   />
-                  
+
                 </section>
               </article>
             </li>
@@ -165,3 +163,7 @@ export const blogListQuery = graphql`
     }
   }
 `;
+
+export const Head = () => {
+  return <SEO title={AppSections.BLOG} />;
+}

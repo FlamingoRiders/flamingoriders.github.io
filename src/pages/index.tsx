@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "components/layout/layout";
-import Seo from "components/layout/seo";
+import SEO from "components/layout/seo";
 import { Link, PageProps, graphql } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
 import { AppRoutes, AppSections } from "routes/app-routes";
@@ -21,7 +21,6 @@ const HomePage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const polarsteps = data.site.siteMetadata.social.polarsteps;
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title={AppSections.HOME} />
       <h1>{AppSections.HOME}</h1>
       <p>
         Bienvenue sur Flamingo Riders, le blog de{" "}
@@ -91,3 +90,7 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+export const Head = () => {
+  return <SEO title={AppSections.HOME} />;
+}

@@ -2,7 +2,7 @@ import * as React from "react";
 import { Link, PageProps, graphql } from "gatsby";
 
 import Layout from "components/layout/layout";
-import Seo from "components/layout/seo";
+import SEO from "components/layout/seo";
 import DayRecap from "components/stats/day-recap";
 import { Day } from "models/day";
 import TagList from "components/layout/tag-list";
@@ -54,10 +54,6 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-      />
       <article
         className="blog-post"
         itemScope
@@ -160,3 +156,11 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+export const Head: React.FC<PageProps<QueryReturn>> = ({ data }) => {
+  const post = data.markdownRemark;
+  return <SEO
+    title={post.frontmatter.title}
+    description={post.frontmatter.description || post.excerpt}
+  />;
+}

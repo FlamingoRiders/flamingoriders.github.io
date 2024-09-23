@@ -2,7 +2,7 @@ import React, { useCallback, useState } from "react";
 import { PageProps, graphql } from "gatsby";
 import { useCountryStats, useStats } from "hooks/useStats";
 import Layout from "components/layout/layout";
-import Seo from "components/layout/seo";
+import Seo, { SEO } from "components/layout/seo";
 import { AppSections } from "routes/app-routes";
 import BikeStats from "components/stats/bike-stats";
 import GeoStats from "components/stats/geo-stats";
@@ -44,7 +44,6 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title={AppSections.STATS} />
       <h1>📈📉 {AppSections.STATS}</h1>
       <p>Notre voyage en quelques chiffres clés !</p>
       <div className="tabs is-centered">
@@ -82,3 +81,7 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+export const Head = () => {
+  return <SEO title={AppSections.STATS} />;
+}
