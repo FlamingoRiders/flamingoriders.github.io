@@ -456,6 +456,10 @@ summary::-webkit-details-marker {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
+.inactive-link {
+  pointer-events: none;
+}
+
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;

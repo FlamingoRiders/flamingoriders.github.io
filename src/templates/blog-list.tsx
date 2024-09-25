@@ -42,7 +42,9 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
   const posts = data.allMarkdownRemark.nodes;
   const { currentPage, numPages } = pageContext;
   const isFirst = currentPage === 1;
+  const isSecond = currentPage === 2;
   const isLast = currentPage === numPages;
+  const isSecondLast = currentPage === numPages - 1;
   const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString();
   const nextPage = (currentPage + 1).toString();
 
@@ -96,11 +98,7 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
           );
         })}
       </ol>
-      <nav
-        className="pagination is-centered"
-        role="navigation"
-        aria-label="pagination"
-      >
+      <nav className="pagination is-centered" role="navigation" aria-label="pagination">
         {!isFirst && (
           <Link
             className="pagination-previous"
@@ -127,6 +125,46 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
         {isLast && (
           <div className="pagination-next is-invisible">Suivant →</div>
         )}
+        <ul className="pagination-list my-auto">
+          {!isFirst && <Link
+            className="pagination-link"
+            to={`${AppRoutes.BLOG}`}
+            aria-label="Go to first page"
+          >
+            1
+          </Link>}
+          {currentPage > 3 && <li className="my-auto"><span className="pagination-ellipsis">&hellip;</span></li>}
+          {!isFirst && !isSecond && <Link
+            className="pagination-link"
+            to={`${AppRoutes.BLOG}/${prevPage}`}
+            aria-label={`Go to page ${prevPage}`}
+          >
+            {prevPage}
+          </Link>}
+          <Link
+            className="pagination-link is-current inactive-link"
+            aria-label={`Page ${currentPage}`}
+            aria-current="page"
+            to={`${AppRoutes.BLOG}/${currentPage}`}
+          >
+            {currentPage}
+          </Link>
+          {!isLast && !isSecondLast && <Link
+            className="pagination-link"
+            to={`${AppRoutes.BLOG}/${nextPage}`}
+            aria-label={`Go to page ${nextPage}`}
+          >
+            {nextPage}
+          </Link>}
+          {(currentPage < numPages - 2) && <li className="my-auto"><span className="pagination-ellipsis">&hellip;</span></li>}
+          {!isLast && <Link
+            className="pagination-link"
+            to={`${AppRoutes.BLOG}/${numPages}`}
+            aria-label={`Go to page ${numPages}`}
+          >
+            {numPages}
+          </Link>}
+        </ul>
       </nav>
     </Layout>
   );
