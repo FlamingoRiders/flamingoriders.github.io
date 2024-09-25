@@ -63,12 +63,12 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location} /> <TagList tags={post.frontmatter.tags} /></p>
         </header>
+        {post.frontmatter.pictures && <Slideshow picturesUrl={data.site.siteMetadata.picturesUrl} pictureIds={post.frontmatter.pictures} />}
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
         {day && <DayRecap day={day} />}
-        {post.frontmatter.pictures && <Slideshow picturesUrl={data.site.siteMetadata.picturesUrl} pictureIds={post.frontmatter.pictures} />}
       </article>
       <hr />
       <nav className="blog-post-nav">

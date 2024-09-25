@@ -460,7 +460,24 @@ summary::-webkit-details-marker {
   pointer-events: none;
 }
 
+.slideshow-image {
+  width: 100%;
+  height: auto;
+  min-height: 29.625rem;
+  object-fit: contain;
+}
+
+@media only screen and (max-width: 36rem) {
+  .slideshow-image {
+    min-height: 15rem;
+  }
+}
+
 /* The dots/bullets/indicators */
+.dots {
+  text-align: center;
+}
+
 .dot {
   cursor: pointer;
   height: 15px;
