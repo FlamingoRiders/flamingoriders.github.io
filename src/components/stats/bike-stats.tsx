@@ -22,7 +22,7 @@ const BikeStats: React.FC<BikeStatsProps> = ({ stats }) => {
     );
 
     const categories = [
-        "Global",
+        "Total",
         ...stats.monthStats.map((monthStat) => monthStat.month),
     ];
 

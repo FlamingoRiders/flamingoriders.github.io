@@ -55,68 +55,77 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
 
 const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
   return (
-    <table>
-      <caption>{caption}</caption>
-      <thead>
-        <tr>
-          <th align="center" scope="col">&nbsp;</th>
-          <th align="center" scope="col">
-            <span className="d-desktop">Durée</span>
-            <span className="d-mobile">⏳</span>
-          </th>
-          <th align="center" scope="col">
-            <span className="d-desktop">Distance</span>
-            <span className="d-mobile">🚴</span>
-          </th>
-          <th align="center" scope="col">
-            <span className="d-desktop">Dénivelé positif</span>
-            <span className="d-mobile">📈</span>
-          </th>
-          <th align="center" scope="col">
-            <span className="d-desktop">Vitesse moyenne</span>
-            <span className="d-mobile">⏱️</span>
-          </th>
-        </tr>
-      </thead>
-      <tbody>
-        <RowStat
-          key="minimums"
-          title="Minimum"
-          titleShort="Min."
-          time={toStringTime(summary.minTime)}
-          distance={summary.minDistance}
-          elevation={summary.minElevation}
-          speed={summary.minSpeed}
-        />
-        <RowStat
-          key="maximums"
-          title="Maximum"
-          titleShort="Max."
-          time={toStringTime(summary.maxTime)}
-          distance={summary.maxDistance}
-          elevation={summary.maxElevation}
-          speed={summary.maxSpeed}
-        />
-        <RowStat
-          key="moyennes"
-          title="Moyenne"
-          titleShort="Moy."
-          time={toStringTime(summary.averageTime)}
-          distance={summary.averageDistance}
-          elevation={summary.averageElevation}
-          speed={summary.averageSpeed}
-        />
-      </tbody>
-      <tfoot>
-        <RowStat
-          key="totaux"
-          title="Total"
-          time={toStringTime(summary.totalTime)}
-          distance={summary.totalDistance}
-          elevation={summary.totalElevation}
-        />
-      </tfoot>
-    </table>
+    <><nav className="level">
+      <div className="level-item has-text-centered">
+        <div>
+          <p className="heading m-0">Durée</p>
+          <p className="title">{toStringTime(summary.totalTime)}</p>
+        </div>
+      </div>
+      <div className="level-item has-text-centered">
+        <div>
+          <p className="heading m-0">Distance</p>
+          <p className="title">{formatInUnit(summary.totalDistance, Unit.DISTANCE)}</p>
+        </div>
+      </div>
+      <div className="level-item has-text-centered">
+        <div>
+          <p className="heading m-0">Dénivelé positif</p>
+          <p className="title">{formatInUnit(summary.totalElevation, Unit.ELEVATION)}</p>
+        </div>
+      </div>
+    </nav>
+      <table>
+        <caption>{caption}</caption>
+        <thead>
+          <tr>
+            <th align="center" scope="col">&nbsp;</th>
+            <th align="center" scope="col">
+              <span className="d-desktop">Minimum</span>
+              <span className="d-mobile">Min.</span>
+            </th>
+            <th align="center" scope="col">
+              <span className="d-desktop">Maximum</span>
+              <span className="d-mobile">Max.</span>
+            </th>
+            <th align="center" scope="col">
+              <span className="d-desktop">Moyenne</span>
+              <span className="d-mobile">Moy.</span>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <RowStat
+            key="duree"
+            title="Durée ⏳"
+            min={toStringTime(summary.minTime)}
+            max={toStringTime(summary.maxTime)}
+            avg={toStringTime(summary.averageTime)}
+          />
+          <RowStat
+            key="distance"
+            title="Distance 🚴"
+            min={formatInUnit(summary.minDistance, Unit.DISTANCE)}
+            max={formatInUnit(summary.maxDistance, Unit.DISTANCE)}
+            avg={formatInUnit(summary.averageDistance, Unit.DISTANCE)}
+          />
+          <RowStat
+            key="elevation"
+            title="Dénivelé positif 📈"
+            min={formatInUnit(summary.minElevation, Unit.ELEVATION)}
+            max={formatInUnit(summary.maxElevation, Unit.ELEVATION)}
+            avg={formatInUnit(summary.averageElevation, Unit.ELEVATION)}
+          />
+          <RowStat
+            key="vitesse"
+            title="Vitesse moyenne ⏱️"
+            min={formatInUnit(summary.minSpeed, Unit.SPEED)}
+            max={formatInUnit(summary.maxSpeed, Unit.SPEED)}
+            avg={formatInUnit(summary.averageSpeed, Unit.SPEED)}
+          />
+        </tbody>
+      </table>
+    </>
   );
 };
 
