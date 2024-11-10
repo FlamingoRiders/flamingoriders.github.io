@@ -3,25 +3,28 @@ import { Unit, formatInUnit } from "utils/unit";
 
 interface RowStatProps {
   title: string;
-  min: string;
-  max: string;
-  avg: string;
+  time: string;
+  distance: number;
+  elevation: number;
+  speed: number;
 }
 
 const RowStat: React.FC<RowStatProps> = ({
   title,
-  min,
-  max,
-  avg,
+  time,
+  distance,
+  elevation,
+  speed,
 }) => {
   return (
     <tr>
       <th align="center" scope="row">
         {title}
       </th>
-      <td align="center">{min}</td>
-      <td align="center">{max}</td>
-      <td align="center">{avg}</td>
+      <td align="center">{time}</td>
+      <td align="center">{formatInUnit(distance, Unit.DISTANCE)}</td>
+      <td align="center">{formatInUnit(elevation, Unit.ELEVATION)}</td>
+      <td align="center">{formatInUnit(speed, Unit.SPEED)}</td>
     </tr>
   );
 };

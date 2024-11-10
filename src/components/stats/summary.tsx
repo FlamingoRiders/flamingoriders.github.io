@@ -2,7 +2,7 @@ import { Summary as SummaryModel } from "models/stats";
 import React from "react";
 import { toStringTime } from "utils/time";
 import { Unit, formatInUnit } from "utils/unit";
-import RowStat from "./row-stat";
+import SummaryStat from "./summary-stat";
 
 interface SummaryProps {
   caption: string;
@@ -95,28 +95,28 @@ const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
           </tr>
         </thead>
         <tbody>
-          <RowStat
+          <SummaryStat
             key="duree"
             title="Durée ⏳"
             min={toStringTime(summary.minTime)}
             max={toStringTime(summary.maxTime)}
             avg={toStringTime(summary.averageTime)}
           />
-          <RowStat
+          <SummaryStat
             key="distance"
             title="Distance 🚴"
             min={formatInUnit(summary.minDistance, Unit.DISTANCE)}
             max={formatInUnit(summary.maxDistance, Unit.DISTANCE)}
             avg={formatInUnit(summary.averageDistance, Unit.DISTANCE)}
           />
-          <RowStat
+          <SummaryStat
             key="elevation"
             title="Dénivelé positif 📈"
             min={formatInUnit(summary.minElevation, Unit.ELEVATION)}
             max={formatInUnit(summary.maxElevation, Unit.ELEVATION)}
             avg={formatInUnit(summary.averageElevation, Unit.ELEVATION)}
           />
-          <RowStat
+          <SummaryStat
             key="vitesse"
             title="Vitesse moyenne ⏱️"
             min={formatInUnit(summary.minSpeed, Unit.SPEED)}
