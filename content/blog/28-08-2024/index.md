@@ -4,9 +4,8 @@ date: "2024-08-28"
 description: "On se rend de l'autre côté de Fasta Åland jusqu'au superbe spot de Kattnäs !"
 location: "Hammarland, Åland, Finlande"
 tags: ["heart", "scenic"]
+pictures: ["28-08-2024/1.webp", "28-08-2024/2.webp", "28-08-2024/3.webp", "28-08-2024/4.webp", "28-08-2024/5.webp", "28-08-2024/6.webp", "28-08-2024/7.webp", "28-08-2024/8.webp", "28-08-2024/9.webp", "28-08-2024/10.webp"]
 ---
-
-![Salmiakki d'Eduardo](../salmiakki_eduardo.png)
 
 Aujourd'hui, on décide d'aller faire un tour vers l'ouest de l'île principale d'**Åland**. On a un grand soleil qui nous accompagne depuis notre arrivée sur le charmant archipel. On s'était dit qu'on roulerait moins sur notre fin de voyage mais les distances sont assez grandes. Il y a des transports en commun mais avec nos bagages et nos vélos, on est plus vite rendus par nous-mêmes 😊. On se déplace très bien à vélo sur les îles, les pistes sont très récentes et bien séparées des voies pour les autres véhicules, c'est très agréable.
 
