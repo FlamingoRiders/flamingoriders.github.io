@@ -3,7 +3,7 @@ title: 🥮 Le kanelbulle d'Eduardo du 31 août
 date: "2024-08-31"
 description: "Dernière journée à Stockholm avant de rentrer !"
 location: "Stockholm, Suède"
-pictures: ["31-08-2024/1.jpg", "31-08-2024/2.jpg", "31-08-2024/3.jpg", "31-08-2024/4.jpg", "31-08-2024/5.jpg", "31-08-2024/6.jpg", "31-08-2024/7.jpg", "31-08-2024/8.jpg", "31-08-2024/9.jpg"]
+pictures: ["31-08-2024/1.webp", "31-08-2024/2.webp", "31-08-2024/3.webp", "31-08-2024/4.webp", "31-08-2024/5.webp", "31-08-2024/6.webp", "31-08-2024/7.webp", "31-08-2024/8.webp", "31-08-2024/9.webp"]
 ---
 
 Aujourd'hui, c'est une journée particulièrement émouvante qui débute pour nous. Il y a 5 mois jour pour jour, on quittait **Paris** avec nos deux vélos, prêts à vivre une formidable aventure, sans trop savoir à quoi s'attendre. Celle-ci aura été incroyable et à bien des égards, aura même dépassé nos attentes 🤩 !

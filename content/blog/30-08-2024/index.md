@@ -4,6 +4,7 @@ date: "2024-08-30"
 description: "On s'enjaille au musée ABBA et à Gronä Lund !"
 location: "Stockholm, Suède"
 tags: ["culture"]
+pictures: ["30-08-2024/1.webp", "30-08-2024/2.webp", "30-08-2024/3.webp", "30-08-2024/4.webp", "30-08-2024/5.webp", "30-08-2024/6.webp", "30-08-2024/7.webp", "30-08-2024/8.webp", "30-08-2024/9.webp", "30-08-2024/10.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
