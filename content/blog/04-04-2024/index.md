@@ -3,9 +3,8 @@ title: ☕ Le café d'Eduardo du 4 avril
 date: "2024-04-04"
 description: "Retrouvailles familiales !"
 location: "Nord, Hauts-de-France, France"
+pictures: ["04-04-2024/1.webp", "04-04-2024/2.webp", "04-04-2024/3.webp", "04-04-2024/4.webp", "04-04-2024/5.webp"]
 ---
-
-![Café d'Eduardo](../cafe_eduardo.png)
 
 Ce matin, le réveil est animé. Pour Nana ça semble aller mieux. Pour Nico à l'inverse le nez semble complètement encombré. On s'est bien choppé un petit rhume. Je ne vous le cache pas, je suis très inquiet. Jamais deux sans trois comme on dit et j'ai une santé fragile. Hors de question de renommer ma chronique *"le doliprane d'Eduardo 💊"* !
 

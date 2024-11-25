@@ -3,9 +3,8 @@ title: ☕ Le café d'Eduardo du 3 avril
 date: "2024-04-03"
 description: "Dédicacé à tous ceux qui viennent des petits patelins !"
 location: "Aisne, Hauts-de-France, France"
+pictures: ["03-04-2024/1.webp", "03-04-2024/2.webp", "03-04-2024/3.webp", "03-04-2024/4.webp", "03-04-2024/5.webp", "03-04-2024/6.webp", "03-04-2024/7.webp"]
 ---
-
-![Café d'Eduardo](../cafe_eduardo.png)
 
 L'évènement de ce mercredi 3 avril c'est bien évidemment la sortie en salle de *Godzilla x Kong : Le Nouvel Empire*. Sans aucun doute la sortie la plus anticipée de l'année pour tous les amoureux du 7ème art. À priori on ne va pas le voir de sitôt, mais on compte sur nos cinéphiles passionnés Florent et Aymeric pour nous livrer leurs premières impressions 😏.
 
@@ -47,7 +46,7 @@ Un peu plus loin, nous nous arrêtons pour notre pause déjeuner. Nous longeons 
 ### Voie verte de la Thiérache
 
 On continue notre route le long de l'EV3 qui emprunte une [voie verte](https://af3v.org/les-voies-vertes/voies/420-ev3-la-scandiberique-axe-vert-de-thierache-de-hirson-a-guise/) passant par plusieurs points d'intérêts :
-* **Guise**, où nous apercevons un très joli château fort 🏰. On croise aussi deux chèvres sur un trampoline. Je vous le jure. Ça ne s'invente pas ce genre de choses, allez donc jeter un oeil à nos photos Polarsteps !
+* **Guise**, où nous apercevons un très joli château fort 🏰. On croise aussi deux chèvres sur un trampoline. Je vous le jure. Ça ne s'invente pas ce genre de choses, allez donc jeter un oeil à nos photos !
 * **Sorbais**, on vous recommande notamment ceux au citron et au cassis, chez Josiane, la première à droite en rentrant dans le village 🍨.
 * Et bien évidemment... **Marly-Gomont**, le berceau du rap français !
 

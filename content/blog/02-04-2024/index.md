@@ -3,9 +3,9 @@ title: ☕ Le café d'Eduardo du 2 avril
 date: "2024-04-02"
 description: "C'est le jour 3, l'EuroVélo 3 !"
 location: "Aisne, Hauts-de-France, France"
+pictures: ["02-04-2024/1.webp", "02-04-2024/2.webp", "02-04-2024/3.webp", "02-04-2024/4.webp", "02-04-2024/5.webp"]
 ---
 
-![Café d'Eduardo](../cafe_eduardo.png)
 
 Ce matin on se lève sous un grand soleil, cela laisse présager une belle journée. Pourtant Nana se sent un peu malade au réveil.
 
@@ -16,7 +16,7 @@ On part donc de **Compiègne** en empruntant une piste cyclable le long de l'**O
 
 L'itinéraire commence bien sur le compteur et s'avère plutôt sympa. Sauf qu'à un moment, l'Oise rencontre des étangs. La piste cyclable s'arrête et semble partir légèrement dans les terres. Naïf, Nico se dit que ça a l'air de rejoindre un tout petit peu plus loin.
 
-### Promenons nous dans les bois
+### Promenons-nous dans les bois
 Sauf qu'on se retrouve rapidement à rentrer dans une forêt, la route cyclable devient un chemin qui devient de moins en moins pratiquable avec le poids que nous transportons sur nos vélos. On s'enfonce par endroits dans la boue et on doit poser pied à terre. 
 
 Forcément Nana se rend compte de la supercherie et qu'on est sortis de l'itinéraire et commence à rouspéter. Ceci a pour effet de faire sourire Nico qui sait qu'il doit le cacher mais ne le dissimule pas très bien.

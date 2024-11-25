@@ -3,9 +3,8 @@ title: 🍺 La bière d'Eduardo du 6 avril
 date: "2024-04-06"
 description: "En route vers la capitale, Bruxelles here we come !"
 location: "Bruxelles, Bruxelles-Capitale, Belgique"
+pictures: ["06-04-2024/1.webp", "06-04-2024/2.webp", "06-04-2024/3.webp", "07-04-2024/1.webp", "07-04-2024/2.webp", "07-04-2024/3.webp", "07-04-2024/4.webp", "07-04-2024/5.webp", "07-04-2024/6.webp"]
 ---
-
-![Bière d'Eduardo](../biere_eduardo.png)
 
 Pour ce premier réveil en Belgique, nous avons droit à un grand soleil. Aujourd'hui, c'est samedi et c'est notre 7ème jour sur la route. C'est une perfect week pour nous ! 😀
 

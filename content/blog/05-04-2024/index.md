@@ -3,9 +3,8 @@ title: 🍺 La bière d'Eduardo du 5 avril
 date: "2024-04-05"
 description: "Bye bye Chti'land, hello Belgium !"
 location: "Hainaut, Wallonie, Belgique"
+pictures: ["05-04-2024/1.webp", "05-04-2024/2.webp", "05-04-2024/3.webp", "05-04-2024/4.webp", "05-04-2024/5.webp", "05-04-2024/6.webp"]
 ---
-
-![Bière d'Eduardo](../biere_eduardo.png)
 
 Ce matin je me lève un peu plus tôt que les autres. On a regardé le parcours hier et j'ai un très bon pressentiment. 50 kilomètres à parcourir, un faible dénivelé positif et une arrivée en Belgique, j'en suis sûr, le gain de l'étape est pour un sprinteur. **Jasper Philipsen** pour une victoire d'étape à la maison ! Je me connecte donc sur Unibet, et mise 50€ sur mon poulain.
 

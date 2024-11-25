@@ -5,7 +5,7 @@ description: "Le jour tant attendu du grand départ, allez c'est parti ! Une jou
 location: "Seine-et-Marne, Île-de-France, France"
 ---
 
-![Café d'Eduardo](../cafe_eduardo.png)
+![Café d'Eduardo](https://storage.googleapis.com/flamingo-riders/31-03-2024/1.webp)
 
 Ça y est, on y est enfin ! Après une semaine à ne pas bien dormir, à anticiper ce moment, vérifier que tout était bien prêt, nous avons pris la route !
 
