@@ -7,6 +7,8 @@ tags: ["heart", "hike", "culture"]
 pictures: ["27-08-2024/1.webp", "27-08-2024/2.webp", "27-08-2024/3.webp", "27-08-2024/4.webp", "27-08-2024/5.webp", "27-08-2024/6.webp", "27-08-2024/7.webp", "27-08-2024/8.webp", "27-08-2024/9.webp"]
 ---
 
+![Salmiakki d'Eduardo](../salmiakki_eduardo.png)
+
 Aujourd'hui, on commence notre journée à **Bomarsund**, à l'est de **Fasta Åland**, l'île principale de l'archipel. Nous longeons la côte puis nous nous aventurons dans les ruines de la [forteresse de Bomarsund](https://book.visitaland.com/en/book/to-do/2122016/bomarsunds_fastningsruiner_/showdetails). 
  
 ### La forteresse de Bomarsund

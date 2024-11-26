@@ -7,6 +7,8 @@ tags: ["heart", "scenic"]
 pictures: ["29-08-2024/1.webp", "29-08-2024/2.webp", "29-08-2024/3.webp", "29-08-2024/4.webp", "29-08-2024/5.webp", "29-08-2024/6.webp", "29-08-2024/7.webp"]
 ---
 
+![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
+
 Aujourd'hui, on se réveille au camping de **Kattnäs**, au bord de la mer Baltique. C'est notre dernière matinée sur les îles d'**Åland**. Cette dernière escapade aura été une très belle étape avant de revenir à **Stockholm** pour nos derniers jours.
 
 ### De Kattnäs à Mariehamn 

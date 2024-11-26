@@ -4,6 +4,7 @@ date: "2024-04-15"
 description: "Ça mouille dans le Flevoland !"
 location: "Flevoland, Pays-Bas"
 tags: ["culture"]
+pictures: ["15-04-2024/1.webp", "15-04-2024/2.webp", "15-04-2024/3.webp", "15-04-2024/4.webp", "15-04-2024/5.webp", "15-04-2024/6.webp", "15-04-2024/7.webp", "15-04-2024/8.webp", "15-04-2024/9.webp", "15-04-2024/10.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)

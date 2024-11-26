@@ -3,6 +3,7 @@ title: 🧀 Le gouda d'Eduardo du 9 avril
 date: "2024-04-09"
 description: "Good morning Belgium, good afternoon Netherlands !"
 location: "Brabant-Septentrional, Pays-Bas"
+pictures: ["09-04-2024/1.webp", "09-04-2024/2.webp", "09-04-2024/3.webp", "09-04-2024/4.webp", "09-04-2024/5.webp", "09-04-2024/6.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)

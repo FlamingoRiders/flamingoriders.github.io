@@ -6,6 +6,7 @@ location: "Aisne, Hauts-de-France, France"
 pictures: ["02-04-2024/1.webp", "02-04-2024/2.webp", "02-04-2024/3.webp", "02-04-2024/4.webp", "02-04-2024/5.webp"]
 ---
 
+![Café d'Eduardo](../cafe_eduardo.png)
 
 Ce matin on se lève sous un grand soleil, cela laisse présager une belle journée. Pourtant Nana se sent un peu malade au réveil.
 

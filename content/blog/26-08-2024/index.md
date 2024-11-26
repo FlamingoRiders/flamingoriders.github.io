@@ -7,6 +7,8 @@ tags: ["heart", "scenic", "culture"]
 pictures: ["26-08-2024/1.webp", "26-08-2024/2.webp", "26-08-2024/3.webp", "26-08-2024/4.webp", "26-08-2024/5.webp", "26-08-2024/6.webp", "26-08-2024/7.webp", "26-08-2024/8.webp", "26-08-2024/9.webp"]
 ---
 
+![Salmiakki d'Eduardo](../salmiakki_eduardo.png)
+
 Aujourd'hui, on se lève de bonne heure afin de rejoindre un ferry pour les îles d'**Hollande** 🇳🇱 !
 
 🙅🏼‍♀️ : *"Mais non Eduardo on va sur les îles d'Åland, tu as raison le \"Å\" se prononce effectivement comme un \"O\" mais ce n'est pas du tout néerlandais, c'est situé en Finlande"*

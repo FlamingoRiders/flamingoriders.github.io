@@ -6,6 +6,8 @@ location: "Bruxelles, Bruxelles-Capitale, Belgique"
 pictures: ["06-04-2024/1.webp", "06-04-2024/2.webp", "06-04-2024/3.webp", "07-04-2024/1.webp", "07-04-2024/2.webp", "07-04-2024/3.webp", "07-04-2024/4.webp", "07-04-2024/5.webp", "07-04-2024/6.webp"]
 ---
 
+![Café d'Eduardo](../cafe_eduardo.png)
+
 Pour ce premier réveil en Belgique, nous avons droit à un grand soleil. Aujourd'hui, c'est samedi et c'est notre 7ème jour sur la route. C'est une perfect week pour nous ! 😀
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/MAuWs1rqbfHFMWUCYH" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>

@@ -6,6 +6,8 @@ location: "Aisne, Hauts-de-France, France"
 pictures: ["03-04-2024/1.webp", "03-04-2024/2.webp", "03-04-2024/3.webp", "03-04-2024/4.webp", "03-04-2024/5.webp", "03-04-2024/6.webp", "03-04-2024/7.webp"]
 ---
 
+![Café d'Eduardo](../cafe_eduardo.png)
+
 L'évènement de ce mercredi 3 avril c'est bien évidemment la sortie en salle de *Godzilla x Kong : Le Nouvel Empire*. Sans aucun doute la sortie la plus anticipée de l'année pour tous les amoureux du 7ème art. À priori on ne va pas le voir de sitôt, mais on compte sur nos cinéphiles passionnés Florent et Aymeric pour nous livrer leurs premières impressions 😏.
 
 Nous reprenons la route de l'**EuroVelo 3**, que nous voyons parfois indiquée du panneau [Scandiberique](https://www.scandiberique.fr/). C'est sa partie française. Nous sommes bien habillés, pantalons de pluie par-dessus nos cuissards. Dans un premier temps, ils nous donnent surtout chaud car la pluie ne tombe pas en cette matinée.

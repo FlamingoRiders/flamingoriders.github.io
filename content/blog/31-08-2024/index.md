@@ -6,6 +6,8 @@ location: "Stockholm, Suède"
 pictures: ["31-08-2024/1.webp", "31-08-2024/2.webp", "31-08-2024/3.webp", "31-08-2024/4.webp", "31-08-2024/5.webp", "31-08-2024/6.webp", "31-08-2024/7.webp", "31-08-2024/8.webp", "31-08-2024/9.webp"]
 ---
 
+![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
+
 Aujourd'hui, c'est une journée particulièrement émouvante qui débute pour nous. Il y a 5 mois jour pour jour, on quittait **Paris** avec nos deux vélos, prêts à vivre une formidable aventure, sans trop savoir à quoi s'attendre. Celle-ci aura été incroyable et à bien des égards, aura même dépassé nos attentes 🤩 !
 
 Malheureusement, toutes bonnes choses ont une fin et aujourd'hui c'est également notre dernière journée à **Stockholm** et la dernière journée de notre voyage avant de rentrer chez nous. C'est un moment assez particulier où, ni la tristesse de la fin, ni la satisfaction de ce que nous avons accompli, ne dominent complètement nos émotions. Pour tout avouer, on ne s'est jamais vraiment retournés sur le chemin parcouru tant nos journées ont été remplies et tant qu'il y avait des choses devant nous dans notre planning. Il y aura un moment où l'on fera le bilan de ce voyage mais ce n'est pas encore le moment 😉 !

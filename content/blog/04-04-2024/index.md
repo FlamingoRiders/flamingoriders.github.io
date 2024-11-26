@@ -6,6 +6,8 @@ location: "Nord, Hauts-de-France, France"
 pictures: ["04-04-2024/1.webp", "04-04-2024/2.webp", "04-04-2024/3.webp", "04-04-2024/4.webp", "04-04-2024/5.webp"]
 ---
 
+![Café d'Eduardo](../cafe_eduardo.png)
+
 Ce matin, le réveil est animé. Pour Nana ça semble aller mieux. Pour Nico à l'inverse le nez semble complètement encombré. On s'est bien choppé un petit rhume. Je ne vous le cache pas, je suis très inquiet. Jamais deux sans trois comme on dit et j'ai une santé fragile. Hors de question de renommer ma chronique *"le doliprane d'Eduardo 💊"* !
 
 Dehors, la pluie tombe lourdement sur le sol et le vent souffle très fort. On les entend depuis 2h du matin environ. Puis soudainement, quand vient un moment d'accalmie, un autre bruit prend le relais : c'est l'alarme de nos vélos qui retentit ! Malgré qu'ils soient bien calés et abrités, la force du vent les a décalés d'un demi-mètre, ce qui a déclenché le détecteur de mouvement 🤣.

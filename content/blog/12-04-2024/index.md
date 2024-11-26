@@ -4,6 +4,7 @@ date: "2024-04-12"
 description: "Balade dans Utrecht à la poursuite de Miffy !"
 location: "Utrecht, Pays-Bas"
 tags: ["heart", "culture"]
+pictures: ["12-04-2024/1.webp", "12-04-2024/2.webp", "12-04-2024/3.webp", "12-04-2024/4.webp", "12-04-2024/5.webp", "12-04-2024/6.webp", "12-04-2024/7.webp", "12-04-2024/8.webp", "12-04-2024/9.webp", "12-04-2024/10.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-04-10"
 description: "Vent de face et moulins à vent !"
 location: "Hollande-Méridoniale, Pays-Bas"
 tags: ["heart", "unesco"]
+pictures: ["10-04-2024/1.webp", "10-04-2024/2.webp", "10-04-2024/3.webp", "10-04-2024/4.webp", "10-04-2024/5.webp", "10-04-2024/6.webp", "10-04-2024/7.webp", "10-04-2024/8.webp", "10-04-2024/9.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)

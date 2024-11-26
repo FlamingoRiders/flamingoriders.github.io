@@ -7,6 +7,8 @@ tags: ["culture"]
 pictures: ["30-08-2024/1.webp", "30-08-2024/2.webp", "30-08-2024/3.webp", "30-08-2024/4.webp", "30-08-2024/5.webp", "30-08-2024/6.webp", "30-08-2024/7.webp", "30-08-2024/8.webp", "30-08-2024/9.webp", "30-08-2024/10.webp"]
 ---
 
+![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
+
 Aujourd'hui, on est de retour à **Stockholm** pour une nouvelle journée de visite de la ville. On était bien sûr les îles **Åland** mais on est également ravis de retrouver cette superbe ville 🤩.
 
 On commence notre journée par une balade dans la vieille ville. Il y a beaucoup de magasins de souvenirs. Due à la logistique de notre voyage, on est un peu limités en choses que l'on peut ramener (sorry les copains et la famille 😅). Cependant, on aime bien flâner dans les boutiques même si elles proposent globalement toutes la même chose. Il faut quand même en faire 3-4 afin de trouver les meilleures chaussettes Moomins, les meilleurs stickers et les meilleures cartes postales 😁.

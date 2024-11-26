@@ -4,6 +4,7 @@ date: "2024-04-17"
 description: "Grêle, Giethoorn et cap des 1000 bornes !"
 location: "Overĳssel, Pays-Bas"
 tags: ["heart", "culture"]
+pictures: ["17-04-2024/1.webp", "17-04-2024/2.webp", "17-04-2024/3.webp", "17-04-2024/4.webp", "17-04-2024/5.webp", "17-04-2024/6.webp", "17-04-2024/7.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)

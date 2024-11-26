@@ -4,6 +4,7 @@ date: "2024-04-13"
 description: "Ça souffle fort sur les tulipes de Keukenhof."
 location: "Hollande-Méridionale, Pays-Bas"
 tags: ["heart", "scenic"]
+pictures: ["13-04-2024/1.webp", "13-04-2024/2.webp", "13-04-2024/3.webp", "13-04-2024/4.webp", "13-04-2024/5.webp", "13-04-2024/6.webp", "13-04-2024/7.webp", "13-04-2024/8.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)

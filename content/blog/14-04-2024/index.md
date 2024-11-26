@@ -4,6 +4,7 @@ date: "2024-04-14"
 description: "De la mer du Nord à Amsterdam !"
 location: "Hollande-Septentrionale, Pays-Bas"
 tags: ["heart", "scenic"]
+pictures: ["14-04-2024/1.webp", "14-04-2024/2.webp", "14-04-2024/3.webp", "14-04-2024/4.webp", "14-04-2024/5.webp", "14-04-2024/6.webp", "14-04-2024/7.webp", "14-04-2024/8.webp", "14-04-2024/9.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
