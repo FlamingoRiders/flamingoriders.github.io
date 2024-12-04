@@ -4,6 +4,7 @@ date: "2024-04-28"
 description: "Deuxième journée de visite à Hambourg !"
 location: "Hambourg, Allemagne"
 tags: ["heart", "culture"]
+pictures: ["28-04-2024/1.webp", "28-04-2024/2.webp", "28-04-2024/3.webp", "28-04-2024/4.webp", "28-04-2024/5.webp", "28-04-2024/6.webp", "28-04-2024/7.webp", "28-04-2024/8.webp", "28-04-2024/9.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)

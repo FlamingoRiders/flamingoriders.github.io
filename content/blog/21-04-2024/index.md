@@ -3,6 +3,7 @@ title: 🥨 Le bretzel d'Eduardo du 21 avril
 date: "2024-04-21"
 description: "9 jours d'affilée, une pause s'impose !"
 location: "Basse-Saxe, Allemagne"
+pictures: ["21-04-2024/1.webp", "21-04-2024/2.webp", "21-04-2024/3.webp", "21-04-2024/4.webp", "21-04-2024/5.webp", "21-04-2024/6.webp", "21-04-2024/7.webp", "21-04-2024/8.webp", "21-04-2024/9.webp", "21-04-2024/10.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-04-29"
 description: "Ça repart sous le soleil vers Lübeck!"
 location: "Schleswig-Holstein, Allemagne"
 tags: ["culture"]
+pictures: ["29-04-2024/1.webp", "29-04-2024/2.webp", "29-04-2024/3.webp", "29-04-2024/4.webp", "29-04-2024/5.webp", "29-04-2024/6.webp", "29-04-2024/7.webp", "29-04-2024/8.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)

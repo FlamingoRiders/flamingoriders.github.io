@@ -3,6 +3,7 @@ title: 🥨 Le bretzel d'Eduardo du 20 avril
 date: "2024-04-20"
 description: "Premier bretzel, vingtième averse !"
 location: "Basse-Saxe, Allemagne"
+pictures: ["20-04-2024/1.webp", "20-04-2024/2.webp", "20-04-2024/3.webp", "20-04-2024/4.webp", "20-04-2024/5.webp", "20-04-2024/6.webp", "20-04-2024/7.webp", "20-04-2024/8.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)

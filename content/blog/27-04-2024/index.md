@@ -4,6 +4,7 @@ date: "2024-04-27"
 description: "Retrouvailles avec les amis et visite d'Hambourg !"
 location: "Hambourg, Allemagne"
 tags: ["heart", "unesco", "culture"]
+pictures: ["27-04-2024/1.webp", "27-04-2024/2.webp", "27-04-2024/3.webp", "27-04-2024/4.webp", "27-04-2024/5.webp", "27-04-2024/6.webp", "27-04-2024/7.webp", "27-04-2024/8.webp", "27-04-2024/9.webp", "27-04-2024/10.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)

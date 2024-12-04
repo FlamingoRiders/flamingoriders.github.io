@@ -3,6 +3,7 @@ title: 🥨 Le bretzel d'Eduardo du 24 avril
 date: "2024-04-24"
 description: "On est là ! On est là ! Même si la pluie ne le veut pas, nous on est là !"
 location: "Basse-Saxe, Allemagne"
+pictures: ["24-04-2024/1.webp", "24-04-2024/2.webp", "24-04-2024/3.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)

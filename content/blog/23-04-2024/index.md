@@ -4,6 +4,7 @@ date: "2024-04-23"
 description: "Incruste auprès des musiciens de Brême !"
 location: "Brême, Allemagne"
 tags: ["heart", "unesco", "culture"]
+pictures: ["22-04-2024/1.webp", "22-04-2024/2.webp", "22-04-2024/3.webp", "22-04-2024/4.webp", "22-04-2024/5.webp", "22-04-2024/6.webp", "22-04-2024/7.webp", "22-04-2024/8.webp", "22-04-2024/9.webp", "23-04-2024/1.webp", "23-04-2024/2.webp", "23-04-2024/3.webp", "23-04-2024/4.webp", "23-04-2024/5.webp", "23-04-2024/6.webp", "23-04-2024/7.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
