@@ -43,16 +43,18 @@ const Activities: React.FC<ActivitiesProps> = ({ caption, activities }) => {
             </tr>
           </thead>
           <tbody>
-            {activities.filter(activity => activity.distance && activity.time).map((activity) => (
-              <RowStat
-                key={activity.date}
-                title={getDayOfWeek(activity.date)}
-                time={activity.time}
-                distance={activity.distance}
-                elevation={activity.elevationGain}
-                speed={activity.averageSpeed}
-              />
-            ))}
+            {activities
+              .filter((activity) => activity.distance && activity.time)
+              .map((activity) => (
+                <RowStat
+                  key={activity.date}
+                  title={getDayOfWeek(activity.date)}
+                  time={activity.time}
+                  distance={activity.distance}
+                  elevation={activity.elevationGain}
+                  speed={activity.averageSpeed}
+                />
+              ))}
           </tbody>
         </table>
       </details>

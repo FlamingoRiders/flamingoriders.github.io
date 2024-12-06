@@ -6,63 +6,64 @@ import CategoryPicker from "./category-picker";
 import Summary from "./summary";
 
 interface BikeStatsProps {
-    stats: AllStats;
+  stats: AllStats;
 }
 
 const BikeStats: React.FC<BikeStatsProps> = ({ stats }) => {
-    const daysActiveCaption = "Jours pédalés";
+  const daysActiveCaption = "Jours pédalés";
 
-    const [selectedCategoryIndex, setSelectedCategoryIndex] = useState<number>(0);
+  const [selectedCategoryIndex, setSelectedCategoryIndex] = useState<number>(0);
 
-    const onSelectCategory = useCallback(
-        (index: number) => {
-            setSelectedCategoryIndex(index);
-        },
-        [setSelectedCategoryIndex],
-    );
+  const onSelectCategory = useCallback(
+    (index: number) => {
+      setSelectedCategoryIndex(index);
+    },
+    [setSelectedCategoryIndex],
+  );
 
-    const categories = [
-        "Total",
-        ...stats.monthStats.map((monthStat) => monthStat.month),
-    ];
+  const categories = [
+    "Total",
+    ...stats.monthStats.map((monthStat) => monthStat.month),
+  ];
 
-    const selectedMonthStat: MonthStats | undefined = useMemo(() => {
-        if (selectedCategoryIndex === 0) {
-            return undefined;
-        }
+  const selectedMonthStat: MonthStats | undefined = useMemo(() => {
+    if (selectedCategoryIndex === 0) {
+      return undefined;
+    }
 
-        return stats.monthStats[selectedCategoryIndex - 1];
-    }, [selectedCategoryIndex]);
+    return stats.monthStats[selectedCategoryIndex - 1];
+  }, [selectedCategoryIndex]);
 
-    return (
+  return (
+    <>
+      <p>Retrouvez le détail kilométrique de nos journées à vélo.</p>
+      <CategoryPicker
+        onSelectCategory={onSelectCategory}
+        categories={categories}
+        selectedIndex={selectedCategoryIndex}
+      />
+
+      {selectedMonthStat ? (
         <>
-            <p>Retrouvez le détail kilométrique de nos journées à vélo.</p>
-            <CategoryPicker
-                onSelectCategory={onSelectCategory}
-                categories={categories}
-                selectedIndex={selectedCategoryIndex}
-            />
-
-            {selectedMonthStat ? (
-                <>
-                    <Summary
-                        statisticsCaption={`Statistiques du mois`}
-                        daysActiveCaption={daysActiveCaption}
-                        summary={selectedMonthStat.summary}
-                    />
-                    <Activities
-                        activities={selectedMonthStat.activities}
-                        caption={`Détail des activités`}
-                    />
-                </>
-            ) :
-                <Summary
-                    statisticsCaption={`Statistiques globales`}
-                    daysActiveCaption={daysActiveCaption}
-                    summary={stats.summary}
-                />}
+          <Summary
+            statisticsCaption={`Statistiques du mois`}
+            daysActiveCaption={daysActiveCaption}
+            summary={selectedMonthStat.summary}
+          />
+          <Activities
+            activities={selectedMonthStat.activities}
+            caption={`Détail des activités`}
+          />
         </>
-    );
+      ) : (
+        <Summary
+          statisticsCaption={`Statistiques globales`}
+          daysActiveCaption={daysActiveCaption}
+          summary={stats.summary}
+        />
+      )}
+    </>
+  );
 };
 
 export default BikeStats;

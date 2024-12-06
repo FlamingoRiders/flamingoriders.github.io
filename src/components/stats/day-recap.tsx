@@ -26,20 +26,22 @@ const DayRecap: React.FC<DayRecapProps> = ({
         {weather && <div style={{ fontSize: "3rem" }}>{weather}</div>}
       </div>
 
-      {time && distance && <table>
-        <thead>
-          <tr>
-            <th align="center">Temps écoulé</th>
-            <th align="center">Distance parcourue</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="center">⏳ {time}</td>
-            <td align="center">🚲 {formatInUnit(distance, Unit.DISTANCE)}</td>
-          </tr>
-        </tbody>
-      </table>}
+      {time && distance && (
+        <table>
+          <thead>
+            <tr>
+              <th align="center">Temps écoulé</th>
+              <th align="center">Distance parcourue</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center">⏳ {time}</td>
+              <td align="center">🚲 {formatInUnit(distance, Unit.DISTANCE)}</td>
+            </tr>
+          </tbody>
+        </table>
+      )}
       {mood && <MoodBar mood={mood} />}
     </>
   );

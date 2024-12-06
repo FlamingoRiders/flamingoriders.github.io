@@ -81,7 +81,12 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location} /></small>
+                  <small>
+                    <DateAndLocation
+                      date={post.frontmatter.date}
+                      location={post.frontmatter.location}
+                    />
+                  </small>
                   <TagList tags={post.frontmatter.tags} />
                 </header>
                 <section>
@@ -91,14 +96,17 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
                     }}
                     itemProp="description"
                   />
-
                 </section>
               </article>
             </li>
           );
         })}
       </ol>
-      <nav className="pagination is-centered" role="navigation" aria-label="pagination">
+      <nav
+        className="pagination is-centered"
+        role="navigation"
+        aria-label="pagination"
+      >
         {!isFirst && (
           <Link
             className="pagination-previous"
@@ -126,21 +134,29 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
           <div className="pagination-next is-invisible">Suivant →</div>
         )}
         <ul className="pagination-list my-auto">
-          {!isFirst && <Link
-            className="pagination-link"
-            to={`${AppRoutes.BLOG}`}
-            aria-label="Go to first page"
-          >
-            1
-          </Link>}
-          {currentPage > 3 && <li className="my-auto"><span className="pagination-ellipsis">&hellip;</span></li>}
-          {!isFirst && !isSecond && <Link
-            className="pagination-link"
-            to={`${AppRoutes.BLOG}/${prevPage}`}
-            aria-label={`Go to page ${prevPage}`}
-          >
-            {prevPage}
-          </Link>}
+          {!isFirst && (
+            <Link
+              className="pagination-link"
+              to={`${AppRoutes.BLOG}`}
+              aria-label="Go to first page"
+            >
+              1
+            </Link>
+          )}
+          {currentPage > 3 && (
+            <li className="my-auto">
+              <span className="pagination-ellipsis">&hellip;</span>
+            </li>
+          )}
+          {!isFirst && !isSecond && (
+            <Link
+              className="pagination-link"
+              to={`${AppRoutes.BLOG}/${prevPage}`}
+              aria-label={`Go to page ${prevPage}`}
+            >
+              {prevPage}
+            </Link>
+          )}
           <Link
             className="pagination-link is-current inactive-link"
             aria-label={`Page ${currentPage}`}
@@ -149,21 +165,29 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
           >
             {currentPage}
           </Link>
-          {!isLast && !isSecondLast && <Link
-            className="pagination-link"
-            to={`${AppRoutes.BLOG}/${nextPage}`}
-            aria-label={`Go to page ${nextPage}`}
-          >
-            {nextPage}
-          </Link>}
-          {(currentPage < numPages - 2) && <li className="my-auto"><span className="pagination-ellipsis">&hellip;</span></li>}
-          {!isLast && <Link
-            className="pagination-link"
-            to={`${AppRoutes.BLOG}/${numPages}`}
-            aria-label={`Go to page ${numPages}`}
-          >
-            {numPages}
-          </Link>}
+          {!isLast && !isSecondLast && (
+            <Link
+              className="pagination-link"
+              to={`${AppRoutes.BLOG}/${nextPage}`}
+              aria-label={`Go to page ${nextPage}`}
+            >
+              {nextPage}
+            </Link>
+          )}
+          {currentPage < numPages - 2 && (
+            <li className="my-auto">
+              <span className="pagination-ellipsis">&hellip;</span>
+            </li>
+          )}
+          {!isLast && (
+            <Link
+              className="pagination-link"
+              to={`${AppRoutes.BLOG}/${numPages}`}
+              aria-label={`Go to page ${numPages}`}
+            >
+              {numPages}
+            </Link>
+          )}
         </ul>
       </nav>
     </Layout>
@@ -204,4 +228,4 @@ export const blogListQuery = graphql`
 
 export const Head = () => {
   return <SEO title={AppSections.BLOG} />;
-}
+};

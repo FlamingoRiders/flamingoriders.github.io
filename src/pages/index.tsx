@@ -64,15 +64,19 @@ const HomePage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           voir notre trajet sur chaque étape et depuis le début.
         </li>
         <li>
-          Notre voyage en quelques <Link to={AppRoutes.STATS}>chiffres clés</Link>.
+          Notre voyage en quelques{" "}
+          <Link to={AppRoutes.STATS}>chiffres clés</Link>.
         </li>
       </ul>
       <p>
         Retrouvez également toutes nos photos sur notre{" "}
         <a href={`https://www.polarsteps.com/${polarsteps}`}>Polarsteps</a> !
       </p>
-      <p>N'hésitez pas à rafraîchir les pages si le contenu ne vous semble pas à jour, nous publions tous les jours. </p>
-    </Layout >
+      <p>
+        N'hésitez pas à rafraîchir les pages si le contenu ne vous semble pas à
+        jour, nous publions tous les jours.{" "}
+      </p>
+    </Layout>
   );
 };
 
@@ -93,4 +97,4 @@ export const pageQuery = graphql`
 
 export const Head = () => {
   return <SEO title={AppSections.HOME} />;
-}
+};

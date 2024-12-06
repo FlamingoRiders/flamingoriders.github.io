@@ -5,9 +5,16 @@ interface DateAndLocationProps {
   location: string;
 }
 
-const DateAndLocation: React.FC<DateAndLocationProps> = ({ date, location }) => {
-  
-  return <>{date}{location && ` : ${location}`}</>;
+const DateAndLocation: React.FC<DateAndLocationProps> = ({
+  date,
+  location,
+}) => {
+  return (
+    <>
+      {date}
+      {location && ` : ${location}`}
+    </>
+  );
 };
 
 export default DateAndLocation;

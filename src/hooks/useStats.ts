@@ -1,5 +1,11 @@
 import { useCallback, useMemo } from "react";
-import { Activity, Summary, MonthStats, AllStats, CountryStats } from "models/stats";
+import {
+  Activity,
+  Summary,
+  MonthStats,
+  AllStats,
+  CountryStats,
+} from "models/stats";
 import { calculateDaysInBetweenDates, toDecimalTime } from "utils/time";
 import {
   calculateTotal,
@@ -9,18 +15,27 @@ import {
 import { getMonthName } from "utils/date";
 
 export const useStats = (activities: Array<Activity>) => {
-
   const calculateSummary = useCallback((activities: Array<Activity>) => {
-    const distances = activities.filter(activity => activity.distance).map((activity) => activity.distance);
-    const elevations = activities.filter(activity => activity.elevationGain).map((activity) => activity.elevationGain);
-    const speeds = activities.filter(activity => activity.averageSpeed).map((activity) => activity.averageSpeed);
-    const times = activities.filter(activity => activity.time).map((activity) => toDecimalTime(activity.time));
+    const distances = activities
+      .filter((activity) => activity.distance)
+      .map((activity) => activity.distance);
+    const elevations = activities
+      .filter((activity) => activity.elevationGain)
+      .map((activity) => activity.elevationGain);
+    const speeds = activities
+      .filter((activity) => activity.averageSpeed)
+      .map((activity) => activity.averageSpeed);
+    const times = activities
+      .filter((activity) => activity.time)
+      .map((activity) => toDecimalTime(activity.time));
     const daysInBetween = calculateDaysInBetweenDates(
       activities[activities.length - 1].date,
       activities[0].date,
     );
 
-    const activeDays = activities.filter(activity => activity.distance && activity.time);
+    const activeDays = activities.filter(
+      (activity) => activity.distance && activity.time,
+    );
 
     return {
       totalDistance: calculateTotal(distances),
@@ -86,17 +101,21 @@ export const useStats = (activities: Array<Activity>) => {
 };
 
 export const useCountryStats = (activities: Array<Activity>) => {
-
   const countryStats: Map<String, CountryStats> = useMemo(() => {
-
     const stats: Map<String, CountryStats> = new Map();
 
-    activities.forEach(activity => {
+    activities.forEach((activity) => {
       const countryStats = stats.get(activity.endCountryName);
       if (countryStats) {
-        stats.set(activity.endCountryName, { days: countryStats.days + 1, distance: +(countryStats.distance + activity.distance).toFixed(2) })
+        stats.set(activity.endCountryName, {
+          days: countryStats.days + 1,
+          distance: +(countryStats.distance + activity.distance).toFixed(2),
+        });
       } else {
-        stats.set(activity.endCountryName, { days: 1, distance: activity.distance ? +activity.distance.toFixed(2) : 0 });
+        stats.set(activity.endCountryName, {
+          days: 1,
+          distance: activity.distance ? +activity.distance.toFixed(2) : 0,
+        });
       }
     });
 
@@ -104,4 +123,4 @@ export const useCountryStats = (activities: Array<Activity>) => {
   }, [activities]);
 
   return countryStats;
-}
+};

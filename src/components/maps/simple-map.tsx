@@ -20,7 +20,7 @@ interface SimpleMapProps {
 const SimpleMap: React.FC<SimpleMapProps> = ({
   positionMarkers,
   displayedPositionMarker,
-  siteUrl
+  siteUrl,
 }) => {
   return (
     <>
@@ -42,7 +42,13 @@ const SimpleMap: React.FC<SimpleMapProps> = ({
         />
         {displayedPositionMarker && (
           <Marker position={displayedPositionMarker.endPos}>
-            <Popup><a href={`${siteUrl}/${getPostDate(displayedPositionMarker.date)}`}>Accéder au récit du {getDayOfWeek(displayedPositionMarker.date)}</a></Popup>
+            <Popup>
+              <a
+                href={`${siteUrl}/${getPostDate(displayedPositionMarker.date)}`}
+              >
+                Accéder au récit du {getDayOfWeek(displayedPositionMarker.date)}
+              </a>
+            </Popup>
           </Marker>
         )}
         {positionMarkers

@@ -16,9 +16,15 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
         <caption>{caption}</caption>
         <thead>
           <tr>
-            <th align="center" scope="col">Jours</th>
-            <th align="center" scope="col">✅</th>
-            <th align="center" scope="col">🚳</th>
+            <th align="center" scope="col">
+              Jours
+            </th>
+            <th align="center" scope="col">
+              ✅
+            </th>
+            <th align="center" scope="col">
+              🚳
+            </th>
           </tr>
         </thead>
         <tbody>
@@ -55,31 +61,38 @@ const DaysActive: React.FC<SummaryProps> = ({ caption, summary }) => {
 
 const Statistics: React.FC<SummaryProps> = ({ caption, summary }) => {
   return (
-    <><nav className="level">
-      <div className="level-item has-text-centered">
-        <div>
-          <p className="heading m-0">Durée</p>
-          <p className="title">{toStringTime(summary.totalTime)}</p>
+    <>
+      <nav className="level">
+        <div className="level-item has-text-centered">
+          <div>
+            <p className="heading m-0">Durée</p>
+            <p className="title">{toStringTime(summary.totalTime)}</p>
+          </div>
         </div>
-      </div>
-      <div className="level-item has-text-centered">
-        <div>
-          <p className="heading m-0">Distance</p>
-          <p className="title">{formatInUnit(summary.totalDistance, Unit.DISTANCE)}</p>
+        <div className="level-item has-text-centered">
+          <div>
+            <p className="heading m-0">Distance</p>
+            <p className="title">
+              {formatInUnit(summary.totalDistance, Unit.DISTANCE)}
+            </p>
+          </div>
         </div>
-      </div>
-      <div className="level-item has-text-centered">
-        <div>
-          <p className="heading m-0">Dénivelé positif</p>
-          <p className="title">{formatInUnit(summary.totalElevation, Unit.ELEVATION)}</p>
+        <div className="level-item has-text-centered">
+          <div>
+            <p className="heading m-0">Dénivelé positif</p>
+            <p className="title">
+              {formatInUnit(summary.totalElevation, Unit.ELEVATION)}
+            </p>
+          </div>
         </div>
-      </div>
-    </nav>
+      </nav>
       <table>
         <caption>{caption}</caption>
         <thead>
           <tr>
-            <th align="center" scope="col">&nbsp;</th>
+            <th align="center" scope="col">
+              &nbsp;
+            </th>
             <th align="center" scope="col">
               <span className="d-desktop">Minimum</span>
               <span className="d-mobile">Min.</span>

@@ -48,9 +48,21 @@ const StatsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
       <p>Notre voyage en quelques chiffres clés !</p>
       <div className="tabs is-centered">
         <ul className="mb-0">
-          <li className={`is-clickable ${selectedStatTab === 0 ? 'is-active' : ''}`}><a onClick={() => onSelectTab(0)}>🚲 Trajet</a></li>
-          <li className={`is-clickable ${selectedStatTab === 1 ? 'is-active' : ''}`}><a onClick={() => onSelectTab(1)}>🌎 Lieux</a></li>
-          <li className={`is-clickable ${selectedStatTab === 2 ? 'is-active' : ''}`}><a onClick={() => onSelectTab(2)}>🎉 Fun Facts</a></li>
+          <li
+            className={`is-clickable ${selectedStatTab === 0 ? "is-active" : ""}`}
+          >
+            <a onClick={() => onSelectTab(0)}>🚲 Trajet</a>
+          </li>
+          <li
+            className={`is-clickable ${selectedStatTab === 1 ? "is-active" : ""}`}
+          >
+            <a onClick={() => onSelectTab(1)}>🌎 Lieux</a>
+          </li>
+          <li
+            className={`is-clickable ${selectedStatTab === 2 ? "is-active" : ""}`}
+          >
+            <a onClick={() => onSelectTab(2)}>🎉 Fun Facts</a>
+          </li>
         </ul>
       </div>
       {selectedStatTab === 0 && <BikeStats stats={bikeStats} />}
@@ -84,4 +96,4 @@ export const pageQuery = graphql`
 
 export const Head = () => {
   return <SEO title={AppSections.STATS} />;
-}
+};

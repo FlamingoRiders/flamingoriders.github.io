@@ -24,5 +24,5 @@ export const getFullDate = (value: string): string => {
 
 export const getPostDate = (value: string): string => {
   const date = new Date(value);
-  return new Intl.DateTimeFormat('fr-FR').format(date).replace(/\//g, '-');
+  return new Intl.DateTimeFormat("fr-FR").format(date).replace(/\//g, "-");
 };

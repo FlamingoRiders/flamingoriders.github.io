@@ -8,13 +8,7 @@ interface SummaryStatProps {
   avg: string;
 }
 
-const SummaryStat: React.FC<SummaryStatProps> = ({
-  title,
-  min,
-  max,
-  avg,
-}) => {
-
+const SummaryStat: React.FC<SummaryStatProps> = ({ title, min, max, avg }) => {
   return (
     <tr>
       <th align="center" scope="row">

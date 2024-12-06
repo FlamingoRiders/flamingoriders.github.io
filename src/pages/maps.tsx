@@ -100,4 +100,4 @@ export const pageQuery = graphql`
 
 export const Head = () => {
   return <SEO title={AppSections.MAPS} />;
-}
+};

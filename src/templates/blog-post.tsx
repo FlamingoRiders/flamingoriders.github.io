@@ -61,14 +61,25 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p><DateAndLocation date={post.frontmatter.date} location={post.frontmatter.location} /> <TagList tags={post.frontmatter.tags} /></p>
+          <p>
+            <DateAndLocation
+              date={post.frontmatter.date}
+              location={post.frontmatter.location}
+            />{" "}
+            <TagList tags={post.frontmatter.tags} />
+          </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
         {day && <DayRecap day={day} />}
-        {post.frontmatter.pictures && <Slideshow picturesUrl={data.site.siteMetadata.picturesUrl} pictureIds={post.frontmatter.pictures} />}
+        {post.frontmatter.pictures && (
+          <Slideshow
+            picturesUrl={data.site.siteMetadata.picturesUrl}
+            pictureIds={post.frontmatter.pictures}
+          />
+        )}
       </article>
       <hr />
       <nav className="blog-post-nav">
@@ -159,8 +170,10 @@ export const pageQuery = graphql`
 
 export const Head: React.FC<PageProps<QueryReturn>> = ({ data }) => {
   const post = data.markdownRemark;
-  return <SEO
-    title={post.frontmatter.title}
-    description={post.frontmatter.description || post.excerpt}
-  />;
-}
+  return (
+    <SEO
+      title={post.frontmatter.title}
+      description={post.frontmatter.description || post.excerpt}
+    />
+  );
+};
