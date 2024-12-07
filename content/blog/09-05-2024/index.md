@@ -3,6 +3,7 @@ title: 🥪 Le smørrebrød d'Eduardo du 09 mai
 date: "2024-05-09"
 description: "2 ferrys pour quitter le Sjælland et rejoindre Aarhus dans le Jutland !"
 location: "Jutland central, Danemark"
+pictures: ["09-05-2024/1.webp", "09-05-2024/2.webp", "09-05-2024/3.webp", "09-05-2024/4.webp", "09-05-2024/5.webp", "09-05-2024/6.webp", "09-05-2024/7.webp", "09-05-2024/8.webp", "09-05-2024/9.webp", "09-05-2024/10.webp", "09-05-2024/11.webp", "09-05-2024/12.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

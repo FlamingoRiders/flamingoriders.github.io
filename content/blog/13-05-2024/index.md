@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 13 mai
 date: "2024-05-13"
 description: "Débarquement à Oslo !"
 location: "Oslo, Norvège"
+pictures: ["13-05-2024/1.webp", "13-05-2024/2.webp", "13-05-2024/3.webp", "13-05-2024/4.webp", "13-05-2024/5.webp", "13-05-2024/6.webp", "13-05-2024/7.webp", "13-05-2024/8.webp", "13-05-2024/9.webp", "13-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

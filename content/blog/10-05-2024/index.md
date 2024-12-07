@@ -3,6 +3,7 @@ title: 🥪 Le smørrebrød d'Eduardo du 10 mai
 date: "2024-05-10"
 description: "Cap sur le nord et les fjords magnifiques du Jutland !"
 location: "Jutland central, Danemark"
+pictures: ["10-05-2024/1.webp", "10-05-2024/2.webp", "10-05-2024/3.webp", "10-05-2024/4.webp", "10-05-2024/5.webp", "10-05-2024/6.webp", "10-05-2024/7.webp", "10-05-2024/8.webp", "10-05-2024/9.webp", "10-05-2024/10.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

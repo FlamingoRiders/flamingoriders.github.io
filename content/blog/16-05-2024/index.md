@@ -4,6 +4,7 @@ date: "2024-05-16"
 description: "Parc, musée et sauna à Oslo !"
 location: "Oslo, Norvège"
 tags: ["heart", "culture"]
+pictures: ["16-05-2024/1.webp", "16-05-2024/2.webp", "16-05-2024/3.webp", "16-05-2024/4.webp", "16-05-2024/5.webp", "16-05-2024/6.webp", "16-05-2024/7.webp", "16-05-2024/8.webp", "16-05-2024/9.webp", "16-05-2024/10.webp", "16-05-2024/11.webp", "16-05-2024/12.webp", "16-05-2024/13.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

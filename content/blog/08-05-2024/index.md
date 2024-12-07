@@ -4,6 +4,7 @@ date: "2024-05-08"
 description: "Épatés par Frederiksborg, le plus grand château de Scandinavie !"
 location: "Hovedstaden, Danemark"
 tags: ["heart", "culture"]
+pictures: ["08-05-2024/1.webp", "08-05-2024/2.webp", "08-05-2024/3.webp", "08-05-2024/4.webp", "08-05-2024/5.webp", "08-05-2024/6.webp", "08-05-2024/7.webp", "08-05-2024/8.webp", "08-05-2024/9.webp", "08-05-2024/10.webp", "08-05-2024/11.webp", "08-05-2024/12.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

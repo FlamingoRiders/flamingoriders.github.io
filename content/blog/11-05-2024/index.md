@@ -3,6 +3,7 @@ title: 🥪 Le smørrebrød d'Eduardo du 11 mai
 date: "2024-05-11"
 description: "On traverse la superbe forêt de Rold Skov pour rallier Aalborg !"
 location: "Jutland central, Danemark"
+pictures: ["11-05-2024/1.webp", "11-05-2024/2.webp", "11-05-2024/3.webp", "11-05-2024/4.webp", "11-05-2024/5.webp", "11-05-2024/6.webp", "11-05-2024/7.webp", "11-05-2024/8.webp", "11-05-2024/9.webp", "11-05-2024/10.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-05-15"
 description: "Sur les îles du fjord d'Oslo !"
 location: "Oslo, Norvège"
 tags: ["heart"]
+pictures: ["15-05-2024/1.webp", "15-05-2024/2.webp", "15-05-2024/3.webp", "15-05-2024/4.webp", "15-05-2024/5.webp", "15-05-2024/6.webp", "15-05-2024/7.webp", "15-05-2024/8.webp", "15-05-2024/9.webp", "15-05-2024/10.webp", "15-05-2024/11.webp", "15-05-2024/12.webp", "15-05-2024/13.webp", "15-05-2024/14.webp", "15-05-2024/15.webp", "15-05-2024/16.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

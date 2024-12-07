@@ -4,6 +4,7 @@ date: "2024-05-07"
 description: "Escale à Malmö pour rendre visite à Zlatan !"
 location: "Malmö, Suède"
 tags: ["heart"]
+pictures: ["07-05-2024/1.webp", "07-05-2024/2.webp", "07-05-2024/3.webp", "07-05-2024/4.webp", "07-05-2024/5.webp", "07-05-2024/6.webp", "07-05-2024/7.webp", "07-05-2024/8.webp", "07-05-2024/9.webp", "07-05-2024/10.webp", "07-05-2024/11.webp"]
 ---
 
 

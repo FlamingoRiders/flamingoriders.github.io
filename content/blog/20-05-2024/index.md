@@ -4,6 +4,7 @@ date: "2024-05-20"
 description: "Heddal stavkyrkje, la plus grande église en bois debout de Norvège !"
 location: "Telemark, Norvège"
 tags: ["heart", "culture"]
+pictures: ["20-05-2024/1.webp", "20-05-2024/2.webp", "20-05-2024/3.webp", "20-05-2024/4.webp", "20-05-2024/5.webp", "20-05-2024/6.webp", "20-05-2024/7.webp", "20-05-2024/8.webp", "20-05-2024/9.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

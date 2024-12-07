@@ -4,6 +4,7 @@ date: "2024-05-21"
 description: "Deux belles ascensions à 900 mètres et des points de vue complètement fous sur les montagnes et les lacs de Lognvikvatn et Totak !"
 location: "Telemark, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["21-05-2024/1.webp", "21-05-2024/2.webp", "21-05-2024/3.webp", "21-05-2024/4.webp", "21-05-2024/5.webp", "21-05-2024/6.webp", "21-05-2024/7.webp", "21-05-2024/8.webp", "21-05-2024/9.webp", "21-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

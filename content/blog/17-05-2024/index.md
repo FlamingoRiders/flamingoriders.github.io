@@ -4,6 +4,7 @@ date: "2024-05-17"
 description: "Nasjonaldagen : fête nationale à Oslo !"
 location: "Oslo, Norvège"
 tags: ["heart", "culture"]
+pictures: ["17-05-2024/1.webp", "17-05-2024/2.webp", "17-05-2024/3.webp", "17-05-2024/4.webp", "17-05-2024/5.webp", "17-05-2024/6.webp", "17-05-2024/7.webp", "17-05-2024/8.webp", "17-05-2024/9.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
