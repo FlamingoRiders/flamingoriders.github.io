@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 27 mai
 date: "2024-05-27"
 description: "Arrivée à Bergen, la ville la plus pluvieuse d'Europe, sous une averse monumentale !"
 location: "Vestland, Norvège"
+pictures: ["27-05-2024/1.webp", "27-05-2024/2.webp", "27-05-2024/3.webp", "27-05-2024/4.webp", "27-05-2024/5.webp", "27-05-2024/6.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-06-24"
 description: "On essaie de prendre un raccourci mais le destin en décide autrement : on doit faire le grand tour du fjord sous une pluie battante."
 location: "Nordland, Norvège"
 tags: ["scenic"]
+pictures: ["24-06-2024/1.webp", "24-06-2024/2.webp", "24-06-2024/3.webp", "24-06-2024/4.webp", "24-06-2024/5.webp", "24-06-2024/6.webp", "24-06-2024/7.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

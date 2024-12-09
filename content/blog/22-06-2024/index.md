@@ -4,6 +4,7 @@ date: "2024-06-22"
 description: "On marche sur l'eau grâce au Trælvikosen et on reste bouche bée devant les montagnes des septs sœurs !"
 location: "Nordland, Norvège"
 tags: ["scenic"]
+pictures: ["22-06-2024/1.webp", "22-06-2024/2.webp", "22-06-2024/3.webp", "22-06-2024/4.webp", "22-06-2024/5.webp", "22-06-2024/6.webp", "22-06-2024/7.webp", "22-06-2024/8.webp", "22-06-2024/9.webp", "22-06-2024/10.webp", "22-06-2024/11.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

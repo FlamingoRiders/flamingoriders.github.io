@@ -4,6 +4,7 @@ date: "2024-05-29"
 description: "On monte au mont Ulriken et on descend à Bryggen !"
 location: "Vestland, Norvège"
 tags: ["heart", "unesco", "hike", "culture"]
+pictures: ["28-05-2024/1.webp", "28-05-2024/2.webp", "28-05-2024/3.webp", "28-05-2024/4.webp", "28-05-2024/5.webp", "28-05-2024/6.webp", "28-05-2024/7.webp", "28-05-2024/8.webp", "28-05-2024/9.webp", "28-05-2024/10.webp", "28-05-2024/11.webp", "28-05-2024/12.webp", "28-05-2024/13.webp", "28-05-2024/14.webp", "29-05-2024/1.webp", "29-05-2024/2.webp", "29-05-2024/3.webp", "29-05-2024/4.webp", "29-05-2024/5.webp", "29-05-2024/6.webp", "29-05-2024/7.webp", "29-05-2024/8.webp", "29-05-2024/9.webp", "29-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

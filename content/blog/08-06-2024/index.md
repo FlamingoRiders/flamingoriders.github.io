@@ -4,6 +4,7 @@ date: "2024-06-08"
 description: "Le Geirangerfjord et ses cascades féeriques !"
 location: "Møre og Romsdal, Norvège"
 tags: ["heart", "unesco", "hike"]
+pictures: ["08-06-2024/1.webp", "08-06-2024/2.webp", "08-06-2024/3.webp", "08-06-2024/4.webp", "08-06-2024/5.webp", "08-06-2024/6.webp", "08-06-2024/7.webp", "08-06-2024/8.webp", "08-06-2024/9.webp", "08-06-2024/10.webp", "08-06-2024/11.webp", "08-06-2024/12.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

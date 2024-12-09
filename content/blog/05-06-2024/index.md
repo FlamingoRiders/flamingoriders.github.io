@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 5 juin
 date: "2024-06-05"
 description: "Entre les gouttes, la pause s'impose au lac Breimsvatnet !"
 location: "Vestland, Norvège"
+pictures: ["05-06-2024/1.webp", "05-06-2024/2.webp", "05-06-2024/3.webp", "05-06-2024/4.webp", "05-06-2024/5.webp", "05-06-2024/6.webp", "05-06-2024/7.webp", "05-06-2024/8.webp", "05-06-2024/9.webp", "05-06-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

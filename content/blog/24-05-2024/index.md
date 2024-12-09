@@ -4,6 +4,7 @@ date: "2024-05-24"
 description: "Jour de repos, jour de rando : on rejoint le sommet Hanakamb à 1080 mètres qui nous offre des vues époustouflantes sur une cascade, un lac, un fjord et un glacier !"
 location: "Vestland, Norvège"
 tags: ["heart", "hike"]
+pictures: ["24-05-2024/1.webp", "24-05-2024/2.webp", "24-05-2024/3.webp", "24-05-2024/4.webp", "24-05-2024/5.webp", "24-05-2024/6.webp", "24-05-2024/7.webp", "24-05-2024/8.webp", "24-05-2024/9.webp", "24-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

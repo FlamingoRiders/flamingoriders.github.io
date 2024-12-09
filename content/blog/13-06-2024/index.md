@@ -4,6 +4,7 @@ date: "2024-06-13"
 description: "À travers les îles de Frei, Tustna, Stabblandet et Ertvågsøya !"
 location: "Trøndelag, Norvège"
 tags: ["scenic"]
+pictures: ["13-06-2024/1.webp", "13-06-2024/2.webp", "13-06-2024/3.webp", "13-06-2024/4.webp", "13-06-2024/5.webp", "13-06-2024/6.webp", "13-06-2024/7.webp", "13-06-2024/8.webp", "13-06-2024/9.webp", "13-06-2024/10.webp"]
 ---
 
 Ce matin, on quitte notre hytte sous un grand soleil et un beau ciel bleu. C'est merveilleux, **Sól**, la divinité nordique du soleil, a entendu nos prières. On ne voudrait pas fâcher **Thor** mais on est forcés d'admettre que c'est bien aussi quand il se calme un peu le pépère. 

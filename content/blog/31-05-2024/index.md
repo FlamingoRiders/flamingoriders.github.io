@@ -4,6 +4,7 @@ date: "2024-05-31"
 description: "Stupéfaits devant les fantastiques Nærøyfjord et Aurlandsfjord !"
 location: "Vestland, Norvège"
 tags: ["heart", "unesco", "hike"]
+pictures: ["31-05-2024/1.webp", "31-05-2024/2.webp", "31-05-2024/3.webp", "31-05-2024/4.webp", "31-05-2024/5.webp", "31-05-2024/6.webp", "31-05-2024/7.webp", "31-05-2024/8.webp", "31-05-2024/9.webp", "31-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-06-25"
 description: "On retrouve une incroyable team de champions cyclistes et on passe le cercle polaire Arctique !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["25-06-2024/1.webp", "25-06-2024/2.webp", "25-06-2024/3.webp", "25-06-2024/4.webp", "25-06-2024/5.webp", "25-06-2024/6.webp", "25-06-2024/7.webp", "25-06-2024/8.webp", "25-06-2024/9.webp", "25-06-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

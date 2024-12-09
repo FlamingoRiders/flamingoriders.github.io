@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 11 juin
 date: "2024-06-11"
 description: "À travers les fjords du Romsdal !"
 location: "Møre og Romsdal, Norvège"
+pictures: ["11-06-2024/1.webp", "11-06-2024/2.webp", "11-06-2024/3.webp", "11-06-2024/4.webp", "11-06-2024/5.webp", "11-06-2024/6.webp", "11-06-2024/7.webp", "11-06-2024/8.webp", "11-06-2024/9.webp", "11-06-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

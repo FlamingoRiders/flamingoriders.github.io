@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 20 juin
 date: "2024-06-20"
 description: "Météo affreuse mais par miracle, on arrive à rejoindre Leka !"
 location: "Trøndelag, Norvège"
+pictures: ["20-06-2024/1.webp", "20-06-2024/2.webp", "20-06-2024/3.webp", "20-06-2024/4.webp", "20-06-2024/5.webp", "20-06-2024/6.webp", "20-06-2024/7.webp"]
 ---
 
 Aujourd'hui, il fait un temps terrible dès le réveil. La pluie et le vent sont déjà là et vont s'intensifier dans les prochaines heures.

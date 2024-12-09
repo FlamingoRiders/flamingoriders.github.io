@@ -4,6 +4,7 @@ date: "2024-06-06"
 description: "Des trésors en pagaille : la montagne Utvikfjellet, les bras du Nordfjord, la vallée Lodalen et le glacier Kjenndalsbreen !"
 location: "Vestland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["06-06-2024/1.webp", "06-06-2024/2.webp", "06-06-2024/3.webp", "06-06-2024/4.webp", "06-06-2024/5.webp", "06-06-2024/6.webp", "06-06-2024/7.webp", "06-06-2024/8.webp", "06-06-2024/9.webp", "06-06-2024/10.webp", "06-06-2024/11.webp", "06-06-2024/12.webp", "06-06-2024/13.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

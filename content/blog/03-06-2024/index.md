@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 3 juin
 date: "2024-06-03"
 description: "Milles et une tenues pour atteindre Førde !"
 location: "Vestland, Norvège"
+pictures: ["03-06-2024/1.webp", "03-06-2024/2.webp", "03-06-2024/3.webp", "03-06-2024/4.webp", "03-06-2024/5.webp", "03-06-2024/6.webp", "03-06-2024/7.webp", "03-06-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-06-07"
 description: "On quitte le comté de Vestland pour entrer dans celui de Møre og Romsdal !"
 location: "Møre og Romsdal, Norvège"
 tags: ["scenic"]
+pictures: ["07-06-2024/1.webp", "07-06-2024/2.webp", "07-06-2024/3.webp", "07-06-2024/4.webp", "07-06-2024/5.webp", "07-06-2024/6.webp", "07-06-2024/7.webp", "07-06-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

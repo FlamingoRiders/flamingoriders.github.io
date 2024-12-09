@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 14 juin
 date: "2024-06-14"
 description: "Du soleil annoncé mais la pluie n'a pas dit son dernier mot !"
 location: "Trøndelag, Norvège"
+pictures: ["14-06-2024/1.webp", "14-06-2024/2.webp", "14-06-2024/3.webp", "14-06-2024/4.webp", "14-06-2024/5.webp", "14-06-2024/6.webp"]
 ---
 
 

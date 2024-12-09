@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 15 juin
 date: "2024-06-15"
 description: "On fonce sur Trondheim sous un grand soleil !"
 location: "Trøndelag, Norvège"
+pictures: ["15-06-2024/1.webp", "15-06-2024/2.webp", "15-06-2024/3.webp", "15-06-2024/4.webp", "15-06-2024/5.webp", "15-06-2024/6.webp", "15-06-2024/7.webp", "15-06-2024/8.webp", "15-06-2024/9.webp"]
 ---
 
 Aujourd'hui, on est réveillés par les rayons du soleil qui chauffent de bonne heure notre tente. Lorsque l'on dézippe les ouvertures latérales, un grand ciel bleu se présente devant nous 😀.

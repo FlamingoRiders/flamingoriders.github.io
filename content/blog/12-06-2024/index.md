@@ -4,6 +4,7 @@ date: "2024-06-12"
 description: "On roule sur l'eau grâce à l'Atlanterhavsvegen !"
 location: "Møre og Romsdal, Norvège"
 tags: ["scenic"]
+pictures: ["12-06-2024/1.webp", "12-06-2024/2.webp", "12-06-2024/3.webp", "12-06-2024/4.webp", "12-06-2024/5.webp", "12-06-2024/6.webp", "12-06-2024/7.webp", "12-06-2024/8.webp", "12-06-2024/9.webp", "12-06-2024/10.webp", "12-06-2024/11.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

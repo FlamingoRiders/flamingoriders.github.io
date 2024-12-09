@@ -4,6 +4,7 @@ date: "2024-06-17"
 description: "Découverte de la belle Trondheim !"
 location: "Trondheim, Norvège"
 tags: ["heart", "culture"]
+pictures: ["16-06-2024/1.webp", "16-06-2024/2.webp", "16-06-2024/3.webp", "16-06-2024/4.webp", "16-06-2024/5.webp", "16-06-2024/6.webp", "16-06-2024/7.webp", "16-06-2024/8.webp", "16-06-2024/9.webp", "17-06-2024/1.webp", "17-06-2024/2.webp", "17-06-2024/3.webp", "17-06-2024/4.webp", "17-06-2024/5.webp", "17-06-2024/6.webp", "17-06-2024/7.webp", "17-06-2024/8.webp", "17-06-2024/9.webp", "17-06-2024/10.webp", "17-06-2024/11.webp", "17-06-2024/12.webp"]
 ---
 
 Hier et aujourd'hui, on visite **Trondheim**. C'est la troisième plus grande ville du pays et d'une haute importance historique. 

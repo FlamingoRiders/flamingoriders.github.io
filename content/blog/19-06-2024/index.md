@@ -4,6 +4,7 @@ date: "2024-06-19"
 description: "Une belle étape d'une centaine de kilomètres en direction de Namdalseid !"
 location: "Trøndelag, Norvège"
 tags: ["scenic"]
+pictures: ["19-06-2024/1.webp", "19-06-2024/2.webp", "19-06-2024/3.webp", "19-06-2024/4.webp", "19-06-2024/5.webp", "19-06-2024/6.webp"]
 ---
 
 Aujourd'hui, on se réveille non loin de **Mosvik**. On est plusieurs sur le site de camping sauvage qui fut royal pour la nuit. Il y a toujours Léa de Zürich, Mika de Paris, deux autres suisses et un allemand qui est arrivé dans la soirée. Nous étions abrités sous un shelter et avons cuisiné sur le feu hier soir 😉.

@@ -4,6 +4,7 @@ date: "2024-05-25"
 description: "On longe le Hardangerfjord sur 80 bornes : plein de villages très mignons en cours de route !"
 location: "Vestland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["25-05-2024/1.webp", "25-05-2024/2.webp", "25-05-2024/3.webp", "25-05-2024/4.webp", "25-05-2024/5.webp", "25-05-2024/6.webp", "25-05-2024/7.webp", "25-05-2024/8.webp", "25-05-2024/9.webp", "25-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

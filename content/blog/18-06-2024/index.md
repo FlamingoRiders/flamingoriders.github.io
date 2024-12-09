@@ -4,6 +4,7 @@ date: "2024-06-18"
 description: "On reprend la route vers le Nord et on fait un tas de superbes rencontres !"
 location: "Trøndelag, Norvège"
 tags: ["scenic"]
+pictures: ["18-06-2024/1.webp", "18-06-2024/2.webp", "18-06-2024/3.webp", "18-06-2024/4.webp", "18-06-2024/5.webp", "18-06-2024/6.webp", "18-06-2024/7.webp", "18-06-2024/8.webp", "18-06-2024/9.webp"]
 ---
 
 Aujourd'hui, on quitte **Trondheim** après deux belles journées de repos. On a beaucoup aimé cette ville, on y a trouvé ce qu'on aime particulièrement dans les villes norvégiennes à savoir une atmosphère détendue et chaleureuse.

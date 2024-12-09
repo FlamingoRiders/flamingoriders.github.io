@@ -4,6 +4,7 @@ date: "2024-05-22"
 description: "Journée épique dans les Alpes Scandinaves : tunnels, lacs enneigés et sommets à plus de 1500 mètres !"
 location: "Vestland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["22-05-2024/1.webp", "22-05-2024/2.webp", "22-05-2024/3.webp", "22-05-2024/4.webp", "22-05-2024/5.webp", "22-05-2024/6.webp", "22-05-2024/7.webp", "22-05-2024/8.webp", "22-05-2024/9.webp", "22-05-2024/10.webp", "22-05-2024/11.webp", "22-05-2024/12.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

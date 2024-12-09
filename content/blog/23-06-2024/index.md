@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 23 juin
 date: "2024-06-23"
 description: "Journée pluvieuse sur les îles de Tjøtta et Alsta !"
 location: "Nordland, Norvège"
+pictures: ["23-06-2024/1.webp", "23-06-2024/2.webp", "23-06-2024/3.webp", "23-06-2024/4.webp", "23-06-2024/5.webp", "23-06-2024/6.webp", "23-06-2024/7.webp", "23-06-2024/8.webp", "23-06-2024/9.webp", "23-06-2024/10.webp"]
 ---
 
 Aujourd'hui, on prend la route dans des conditions différentes d'hier 😅. On était prévenu que le beau temps ne durerait pas, on n'est pas surpris de démarrer sous la pluie.

@@ -4,6 +4,7 @@ date: "2024-06-21"
 description: "On fait le tour de la fascinante île de Leka et l'on rejoint le comté de Nordland !"
 location: "Nordland, Norvège"
 tags: ["scenic"]
+pictures: ["21-06-2024/1.webp", "21-06-2024/2.webp", "21-06-2024/3.webp", "21-06-2024/4.webp", "21-06-2024/5.webp", "21-06-2024/6.webp", "21-06-2024/7.webp", "21-06-2024/8.webp", "21-06-2024/9.webp", "21-06-2024/10.webp"]
 ---
 
 Aujourd'hui, on est le 21 juin. C'est le jour calendaire le plus long, le solstice d'été. Enfin, pour les puristes, l'inclinaison maximale de la Terre c'était la veille vers 20h45 mais vous nous avez compris 😉. 

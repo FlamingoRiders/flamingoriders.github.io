@@ -4,6 +4,7 @@ date: "2024-05-30"
 description: "Toujours sous le charme de Bergen !"
 location: "Vestland, Norvège"
 tags: ["heart", "culture"]
+pictures: ["30-05-2024/1.webp", "30-05-2024/2.webp", "30-05-2024/3.webp", "30-05-2024/4.webp", "30-05-2024/5.webp", "30-05-2024/6.webp", "30-05-2024/7.webp", "30-05-2024/8.webp", "30-05-2024/9.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
