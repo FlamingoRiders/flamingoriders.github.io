@@ -432,7 +432,7 @@ summary::-webkit-details-marker {
 .next {
   cursor: pointer;
   position: absolute;
-  top: 50%;
+  top: calc(50% - 12px);
   width: auto;
   margin-top: -22px;
   padding: 16px;
