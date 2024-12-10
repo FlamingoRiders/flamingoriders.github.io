@@ -4,6 +4,7 @@ date: "2024-07-04"
 description: "Encore une randonnée incroyable au sommet de Ryten d'où on aperçoit la superbe plage de Kvalvika !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic", "hike"]
+pictures: ["04-07-2024/1.webp", "04-07-2024/2.webp", "04-07-2024/3.webp", "04-07-2024/4.webp", "04-07-2024/5.webp", "04-07-2024/6.webp", "04-07-2024/7.webp", "04-07-2024/8.webp", "04-07-2024/9.webp", "04-07-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

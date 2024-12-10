@@ -4,6 +4,7 @@ date: "2024-06-26"
 description: "On roule sous un grand soleil jusqu'à 22h et on croise des paysages à couper le souffle !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["26-06-2024/1.webp", "26-06-2024/2.webp", "26-06-2024/3.webp", "26-06-2024/4.webp", "26-06-2024/5.webp", "26-06-2024/6.webp", "26-06-2024/7.webp", "26-06-2024/8.webp", "26-06-2024/9.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

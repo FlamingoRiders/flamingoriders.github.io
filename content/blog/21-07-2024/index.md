@@ -4,6 +4,7 @@ date: "2024-07-21"
 description: "On traverse le sublime parc national de Pallas-Yllästunturi !"
 location: "Kittilä, Laponie, Finlande"
 tags: ["heart", "scenic"]
+pictures: ["21-07-2024/1.webp", "21-07-2024/2.webp", "21-07-2024/3.webp", "21-07-2024/4.webp", "21-07-2024/5.webp", "21-07-2024/6.webp", "21-07-2024/7.webp", "21-07-2024/8.webp", "21-07-2024/9.webp", "21-07-2024/10.webp", "21-07-2024/11.webp", "21-07-2024/12.webp"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

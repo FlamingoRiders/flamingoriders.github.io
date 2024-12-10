@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 06 juillet
 date: "2024-07-06"
 description: "Une journée placée sous le signe du repos, d'une mauvaise météo et des au revoir à Svolvær."
 location: "Nordland, Norvège"
+pictures: ["06-07-2024/1.webp", "06-07-2024/2.webp", "06-07-2024/3.webp", "06-07-2024/4.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

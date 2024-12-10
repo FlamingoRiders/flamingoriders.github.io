@@ -4,6 +4,7 @@ date: "2024-07-08"
 description: "Journée à 3 chiffres : centième jour et cent kilomètres sur les surprenantes îles d'Hinnøya et d'Andøya !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["08-07-2024/1.webp", "08-07-2024/2.webp", "08-07-2024/3.webp", "08-07-2024/4.webp", "08-07-2024/5.webp", "08-07-2024/6.webp", "08-07-2024/7.webp", "08-07-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

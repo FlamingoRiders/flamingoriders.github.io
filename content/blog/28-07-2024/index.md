@@ -4,6 +4,7 @@ date: "2024-07-28"
 description: "Un petit sauna pour finir notre visite de Rovaniemi !"
 location: "Rovaniemi, Laponie, Finlande"
 tags: ["culture"]
+pictures: ["27-07-2024/1.webp", "27-07-2024/2.webp", "27-07-2024/3.webp", "27-07-2024/4.webp", "27-07-2024/5.webp", "27-07-2024/6.webp", "27-07-2024/7.webp", "28-07-2024/1.webp", "28-07-2024/2.webp", "28-07-2024/3.webp", "28-07-2024/4.webp", "28-07-2024/5.webp", "28-07-2024/6.webp", "28-07-2024/7.webp", "28-07-2024/8.webp"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

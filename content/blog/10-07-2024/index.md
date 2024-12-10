@@ -4,6 +4,7 @@ date: "2024-07-10"
 description: "Une superbe randonnée au Husfjellet avec une vue à 360 degrés sur les merveilles de Senja !"
 location: "Troms, Norvège"
 tags: ["heart", "hike", "scenic"]
+pictures: ["10-07-2024/1.webp", "10-07-2024/2.webp", "10-07-2024/3.webp", "10-07-2024/4.webp", "10-07-2024/5.webp", "10-07-2024/6.webp", "10-07-2024/7.webp", "10-07-2024/8.webp", "10-07-2024/9.webp", "10-07-2024/10.webp", "10-07-2024/11.webp", "10-07-2024/12.webp", "10-07-2024/13.webp", "10-07-2024/14.webp", "10-07-2024/15.webp", "10-07-2024/16.webp", "10-07-2024/17.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

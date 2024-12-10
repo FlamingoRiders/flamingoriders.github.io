@@ -4,6 +4,7 @@ date: "2024-07-15"
 description: "On quitte Tromsø et on atteint les Alpes de Lyngen avec 5000 kilomètres au compteur !"
 location: "Troms, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["15-07-2024/1.webp", "15-07-2024/2.webp", "15-07-2024/3.webp", "15-07-2024/4.webp", "15-07-2024/5.webp", "15-07-2024/6.webp", "15-07-2024/7.webp", "15-07-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

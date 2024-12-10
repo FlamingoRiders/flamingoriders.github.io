@@ -4,6 +4,7 @@ date: "2024-07-05"
 description: "On foule la pelouse du Henningsvær stadion, lun des terrains de foot les plus insolites au monde !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["05-07-2024/1.webp", "05-07-2024/2.webp", "05-07-2024/3.webp", "05-07-2024/4.webp", "05-07-2024/5.webp", "05-07-2024/6.webp", "05-07-2024/7.webp", "05-07-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-07-30"
 description: "On roule jusqu'à Tornio, à deux doigts de la mer Baltique et de la Suède !"
 location: "Tornio, Laponie, Finlande"
 tags: ["culture"]
+pictures: ["30-07-2024/1.webp", "30-07-2024/2.webp", "30-07-2024/3.webp", "30-07-2024/4.webp", "30-07-2024/5.webp"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

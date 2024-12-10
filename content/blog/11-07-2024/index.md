@@ -4,6 +4,7 @@ date: "2024-07-11"
 description: "Quelques péripéties avant d'atteindre enfin Tromsø !"
 location: "Troms, Norvège"
 tags: ["scenic"]
+pictures: ["11-07-2024/1.webp", "11-07-2024/2.webp", "11-07-2024/3.webp", "11-07-2024/4.webp", "11-07-2024/5.webp", "11-07-2024/6.webp", "11-07-2024/7.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

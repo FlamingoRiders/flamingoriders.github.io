@@ -4,6 +4,7 @@ date: "2024-07-26"
 description: "Sur les hauteurs d'Ounasvaara qui surplombe Rovaniemi !"
 location: "Rovaniemi, Laponie, Finlande"
 tags: ["hike"]
+pictures: ["26-07-2024/1.webp", "26-07-2024/2.webp", "26-07-2024/3.webp", "26-07-2024/4.webp", "26-07-2024/5.webp", "26-07-2024/6.webp", "26-07-2024/7.webp", "26-07-2024/8.webp"]
 ---
 
 Pour cette deuxième journée à **Rovaniemi**, nous décidons de traverser l'un des ponts de la ville pour nous rendre sur la colline d'**Ounasvaara**. 

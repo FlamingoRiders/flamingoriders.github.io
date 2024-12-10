@@ -4,6 +4,7 @@ date: "2024-07-29"
 description: "On reprend vers le sud en longeant le Kemijoki, le plus long fleuve de Finlande !"
 location: "Tervola, Laponie, Finlande"
 tags: ["culture"]
+pictures: ["29-07-2024/1.webp", "29-07-2024/2.webp", "29-07-2024/3.webp", "29-07-2024/4.webp", "29-07-2024/5.webp", "29-07-2024/6.webp", "29-07-2024/7.webp", "29-07-2024/8.webp"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

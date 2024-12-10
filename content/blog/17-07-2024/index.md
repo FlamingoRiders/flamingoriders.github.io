@@ -4,6 +4,7 @@ date: "2024-07-17"
 description: "De la Laponie norvégienne à la Laponie finlandaise !"
 location: "Troms, Norvège"
 tags: ["scenic"]
+pictures: ["17-07-2024/1.webp", "17-07-2024/2.webp", "17-07-2024/3.webp", "17-07-2024/4.webp", "17-07-2024/5.webp", "17-07-2024/6.webp", "17-07-2024/7.webp", "17-07-2024/8.webp", "17-07-2024/9.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

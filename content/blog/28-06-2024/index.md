@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 28 juin
 date: "2024-06-28"
 description: "On débarque sur l'île de Værøy, au sud de l'archipel des Lofoten !"
 location: "Nordland, Norvège"
+pictures: ["28-06-2024/1.webp", "28-06-2024/2.webp", "28-06-2024/3.webp", "28-06-2024/4.webp", "28-06-2024/5.webp", "28-06-2024/6.webp", "28-06-2024/7.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

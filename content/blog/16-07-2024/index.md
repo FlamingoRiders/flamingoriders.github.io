@@ -4,6 +4,7 @@ date: "2024-07-16"
 description: "90 kilomètres le long du formidable fjord de Lyngen !"
 location: "Troms, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["16-07-2024/1.webp", "16-07-2024/2.webp", "16-07-2024/3.webp", "16-07-2024/4.webp", "16-07-2024/5.webp", "16-07-2024/6.webp", "16-07-2024/7.webp", "16-07-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

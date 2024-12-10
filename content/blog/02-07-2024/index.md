@@ -4,6 +4,7 @@ date: "2024-07-02"
 description: "On double la mise à Bodø et au Reinebringen !"
 location: "Nordland, Norvège"
 tags: ["hike"]
+pictures: ["02-07-2024/1.webp", "02-07-2024/2.webp", "02-07-2024/3.webp", "02-07-2024/4.webp", "02-07-2024/5.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

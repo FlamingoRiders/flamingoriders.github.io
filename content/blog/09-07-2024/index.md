@@ -4,6 +4,7 @@ date: "2024-07-09"
 description: "Pluie fine et continue pour quitter les Vesterålen et rejoindre l'île de Senja !"
 location: "Troms, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["09-07-2024/1.webp", "09-07-2024/2.webp", "09-07-2024/3.webp", "09-07-2024/4.webp", "09-07-2024/5.webp", "09-07-2024/6.webp", "09-07-2024/7.webp", "09-07-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

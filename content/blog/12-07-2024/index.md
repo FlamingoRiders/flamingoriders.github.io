@@ -4,6 +4,7 @@ date: "2024-07-12"
 description: "Réparations et journée tranquille à Tromsø !"
 location: "Troms, Norvège"
 tags: ["culture"]
+pictures: ["12-07-2024/1.webp", "12-07-2024/2.webp", "12-07-2024/3.webp", "12-07-2024/4.webp", "12-07-2024/5.webp", "12-07-2024/6.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

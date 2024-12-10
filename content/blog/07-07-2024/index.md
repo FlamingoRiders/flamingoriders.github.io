@@ -4,6 +4,7 @@ date: "2024-07-07"
 description: "On quitte les Lofoten et on rejoint les îles Vesterålen !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic"]
+pictures: ["07-07-2024/1.webp", "07-07-2024/2.webp", "07-07-2024/3.webp", "07-07-2024/4.webp", "07-07-2024/5.webp", "07-07-2024/6.webp", "07-07-2024/7.webp", "07-07-2024/8.webp", "07-07-2024/9.webp", "07-07-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-07-18"
 description: "Une randonnée de 25 kilomètres pour se rendre au Treriksröset, le tripoint entre la Finlande, la Norvège et la Suède !"
 location: "Enontekiö, Laponie, Finlande"
 tags: ["hike"]
+pictures: ["18-07-2024/1.webp", "18-07-2024/2.webp", "18-07-2024/3.webp", "18-07-2024/4.webp", "18-07-2024/5.webp", "18-07-2024/6.webp", "18-07-2024/7.webp", "18-07-2024/8.webp", "18-07-2024/9.webp", "18-07-2024/10.webp", "18-07-2024/11.webp"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)

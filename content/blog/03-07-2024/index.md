@@ -4,6 +4,7 @@ date: "2024-07-03"
 description: "Des vues complètement folles sur les Bunesfjord, Kjerkfjord et Reinefjord avant de regagner la National Scenic Route Lofoten !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic", "hike"]
+pictures: ["03-07-2024/1.webp", "03-07-2024/2.webp", "03-07-2024/3.webp", "03-07-2024/4.webp", "03-07-2024/5.webp", "03-07-2024/6.webp", "03-07-2024/7.webp", "03-07-2024/8.webp", "03-07-2024/9.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

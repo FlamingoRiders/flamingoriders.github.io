@@ -4,6 +4,7 @@ date: "2024-07-01"
 description: "Soleil de minuit au Reinebringen et balade au mignon village de Å !"
 location: "Nordland, Norvège"
 tags: ["heart", "hike", "scenic", "culture"]
+pictures: ["01-07-2024/1.webp", "01-07-2024/2.webp", "01-07-2024/3.webp", "01-07-2024/4.webp", "01-07-2024/5.webp", "01-07-2024/6.webp", "01-07-2024/7.webp", "01-07-2024/8.webp", "01-07-2024/9.webp", "01-07-2024/10.webp", "01-07-2024/11.webp", "01-07-2024/12.webp", "01-07-2024/13.webp", "01-07-2024/14.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

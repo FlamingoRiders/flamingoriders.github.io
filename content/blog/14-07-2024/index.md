@@ -3,6 +3,7 @@ title: 🐟 Le saumon d'Eduardo du 14 juillet
 date: "2024-07-14"
 description: "Sauna, mini-golf et roller-disco à Tromsø !"
 location: "Troms, Norvège"
+pictures: ["14-07-2024/1.webp", "14-07-2024/2.webp", "14-07-2024/3.webp", "14-07-2024/4.webp", "14-07-2024/5.webp", "14-07-2024/6.webp", "14-07-2024/7.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)

@@ -4,6 +4,7 @@ date: "2024-07-25"
 description: "Repos bien mérité à Rovaniemi !"
 location: "Rovaniemi, Laponie, Finlande"
 tags: ["culture"]
+pictures: ["25-07-2024/1.webp", "25-07-2024/2.webp", "25-07-2024/3.webp", "25-07-2024/4.webp", "25-07-2024/5.webp"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)
