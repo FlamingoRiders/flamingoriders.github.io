@@ -4,6 +4,7 @@ date: "2024-08-13"
 description: "Les merveilles du Skuleskogen National Park !"
 location: "Västernorrland, Suède"
 tags: ["heart", "hike"]
+pictures: ["13-08-2024/1.webp", "13-08-2024/2.webp", "13-08-2024/3.webp", "13-08-2024/4.webp", "13-08-2024/5.webp", "13-08-2024/6.webp", "13-08-2024/7.webp", "13-08-2024/8.webp", "13-08-2024/9.webp", "13-08-2024/10.webp", "13-08-2024/11.webp", "13-08-2024/12.webp", "13-08-2024/13.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

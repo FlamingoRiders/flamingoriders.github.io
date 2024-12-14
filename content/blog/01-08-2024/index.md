@@ -3,6 +3,7 @@ title: 🥮 Le kanelbulle d'Eduardo du 1er août
 date: "2024-08-01"
 description: "Il pleut sur les collines suédoises du comté de Norrbotten !"
 location: "Norrbotten, Suède"
+pictures: ["01-08-2024/1.webp", "01-08-2024/2.webp", "01-08-2024/3.webp", "01-08-2024/4.webp", "01-08-2024/5.webp", "01-08-2024/6.webp", "01-08-2024/7.webp", "01-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

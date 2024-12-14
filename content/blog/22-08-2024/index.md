@@ -4,6 +4,7 @@ date: "2024-08-22"
 description: "Gamla Stan, Skeppsholmen, Östermalm, Kungsholmen : Une première journée de visite à Stockholm bien remplie !"
 location: "Stockholm, Suède"
 tags: ["heart", "culture"]
+pictures: ["22-08-2024/1.webp", "22-08-2024/2.webp", "22-08-2024/3.webp", "22-08-2024/4.webp", "22-08-2024/5.webp", "22-08-2024/6.webp", "22-08-2024/7.webp", "22-08-2024/8.webp", "22-08-2024/9.webp", "22-08-2024/10.webp", "22-08-2024/11.webp", "22-08-2024/12.webp", "22-08-2024/13.webp", "22-08-2024/14.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

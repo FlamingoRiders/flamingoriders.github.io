@@ -4,6 +4,7 @@ date: "2024-08-25"
 description: "On visite le Vasa, un impressionnant navire de guerre qui a coulé lors de son trajet inaugural avant d'être renfloué 333 ans plus tard !"
 location: "Stockholm, Suède"
 tags: ["heart", "culture"]
+pictures: ["25-08-2024/1.webp", "25-08-2024/2.webp", "25-08-2024/3.webp", "25-08-2024/4.webp", "25-08-2024/5.webp", "25-08-2024/6.webp", "25-08-2024/7.webp", "25-08-2024/8.webp", "25-08-2024/9.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

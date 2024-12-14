@@ -1,5 +1,5 @@
 ---
-title: 🥪 Le smørrebrød d'Eduardo du 06 mai
+title: 🥪 Le smørrebrød d'Eduardo du 6 mai
 date: "2024-05-06"
 description: "Dégustation de smørrebrød et visite d'un des plus vieux parcs d'attractions au monde à Copenhague !"
 location: "Copenhague, Danemark"

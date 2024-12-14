@@ -4,6 +4,7 @@ date: "2024-08-12"
 description: "On grimpe au Skuleberget, la ligne de côte la plus haute du monde !"
 location: "Västernorrland, Suède"
 tags: ["heart", "unesco", "hike"]
+pictures: ["12-08-2024/1.webp", "12-08-2024/2.webp", "12-08-2024/3.webp", "12-08-2024/4.webp", "12-08-2024/5.webp", "12-08-2024/6.webp", "12-08-2024/7.webp", "12-08-2024/8.webp", "12-08-2024/9.webp", "12-08-2024/10.webp", "12-08-2024/11.webp", "12-08-2024/12.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

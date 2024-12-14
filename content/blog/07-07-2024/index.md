@@ -1,5 +1,5 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 07 juillet
+title: 🐟 Le saumon d'Eduardo du 7 juillet
 date: "2024-07-07"
 description: "On quitte les Lofoten et on rejoint les îles Vesterålen !"
 location: "Nordland, Norvège"

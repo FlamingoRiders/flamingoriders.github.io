@@ -1,5 +1,5 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 04 juillet
+title: 🐟 Le saumon d'Eduardo du 4 juillet
 date: "2024-07-04"
 description: "Encore une randonnée incroyable au sommet de Ryten d'où on aperçoit la superbe plage de Kvalvika !"
 location: "Nordland, Norvège"

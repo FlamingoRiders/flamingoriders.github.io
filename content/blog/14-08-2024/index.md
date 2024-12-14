@@ -4,6 +4,7 @@ date: "2024-08-14"
 description: "On emprunte le plus grand pont suspendu de Suède pour quitter la Höga Kusten !"
 location: "Västernorrland, Suède"
 tags: ["heart", "scenic"]
+pictures: ["14-08-2024/1.webp", "14-08-2024/2.webp", "14-08-2024/3.webp", "14-08-2024/4.webp", "14-08-2024/5.webp", "14-08-2024/6.webp", "14-08-2024/7.webp", "14-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

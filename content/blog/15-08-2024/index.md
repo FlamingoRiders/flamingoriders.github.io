@@ -4,6 +4,7 @@ date: "2024-08-15"
 description: "De nombreux lacs et de superbes baies dans le golfe de Botnie !"
 location: "Västernorrland, Suède"
 tags: ["scenic"]
+pictures: ["15-08-2024/1.webp", "15-08-2024/2.webp", "15-08-2024/3.webp", "15-08-2024/4.webp", "15-08-2024/5.webp", "15-08-2024/6.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

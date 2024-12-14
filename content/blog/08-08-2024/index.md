@@ -3,6 +3,7 @@ title: 🥮 Le kanelbulle d'Eduardo du 8 août
 date: "2024-08-08"
 description: "On fait le tour du Nydalasjön et d'Umeå !"
 location: "Umeå, Suède"
+pictures: ["08-08-2024/1.webp", "08-08-2024/2.webp", "08-08-2024/3.webp", "08-08-2024/4.webp", "08-08-2024/5.webp", "08-08-2024/6.webp", "08-08-2024/7.webp", "08-08-2024/8.webp", "08-08-2024/9.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

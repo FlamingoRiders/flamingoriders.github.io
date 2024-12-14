@@ -1,8 +1,9 @@
 ---
-title: 🥮 Le kanelbulle d'Eduardo du 06 août
+title: 🥮 Le kanelbulle d'Eduardo du 6 août
 date: "2024-08-06"
 description: "Une belle journée avec des paysages variés pour traverser la municipalité de Skellefteå !"
 location: "Västerbotten, Suède"
+pictures: ["06-08-2024/1.webp", "06-08-2024/2.webp", "06-08-2024/3.webp", "06-08-2024/4.webp", "06-08-2024/5.webp", "06-08-2024/6.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

@@ -3,6 +3,7 @@ title: 🥮 Le kanelbulle d'Eduardo du 21 août
 date: "2024-08-21"
 description: "On l'a fait : bien arrivés à Stockholm après plus de 7000 kilomètres !"
 location: "Stockholm, Suède"
+pictures: ["21-08-2024/1.webp", "21-08-2024/2.webp", "21-08-2024/3.webp", "21-08-2024/4.webp", "21-08-2024/5.webp", "21-08-2024/6.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

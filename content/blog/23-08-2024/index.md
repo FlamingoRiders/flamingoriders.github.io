@@ -4,6 +4,7 @@ date: "2024-08-23"
 description: "Une après-midi dans le Norrmalm avant de rejoindre le Södermalm pour la soirée !"
 location: "Stockholm, Suède"
 tags: ["heart", "culture"]
+pictures: ["23-08-2024/1.webp", "23-08-2024/2.webp", "23-08-2024/3.webp", "23-08-2024/4.webp", "23-08-2024/5.webp", "23-08-2024/6.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

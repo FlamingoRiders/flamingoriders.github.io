@@ -4,6 +4,7 @@ date: "2024-08-24"
 description: "Mariaberget et Skinnarviksberget : des vues magnifiques sur Stockholm depuis Södermalm !"
 location: "Stockholm, Suède"
 tags: ["heart", "culture"]
+pictures: ["24-08-2024/1.webp", "24-08-2024/2.webp", "24-08-2024/3.webp", "24-08-2024/4.webp", "24-08-2024/5.webp", "24-08-2024/6.webp", "24-08-2024/7.webp", "24-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

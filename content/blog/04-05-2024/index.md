@@ -1,5 +1,5 @@
 ---
-title: 🥪 Le smørrebrød d'Eduardo du 04 mai
+title: 🥪 Le smørrebrød d'Eduardo du 4 mai
 date: "2024-05-04"
 description: "Petite étape sympathique et première balade à Copenhague !"
 location: "Copenhague, Danemark"

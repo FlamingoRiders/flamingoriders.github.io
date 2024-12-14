@@ -1,5 +1,5 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 03 juillet
+title: 🐟 Le saumon d'Eduardo du 3 juillet
 date: "2024-07-03"
 description: "Des vues complètement folles sur les Bunesfjord, Kjerkfjord et Reinefjord avant de regagner la National Scenic Route Lofoten !"
 location: "Nordland, Norvège"

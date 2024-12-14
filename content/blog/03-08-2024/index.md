@@ -1,9 +1,10 @@
 ---
-title: 🥮 Le kanelbulle d'Eduardo du 03 août
+title: 🥮 Le kanelbulle d'Eduardo du 3 août
 date: "2024-08-03"
 description: "On visite la ville-église de Gammelstad, inscrite au patrimoine mondial de l'UNESCO !"
 location: "Norrbotten, Suède"
 tags: ["heart", "unesco", "culture"]
+pictures: ["03-08-2024/1.webp", "03-08-2024/2.webp", "03-08-2024/3.webp", "03-08-2024/4.webp", "03-08-2024/5.webp", "03-08-2024/6.webp", "03-08-2024/7.webp", "03-08-2024/8.webp", "03-08-2024/9.webp", "03-08-2024/10.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

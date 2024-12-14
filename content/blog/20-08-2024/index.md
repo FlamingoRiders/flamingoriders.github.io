@@ -3,6 +3,7 @@ title: 🥮 Le kanelbulle d'Eduardo du 20 août
 date: "2024-08-20"
 description: "Rude bataille contre le vent pendant 85 kilomètres avant d'arriver à Uppsala !"
 location: "Uppsala, Suède"
+pictures: ["20-08-2024/1.webp", "20-08-2024/2.webp", "20-08-2024/3.webp", "20-08-2024/4.webp", "20-08-2024/5.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

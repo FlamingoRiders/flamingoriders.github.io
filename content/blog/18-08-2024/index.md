@@ -3,6 +3,7 @@ title: 🥮 Le kanelbulle d'Eduardo du 18 août
 date: "2024-08-18"
 description: "Encore de belles surprises sur notre route avec la tour d'observation d'Oscarsborg et le moulin d'Axmar !"
 location: "Gävleborg, Suède"
+pictures: ["18-08-2024/1.webp", "18-08-2024/2.webp", "18-08-2024/3.webp", "18-08-2024/4.webp", "18-08-2024/5.webp", "18-08-2024/6.webp", "18-08-2024/7.webp", "18-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

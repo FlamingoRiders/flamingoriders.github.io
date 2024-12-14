@@ -1,5 +1,5 @@
 ---
-title: 🥪 Le smørrebrød d'Eduardo du 05 mai
+title: 🥪 Le smørrebrød d'Eduardo du 5 mai
 date: "2024-05-05"
 description: "On se baigne à Copenhague !"
 location: "Copenhague, Danemark"

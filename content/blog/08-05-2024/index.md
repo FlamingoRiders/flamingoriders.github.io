@@ -1,5 +1,5 @@
 ---
-title: 🥪 Le smørrebrød d'Eduardo du 08 mai
+title: 🥪 Le smørrebrød d'Eduardo du 8 mai
 date: "2024-05-08"
 description: "Épatés par Frederiksborg, le plus grand château de Scandinavie !"
 location: "Hovedstaden, Danemark"

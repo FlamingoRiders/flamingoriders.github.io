@@ -1,5 +1,5 @@
 ---
-title: 🐟 Le saumon d'Eduardo du 02 juillet
+title: 🐟 Le saumon d'Eduardo du 2 juillet
 date: "2024-07-02"
 description: "On double la mise à Bodø et au Reinebringen !"
 location: "Nordland, Norvège"

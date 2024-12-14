@@ -4,6 +4,7 @@ date: "2024-08-16"
 description: "Journée épique en suivant la Kustvägen du comté de Västernorrland à celui de Gävleborg !"
 location: "Gävleborg, Suède"
 tags: ["heart", "scenic"]
+pictures: ["16-08-2024/1.webp", "16-08-2024/2.webp", "16-08-2024/3.webp", "16-08-2024/4.webp", "16-08-2024/5.webp", "16-08-2024/6.webp", "16-08-2024/7.webp", "16-08-2024/8.webp", "16-08-2024/9.webp", "16-08-2024/10.webp", "16-08-2024/11.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

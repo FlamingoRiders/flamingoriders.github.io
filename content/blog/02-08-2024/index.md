@@ -1,8 +1,9 @@
 ---
-title: 🥮 Le kanelbulle d'Eduardo du 02 août
+title: 🥮 Le kanelbulle d'Eduardo du 2 août
 date: "2024-08-02"
 description: "On fait du rab afin d'éviter l'E4 pour rejoindre Luleå !"
 location: "Norrbotten, Suède"
+pictures: ["02-08-2024/1.webp", "02-08-2024/2.webp", "02-08-2024/3.webp", "02-08-2024/4.webp", "02-08-2024/5.webp", "02-08-2024/6.webp", "02-08-2024/7.webp", "02-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

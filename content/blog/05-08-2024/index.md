@@ -1,8 +1,9 @@
 ---
-title: 🥮 Le kanelbulle d'Eduardo du 05 août
+title: 🥮 Le kanelbulle d'Eduardo du 5 août
 date: "2024-08-05"
 description: "On rejoint le comté de Västerbotten !"
 location: "Västerbotten, Suède"
+pictures: ["05-08-2024/1.webp", "05-08-2024/2.webp", "05-08-2024/3.webp", "05-08-2024/4.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

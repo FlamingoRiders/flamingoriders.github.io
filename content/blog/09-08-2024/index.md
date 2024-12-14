@@ -3,6 +3,7 @@ title: 🥮 Le kanelbulle d'Eduardo du 9 août
 date: "2024-08-09"
 description: "Ikea et Shuffle board : les indispensables de toute excursion suédoise !"
 location: "Umeå, Suède"
+pictures: ["09-08-2024/1.webp", "09-08-2024/2.webp", "09-08-2024/3.webp", "09-08-2024/4.webp", "09-08-2024/5.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)

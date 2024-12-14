@@ -1,8 +1,9 @@
 ---
-title: 🥮 Le kanelbulle d'Eduardo du 07 août
+title: 🥮 Le kanelbulle d'Eduardo du 7 août
 date: "2024-08-07"
 description: "Malgré quelques soucis techniques, on arrive à Umeå, la plus grande ville du Nord de la Suède !"
 location: "Västerbotten, Suède"
+pictures: ["07-08-2024/1.webp", "07-08-2024/2.webp", "07-08-2024/3.webp", "07-08-2024/4.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
