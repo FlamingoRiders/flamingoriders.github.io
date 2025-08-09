@@ -9,7 +9,6 @@ const Social: React.FC = () => {
         siteMetadata {
           social {
             polarsteps
-            strava
           }
         }
       }
@@ -33,20 +32,6 @@ const Social: React.FC = () => {
           height={32}
           quality={95}
           alt="Polarteps page"
-        />
-      </a>
-      <a
-        href={`https://www.strava.com/athletes/${social?.strava || ``}`}
-        className="social-logo"
-      >
-        <StaticImage
-          layout="fixed"
-          formats={["auto", "webp", "avif"]}
-          src="../../images/strava-logo.png"
-          width={32}
-          height={32}
-          quality={95}
-          alt="Strava profile"
         />
       </a>
     </div>

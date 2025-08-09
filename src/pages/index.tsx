@@ -9,24 +9,18 @@ type QueryReturn = {
   site: {
     siteMetadata: {
       title: string;
-      social: {
-        polarsteps: string;
-      };
     };
   };
 };
 
 const HomePage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
-  const polarsteps = data.site.siteMetadata.social.polarsteps;
   return (
     <Layout location={location} title={siteTitle}>
       <h1>{AppSections.HOME}</h1>
       <p>
-        Bienvenue sur Flamingo Riders, le blog de{" "}
-        <Link to={AppRoutes.PRESENTATION}>Nana, Nico et Eduardo</Link> ! Nous
-        partons pour un voyage à vélo à travers l'Europe du Nord sur plusieurs
-        mois.
+        <b>Bienvenue sur Flamingo Riders</b> - l'aventure de{" "}
+        <Link to={AppRoutes.PRESENTATION}>Nana, Nico et Eduardo</Link> sur deux roues !
       </p>
       <div className="mx-auto my-4 profile-picture-container">
         <StaticImage
@@ -42,39 +36,35 @@ const HomePage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
         />
       </div>
       <p>
-        Nous partageons sur cette espace notre aventure et avons prévu
-        d’enrichir le contenu de ce site quotidiennement. Ici, vous trouverez
-        notamment :
+        Pendant plusieurs mois, nous avons pédalé à travers l'Europe du Nord, entre routes côtières, forêts profondes et villages inattendus.
+        Chaque coup de pédale nous a offert de nouveaux paysages, des rencontres inoubliables… et parfois quelques belles averses et petites galères.
+        Ici, vous pouvez revivre notre voyage étape par étape :
       </p>
       <ul>
         <li>
-          <Link to={AppRoutes.PRESENTATION}>Une présentation</Link> rapide de
-          nous.
+          <Link to={AppRoutes.PRESENTATION}><b>Qui sommes-nous ?</b></Link> Une petite présentation avant de grimper sur nos vélos.
         </li>
         <li>
-          La préparation de notre projet avec{" "}
+          <Link to={AppRoutes.TRACE}><b>{AppSections.PREPARATION}</b></Link> :{" "}
           <Link to={AppRoutes.TRACE}>le tracé</Link> envisagé et{" "}
-          <Link to={AppRoutes.EQUIPMENT}>l'équipement</Link> prévu.
+          <Link to={AppRoutes.EQUIPMENT}>l'équipement</Link> choisi.
         </li>
         <li>
-          <Link to={AppRoutes.BLOG}>{AppSections.BLOG}</Link> de notre périple.
+          <Link to={AppRoutes.BLOG}><b>{AppSections.BLOG}</b></Link> : nos histoires de route, du départ à l'arrivée.
         </li>
         <li>
-          <Link to={AppRoutes.MAPS}>{AppSections.MAPS}</Link> interactive pour
+          <Link to={AppRoutes.MAPS}><b>{AppSections.MAPS}</b></Link> interactive pour
           voir notre trajet sur chaque étape et depuis le début.
         </li>
         <li>
-          Notre voyage en quelques{" "}
-          <Link to={AppRoutes.STATS}>chiffres clés</Link>.
+          <Link to={AppRoutes.STATS}><b>{AppSections.STATS}</b></Link> : kilomètres avalés, pays traversés, et autres records personnels.
+        </li>
+        <li>
+          <Link to={AppRoutes.PICTURES}><b>{AppSections.PICTURES}</b></Link> : pour prolonger le voyage en images.
         </li>
       </ul>
       <p>
-        Retrouvez également toutes nos photos sur notre{" "}
-        <a href={`https://www.polarsteps.com/${polarsteps}`}>Polarsteps</a> !
-      </p>
-      <p>
-        N'hésitez pas à rafraîchir les pages si le contenu ne vous semble pas à
-        jour, nous publions tous les jours.{" "}
+        Le périple est terminé, mais l’aventure est encore là, au fil de ces pages !
       </p>
     </Layout>
   );
@@ -87,9 +77,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        social {
-          polarsteps
-        }
       }
     }
   }

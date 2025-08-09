@@ -8,6 +8,8 @@ import { AppSections } from "routes/app-routes";
 import { usePictures } from "hooks/usePictures";
 import { getDayOfWeek, getPostDate } from "utils/date";
 import Slideshow from "components/slideshow/slideshow";
+import { Country, countryFlagMap } from "models/countries";
+import { useCountryFlag } from "hooks/useFlag";
 
 type QueryReturn = {
   allStatsJson: {
@@ -42,7 +44,8 @@ const PicturesPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
     onChangeDate,
   } = usePictures(allPictures);
 
-  console.log("rendering");
+  const flag = useCountryFlag(selectedDatePictures?.endCountryName);
+
   return (
     <Layout location={location} title={siteTitle}>
       <h1>📷 {AppSections.PICTURES}</h1>
@@ -63,10 +66,22 @@ const PicturesPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           picturesUrl={data.site.siteMetadata.picturesUrl}
           pictureIds={selectedDatePictures.pictures}
         />
-        <Step
-          startPointName={selectedDatePictures?.startPointName}
-          endPointName={selectedDatePictures?.endPointName}
-        />
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-between",
+            alignItems: "center",
+            lineHeight: "normal",
+          }}
+        >
+          <Step
+            startPointName={selectedDatePictures?.startPointName}
+            endPointName={selectedDatePictures?.endPointName}
+          />
+          <div>
+            <span className="d-mobile" style={{ fontSize: "3rem" }}>{flag}</span>
+          </div>
+        </div>
         <br />
       </>
       }
@@ -84,25 +99,25 @@ const PicturesPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
 export default PicturesPage;
 
 export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
+      query {
+        site {
+        siteMetadata {
         title
         siteUrl
-        picturesUrl
+      picturesUrl
       }
     }
-    allStatsJson(sort: { date: ASC }) {
-      nodes {
+      allStatsJson(sort: {date: ASC }) {
+        nodes {
         date
         pictures
-        startPointName
-        endPointName
-        endCountryName
+      startPointName
+      endPointName
+      endCountryName
       }
     }
   }
-`;
+      `;
 
 export const Head = () => {
   return <SEO title={AppSections.MAPS} />;

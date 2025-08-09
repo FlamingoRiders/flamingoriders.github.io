@@ -50,7 +50,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         component: postList,
         context: {
           limit: POSTS_PER_PAGE,
-          skip: i * POSTS_PER_PAGE,
+          skip: firstPage ? 3 : i * POSTS_PER_PAGE,
           numPages,
           currentPage,
         },

@@ -5,7 +5,7 @@ import { toDecimalTime, toStringTime } from "utils/time";
 export const useMarkers = (positionMarkers: Array<PositionMarker>) => {
   const startDate = positionMarkers[0].date;
   const lastDate = positionMarkers[positionMarkers.length - 1].date;
-  const [selectedDate, setSelectedDate] = useState<string>(lastDate);
+  const [selectedDate, setSelectedDate] = useState<string>(startDate);
 
   const displayedPositionMarkerIndex: number = useMemo(() => {
     return positionMarkers.findIndex((p) => p.date === selectedDate);

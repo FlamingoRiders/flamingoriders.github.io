@@ -3,5 +3,5 @@ export interface DayPictures {
     pictures: Array<string>;
     startPointName: string;
     endPointName: string;
-    endCountryName: number;
+    endCountryName: string;
 }

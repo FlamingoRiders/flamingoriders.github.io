@@ -1,23 +1,6 @@
+import { Country, Flag } from "models/countries";
 import { CountryStats } from "models/stats";
 import React from "react";
-
-const FRANCE = "France";
-const BELGIUM = "Belgique";
-const NETHERLANDS = "Pays-Bas";
-const GERMANY = "Allemagne";
-const DANMARK = "Danemark";
-const NORWAY = "Norvège";
-const FINLAND = "Finlande";
-const SWEDEN = "Suède";
-
-const FRANCE_FLAG = "🇫🇷";
-const BELGIUM_FLAG = "🇧🇪";
-const NETHERLANDS_FLAG = "🇳🇱";
-const GERMANY_FLAG = "🇩🇪";
-const DANMARK_FLAG = "🇩🇰";
-const NORWAY_FLAG = "🇳🇴";
-const FINLAND_FLAG = "🇫🇮";
-const SWEDEN_FLAG = "🇸🇪";
 
 interface GeoStatsProps {
   stats: Map<String, CountryStats>;
@@ -48,67 +31,67 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
         <tbody>
           <tr>
             <th align="center" scope="row">
-              {FRANCE}
-              <span className="d-mobile">&nbsp;{FRANCE_FLAG}</span>
+              {Country.France}
+              <span className="d-mobile">&nbsp;{Flag.France}</span>
             </th>
-            <td align="center">{stats.get(FRANCE)?.days}</td>
-            <td align="center">{stats.get(FRANCE)?.distance}</td>
+            <td align="center">{stats.get(Country.France)?.days}</td>
+            <td align="center">{stats.get(Country.France)?.distance}</td>
           </tr>
           <tr>
             <th align="center" scope="row">
-              {BELGIUM}
-              <span className="d-mobile">&nbsp;{BELGIUM_FLAG}</span>
+              {Country.Belgium}
+              <span className="d-mobile">&nbsp;{Flag.Belgium}</span>
             </th>
-            <td align="center">{stats.get(BELGIUM)?.days}</td>
-            <td align="center">{stats.get(BELGIUM)?.distance}</td>
+            <td align="center">{stats.get(Country.Belgium)?.days}</td>
+            <td align="center">{stats.get(Country.Belgium)?.distance}</td>
           </tr>
           <tr>
             <th align="center" scope="row">
-              {NETHERLANDS}
-              <span className="d-mobile">&nbsp;{NETHERLANDS_FLAG}</span>
+              {Country.Netherlands}
+              <span className="d-mobile">&nbsp;{Flag.Netherlands}</span>
             </th>
-            <td align="center">{stats.get(NETHERLANDS)?.days}</td>
-            <td align="center">{stats.get(NETHERLANDS)?.distance}</td>
+            <td align="center">{stats.get(Country.Netherlands)?.days}</td>
+            <td align="center">{stats.get(Country.Netherlands)?.distance}</td>
           </tr>
           <tr>
             <th align="center" scope="row">
-              {GERMANY}
-              <span className="d-mobile">&nbsp;{GERMANY_FLAG}</span>
+              {Country.Germany}
+              <span className="d-mobile">&nbsp;{Flag.Germany}</span>
             </th>
-            <td align="center">{stats.get(GERMANY)?.days}</td>
-            <td align="center">{stats.get(GERMANY)?.distance}</td>
+            <td align="center">{stats.get(Country.Germany)?.days}</td>
+            <td align="center">{stats.get(Country.Germany)?.distance}</td>
           </tr>
           <tr>
             <th align="center" scope="row">
-              {DANMARK}
-              <span className="d-mobile">&nbsp;{DANMARK_FLAG}</span>
+              {Country.Danmark}
+              <span className="d-mobile">&nbsp;{Flag.Danmark}</span>
             </th>
-            <td align="center">{stats.get(DANMARK)?.days}</td>
-            <td align="center">{stats.get(DANMARK)?.distance}</td>
+            <td align="center">{stats.get(Country.Danmark)?.days}</td>
+            <td align="center">{stats.get(Country.Danmark)?.distance}</td>
           </tr>
           <tr>
             <th align="center" scope="row">
-              {NORWAY}
-              <span className="d-mobile">&nbsp;{NORWAY_FLAG}</span>
+              {Country.Norway}
+              <span className="d-mobile">&nbsp;{Flag.Norway}</span>
             </th>
-            <td align="center">{stats.get(NORWAY)?.days}</td>
-            <td align="center">{stats.get(NORWAY)?.distance}</td>
+            <td align="center">{stats.get(Country.Norway)?.days}</td>
+            <td align="center">{stats.get(Country.Norway)?.distance}</td>
           </tr>
           <tr>
             <th align="center" scope="row">
-              {FINLAND}
-              <span className="d-mobile">&nbsp;{FINLAND_FLAG}</span>
+              {Country.Finland}
+              <span className="d-mobile">&nbsp;{Flag.Finland}</span>
             </th>
-            <td align="center">{stats.get(FINLAND)?.days}</td>
-            <td align="center">{stats.get(FINLAND)?.distance}</td>
+            <td align="center">{stats.get(Country.Finland)?.days}</td>
+            <td align="center">{stats.get(Country.Finland)?.distance}</td>
           </tr>
           <tr>
             <th align="center" scope="row">
-              {SWEDEN}
-              <span className="d-mobile">&nbsp;{SWEDEN_FLAG}</span>
+              {Country.Sweden}
+              <span className="d-mobile">&nbsp;{Flag.Sweden}</span>
             </th>
-            <td align="center">{stats.get(SWEDEN)?.days}</td>
-            <td align="center">{stats.get(SWEDEN)?.distance}</td>
+            <td align="center">{stats.get(Country.Sweden)?.days}</td>
+            <td align="center">{stats.get(Country.Sweden)?.distance}</td>
           </tr>
         </tbody>
       </table>

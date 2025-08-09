@@ -63,7 +63,7 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
   return (
     <Layout location={location} title={siteTitle}>
       <h1>📝{AppSections.BLOG}</h1>
-      <p>Retrouvez ici tous nos posts !</p>
+      <p>De la première à la dernière étape : notre histoire à vélo !</p>
       <ol style={{ listStyle: `none` }}>
         {posts.map((post) => {
           const title = post.frontmatter.title || post.fields.slug;
@@ -200,7 +200,7 @@ export default BlogList;
 export const blogListQuery = graphql`
   query blogListQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      sort: { frontmatter: { date: DESC } }
+      sort: { frontmatter: { date: ASC } }
       limit: $limit
       skip: $skip
     ) {

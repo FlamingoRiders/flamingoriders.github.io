@@ -6,7 +6,7 @@ export const usePictures = (allPictures: Array<DayPictures>) => {
   const startDate = allPictures[0].date;
   const lastDate = allPictures[allPictures.length - 1].date;
 
-  const [selectedDate, setSelectedDate] = useState<string>(lastDate);
+  const [selectedDate, setSelectedDate] = useState<string>(startDate);
 
   const selectedDatePictures: DayPictures | undefined = useMemo(() => {
     return allPictures.find((p) => p.date === selectedDate);
