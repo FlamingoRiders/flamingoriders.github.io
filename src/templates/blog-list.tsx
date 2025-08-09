@@ -70,34 +70,35 @@ const BlogList: React.FC<PageProps<QueryReturn>> = ({
 
           return (
             <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
+              <Link to={post.fields.slug} itemProp="url">
+                <article
+                  className="post-list-item box"
+                  itemScope
+                  itemType="http://schema.org/Article"
+                >
+                  <header>
+                    <h2>
+
                       <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>
-                    <DateAndLocation
-                      date={post.frontmatter.date}
-                      location={post.frontmatter.location}
+                    </h2>
+                    <small>
+                      <DateAndLocation
+                        date={post.frontmatter.date}
+                        location={post.frontmatter.location}
+                      />
+                    </small>
+                    <TagList tags={post.frontmatter.tags} />
+                  </header>
+                  <section>
+                    <p
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
                     />
-                  </small>
-                  <TagList tags={post.frontmatter.tags} />
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </article>
+                  </section>
+                </article>
+              </Link>
             </li>
           );
         })}
