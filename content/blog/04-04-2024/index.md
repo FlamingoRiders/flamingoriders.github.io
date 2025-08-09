@@ -3,12 +3,11 @@ title: ☕ Le café d'Eduardo du 4 avril
 date: "2024-04-04"
 description: "Retrouvailles familiales !"
 location: "Nord, Hauts-de-France, France"
-pictures: ["04-04-2024/1.webp", "04-04-2024/2.webp", "04-04-2024/3.webp", "04-04-2024/4.webp", "04-04-2024/5.webp"]
 ---
 
 ![Café d'Eduardo](../cafe_eduardo.png)
 
-Ce matin, le réveil est animé. Pour Nana ça semble aller mieux. Pour Nico à l'inverse le nez semble complètement encombré. On s'est bien choppé un petit rhume. Je ne vous le cache pas, je suis très inquiet. Jamais deux sans trois comme on dit et j'ai une santé fragile. Hors de question de renommer ma chronique *"le doliprane d'Eduardo 💊"* !
+Ce matin, le réveil est animé. Pour Nana ça semble aller mieux. Pour Nico à l'inverse le nez semble complètement encombré. On s'est bien choppé un petit rhume. Je ne vous le cache pas, je suis très inquiet. Jamais deux sans trois comme on dit et j'ai une santé fragile. Hors de question de renommer ma chronique _"le doliprane d'Eduardo 💊"_ !
 
 Dehors, la pluie tombe lourdement sur le sol et le vent souffle très fort. On les entend depuis 2h du matin environ. Puis soudainement, quand vient un moment d'accalmie, un autre bruit prend le relais : c'est l'alarme de nos vélos qui retentit ! Malgré qu'ils soient bien calés et abrités, la force du vent les a décalés d'un demi-mètre, ce qui a déclenché le détecteur de mouvement 🤣.
 
@@ -20,33 +19,33 @@ On reprend la route, toujours sur l'EuroVélo 3. Il n'y a pas de péage mais si 
 
 Ce jeudi constitue une étape très spéciale pour Nico. Cela fait maintenant plusieurs mois qu'il l'attend. Depuis l'étude de notre trace Komoot qui nous mènerait en Norvège et son découpage, très exactement. La route d'aujourd'hui n'est pas directement sur notre itinéraire. Pourtant, le passage y est obligatoire. On ne pouvait pas faire autrement. Quand on a calculé qu'on passait pas loin, on a ajusté la trace afin qu'elle soit celle que nous parcourons aujourd'hui.
 
-La famille paternelle de Nico est originaire du coin ! Pour cette occasion en or, nous avons la chance d'être rejoints par les parents de Nico pour le déjeuner à **Fourmies**. 
+La famille paternelle de Nico est originaire du coin ! Pour cette occasion en or, nous avons la chance d'être rejoints par les parents de Nico pour le déjeuner à **Fourmies**.
 
 Pour rejoindre **Fourmies**, une [ville riche en histoire](https://fr.m.wikipedia.org/wiki/Fourmies), nous empruntons la [voie verte de l'Avesnois](https://www.af3v.org/les-voies-vertes/voies/111-ev3-scandiberique-voie-verte-de-l-avesnois-de-maubeuge-a-glageon/).
 
-*"On va avoir une montée d'un km, c'est la seule du parcours du jour normalement"* décrit Nico. On arrive sur la fin de la montée. Nana rétorque : *"Ça fait plus d'un km là !"*. Le ton est donné. On roule depuis moins d'une heure que ça commence déjà à faire des comptes d'apothicaire.
+_"On va avoir une montée d'un km, c'est la seule du parcours du jour normalement"_ décrit Nico. On arrive sur la fin de la montée. Nana rétorque : _"Ça fait plus d'un km là !"_. Le ton est donné. On roule depuis moins d'une heure que ça commence déjà à faire des comptes d'apothicaire.
 
 Depuis quelques jours, l'**EuroVélo 3** nous offre des revêtements divers. Certaines portions empruntées sont très lisses et roulantes. D'autres sont plus chaotiques, graveleuses, avec quelques trous dans la route. Après plus d'une centaine de kilomètres sur ces routes, on arrive à un point de rupture dans la patience de tout le monde.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/BY8ORoRpnJDXeBNwxg" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Nana : *"C'est hard la route, ça secoue, ça fait mal au c\*\* quand même !"*
+Nana : _"C'est hard la route, ça secoue, ça fait mal au c\*\* quand même !"_
 
-Nico : *"Fais ch\*\*\* y'a pas de rendement là ! J'en ai marre de pédaler dans le vide ! "*
+Nico : _"Fais ch\*\*\* y'a pas de rendement là ! J'en ai marre de pédaler dans le vide ! "_
 
-Un peu plus loin, alors que nous sommes plongés dans la **forêt domaniale de Fourmies** et que le compte de montées a déjà été multiplié par 10, Nana insiste : *"Tu m'avais dit qu'il n'y aurait qu'une seule montée au programme !"* 🤬. 
+Un peu plus loin, alors que nous sommes plongés dans la **forêt domaniale de Fourmies** et que le compte de montées a déjà été multiplié par 10, Nana insiste : _"Tu m'avais dit qu'il n'y aurait qu'une seule montée au programme !"_ 🤬.
 
-*"Une seule répertoriée ! Pas ma faute si le compteur ne m'a pas indiqué les autres"* 😕. Il est vrai qu'A.S.O travaille plus dur sur les marges de ses épreuves qu'au recensement exhaustif des difficultés de parcours dans l'Avesnois.
+_"Une seule répertoriée ! Pas ma faute si le compteur ne m'a pas indiqué les autres"_ 😕. Il est vrai qu'A.S.O travaille plus dur sur les marges de ses épreuves qu'au recensement exhaustif des difficultés de parcours dans l'Avesnois.
 
 Nous passons par l'**étang des Moines**, puis rejoignons le centre-ville où se trouve le théâtre, le gymnase, la place centrale et l'hôtel de ville. C'est fou, 10 ans que l'on n'y avait pas remis les pieds, les souvenirs ressurgissent rapidement. C'est un beau moment ! 😀
 
-### Fourmies 
+### Fourmies
 
 On retrouve les parents de Nico vers 13h30. Ils sont venus en voiture. Alors qu'on vient tranquillement de s'asseoir dans un très bon burger, la pluie retentit fortement dehors. On sourit, on sait qu'elle devait tomber vers cette heure-là, que ça ne va pas durer et qu'on va pouvoir repartir bientôt. Ça fait 3 fois que notre pause coïncide avec la pluie. Certains y verront de la chance ou du calcul. Toujours est-il qu'on va encore passer entre les gouttes et ça fait bien plaisir 😎 !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/7Oifk90VrCdNe" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-### Wignehies 
+### Wignehies
 
 Nous avons un autre passage obligé à faire avant de poursuivre au Nord. C'est en fait un petit détour dans le village voisin, celui des grands-parents à **Wignehies**.
 

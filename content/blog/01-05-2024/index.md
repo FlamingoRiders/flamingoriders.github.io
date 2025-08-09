@@ -3,7 +3,6 @@ title: 🥪 Le smørrebrød d'Eduardo du 1er mai
 date: "2024-05-01"
 description: "Traversée de l'île de Fehmarn puis ferry jusqu'au Danemark !"
 location: "Sjælland, Danemark"
-pictures: ["01-05-2024/1.webp", "01-05-2024/2.webp", "01-05-2024/3.webp", "01-05-2024/4.webp", "01-05-2024/5.webp", "01-05-2024/6.webp", "01-05-2024/7.webp", "01-05-2024/8.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

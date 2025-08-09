@@ -4,7 +4,6 @@ date: "2024-05-23"
 description: "On monte un col avant d'être bloqués par la neige puis on fait du stop et on aperçoit des cascades enchantées !"
 location: "Vestland, Norvège"
 tags: ["heart", "scenic"]
-pictures: ["23-05-2024/1.webp", "23-05-2024/2.webp", "23-05-2024/3.webp", "23-05-2024/4.webp", "23-05-2024/5.webp", "23-05-2024/6.webp", "23-05-2024/7.webp", "23-05-2024/8.webp", "23-05-2024/9.webp", "23-05-2024/10.webp", "23-05-2024/11.webp", "23-05-2024/12.webp", "23-05-2024/13.webp", "23-05-2024/14.webp", "23-05-2024/15.webp", "23-05-2024/16.webp", "23-05-2024/17.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -29,7 +28,7 @@ Pour atteindre le sommet du [Rødalsfjellet](https://www.dangerousroads.org/euro
 
 On commence l'ascension en partant de **Røldal** à 400 mètres d'altitude. On passe par **Håra** à 600 mètres et là on rentre dans le cœur de la montée. Les pourcentages oscillent entre 6 et 9% mais il y a surtout des ruptures de pentes brutales, on a même le droit à du 15% sur 100 mètres d'après [Climbfinder](https://climbfinder.com/en/climbs/roldalsfjellet-hara) ! On s'emploie et on s'accroche. On est dans un vrai col, de par sa longueur et le fait qu'il n'offre pas de répit, on ressent vraiment l'effort surtout avec le soleil bien présent en cette matinée.
 
-Heureusement pour nous, notre expérience de ce genre de montée va se révéler précieuse. On prend notre temps, on mouline bien. Malgré nos machines d'une trentaine de kilos chacun (vélo + bagages), on fait face, ce n'est pas de la haute vitesse mais on a 34 dents à l'arrière et ça aide vraiment à lisser l'effort. Pour avoir une idée, c'est un peu l'équivalent en termes de sensation au niveau des jambes de monter avec un vélo d'une dizaine de kilos mais  seulement avec 28 ou 30 dents. Par contre, notre vitesse est diminuée à peu près de moitié. 
+Heureusement pour nous, notre expérience de ce genre de montée va se révéler précieuse. On prend notre temps, on mouline bien. Malgré nos machines d'une trentaine de kilos chacun (vélo + bagages), on fait face, ce n'est pas de la haute vitesse mais on a 34 dents à l'arrière et ça aide vraiment à lisser l'effort. Pour avoir une idée, c'est un peu l'équivalent en termes de sensation au niveau des jambes de monter avec un vélo d'une dizaine de kilos mais seulement avec 28 ou 30 dents. Par contre, notre vitesse est diminuée à peu près de moitié.
 
 C'est assez surprenant et heureusement pour nous depuis le début, on passe encore sur toutes les voies qu'on emprunte ! On va moins vite mais on n'est pas en sur-régime avec nos gravels. Ce sont de belles machines 🥰.
 
@@ -43,14 +42,15 @@ On tombe en hauteur sur une station de ski alpin fort sympathique, on aperçoit 
 
 À un moment, on se pose quand même des questions : est-ce bien raisonnable tout cela ? On traverse des montagnes depuis 3-4 jours et à chaque fois, on aperçoit personne d'autre, pas un cycliste. Comment se fait-il 🤔 ?
 
-On chasse ses mauvaises pensées de notre tête ! On vit encore une montée exceptionnelle, la route est fantastique et on est submergés de paysages incroyables 🤩. 
+On chasse ses mauvaises pensées de notre tête ! On vit encore une montée exceptionnelle, la route est fantastique et on est submergés de paysages incroyables 🤩.
 
-Ça y est on atteint le sommet à 1060 mètres ! Maintenant on a plus qu'à PROFITER ! On entame la descente, youpi 🥳. On fait 500 mètres tout se passe bien, on regarde à droite, à gauche, c'est top de chaque côté. 
+Ça y est on atteint le sommet à 1060 mètres ! Maintenant on a plus qu'à PROFITER ! On entame la descente, youpi 🥳. On fait 500 mètres tout se passe bien, on regarde à droite, à gauche, c'est top de chaque côté.
 
-### Une énorme désillusion 
+### Une énorme désillusion
+
 Tout à coup, on est stoppés net. La route jusque là dégagée et complètement ensevelie sous la neige. Il y a plusieurs mètres ! Pourquoi on ne s'en rend compte que maintenant, c'est quoi ce bazar ?!
 
-Nana : *"eh mince on va devoir redescendre au tunnel"*
+Nana : _"eh mince on va devoir redescendre au tunnel"_
 
 Nico réfléchit un court instant. Le tunnel ?! 5 kilomètres plus bas ? Après être monté jusque là ? Ça part tout seul, il fulmine de rage devant le mur de neige 🤬.
 
@@ -63,19 +63,20 @@ Nico commence à s'avancer dans cette optique quand soudain, il s'arrête net, l
 Il faut redescendre au tunnel, on n'a pas le choix.
 
 ### Sauvés par un gentil monsieur
+
 On redescend donc en contrebas, sous la station de ski, juste avant le tunnel. On fait du stop, ça ne marche pas, les gens ne s'arrêtent pas ou trouvent des fausses excuses. On en voit des campings cars ou des voitures défiler avec des racks à vélo vides qui pourraient largement suffire pour les nôtres. Mais rien. Même le bus ne veut pas nous prendre. Il prétexte qu'il nous faut attendre un plus gros bus qui passe à 16h30. Il est 14h30.
 
-Une camionnette s'arrête soudainement. Un monsieur baisse sa vitre, on se précipite vers lui. *"You want to cross the tunnel ? No problem !"*
+Une camionnette s'arrête soudainement. Un monsieur baisse sa vitre, on se précipite vers lui. _"You want to cross the tunnel ? No problem !"_
 
 En deux temps trois mouvements, il ouvre l'arrière et nous aide à mettre les vélos. On est reparti la minute d'après ! On discute rapidement avec lui, il est fort sympathique de nous avoir sauvé la mise, nous dit qu'on a bien fait d'attendre, qu'ils coupent la circulation du tunnel pour tous les véhicules si des cyclistes sont dedans et nous conseille de visiter le **Hardanger** !
 
 On ressort du tunnel, il nous dépose sur un parking. Là, on a une vue au loin sur des montagnes et encore derrière, une épaisse couche d'un blanc immaculé. On regarde sur **PeakLens**, il s'agit du glacier **Folgefonna** 😲. On est loin mais l'impression visuelle est impressionnante, il semble massif !
 
-### Au pays des cascades enchantées 
+### Au pays des cascades enchantées
 
 La descente vers **Odda** est longue et régulière et la route suit la rivière **Grønsdalslona**. Elle est large, il y a beaucoup de rapides. On prend des photos car on trouve cela spectaculaire, on n'a encore rien vu.
 
-Soudain, on aperçoit devant nous une impressionnante vapeur d'eau et on doit traverser un pont. On sort nos **Gore-Tex**, pour une fois, on a une bonne idée 😅. 
+Soudain, on aperçoit devant nous une impressionnante vapeur d'eau et on doit traverser un pont. On sort nos **Gore-Tex**, pour une fois, on a une bonne idée 😅.
 
 On s'élance, un courant d'air puissant souffle de côté et la vapeur d'eau est projetée sur nous à notre passage. On s'arrête de l'autre côté pour voir ce dont il s'agit. Il y a plusieurs voitures arrêtés et une petite dizaine de touristes sur un parking. On est au pied de la superbe cascade **Låtefossen** 😲 !
 

@@ -8,6 +8,7 @@ import SimpleMap from "components/maps/simple-map";
 import TravelCounter from "components/maps/travel-counter";
 import Step from "components/maps/step";
 import { AppSections } from "routes/app-routes";
+import { getPostDate, getDayOfWeek } from "utils/date";
 
 type QueryReturn = {
   allStatsJson: {
@@ -45,6 +46,7 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <h1>🌍📍 {AppSections.MAPS}</h1>
       <DatePicker
+        label="La position du jour"
         selectedDate={selectedDate}
         startDate={startDate}
         lastDate={lastDate}
@@ -70,6 +72,11 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           cumulatedPositionMarker={cumulatedPositionMarker}
         />
       )}
+      {displayedPositionMarker &&
+        <a href={`${siteUrl}/${getPostDate(displayedPositionMarker?.date)}`}>
+          📝 Accéder au récit du {getDayOfWeek(displayedPositionMarker?.date)}
+        </a>
+      }
     </Layout>
   );
 };

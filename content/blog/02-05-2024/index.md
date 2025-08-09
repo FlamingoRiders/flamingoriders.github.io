@@ -3,7 +3,6 @@ title: 🥪 Le smørrebrød d'Eduardo du 2 mai
 date: "2024-05-02"
 description: "Énorme bataille contre le vent sur les îles de Lolland, Falster, Bogø et Møn !"
 location: "Sjælland, Danemark"
-pictures: ["02-05-2024/1.webp", "02-05-2024/2.webp", "02-05-2024/3.webp", "02-05-2024/4.webp", "02-05-2024/5.webp", "02-05-2024/6.webp", "02-05-2024/7.webp", "02-05-2024/8.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

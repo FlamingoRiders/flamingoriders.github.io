@@ -3,12 +3,11 @@ title: 🥪 Le smørrebrød d'Eduardo du 12 mai
 date: "2024-05-12"
 description: "Dernière journée au Danemark à travers l'île Vendsyssel jusqu'à Frederikshavn !"
 location: "Jutland du Nord, Danemark"
-pictures: ["12-05-2024/1.webp", "12-05-2024/2.webp", "12-05-2024/3.webp", "12-05-2024/4.webp", "12-05-2024/5.webp", "12-05-2024/6.webp", "12-05-2024/7.webp", "12-05-2024/8.webp", "12-05-2024/9.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
 
-Ce matin, la forme au réveil n'est pas extraordinaire. On n'a pas *"mal dormi"* à proprement parler. Mais être réveillé une nouvelle fois de bonne heure par la chaleur des rayons de soleil écourte un peu nos nuits 😄.
+Ce matin, la forme au réveil n'est pas extraordinaire. On n'a pas _"mal dormi"_ à proprement parler. Mais être réveillé une nouvelle fois de bonne heure par la chaleur des rayons de soleil écourte un peu nos nuits 😄.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/tmQrpA8zpG4a16SSxm" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -16,7 +15,7 @@ Après avoir repris nos esprits et rangé nos affaires, on se rend dans la cuisi
 
 On n'a pas tout vu mais une petite dizaine de candidats ainsi que la France et ceux étant sur le podium.
 
-Et il faut absolument que l'on débriefe cela avec vous ! 
+Et il faut absolument que l'on débriefe cela avec vous !
 
 On découvre que la France obtient une belle quatrième place, Slimane chantant très bien, on trouve ça plutôt bien ! Pour être sur le podium à l'Eurovision, il semblerait néanmoins qu'il faille plus de lumières épileptiques lors de la prestation.
 
@@ -31,11 +30,12 @@ Et surtout, surtout, la Norvège dernière 😰. C'est le prochain pays qu'on vi
 Bref, les goûts et les couleurs 😅.
 
 ### En partant d'Aalborg
-Ce matin nous quittons **Aalborg**. C'est la troisième plus grande ville du **Danemark** après **Copenhague** et **Aarhus**. Malheureusement, c'est celle que nous aurons le moins visitée. 
 
-Après une rapide balade dans le centre, nous traversons la rive sud à vélo. Il y a des œuvres de streetart très réussies qui recouvrent entièrement les façades de certains murs. Nous repassons dans ces rues typiquement danoises avec les maisons colorées et parfaitement entretenues. Cela va nous manquer, on a beau les voir dans chaque ville on ne s'en lasse pas ! Nous passons par de belles places piétonnes, le Rådhus et la cathédrale avec sa façade extérieure en briques blanches. 
+Ce matin nous quittons **Aalborg**. C'est la troisième plus grande ville du **Danemark** après **Copenhague** et **Aarhus**. Malheureusement, c'est celle que nous aurons le moins visitée.
 
-C'est vrai ce que l'on dit, il y a une atmosphère relaxante, une certaine légèreté de vie et un état d'esprit positif dans les villes danoises. Les danois ont un mot particulier pour décrire cela qui est difficilement traduisible : la  [hygge](https://www.visitdenmark.fr/danemark/quoi-faire/hygge/que-signifie-hygge).
+Après une rapide balade dans le centre, nous traversons la rive sud à vélo. Il y a des œuvres de streetart très réussies qui recouvrent entièrement les façades de certains murs. Nous repassons dans ces rues typiquement danoises avec les maisons colorées et parfaitement entretenues. Cela va nous manquer, on a beau les voir dans chaque ville on ne s'en lasse pas ! Nous passons par de belles places piétonnes, le Rådhus et la cathédrale avec sa façade extérieure en briques blanches.
+
+C'est vrai ce que l'on dit, il y a une atmosphère relaxante, une certaine légèreté de vie et un état d'esprit positif dans les villes danoises. Les danois ont un mot particulier pour décrire cela qui est difficilement traduisible : la [hygge](https://www.visitdenmark.fr/danemark/quoi-faire/hygge/que-signifie-hygge).
 
 Nous passons enfin par le **Utzon center**. Il s'agit d'un musée consacré à l'architecture et aux réalisations de **Jørn Utzon**. Nous apprenons qu'il a notamment réalisé la **Sydney Opera House**, un bâtiment emblématique connu dans le monde entier. Après une douzaine de jours au **Danemark**, on n'est pas surpris d'apprendre que son architecte est dannois.
 
@@ -44,15 +44,17 @@ Puis, nous longeons la rive sud où nous nous trouvons avant de passer au-dessus
 Au nord d'**Aalborg**, à peine sortis de la ville, nous faisons un très court détour pour observer le site de **Lindholm Høje**. Il s'agit d'un cimetière remarquablement conservé qui compte des tombes de l'âge Viking. Laissé à l'abandon après les années 900 à cause de son terrain sableux après plusieurs mouvements de sable, il a ensuite été excavé dans les années 1950. On y trouve des tombes avec des pierres disposées en ovale ou en triangle, certaines tombes étant sur des collines. Curieusement, il y a beaucoup de corbeaux dans les arbres aux alentours qui croassent et ajoutent une dimension mystique au lieu. Il fait plein soleil donc on n'est pas dans une ambiance sinistre pour autant ☺️.
 
 ### Arrivée à Frederikshavn
-C'est une super journée, un grand soleil est présent tout du long. On a chaud lorsque l'on reste statique. À la différence d'hier, on a droit à une légère brise rafraîchissante lorsque l'on pédale. Le paysage n'est pas très différent des journées d'avant. Il y a quand même un feeling particulier aujourd'hui. On approche de la fin de notre périple au **Danemark**, un pays qu'on a adoré, on voulait impérativement prendre le temps de le visiter. C'est un *"petit pays"* à l'échelle de notre voyage mais nous n'avons pas emprunté le plus court chemin pour le parcourir sur cette douzaine de jours inoubliables. 
+
+C'est une super journée, un grand soleil est présent tout du long. On a chaud lorsque l'on reste statique. À la différence d'hier, on a droit à une légère brise rafraîchissante lorsque l'on pédale. Le paysage n'est pas très différent des journées d'avant. Il y a quand même un feeling particulier aujourd'hui. On approche de la fin de notre périple au **Danemark**, un pays qu'on a adoré, on voulait impérativement prendre le temps de le visiter. C'est un _"petit pays"_ à l'échelle de notre voyage mais nous n'avons pas emprunté le plus court chemin pour le parcourir sur cette douzaine de jours inoubliables.
 
 Pour les randonneurs à vélo que nous avons croisés et se rendant vers le **Cap Nord**, il y a deux approches possibles :
+
 - par les îles danoises du sud en remontant vers **Copenhague** pour arriver en **Suède** à **Malmö** ou bien prendre un ferry vers **Goteborg**.
 - arrivée par le nord de l'**Allemagne** en traversant la frontière terrestre et en rejoignant le **Jutland** avant de prendre un ferry pour la **Norvège**.
 
 Finalement, notre tracé nous a fait faire un peu des deux. Nous avons encore une fois une chance que n'ont pas beaucoup des gens que nous croisons : le temps.
 
-Certains veulent rejoindre le **Cap Nord** sur un délai de 3-4 semaines. La **Suède** offre un terrain et des conditions plus favorables que la **Norvège**. Le profil y est plus plat et la météo plus accomodante. D'autres veulent voir les fjords et les montagnes et privilégieront la **Norvège**. 
+Certains veulent rejoindre le **Cap Nord** sur un délai de 3-4 semaines. La **Suède** offre un terrain et des conditions plus favorables que la **Norvège**. Le profil y est plus plat et la météo plus accomodante. D'autres veulent voir les fjords et les montagnes et privilégieront la **Norvège**.
 
 Quand nous avons planifié notre voyage, nous souhaitions absolument privilégier la **Norvège**. Par contre, nous souhaiterions redescendre par la **Suède** toujours à vélo, si tout se passe comme prévu 🤞.
 
@@ -66,28 +68,28 @@ Nous terminons ainsi la phase 3 de notre voyage.
 
 Voici un petit récapitulatif de celle-ci :
 
-| Phase 3 | Copenhague à Frederikshavn |
-|----|----|
-| Distance parcourue | 336,94 km  |
-| Jours écoulés   |  5  |
-| Jours en itinérance  |  5  |
-| Nuits en camping  |  3  |
-| Ferry / bac empruntés  | 3  |
-| Chutes   |  0  |
-| Pays traversés  | 🇩🇰  |
-| Comment c’était ?  | 🥰😍🤩   |
+| Phase 3               | Copenhague à Frederikshavn |
+| --------------------- | -------------------------- |
+| Distance parcourue    | 336,94 km                  |
+| Jours écoulés         | 5                          |
+| Jours en itinérance   | 5                          |
+| Nuits en camping      | 3                          |
+| Ferry / bac empruntés | 3                          |
+| Chutes                | 0                          |
+| Pays traversés        | 🇩🇰                         |
+| Comment c’était ?     | 🥰😍🤩                     |
 
-Depuis notre départ, voici notre avancement : 
+Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Frederikshavn |
 |----|----|
-| Distance parcourue | 2246.10 km  |
-| Jours écoulés   |  43  |
-| Jours en itinérance  |  34 |
-| Nuits en camping  |  12  |
-| Ferry / bac empruntés  | 7 |
-| Chutes   |  3  |
-| Pays traversés  | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰 |
-| Comment c’était ?  | 🥰😍🤩   |
+| Distance parcourue | 2246.10 km |
+| Jours écoulés | 43 |
+| Jours en itinérance | 34 |
+| Nuits en camping | 12 |
+| Ferry / bac empruntés | 7 |
+| Chutes | 3 |
+| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰 |
+| Comment c’était ? | 🥰😍🤩 |
 
 ### Rencontres sympathiques en attendant le ferry
 
@@ -97,12 +99,11 @@ Un néerlandais qui est parti il y a seulement quelques jours d'**Hambourg** ave
 
 Un français parti de **Bordeaux**, passé par les mêmes pays que nous mais qui a longé la côte quasiment tout du long ! Il a également du temps devant lui pour pousuivre sa formidable trace.
 
-On partage nos histoires, nos ressentis communs sur les pays traversés et aussi nos douleurs aux fesses 😂. 
+On partage nos histoires, nos ressentis communs sur les pays traversés et aussi nos douleurs aux fesses 😂.
 
-À 23h50, nous entrons finalement dans le ferry. Minuit, ça y est, on lève les voiles ! 
+À 23h50, nous entrons finalement dans le ferry. Minuit, ça y est, on lève les voiles !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PsbWiVtix5FoTZ1s00mEl?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
-
 
 ### Danemark : le mot de la fin
 

@@ -3,12 +3,11 @@ title: 🥮 Le kanelbulle d'Eduardo du 8 août
 date: "2024-08-08"
 description: "On fait le tour du Nydalasjön et d'Umeå !"
 location: "Umeå, Suède"
-pictures: ["08-08-2024/1.webp", "08-08-2024/2.webp", "08-08-2024/3.webp", "08-08-2024/4.webp", "08-08-2024/5.webp", "08-08-2024/6.webp", "08-08-2024/7.webp", "08-08-2024/8.webp", "08-08-2024/9.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
 
-Aujourd'hui, on se réveille au camping à **Umeå**. On ne va pas reprendre la route tout de suite, on veut voir un peu la ville et ses environs. Il s'agit de la 12ème plus grande ville de Suède, et la plus grande ville au nord. De plus, on doit réparer le vélo de Nico et la météo est censée se dégrader un peu. 
+Aujourd'hui, on se réveille au camping à **Umeå**. On ne va pas reprendre la route tout de suite, on veut voir un peu la ville et ses environs. Il s'agit de la 12ème plus grande ville de Suède, et la plus grande ville au nord. De plus, on doit réparer le vélo de Nico et la météo est censée se dégrader un peu.
 
 ## Le superbe Nydalasjön
 
@@ -25,9 +24,9 @@ Comme on craint un peu la pluie du vendredi, on a réservé la veille un petit A
 
 On y dépose le vélo de Nico que l'on récupère une heure plus tard. Pour 400 SEK, un rayon a été remplacé. Un peu cher non 🤨 ? On a hésité à changer la roue pour 1200 SEK. C'est un peu quitte ou double, est-ce que le problème est la roue auquel cas il vaut mieux la changer, ou bien notre pratique du vélo assez intense qui fragilise la roue ? Même en discutant avec le mécanicien, il avoue ne pas savoir d'où vient le problème 😐. On verra bien ce qu'il adviendra dans les prochains jours !
 
-### Balade dans le centre-ville 
+### Balade dans le centre-ville
 
-Dans l'après-midi, on se rend dans le centre-ville d'**Umeå**. On se sent très bien à déambuler dans les allées et au milieu des parcs. C'est une ville où il fait bon vivre. 
+Dans l'après-midi, on se rend dans le centre-ville d'**Umeå**. On se sent très bien à déambuler dans les allées et au milieu des parcs. C'est une ville où il fait bon vivre.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/l3mZfxgPWhmuXa8Cc" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

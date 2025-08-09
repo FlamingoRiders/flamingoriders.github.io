@@ -5,4 +5,5 @@ export interface Day {
   mood?: number;
   startPointName?: string;
   endPointName?: string;
+  pictures?: Array<string>;
 }

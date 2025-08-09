@@ -1,8 +1,14 @@
 [
   {
     "date": "2024-06-01",
-    "startPos": [60.3717343, 5.3664357],
-    "endPos": [60.670927, 4.954216],
+    "startPos": [
+      60.3717343,
+      5.3664357
+    ],
+    "endPos": [
+      60.670927,
+      4.954216
+    ],
     "distance": 63.70,
     "time": "04h34",
     "averageSpeed": 14.0,
@@ -11,12 +17,30 @@
     "weather": "⛅",
     "startPointName": "Bergen",
     "endPointName": "Bøvågen",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "01-06-2024/1.webp",
+      "01-06-2024/2.webp",
+      "01-06-2024/3.webp",
+      "01-06-2024/4.webp",
+      "01-06-2024/5.webp",
+      "01-06-2024/6.webp",
+      "01-06-2024/7.webp",
+      "01-06-2024/8.webp",
+      "01-06-2024/9.webp",
+      "01-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-02",
-    "startPos": [60.670927, 4.954216],
-    "endPos": [61.1725309, 5.3514318],
+    "startPos": [
+      60.670927,
+      4.954216
+    ],
+    "endPos": [
+      61.1725309,
+      5.3514318
+    ],
     "distance": 78.58,
     "time": "05h02",
     "averageSpeed": 15.6,
@@ -25,12 +49,30 @@
     "weather": "🌥️",
     "startPointName": "Bøvågen",
     "endPointName": "Leirvik",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "02-06-2024/1.webp",
+      "02-06-2024/2.webp",
+      "02-06-2024/3.webp",
+      "02-06-2024/4.webp",
+      "02-06-2024/5.webp",
+      "02-06-2024/6.webp",
+      "02-06-2024/7.webp",
+      "02-06-2024/8.webp",
+      "02-06-2024/9.webp",
+      "02-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-03",
-    "startPos": [61.1725309, 5.3514318],
-    "endPos": [61.4613820, 5.8877026],
+    "startPos": [
+      61.1725309,
+      5.3514318
+    ],
+    "endPos": [
+      61.4613820,
+      5.8877026
+    ],
     "distance": 72.28,
     "time": "05h10",
     "averageSpeed": 14.0,
@@ -39,12 +81,28 @@
     "weather": "🌧️",
     "startPointName": "Leirvik",
     "endPointName": "Førde",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "03-06-2024/1.webp",
+      "03-06-2024/2.webp",
+      "03-06-2024/3.webp",
+      "03-06-2024/4.webp",
+      "03-06-2024/5.webp",
+      "03-06-2024/6.webp",
+      "03-06-2024/7.webp",
+      "03-06-2024/8.webp"
+    ]
   },
   {
     "date": "2024-06-04",
-    "startPos": [61.4613820, 5.8877026],
-    "endPos": [61.7314833, 6.4072713],
+    "startPos": [
+      61.4613820,
+      5.8877026
+    ],
+    "endPos": [
+      61.7314833,
+      6.4072713
+    ],
     "distance": 72.17,
     "time": "04h33",
     "averageSpeed": 15.9,
@@ -53,22 +111,55 @@
     "weather": "🌧️",
     "startPointName": "Førde",
     "endPointName": "Byrkelo",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "04-06-2024/1.webp",
+      "04-06-2024/2.webp",
+      "04-06-2024/3.webp",
+      "04-06-2024/4.webp",
+      "04-06-2024/5.webp",
+      "04-06-2024/6.webp",
+      "04-06-2024/7.webp"
+    ]
   },
   {
     "date": "2024-06-05",
-    "startPos": [61.7314833, 6.4072713],
-    "endPos": [61.7314833, 6.4072713],
+    "startPos": [
+      61.7314833,
+      6.4072713
+    ],
+    "endPos": [
+      61.7314833,
+      6.4072713
+    ],
     "mood": 3,
     "weather": "🌧️",
     "startPointName": "Byrkelo",
     "endPointName": "Byrkelo",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "05-06-2024/1.webp",
+      "05-06-2024/2.webp",
+      "05-06-2024/3.webp",
+      "05-06-2024/4.webp",
+      "05-06-2024/5.webp",
+      "05-06-2024/6.webp",
+      "05-06-2024/7.webp",
+      "05-06-2024/8.webp",
+      "05-06-2024/9.webp",
+      "05-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-06",
-    "startPos": [61.7314833, 6.4072713],
-    "endPos": [61.855006, 6.896486],
+    "startPos": [
+      61.7314833,
+      6.4072713
+    ],
+    "endPos": [
+      61.855006,
+      6.896486
+    ],
     "distance": 86.87,
     "time": "05h43",
     "averageSpeed": 15.2,
@@ -77,12 +168,33 @@
     "weather": "🌦️",
     "startPointName": "Byrkelo",
     "endPointName": "Loen",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "06-06-2024/1.webp",
+      "06-06-2024/2.webp",
+      "06-06-2024/3.webp",
+      "06-06-2024/4.webp",
+      "06-06-2024/5.webp",
+      "06-06-2024/6.webp",
+      "06-06-2024/7.webp",
+      "06-06-2024/8.webp",
+      "06-06-2024/9.webp",
+      "06-06-2024/10.webp",
+      "06-06-2024/11.webp",
+      "06-06-2024/12.webp",
+      "06-06-2024/13.webp"
+    ]
   },
   {
     "date": "2024-06-07",
-    "startPos": [61.855006, 6.896486],
-    "endPos": [62.075621, 6.896770],
+    "startPos": [
+      61.855006,
+      6.896486
+    ],
+    "endPos": [
+      62.075621,
+      6.896770
+    ],
     "distance": 68.47,
     "time": "04h35",
     "averageSpeed": 15.0,
@@ -91,22 +203,58 @@
     "weather": "🌥️",
     "startPointName": "Loen",
     "endPointName": "Hellesylt",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "07-06-2024/1.webp",
+      "07-06-2024/2.webp",
+      "07-06-2024/3.webp",
+      "07-06-2024/4.webp",
+      "07-06-2024/5.webp",
+      "07-06-2024/6.webp",
+      "07-06-2024/7.webp",
+      "07-06-2024/8.webp"
+    ]
   },
   {
     "date": "2024-06-08",
-    "startPos": [62.0988151, 7.1990516],
-    "endPos": [62.0988151, 7.1990516],
+    "startPos": [
+      62.0988151,
+      7.1990516
+    ],
+    "endPos": [
+      62.0988151,
+      7.1990516
+    ],
     "mood": 5,
     "weather": "🌥️",
     "startPointName": "Geiranger",
     "endPointName": "Geiranger",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "08-06-2024/1.webp",
+      "08-06-2024/2.webp",
+      "08-06-2024/3.webp",
+      "08-06-2024/4.webp",
+      "08-06-2024/5.webp",
+      "08-06-2024/6.webp",
+      "08-06-2024/7.webp",
+      "08-06-2024/8.webp",
+      "08-06-2024/9.webp",
+      "08-06-2024/10.webp",
+      "08-06-2024/11.webp",
+      "08-06-2024/12.webp"
+    ]
   },
   {
     "date": "2024-06-09",
-    "startPos": [62.075621, 6.896770],
-    "endPos": [62.333003, 7.380537],
+    "startPos": [
+      62.075621,
+      6.896770
+    ],
+    "endPos": [
+      62.333003,
+      7.380537
+    ],
     "distance": 55.09,
     "time": "03h43",
     "averageSpeed": 14.8,
@@ -115,12 +263,26 @@
     "weather": "🌧️",
     "startPointName": "Hellesylt",
     "endPointName": "Valldal",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "09-06-2024/1.webp",
+      "09-06-2024/2.webp",
+      "09-06-2024/3.webp",
+      "09-06-2024/4.webp",
+      "09-06-2024/5.webp",
+      "09-06-2024/6.webp"
+    ]
   },
   {
     "date": "2024-06-10",
-    "startPos": [62.333003, 7.380537],
-    "endPos": [62.5358902, 7.4402520],
+    "startPos": [
+      62.333003,
+      7.380537
+    ],
+    "endPos": [
+      62.5358902,
+      7.4402520
+    ],
     "distance": 50.92,
     "time": "03h41",
     "averageSpeed": 13.8,
@@ -129,12 +291,30 @@
     "weather": "🌧️",
     "startPointName": "Valldal",
     "endPointName": "Måndalen",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "10-06-2024/1.webp",
+      "10-06-2024/2.webp",
+      "10-06-2024/3.webp",
+      "10-06-2024/4.webp",
+      "10-06-2024/5.webp",
+      "10-06-2024/6.webp",
+      "10-06-2024/7.webp",
+      "10-06-2024/8.webp",
+      "10-06-2024/9.webp",
+      "10-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-11",
-    "startPos": [62.5358902, 7.4402520],
-    "endPos": [62.813543, 7.223841],
+    "startPos": [
+      62.5358902,
+      7.4402520
+    ],
+    "endPos": [
+      62.813543,
+      7.223841
+    ],
     "distance": 52.18,
     "time": "03h26",
     "averageSpeed": 15.2,
@@ -143,12 +323,30 @@
     "weather": "🌦️",
     "startPointName": "Måndalen",
     "endPointName": "Malmefjorden",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "11-06-2024/1.webp",
+      "11-06-2024/2.webp",
+      "11-06-2024/3.webp",
+      "11-06-2024/4.webp",
+      "11-06-2024/5.webp",
+      "11-06-2024/6.webp",
+      "11-06-2024/7.webp",
+      "11-06-2024/8.webp",
+      "11-06-2024/9.webp",
+      "11-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-12",
-    "startPos": [62.813543, 7.223841],
-    "endPos": [63.110751, 7.831596],
+    "startPos": [
+      62.813543,
+      7.223841
+    ],
+    "endPos": [
+      63.110751,
+      7.831596
+    ],
     "distance": 66.61,
     "time": "04h03",
     "averageSpeed": 16.4,
@@ -157,12 +355,31 @@
     "weather": "🌧️",
     "startPointName": "Malmefjorden",
     "endPointName": "Kristiansund",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "12-06-2024/1.webp",
+      "12-06-2024/2.webp",
+      "12-06-2024/3.webp",
+      "12-06-2024/4.webp",
+      "12-06-2024/5.webp",
+      "12-06-2024/6.webp",
+      "12-06-2024/7.webp",
+      "12-06-2024/8.webp",
+      "12-06-2024/9.webp",
+      "12-06-2024/10.webp",
+      "12-06-2024/11.webp"
+    ]
   },
   {
     "date": "2024-06-13",
-    "startPos": [63.110751, 7.831596],
-    "endPos": [63.412403, 9.024631],
+    "startPos": [
+      63.110751,
+      7.831596
+    ],
+    "endPos": [
+      63.412403,
+      9.024631
+    ],
     "distance": 82.28,
     "time": "04h57",
     "averageSpeed": 16.6,
@@ -171,12 +388,30 @@
     "weather": "🌦️",
     "startPointName": "Kristiansund",
     "endPointName": "Heim",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "13-06-2024/1.webp",
+      "13-06-2024/2.webp",
+      "13-06-2024/3.webp",
+      "13-06-2024/4.webp",
+      "13-06-2024/5.webp",
+      "13-06-2024/6.webp",
+      "13-06-2024/7.webp",
+      "13-06-2024/8.webp",
+      "13-06-2024/9.webp",
+      "13-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-14",
-    "startPos": [63.412403, 9.024631],
-    "endPos": [63.2312581, 9.5427971],
+    "startPos": [
+      63.412403,
+      9.024631
+    ],
+    "endPos": [
+      63.2312581,
+      9.5427971
+    ],
     "distance": 60.02,
     "time": "03h37",
     "averageSpeed": 16.6,
@@ -185,12 +420,26 @@
     "weather": "🌦️",
     "startPointName": "Heim",
     "endPointName": "Fannrem",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "14-06-2024/1.webp",
+      "14-06-2024/2.webp",
+      "14-06-2024/3.webp",
+      "14-06-2024/4.webp",
+      "14-06-2024/5.webp",
+      "14-06-2024/6.webp"
+    ]
   },
   {
     "date": "2024-06-15",
-    "startPos": [63.2312581, 9.5427971],
-    "endPos": [63.422403, 10.385359],
+    "startPos": [
+      63.2312581,
+      9.5427971
+    ],
+    "endPos": [
+      63.422403,
+      10.385359
+    ],
     "distance": 67.57,
     "time": "03h53",
     "averageSpeed": 17.4,
@@ -199,32 +448,86 @@
     "weather": "🌤️",
     "startPointName": "Fannrem",
     "endPointName": "Trondheim",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "15-06-2024/1.webp",
+      "15-06-2024/2.webp",
+      "15-06-2024/3.webp",
+      "15-06-2024/4.webp",
+      "15-06-2024/5.webp",
+      "15-06-2024/6.webp",
+      "15-06-2024/7.webp",
+      "15-06-2024/8.webp",
+      "15-06-2024/9.webp"
+    ]
   },
   {
     "date": "2024-06-16",
-    "startPos": [63.422403, 10.385359],
-    "endPos": [63.422403, 10.385359],
+    "startPos": [
+      63.422403,
+      10.385359
+    ],
+    "endPos": [
+      63.422403,
+      10.385359
+    ],
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Trondheim",
     "endPointName": "Trondheim",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "16-06-2024/1.webp",
+      "16-06-2024/2.webp",
+      "16-06-2024/3.webp",
+      "16-06-2024/4.webp",
+      "16-06-2024/5.webp",
+      "16-06-2024/6.webp",
+      "16-06-2024/7.webp",
+      "16-06-2024/8.webp",
+      "16-06-2024/9.webp"
+    ]
   },
   {
     "date": "2024-06-17",
-    "startPos": [63.422403, 10.385359],
-    "endPos": [63.422403, 10.385359],
+    "startPos": [
+      63.422403,
+      10.385359
+    ],
+    "endPos": [
+      63.422403,
+      10.385359
+    ],
     "mood": 5,
     "weather": "🌤️",
     "startPointName": "Trondheim",
     "endPointName": "Trondheim",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "17-06-2024/1.webp",
+      "17-06-2024/2.webp",
+      "17-06-2024/3.webp",
+      "17-06-2024/4.webp",
+      "17-06-2024/5.webp",
+      "17-06-2024/6.webp",
+      "17-06-2024/7.webp",
+      "17-06-2024/8.webp",
+      "17-06-2024/9.webp",
+      "17-06-2024/10.webp",
+      "17-06-2024/11.webp",
+      "17-06-2024/12.webp"
+    ]
   },
   {
     "date": "2024-06-18",
-    "startPos": [63.422403, 10.385359],
-    "endPos": [63.803024, 10.807421],
+    "startPos": [
+      63.422403,
+      10.385359
+    ],
+    "endPos": [
+      63.803024,
+      10.807421
+    ],
     "distance": 58.00,
     "time": "03h53",
     "averageSpeed": 14.9,
@@ -233,12 +536,29 @@
     "weather": "🌤️",
     "startPointName": "Trondheim",
     "endPointName": "Mosvik",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "18-06-2024/1.webp",
+      "18-06-2024/2.webp",
+      "18-06-2024/3.webp",
+      "18-06-2024/4.webp",
+      "18-06-2024/5.webp",
+      "18-06-2024/6.webp",
+      "18-06-2024/7.webp",
+      "18-06-2024/8.webp",
+      "18-06-2024/9.webp"
+    ]
   },
   {
     "date": "2024-06-19",
-    "startPos": [63.803024, 10.807421],
-    "endPos": [64.295676, 11.200905],
+    "startPos": [
+      63.803024,
+      10.807421
+    ],
+    "endPos": [
+      64.295676,
+      11.200905
+    ],
     "distance": 103.14,
     "time": "06h14",
     "averageSpeed": 16.5,
@@ -247,12 +567,26 @@
     "weather": "☁️",
     "startPointName": "Mosvik",
     "endPointName": "Namdalseid",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "19-06-2024/1.webp",
+      "19-06-2024/2.webp",
+      "19-06-2024/3.webp",
+      "19-06-2024/4.webp",
+      "19-06-2024/5.webp",
+      "19-06-2024/6.webp"
+    ]
   },
   {
     "date": "2024-06-20",
-    "startPos": [64.295676, 11.200905],
-    "endPos": [65.079877, 11.698519],
+    "startPos": [
+      64.295676,
+      11.200905
+    ],
+    "endPos": [
+      65.079877,
+      11.698519
+    ],
     "distance": 32.82,
     "time": "01h55",
     "averageSpeed": 17.12,
@@ -261,12 +595,27 @@
     "weather": "🌧️",
     "startPointName": "Namdalseid",
     "endPointName": "Leka",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "20-06-2024/1.webp",
+      "20-06-2024/2.webp",
+      "20-06-2024/3.webp",
+      "20-06-2024/4.webp",
+      "20-06-2024/5.webp",
+      "20-06-2024/6.webp",
+      "20-06-2024/7.webp"
+    ]
   },
   {
     "date": "2024-06-21",
-    "startPos": [65.079877, 11.698519],
-    "endPos": [65.214831, 12.045416],
+    "startPos": [
+      65.079877,
+      11.698519
+    ],
+    "endPos": [
+      65.214831,
+      12.045416
+    ],
     "distance": 66.11,
     "time": "03h59",
     "averageSpeed": 16.6,
@@ -275,12 +624,30 @@
     "weather": "🌧️",
     "startPointName": "Leka",
     "endPointName": "Vennesund",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "21-06-2024/1.webp",
+      "21-06-2024/2.webp",
+      "21-06-2024/3.webp",
+      "21-06-2024/4.webp",
+      "21-06-2024/5.webp",
+      "21-06-2024/6.webp",
+      "21-06-2024/7.webp",
+      "21-06-2024/8.webp",
+      "21-06-2024/9.webp",
+      "21-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-22",
-    "startPos": [65.214831, 12.045416],
-    "endPos": [65.872582, 12.466319],
+    "startPos": [
+      65.214831,
+      12.045416
+    ],
+    "endPos": [
+      65.872582,
+      12.466319
+    ],
     "distance": 82.83,
     "time": "04h53",
     "averageSpeed": 17.0,
@@ -289,12 +656,31 @@
     "weather": "☀️",
     "startPointName": "Vennesund",
     "endPointName": "Offersøy",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "22-06-2024/1.webp",
+      "22-06-2024/2.webp",
+      "22-06-2024/3.webp",
+      "22-06-2024/4.webp",
+      "22-06-2024/5.webp",
+      "22-06-2024/6.webp",
+      "22-06-2024/7.webp",
+      "22-06-2024/8.webp",
+      "22-06-2024/9.webp",
+      "22-06-2024/10.webp",
+      "22-06-2024/11.webp"
+    ]
   },
   {
     "date": "2024-06-23",
-    "startPos": [65.872582, 12.466319],
-    "endPos": [66.154852, 13.070987],
+    "startPos": [
+      65.872582,
+      12.466319
+    ],
+    "endPos": [
+      66.154852,
+      13.070987
+    ],
     "distance": 61.97,
     "time": "03h25",
     "averageSpeed": 18.1,
@@ -303,12 +689,30 @@
     "weather": "🌧️",
     "startPointName": "Offersøy",
     "endPointName": "Leirfjord",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "23-06-2024/1.webp",
+      "23-06-2024/2.webp",
+      "23-06-2024/3.webp",
+      "23-06-2024/4.webp",
+      "23-06-2024/5.webp",
+      "23-06-2024/6.webp",
+      "23-06-2024/7.webp",
+      "23-06-2024/8.webp",
+      "23-06-2024/9.webp",
+      "23-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-24",
-    "startPos": [66.154852, 13.070987],
-    "endPos": [66.509805, 13.218712],
+    "startPos": [
+      66.154852,
+      13.070987
+    ],
+    "endPos": [
+      66.509805,
+      13.218712
+    ],
     "distance": 97.31,
     "time": "05h17",
     "averageSpeed": 18.4,
@@ -317,12 +721,27 @@
     "weather": "🌧️",
     "startPointName": "Leirfjord",
     "endPointName": "Hilstad",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "24-06-2024/1.webp",
+      "24-06-2024/2.webp",
+      "24-06-2024/3.webp",
+      "24-06-2024/4.webp",
+      "24-06-2024/5.webp",
+      "24-06-2024/6.webp",
+      "24-06-2024/7.webp"
+    ]
   },
   {
     "date": "2024-06-25",
-    "startPos": [66.509805, 13.218712],
-    "endPos": [66.738455, 13.502950],
+    "startPos": [
+      66.509805,
+      13.218712
+    ],
+    "endPos": [
+      66.738455,
+      13.502950
+    ],
     "distance": 32.44,
     "time": "02h00",
     "averageSpeed": 16.2,
@@ -331,12 +750,30 @@
     "weather": "☁️",
     "startPointName": "Hilstad",
     "endPointName": "Forøy",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "25-06-2024/1.webp",
+      "25-06-2024/2.webp",
+      "25-06-2024/3.webp",
+      "25-06-2024/4.webp",
+      "25-06-2024/5.webp",
+      "25-06-2024/6.webp",
+      "25-06-2024/7.webp",
+      "25-06-2024/8.webp",
+      "25-06-2024/9.webp",
+      "25-06-2024/10.webp"
+    ]
   },
   {
     "date": "2024-06-26",
-    "startPos": [66.738455, 13.502950],
-    "endPos": [67.195471, 14.627345],
+    "startPos": [
+      66.738455,
+      13.502950
+    ],
+    "endPos": [
+      67.195471,
+      14.627345
+    ],
     "distance": 112.56,
     "time": "06h46",
     "averageSpeed": 16.6,
@@ -345,12 +782,29 @@
     "weather": "🌤️",
     "startPointName": "Forøy",
     "endPointName": "Saltstraumen",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "26-06-2024/1.webp",
+      "26-06-2024/2.webp",
+      "26-06-2024/3.webp",
+      "26-06-2024/4.webp",
+      "26-06-2024/5.webp",
+      "26-06-2024/6.webp",
+      "26-06-2024/7.webp",
+      "26-06-2024/8.webp",
+      "26-06-2024/9.webp"
+    ]
   },
   {
     "date": "2024-06-27",
-    "startPos": [67.195471, 14.627345],
-    "endPos": [67.281414, 14.403290],
+    "startPos": [
+      67.195471,
+      14.627345
+    ],
+    "endPos": [
+      67.281414,
+      14.403290
+    ],
     "distance": 35.74,
     "time": "02h19",
     "averageSpeed": 15.4,
@@ -359,12 +813,25 @@
     "weather": "☀️",
     "startPointName": "Saltstraumen",
     "endPointName": "Bodø",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "27-06-2024/1.webp",
+      "27-06-2024/2.webp",
+      "27-06-2024/3.webp",
+      "27-06-2024/4.webp",
+      "27-06-2024/5.webp"
+    ]
   },
   {
     "date": "2024-06-28",
-    "startPos": [67.281414, 14.403290],
-    "endPos": [67.667603, 12.658815],
+    "startPos": [
+      67.281414,
+      14.403290
+    ],
+    "endPos": [
+      67.667603,
+      12.658815
+    ],
     "distance": 15.0,
     "time": "01h00",
     "averageSpeed": 15.0,
@@ -373,12 +840,27 @@
     "weather": "🌥️",
     "startPointName": "Bodø",
     "endPointName": "Værøy",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "28-06-2024/1.webp",
+      "28-06-2024/2.webp",
+      "28-06-2024/3.webp",
+      "28-06-2024/4.webp",
+      "28-06-2024/5.webp",
+      "28-06-2024/6.webp",
+      "28-06-2024/7.webp"
+    ]
   },
   {
     "date": "2024-06-29",
-    "startPos": [67.6526089, 12.7080487],
-    "endPos": [67.6526089, 12.7080487],
+    "startPos": [
+      67.6526089,
+      12.7080487
+    ],
+    "endPos": [
+      67.6526089,
+      12.7080487
+    ],
     "mood": 3,
     "weather": "🌧️",
     "startPointName": "Værøy",
@@ -387,12 +869,31 @@
   },
   {
     "date": "2024-06-30",
-    "startPos": [67.6751601, 12.6669899],
-    "endPos": [67.6751601, 12.6669899],
+    "startPos": [
+      67.6751601,
+      12.6669899
+    ],
+    "endPos": [
+      67.6751601,
+      12.6669899
+    ],
     "mood": 5,
     "weather": "🌦️",
     "startPointName": "Værøy",
     "endPointName": "Værøy",
-    "endCountryName": "Norvège"
+    "endCountryName": "Norvège",
+    "pictures": [
+      "30-06-2024/1.webp",
+      "30-06-2024/2.webp",
+      "30-06-2024/3.webp",
+      "30-06-2024/4.webp",
+      "30-06-2024/5.webp",
+      "30-06-2024/6.webp",
+      "30-06-2024/7.webp",
+      "30-06-2024/8.webp",
+      "30-06-2024/9.webp",
+      "30-06-2024/10.webp",
+      "30-06-2024/11.webp"
+    ]
   }
 ]

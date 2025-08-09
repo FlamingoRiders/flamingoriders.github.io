@@ -4,7 +4,6 @@ date: "2024-08-28"
 description: "On se rend de l'autre côté de Fasta Åland jusqu'au superbe spot de Kattnäs !"
 location: "Hammarland, Åland, Finlande"
 tags: ["heart", "scenic"]
-pictures: ["28-08-2024/1.webp", "28-08-2024/2.webp", "28-08-2024/3.webp", "28-08-2024/4.webp", "28-08-2024/5.webp", "28-08-2024/6.webp", "28-08-2024/7.webp", "28-08-2024/8.webp", "28-08-2024/9.webp", "28-08-2024/10.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -12,6 +11,7 @@ pictures: ["28-08-2024/1.webp", "28-08-2024/2.webp", "28-08-2024/3.webp", "28-08
 Aujourd'hui, on décide d'aller faire un tour vers l'ouest de l'île principale d'**Åland**. On a un grand soleil qui nous accompagne depuis notre arrivée sur le charmant archipel. On s'était dit qu'on roulerait moins sur notre fin de voyage mais les distances sont assez grandes. Il y a des transports en commun mais avec nos bagages et nos vélos, on est plus vite rendus par nous-mêmes 😊. On se déplace très bien à vélo sur les îles, les pistes sont très récentes et bien séparées des voies pour les autres véhicules, c'est très agréable.
 
 ### Passage par la chipserie locale
+
 On repasse une dernière fois par la route qui passe devant **Kastelholm**, **Smakbyn** et l'**Åland Distillery**. Ensuite, on fera un arrêt au magasin d'usine [Taffel Factory](https://www.taffel.fi/). On l'avait déjà repéré à l'aller, ils vendent des chips produites localement avec des pommes de terre provenant de l'île. On se dit que cela doit valoir le coup. On en déguste et effectivement c'est pas mal, cela reste des chips industrielles.
 
 On repart vers **Godby**. Juste après avoir franchi un grand pont, on retombe sur le café [Uffe på Berget](https://aland.se/platser/uffe-pa-berget/). Cette fois-ci, on peut accéder à la tour d'observation, accessible depuis ce café, qui donne une vue magnifique sur l'île. On y mange aussi des petits sandwichs. L'endroit est sympathique, il vaut la peine pour un petit encas ou un café. Sinon, on peut tout de même accéder à la tour d'observation en passant par la porte arrière du café. La tour est entretenue par ce café, on est libres de laisser une petite donation avant d'y accéder.
@@ -21,6 +21,7 @@ On repart vers **Godby**. Juste après avoir franchi un grand pont, on retombe s
 La suite de notre balade à vélo se déroule sans encombres, le profil est toujours légèrement valloné, il y a un peu de vent mais les routes sont superbes et nous avons le soleil tout du long. Si jamais vous êtes de passage sur les îles, on recommande fortement de les visiter à vélo, il y a des loueurs notamment à **Mariehamn**.
 
 ### Un formidable camping à Kattnäs
+
 On arrive au camping de **Kattnäs** par un petit sentier gravel qui coupe à travers une forêt vierge. On progresse jusqu'à des emplacements au bord de la mer Baltique. Le cadre est superbe et l'on aperçoit des traces de pas sur la petite plage de sable blanc. Elles sont récentes, sans doute des petits daims sont venus s'y promener. Le camping est presque vide. Il y a seulement une tente à proximité : celle de nos amis wallons Seb et Jess bien sûr 🇧🇪 !
 
 On se repose un peu puis on décide d'aller faire un tour dans l'eau. Il y a un peu de courant mais l'eau est peu profonde, on peut s'éloigner à 50 mètres du bord sans que celle-ci ne monte au delà des hanches.

@@ -4,7 +4,6 @@ date: "2024-06-18"
 description: "On reprend la route vers le Nord et on fait un tas de superbes rencontres !"
 location: "Trøndelag, Norvège"
 tags: ["scenic"]
-pictures: ["18-06-2024/1.webp", "18-06-2024/2.webp", "18-06-2024/3.webp", "18-06-2024/4.webp", "18-06-2024/5.webp", "18-06-2024/6.webp", "18-06-2024/7.webp", "18-06-2024/8.webp", "18-06-2024/9.webp"]
 ---
 
 Aujourd'hui, on quitte **Trondheim** après deux belles journées de repos. On a beaucoup aimé cette ville, on y a trouvé ce qu'on aime particulièrement dans les villes norvégiennes à savoir une atmosphère détendue et chaleureuse.
@@ -28,6 +27,7 @@ On grimpe et la vue ne cesse de s'embellir. On fait une pause déjeuner tous ens
 Les kilomètres à vélo défilent, on papote, on se raconte nos projets et nos meilleures anecdotes de voyage.
 
 On a tous les quatres des ressentis communs :
+
 - Le temps est très changeant ici,
 - Rouler dans la neige c'est compliqué,
 - Les tunnels ce n'est pas le plus fun,
@@ -36,10 +36,9 @@ On a tous les quatres des ressentis communs :
 
 ### No rain, no pain
 
-C'est une superbe journée jusqu'à la fin aujourd'hui. Le seul moment où le temps se corse, c'est lorsque l'on passe sous des nuages très sombres. D'abord gris, puis noirs, on s'avance sans une énorme confiance. Les jours précédents, on s'est pris de sacrées saucées alors que c'était plus clair que cela au dessus de nos têtes. On va rouler dix kilomètres avec cette épée de Damoclès au-dessus de nos têtes et... Miracle ! Ça tient, on va atteindre notre point de chute sans être mouillés 😃 ! Franchement, on n'y croyait pas et pourtant. 
+C'est une superbe journée jusqu'à la fin aujourd'hui. Le seul moment où le temps se corse, c'est lorsque l'on passe sous des nuages très sombres. D'abord gris, puis noirs, on s'avance sans une énorme confiance. Les jours précédents, on s'est pris de sacrées saucées alors que c'était plus clair que cela au dessus de nos têtes. On va rouler dix kilomètres avec cette épée de Damoclès au-dessus de nos têtes et... Miracle ! Ça tient, on va atteindre notre point de chute sans être mouillés 😃 ! Franchement, on n'y croyait pas et pourtant.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lAYMPLPFOovwTCmtTt9b5?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
-
 
 ### Camping sauvage vers Mosvik
 
@@ -51,6 +50,6 @@ Grâce à Mika, on va même pouvoir se doucher, il nous sort du très lourd : un
 
 Deux norvégiens passent également sur le Shelter mais reprendront la route peu de temps après avoir mangé. Très sympas, ils viennent de compléter trois semaines de vacances en partant des **Lofoten** et s'arrêtent demain à **Trondheim**. Leurs histoires de rennes et de routes mythiques dans le nord de la **Norvège** nous font saliver d'avance 🤩.
 
-On rencontre également un couple suisse, Ruth et Philippe avec qui l'on sympathise. On dîne tous ensemble et on profite de ce beau moment de convivialité.  
+On rencontre également un couple suisse, Ruth et Philippe avec qui l'on sympathise. On dîne tous ensemble et on profite de ce beau moment de convivialité.
 
 La fin de journée se terminera à rigoler tous ensemble près du feu 🔥. Une journée mémorable, une journée où l'on aura eu que de bonnes surprises du début à la fin 😉.

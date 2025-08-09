@@ -4,7 +4,6 @@ date: "2024-05-25"
 description: "On longe le Hardangerfjord sur 80 bornes : plein de villages très mignons en cours de route !"
 location: "Vestland, Norvège"
 tags: ["heart", "scenic"]
-pictures: ["25-05-2024/1.webp", "25-05-2024/2.webp", "25-05-2024/3.webp", "25-05-2024/4.webp", "25-05-2024/5.webp", "25-05-2024/6.webp", "25-05-2024/7.webp", "25-05-2024/8.webp", "25-05-2024/9.webp", "25-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -19,7 +18,7 @@ Cela tombe bien que nous aimons ce fjord car il va occuper toute notre journée 
 
 ### La Norwegian Scenic Route Hardanger
 
-L'itinéraire qu'on emprunte n'est pas une ligne droite. Comme depuis notre départ d'**Oslo** on est soumis à la géographie du pays. Si les montagnes et les eaux sont sa richesse, ils sont aussi ses *"obstacles"* naturels. Pour rallier deux points, il est rare qu'on suive le plus court chemin à vol d'oiseau. Les distances sont CONSIDÉRABLES ici. On ne peut pas se fier à la carte pour les évaluer, c'est trompeur 😜. 
+L'itinéraire qu'on emprunte n'est pas une ligne droite. Comme depuis notre départ d'**Oslo** on est soumis à la géographie du pays. Si les montagnes et les eaux sont sa richesse, ils sont aussi ses _"obstacles"_ naturels. Pour rallier deux points, il est rare qu'on suive le plus court chemin à vol d'oiseau. Les distances sont CONSIDÉRABLES ici. On ne peut pas se fier à la carte pour les évaluer, c'est trompeur 😜.
 
 D'ailleurs si on regarde notre avancement, on peut penser à première vue qu'on n'avance pas rapidement depuis qu'on est en **Norvège** comparé à d'autres pays que nous avons traversés auparavant. Mais on avance, on grapille des kilomètres petit à petit 😉. En tout cas on continue de voir des merveilles à un rythme effréné !
 
@@ -46,14 +45,14 @@ Notre randonnée d'hier a laissé des traces. On est très courbaturés. Ça br�
 
 C'est une journée compliquée. On a fait le choix de faire une bonne distance pour être plus tranquille par la suite.
 
-### Des villages qui valent le détour 
+### Des villages qui valent le détour
 
 On va se consoler avec des suprises qui dépassent encore nos attentes. Une habitude dans ce pays décidément.
 
-🦩 : *"Je dirais même plus, une bonne habitude !"*
+🦩 : _"Je dirais même plus, une bonne habitude !"_
 
 En chemin, tout plein de villages mignons s'enchaînent les uns après les autres : **Aga, Grimo, Utne, Herand** pour ne citer que ceux-là !
-Beaucoup abritent de petits musées sur le folklore local. Peut-être qu'un jour, on en visitera un. On croise aussi de nombreux arbres fruitiers et une fabrique de cidre. Le fjord est d'ailleurs surnommé le *"verger de la Norvège"* pour ses nombreux pommiers.
+Beaucoup abritent de petits musées sur le folklore local. Peut-être qu'un jour, on en visitera un. On croise aussi de nombreux arbres fruitiers et une fabrique de cidre. Le fjord est d'ailleurs surnommé le _"verger de la Norvège"_ pour ses nombreux pommiers.
 
 On note les **hytter**, des huttes ou cabines qui font office de superbe résidences secondaires ou bien de pied-à-terre pour l'été. Elles sont construites en bois et comportent souvent des toits végétalisés qui offrent une excellente isolation thermique en plus d'avoir un look pittoresque.
 
@@ -63,7 +62,7 @@ On rejoint finalement **Jondal** qui est également un village qui attire notre 
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/I1r5jpUvdGra8" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Malheureusement, on ne pourra pas confirmer ces dires, on ne regardait pas dans la même direction à ce moment là. L'eau du fjord nous paraît pourtant toujours aussi calme. N'auraient-ils pas juste entrevu un troll baigneur, bien plus commun dans ces contrées 🤔 ? 
+Malheureusement, on ne pourra pas confirmer ces dires, on ne regardait pas dans la même direction à ce moment là. L'eau du fjord nous paraît pourtant toujours aussi calme. N'auraient-ils pas juste entrevu un troll baigneur, bien plus commun dans ces contrées 🤔 ?
 
 On atterrit de l'autre côté à **Tørvikbygbd**. On termine notre journée une quinzaine de kilomètres plus loin à **Norheimsund**, plus gros que les autres villages, il semble y avoir plus d'animation.
 

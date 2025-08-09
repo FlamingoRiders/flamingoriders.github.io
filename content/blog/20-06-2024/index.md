@@ -3,22 +3,21 @@ title: 🐟 Le saumon d'Eduardo du 20 juin
 date: "2024-06-20"
 description: "Météo affreuse mais par miracle, on arrive à rejoindre Leka !"
 location: "Trøndelag, Norvège"
-pictures: ["20-06-2024/1.webp", "20-06-2024/2.webp", "20-06-2024/3.webp", "20-06-2024/4.webp", "20-06-2024/5.webp", "20-06-2024/6.webp", "20-06-2024/7.webp"]
 ---
 
 Aujourd'hui, il fait un temps terrible dès le réveil. La pluie et le vent sont déjà là et vont s'intensifier dans les prochaines heures.
 
 Nana n'a pas bien dormi. Elle tient même des propos incohérents :
 
- 🙆🏼‍♀️ *"Ah le robot tondeuse est sorti.*"
- 
-💁🏼‍♂️: *"Tu veux dire le rocher immobile ?"*
+🙆🏼‍♀️ _"Ah le robot tondeuse est sorti._"
+
+💁🏼‍♂️: _"Tu veux dire le rocher immobile ?"_
 
 Décidément les yeux ne sont pas encore bien ouverts 😁.
 
 ### Pas une journée pour rouler
 
-Au camping, on croise plusieurs personnes qui nous découragent de partir. Nana croise une jeune femme vers 8h30 qui est en tenue de vélo et lui demande où elle va. *"Ah non non, moi je ne vais nulle part, je reste ici, j'ai roulé de Namsos à ici depuis 5h du matin, le vent est trop fort je m'arrête."*
+Au camping, on croise plusieurs personnes qui nous découragent de partir. Nana croise une jeune femme vers 8h30 qui est en tenue de vélo et lui demande où elle va. _"Ah non non, moi je ne vais nulle part, je reste ici, j'ai roulé de Namsos à ici depuis 5h du matin, le vent est trop fort je m'arrête."_
 
 **Namsos** c'est justement là où nous souhaitons nous rendre, seulement une trentaine de kilomètres plus loin.
 
@@ -27,6 +26,7 @@ Nico croise lui l'allemand qui est en mountain bike et a fait la veille le même
 Enfin, on croise la gérante du camping. Elle nous dit que la journée va être très dure et qu'il vaut mieux rester une nuit de plus.
 
 Pourtant, malgré tous ces avertissements et quelques doutes, on s'élance vers **Namsos** en fin de matinée. Toutes les personnes qui ont renoncé avait un motif que nous n'avions pas.
+
 - la jeune femme a fait 30 kilomètres dans la direction opposée à la nôtre, elle a subi le vent de face tout du long.
 - l'allemand revoit ses plans de voyage et compte prendre un ferry le lendemain pour rejoindre directement les Lofoten.
 - la gérante du camping essaie encore de nous vendre une nuit en hytte. La veille, on souhaitait juste poser notre tente mais elle nous a convaincus de rejoindre un abri plus solide. Ce n'était pas une mauvaise idée mais elle nous a quand même eu a l'usure une fois, pas deux 😅.
@@ -39,13 +39,13 @@ On arrive à **Namsos** à 14h. On rejoint le port vers 15h, 800 mètres plus lo
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Q3iJyAttzSS6VesgoG" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-### Plus compliqué que prévu 
+### Plus compliqué que prévu
 
 On s'abrite à l'embarcadère du ferry. On apprend alors que le ferry ne circule pas aujourd'hui, sans doute annulé à cause de la météo. On va devoir prendre le bus de remplacement se rendant à **Rørvik**. Par la route, c'est à plus de 150 kilomètres... On n'est pas enjoué mais on n'a pas vraiment le choix non plus.
 
 On voit arriver un minibus et il y a pas mal de monde qui attend avec nous. Ça va être compliqué 😅.
 
-Le conducteur nous regarde en mode *"on va essayer"*, il ouvre un coffre arrière dans lequel on réussit à glisser nos deux vélos, comme on peut, un peu n'importe comment 🫤. Bon, on rentre dans le bus.
+Le conducteur nous regarde en mode _"on va essayer"_, il ouvre un coffre arrière dans lequel on réussit à glisser nos deux vélos, comme on peut, un peu n'importe comment 🫤. Bon, on rentre dans le bus.
 
 Le conducteur du minibus démarre. Dehors, une pluie torrentielle tombe, la route est complètement trempée et les essuie-glaces fonctionnent en continu. Le vent envoie quelques rafales régulières. Pourtant, cela ne dérange aucunement le conducteur, il doit avoir l'habitude. Il roule comme un pro sur la route, dans les virages ou dans les lignes droites il est à plein régime 🤣. On est tout au fond du véhicule, près du coffre et on entend pas mal de bruit. On verra l'état des vélos à la sortie hein 😅. Des voitures se rabattent sur le bas côté pour laisser passer le minibus, plus rapide. Le chauffeur n'a visiblement pas le temps.
 

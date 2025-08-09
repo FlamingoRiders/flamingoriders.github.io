@@ -3,14 +3,13 @@ title: 🥮 Le kanelbulle d'Eduardo du 11 août
 date: "2024-08-11"
 description: "On débarque dans le comté de Västernorrland et c'est une véritable soufflerie !"
 location: "Västernorrland, Suède"
-pictures: ["11-08-2024/1.webp", "11-08-2024/2.webp", "11-08-2024/3.webp", "11-08-2024/4.webp", "11-08-2024/5.webp", "11-08-2024/6.webp", "11-08-2024/7.webp", "11-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
 
-Ce matin, on repart à vélo et après quelques kilomètres, on franchit un petit barage qui nous mène par hasard sur le parc sidérurgique  d'**Olofsfors Bruk** datant de 1762. Il est très bien préservé, c'est possible de le visiter, la **Suède** possède de nombreux musées à ciel ouvert.
+Ce matin, on repart à vélo et après quelques kilomètres, on franchit un petit barage qui nous mène par hasard sur le parc sidérurgique d'**Olofsfors Bruk** datant de 1762. Il est très bien préservé, c'est possible de le visiter, la **Suède** possède de nombreux musées à ciel ouvert.
 
-### Des purs chemins gravel 
+### Des purs chemins gravel
 
 On se retrouve ensuite sur des petits chemins, des routes sans revêtement pleines de graviers. C'est une pure journée gravel 🚵🏼‍♂️ !
 
@@ -32,7 +31,7 @@ La dernière fois c'était sans doute sur les îles au sud du **Danemark**. Pour
 
 Sur notre route, on croise tout de même des belles choses : des grues cendrées, des églises en pierre, des lacs et des rivières.
 
-Cependant, avec le vent, c'est une journée compliquée tout du long. On constate sa violence en observant autour de nous, les arbres qui se plient, les nuages qui sont balayés, et les ondulations sur la surface de l'eau. 
+Cependant, avec le vent, c'est une journée compliquée tout du long. On constate sa violence en observant autour de nous, les arbres qui se plient, les nuages qui sont balayés, et les ondulations sur la surface de l'eau.
 
 Le cocktail est d'autant plus explosif qu'au vent se mêlent le dénivelé et le revêtement pas impeccable. Tout ceci nous rappelle une chose, rien ne sera facile jusqu'à **Stockholm**.
 
@@ -40,6 +39,6 @@ Le cocktail est d'autant plus explosif qu'au vent se mêlent le dénivelé et le
 
 Depuis quelques jours, on a souvent un œil sur la carte et on peine à mesurer notre avancement car la **Suède** c'est grand ! Pourtant, si l'on se fie à notre compteur de kilomètres, on se rapproche peu à peu du but mais à pas de fourmi. Que c'est long 😆 !
 
-Il faut se détacher de cette impression *"de ne pas avancer"*, c'est une vue de l'esprit. De toute façon, c'est toujours pareil. Que l'on fasse un 10 kilomètres, un marathon ou bien 7000 kilomètres à vélo, il y a toujours ce moment qui semble approcher de la fin, au 8ème, au 35ème ou au 6500ème kilomètre. Si on se focalise sur ce qui a été parcouru ou ce qui reste à parcourir, alors les soucis commencent. Se dire que le plus dur est derrière nous et qu'il reste le plus facile, ça ne marche pas et ça n'a jamais marché.
+Il faut se détacher de cette impression _"de ne pas avancer"_, c'est une vue de l'esprit. De toute façon, c'est toujours pareil. Que l'on fasse un 10 kilomètres, un marathon ou bien 7000 kilomètres à vélo, il y a toujours ce moment qui semble approcher de la fin, au 8ème, au 35ème ou au 6500ème kilomètre. Si on se focalise sur ce qui a été parcouru ou ce qui reste à parcourir, alors les soucis commencent. Se dire que le plus dur est derrière nous et qu'il reste le plus facile, ça ne marche pas et ça n'a jamais marché.
 
 Un kilomètre est un kilomètre. Il faut se concentrer sur le présent, oublier le compteur et être dans l'instant. Et puis, l'essentiel est là, on est toujours en chemin, on progresse. Notre voyage restera mémorable et ces moments difficiles nous les regretterons bientôt 😉.

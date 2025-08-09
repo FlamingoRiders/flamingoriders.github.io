@@ -4,7 +4,6 @@ date: "2024-06-12"
 description: "On roule sur l'eau grâce à l'Atlanterhavsvegen !"
 location: "Møre og Romsdal, Norvège"
 tags: ["scenic"]
-pictures: ["12-06-2024/1.webp", "12-06-2024/2.webp", "12-06-2024/3.webp", "12-06-2024/4.webp", "12-06-2024/5.webp", "12-06-2024/6.webp", "12-06-2024/7.webp", "12-06-2024/8.webp", "12-06-2024/9.webp", "12-06-2024/10.webp", "12-06-2024/11.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -15,7 +14,7 @@ Nous partons de **Malmefjorden** et suivons une route qui longe des lacs et coup
 
 ### Une alarme très surprenante
 
-Tout à coup, alors que l'on emprunte une route bien roulante, et qu'on est lancés aux alentours de 20 km/h, un bruit retentissant se fait entendre. 
+Tout à coup, alors que l'on emprunte une route bien roulante, et qu'on est lancés aux alentours de 20 km/h, un bruit retentissant se fait entendre.
 
 Un bruit qu'on n'a jamais entendu auparavant, il est très déstabilisant, comme s'il évoquait une situation critique. Il dure une bonne minute avant que le silence ne revienne.
 
@@ -25,9 +24,9 @@ Rien de tout cela, en fait Nico se rendra compte que c'est son portable qui a su
 
 En fait, les autorités norvégiennes ont la capacité d'envoyer des alertes d'urgence sur le réseau mobile à tous les appareils dans un secteur donné. C'est un dispositif très surprenant si vous n'en avez jamais fait l'expérience mais qui marche super bien et qui est crucial ici.
 
-Nous avons déjà traversé des zones *"à risque"* comme la vallée de **Lodalen** qui a connu de [tragiques glissements de terrain et éboulements en 1905 et 1936 qui ont fait des dizaines de morts](https://www.lifeinnorway.net/lovatnet-the-beauty-spot-with-a-tragic-history/). Ou encore **Geiranger**, qui malgré son attrait touristique, est très menacé du fait de sa proximité avec une fissure qui pourrait un jour céder entraînant un [glissement de terrain qui pourrait à son tour déclencher un tsunami qui ravagerait le village](https://www.nationalgeographic.fr/environnement/catatrophe-naturelle-un-tsunami-vague-de-100-metres-de-haut-devrait-engloutir-ce-paisible-village-norvegien).
+Nous avons déjà traversé des zones _"à risque"_ comme la vallée de **Lodalen** qui a connu de [tragiques glissements de terrain et éboulements en 1905 et 1936 qui ont fait des dizaines de morts](https://www.lifeinnorway.net/lovatnet-the-beauty-spot-with-a-tragic-history/). Ou encore **Geiranger**, qui malgré son attrait touristique, est très menacé du fait de sa proximité avec une fissure qui pourrait un jour céder entraînant un [glissement de terrain qui pourrait à son tour déclencher un tsunami qui ravagerait le village](https://www.nationalgeographic.fr/environnement/catatrophe-naturelle-un-tsunami-vague-de-100-metres-de-haut-devrait-engloutir-ce-paisible-village-norvegien).
 
-Aujourd'hui, le message reçu est uniquement un test du signal d'alarme. C'est impressionnant de le voir en application, même nous avec des forfaits français avons reçus l'alarme sur le réseau. Et croyez-nous, le son glace un peu le sang 😳. 
+Aujourd'hui, le message reçu est uniquement un test du signal d'alarme. C'est impressionnant de le voir en application, même nous avec des forfaits français avons reçus l'alarme sur le réseau. Et croyez-nous, le son glace un peu le sang 😳.
 
 On croise quelques pâturages avec de moutons de différentes couleurs et même des béliers avec de belles cornes.
 
@@ -51,24 +50,23 @@ Elle apparaît dans le [dernier James Bond dans cette scène](https://youtu.be/1
 
 On se fait d'ailleurs la réflexion que la scène est plutôt bien filmée, jusqu'à 1:14. Après c'est une private road et ensuite c'est l'eau 😂. Bien sûr dans la course poursuite du film, la seconde d'après on se retrouve à longer un lac qui n'est pas à côté. C'est plutôt convaincant au montage.
 
-On arrive au niveau du célèbre pont **Storseisundet Bridge**. Il a une forme vraiment sympa, il courbe à la fois en hauteur et en largeur. On ne voit les voitures d'en face qu'une fois qu'elles passent *"la bosse*", c'est assez amusant à regarder 😊.
+On arrive au niveau du célèbre pont **Storseisundet Bridge**. Il a une forme vraiment sympa, il courbe à la fois en hauteur et en largeur. On ne voit les voitures d'en face qu'une fois qu'elles passent _"la bosse_", c'est assez amusant à regarder 😊.
 
 On parcourt les petites îles de **Geitøya** et **Eldhusøya** sur lesquelles on s'arrêtent plusieurs fois pour marcher sur les chemins aménagés le long des rochers.
 
-### Enorme pluie sur la fin de journée 
+### Enorme pluie sur la fin de journée
 
-On reprend notre route. Jusque là, le temps était couvert mais ça ne nous a pas empêché de passer un super moment sur cette route iconique. 
+On reprend notre route. Jusque là, le temps était couvert mais ça ne nous a pas empêché de passer un super moment sur cette route iconique.
 
-Et puis une pluie débute, comment la décrire... Vous voyez quand vous prenez une douche avec un bon jet d'eau ? Le jet d'eau fonctionnel pas celui à faible débit hein. Voilà 🚿😅. 
+Et puis une pluie débute, comment la décrire... Vous voyez quand vous prenez une douche avec un bon jet d'eau ? Le jet d'eau fonctionnel pas celui à faible débit hein. Voilà 🚿😅.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/RR4l7LBradoTcbQljJ
 " style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Ce n'est pas la première fois que ça nous arrive mais on a quand même encore un bout devant nous. Malins comme on est, on décide de pousser car elle ne va pas durer, pensons-nous. 
+Ce n'est pas la première fois que ça nous arrive mais on a quand même encore un bout devant nous. Malins comme on est, on décide de pousser car elle ne va pas durer, pensons-nous.
 
 Et ben si, elle dure et elle s'intensifie 😂 ! On arrête les frais de cette expédition sous-marine à **Bruhagen**. Initialement on avait prévu de rallier **Bremsnes** avant de prendre le bus. On doit le prendre de toute façon car il emprunte un tunnel sous l'eau interdit aux vélos. Mais ok, on l'admet, on a un peu changé d'avis. C'est une petite fracture du mental, rouler les derniers kilomètres sous la pluie ne s'annonçait pas comme une partie de plaisir 😟.
 
 On se pose à la station de bus à 17h. Le prochain part dans 30 minutes. Bien entendu, on est trempés de chez trempés donc on ne va pas sécher dans ce laps de temps. Par contre, on va avoir le temps de prendre froid car on a stoppé notre effort 😬.
 
 Le bus nous emmène à **Kristiansund**. La pluie ne s'est pas interrompue. Il nous reste 7 kilomètres. C'est parti 😅 ! Je vous garantis que ça caille, le comble pour un flamant !
- 

@@ -3,7 +3,6 @@ title: 🥨 Le bretzel d'Eduardo du 25 avril
 date: "2024-04-25"
 description: "Accidenté et vallonné : une vraie étape gravel pour rallier Lüneburg !"
 location: "Basse-Saxe, Allemagne"
-pictures: ["25-04-2024/1.webp", "25-04-2024/2.webp", "25-04-2024/3.webp", "25-04-2024/4.webp", "25-04-2024/5.webp", "25-04-2024/6.webp", "25-04-2024/7.webp", "25-04-2024/8.webp", "25-04-2024/9.webp", "25-04-2024/10.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
@@ -16,9 +15,9 @@ Aujourd'hui, on a un beau programme. On doit rejoindre **Lüneburg** qu'on nous 
 
 On a une vue du paysage très dégagée et à 360 degrés. C'est très appréciable car on se sent petit au milieu d'une nature à perte de vue. Après avoir traversé quelques villes allemandes très mignonnes, le décor change du tout au tout. En pleine semaine comme c'est le cas ce jeudi, il n'est pas rare pour nous de passer une heure sans voir d'autres personnes. Nous sommes seuls au milieu de la nature.
 
-On va néanmoins croiser un très large troupeau de moutons de très près. Ils ont une apparence différente de toutes les races que nous connaissons. Tous, mâles et femelles ont des cornes. Ils ne semblent pas avoir de laine mais plutôt des poils très longs qui font des mèches frisées, comme des *"dreads"*. Nous apprendrons qu'il s'agit en fait de [heidschnucke (jaglu)](https://fr.wikipedia.org/wiki/Jaglu) qu'on ne trouve que dans la **lande de Lunebourg**. 
+On va néanmoins croiser un très large troupeau de moutons de très près. Ils ont une apparence différente de toutes les races que nous connaissons. Tous, mâles et femelles ont des cornes. Ils ne semblent pas avoir de laine mais plutôt des poils très longs qui font des mèches frisées, comme des _"dreads"_. Nous apprendrons qu'il s'agit en fait de [heidschnucke (jaglu)](https://fr.wikipedia.org/wiki/Jaglu) qu'on ne trouve que dans la **lande de Lunebourg**.
 
-Au milieu de ce décor, on traverse des portions plus boisées et quelques points d'eau. 
+Au milieu de ce décor, on traverse des portions plus boisées et quelques points d'eau.
 
 On s'arrête pour prendre quelques photos. Le revêtement n'est pas uniforme, il s'agit plus de chemins terreux et sableux. En repartant, Nana tente un demi-tour qui lui vaut un beau coucher de vélo. Pas de bobo mais le jury est quand même sceptique sur cette figure peu académique.
 
@@ -26,9 +25,9 @@ On s'arrête pour prendre quelques photos. Le revêtement n'est pas uniforme, il
 
 ### Des conditions totales
 
-Au final, on aura toutes les conditions sur cette journée. 
+Au final, on aura toutes les conditions sur cette journée.
 
-- en termes de météo : Couvert et sec au départ puis très pluvieux et chaussée mouillée en cours de route. 
+- en termes de météo : Couvert et sec au départ puis très pluvieux et chaussée mouillée en cours de route.
 - en termes de revêtement : Des portions de route très roulantes, des chemins de terre, de graviers, de sable et même des secteurs pavés irréguliers ! C'est pas encore le **Koppenberg** ou la **trouée d'Arenberg** mais ça casse déjà bien les pattes 😅.
 - en termes de profil : des montées où il faut relancer, des descentes où l'on doit rester concentré surtout sur chaussée glissante. Des passages techniques et accidentés avec des racines ou des pierres qu'il faut surveiller. Le manque d'adhérence est aussi un sujet quand on pédale en montée sur des graviers ou sur du sable. On ne compte pas nos coups de pédale et par moments, on l'avoue, on pose un pied à terre.
 
@@ -40,15 +39,15 @@ C'est une journée où on ne s'ennuie pas ! Une journée où on est heureux d'av
 
 On pose les vélos au pied-à-terre du jour vers 17h et on s'apprête à rejoindre **Lüneburg** pour visiter. Tout à coup une très légère averse commence. Il y a deux approches face à cette situation.
 
-Nana 🧍‍♀️ : *"Est-ce qu'on n'attendrait pas un peu au chaud à l'intérieur, ça devrait se calmer ?*"
+Nana 🧍‍♀️ : _"Est-ce qu'on n'attendrait pas un peu au chaud à l'intérieur, ça devrait se calmer ?_"
 
-Nico 🧍‍♂️ : *"C'est très léger pour l'instant. Est-ce qu'on ne se dépêcherait pas d'atteindre le centre-ville pour s'abriter lorsque le gros de l'averse tombera ?*"
+Nico 🧍‍♂️ : _"C'est très léger pour l'instant. Est-ce qu'on ne se dépêcherait pas d'atteindre le centre-ville pour s'abriter lorsque le gros de l'averse tombera ?_"
 
 🦩 : Je ne vous dirais pas qui on a suivi dans l'histoire mais je suis tout trempé 😩 !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/J2ilWC0ZU4IThg034P" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-On arrive tant bien que mal dans la vieille ville de **Lüneburg** et le verdict est sans appel : c'est magnifique ! 
+On arrive tant bien que mal dans la vieille ville de **Lüneburg** et le verdict est sans appel : c'est magnifique !
 
 Le style d'architecture des maisons est remarquable. On se rapproche un peu de ce que l'on peut apercevoir dans les **Flandres**, des maisons en briques rouges avec des toits en pignons à gradins. Il y a quand même des différences, on observe ici beaucoup plus de structures arrondies, comme des colonnes cylindriques et des arcs le long des fenêtres. De plus, les maisons sont anciennes, on voit que certaines façades ne sont pas parfaitement droites ce qui leur confère un charme supplémentaire.
 

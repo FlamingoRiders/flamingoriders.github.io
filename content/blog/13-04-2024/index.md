@@ -4,18 +4,17 @@ date: "2024-04-13"
 description: "Ça souffle fort sur les tulipes de Keukenhof."
 location: "Hollande-Méridionale, Pays-Bas"
 tags: ["heart", "scenic"]
-pictures: ["13-04-2024/1.webp", "13-04-2024/2.webp", "13-04-2024/3.webp", "13-04-2024/4.webp", "13-04-2024/5.webp", "13-04-2024/6.webp", "13-04-2024/7.webp", "13-04-2024/8.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
 
 Ce matin, on reprend la route après notre jour de repos à **Utrecht**.
 
-Nous sortons de la ville où la circulation en vélo est plus importante qu'en voiture. À une dizaine de kilomètres de notre point de départ, alors que nous longeons une piste cyclable au milieu d'un parc, nous avons l'agréable surprise de tomber sur le **Kasteel Haar**. 
+Nous sortons de la ville où la circulation en vélo est plus importante qu'en voiture. À une dizaine de kilomètres de notre point de départ, alors que nous longeons une piste cyclable au milieu d'un parc, nous avons l'agréable surprise de tomber sur le **Kasteel Haar**.
 
-Nous l'avions repéré dans les guides touristiques de la ville comme étant *"à faire"* mais nous n'avons pas pu le visiter la veille car il est trop éloigné du centre. Par chance, notre itinéraire du jour nous y emmène, nous nous y arrêtons quelques instants car le chateau est splendide !
+Nous l'avions repéré dans les guides touristiques de la ville comme étant _"à faire"_ mais nous n'avons pas pu le visiter la veille car il est trop éloigné du centre. Par chance, notre itinéraire du jour nous y emmène, nous nous y arrêtons quelques instants car le chateau est splendide !
 
-### Le retour de l'ennemi juré 
+### Le retour de l'ennemi juré
 
 Aujourd'hui, c'est une journée où nous tardons beaucoup à partir. Nous avons prévu d'aller à **Lisse** pour admirer les champs de fleurs et il nous faut pas trop trainer pour pouvoir profiter sur place. Le problème c'est que Nico est très très lent ce matin et que nous avons beaucoup d'affaires à ranger. En fait, il n'est pas en forme depuis la veille à cause d'une intoxication alimentaire. Le petit déjeuner est une épreuve à part entière mais il faut se forcer car le vélo à jeun ça ne pardonne pas.
 
@@ -29,19 +28,19 @@ Le genre de vent qui nous fait parfois peur car certaines rafales sont soudaines
 
 Le genre de vent qui ne donne plus envie de pédaler car on a l'impression de gâcher de l'énergie inutilement et de s'épuiser à vitesse grand V.
 
-Bref, le genre de vent qui fait ch\*\*\* 😡. 
+Bref, le genre de vent qui fait ch\*\*\* 😡.
 
 Aujourd'hui, il nous faut lutter contre ce genre de vent là. L'avantage dans notre situation, c'est qu'on ne peut pas juste renoncer en se disant je m'arrête et je rentre à la maison. On a plus le logement de la veille et on doit rallier notre prochain point. Il nous faut donc prendre notre mal en patience, même si c'est des moments de vélo franchement déplaisants.
 
 En début d'après-midi, on commence un peu à s'agacer et à tirer la langue.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Lln0WC92Jc2xck6Pon" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Lln0WC92Jc2xck6Pon" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div
 
-Cette lutte contre les éléments naturels provoque un peu d'impatience de notre part. On a parfois envie de pédaler plus fort pour compenser mais rien n'y fait et on se fatigue davantage. 
+Cette lutte contre les éléments naturels provoque un peu d'impatience de notre part. On a parfois envie de pédaler plus fort pour compenser mais rien n'y fait et on se fatigue davantage.
 
 La perte de lucidité est aussi dangereuse pour nous car nous avons moins de réflexes à force de passer du temps à nous battre contre ce vent incessant. Nana en fait malheureusement les frais avec une petite chute alors que l'on roule à faible allure. Plus de peur que de mal mais une chute qu'on aurait préféré éviter.
 
-### Les champs de fleurs de Keukenhof 
+### Les champs de fleurs de Keukenhof
 
 Nous finissons par atteindre **Lisse**. Nous commençons à entrevoir nos premiers champs de tulipes et retrouvons le sourire. On s'arrête un bon quart d'heure au premier car on le croit déjà exceptionnel. Il y en aura beaucoup d'autres.
 
@@ -56,4 +55,3 @@ Pendant notre parcours, nous passons devant l'entrée de **Keukenhof** et là no
 La balade dans les champs est légèrement moins fréquentée mais c'est tout de même l'endroit où nous avons croisé le plus de voitures depuis notre arrivée aux **Pays-Bas**. Après le vent que nous avons dû affronter pour y parvenir, nous savourons pleinement le moment et prenons plein de photos !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/eVh9uXk3aC6m4" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
-

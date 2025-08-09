@@ -4,7 +4,6 @@ date: "2024-07-04"
 description: "Encore une randonnée incroyable au sommet de Ryten d'où on aperçoit la superbe plage de Kvalvika !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic", "hike"]
-pictures: ["04-07-2024/1.webp", "04-07-2024/2.webp", "04-07-2024/3.webp", "04-07-2024/4.webp", "04-07-2024/5.webp", "04-07-2024/6.webp", "04-07-2024/7.webp", "04-07-2024/8.webp", "04-07-2024/9.webp", "04-07-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -17,31 +16,31 @@ On laisse nos vélos à un parking puis on entame la randonnée.
 
 ### Randonnée vers Kvalvika puis Ryten
 
-On s'aperçoit très vite qu'on n'est pas seuls. [Cette randonnée](https://www.visitnorway.com/listings/hike-to-kvalvika-and-ryten-(543-m)/225286/) étant très populaire et la journée étant magnifique, on est tout de même nombreux sur le sentier 😉 ! C'est également notre deuxième excursion dans le cœur du **Lofotodden nasjonalpark**. C'est une chance de s'enfoncer dans ce parc protégé, loin des routes bétonnées et des habitations. 
+On s'aperçoit très vite qu'on n'est pas seuls. [Cette randonnée](<https://www.visitnorway.com/listings/hike-to-kvalvika-and-ryten-(543-m)/225286/>) étant très populaire et la journée étant magnifique, on est tout de même nombreux sur le sentier 😉 ! C'est également notre deuxième excursion dans le cœur du **Lofotodden nasjonalpark**. C'est une chance de s'enfoncer dans ce parc protégé, loin des routes bétonnées et des habitations.
 
-L'accès à la plage de **Kvalvika** est assez simple, il faut monter puis descendre environ 200 mètres de dénivelé sur un chemin mêlant roches, terre sèche et petits ponts en bois. C'est accessible à tous. Peut-être même un peu trop, avec un peu plus de sélectivité, ce serait moins encombré. On a tout de même des parents qui randonnent avec de très jeunes enfants et on remarque un père qui porte un bébé grâce à un sac dans son dos et un dans ses bras. Il glisse légèrement par endroits. Est-ce bien raisonnable 🤔 ? 
+L'accès à la plage de **Kvalvika** est assez simple, il faut monter puis descendre environ 200 mètres de dénivelé sur un chemin mêlant roches, terre sèche et petits ponts en bois. C'est accessible à tous. Peut-être même un peu trop, avec un peu plus de sélectivité, ce serait moins encombré. On a tout de même des parents qui randonnent avec de très jeunes enfants et on remarque un père qui porte un bébé grâce à un sac dans son dos et un dans ses bras. Il glisse légèrement par endroits. Est-ce bien raisonnable 🤔 ?
 
 La plage cachée entre deux flancs de montagnes se révèle à nous. Avec les belles éclaircies du jour, les couleurs du sable doré, de l'eau turquoise, des montagnes tantôt rocheuses et tantôt verdoyantes, sont très nettes. Les contrastes sont magnifiques.
 
-On poursuit vers le flanc nous menant à **Ryten**. La pente se corse mais la randonnée reste *"grand public"*. On trouve une petite cascade. On a pris avec nous seulement un bidon d'eau chacun, pas la gourde filtrante. Nico en profite pour bien boire dans sa gourde avant de la remplir. Il boit également quelques gorgées de cette *"nouvelle"* eau fraîche. Ça fait du bien 😃.
+On poursuit vers le flanc nous menant à **Ryten**. La pente se corse mais la randonnée reste _"grand public"_. On trouve une petite cascade. On a pris avec nous seulement un bidon d'eau chacun, pas la gourde filtrante. Nico en profite pour bien boire dans sa gourde avant de la remplir. Il boit également quelques gorgées de cette _"nouvelle"_ eau fraîche. Ça fait du bien 😃.
 
-Un peu plus haut, la montagne est recouverte de mousse imbibée d'eau. Cette même eau qui coule un peu plus bas 😅. Puis, 300 mètres plus haut, un petit lac et un panneau se présente devant nous. Le verdict tombe : *"Water is not safe to drink. Please boil or treat before drinking"* 🚱.
+Un peu plus haut, la montagne est recouverte de mousse imbibée d'eau. Cette même eau qui coule un peu plus bas 😅. Puis, 300 mètres plus haut, un petit lac et un panneau se présente devant nous. Le verdict tombe : _"Water is not safe to drink. Please boil or treat before drinking"_ 🚱.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/67urFpVn7qwcd2gWIl" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/67urFpVn7qwcd2gWIl" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Bon tant pis, on fera la suite sans ce bidon *"contaminé"*. Pour les curieux, ne vous en faîtes pas, il n'y a pas eu d'incident à déclarer, le bidon de Nico a survécu 😉.
+Bon tant pis, on fera la suite sans ce bidon _"contaminé"_. Pour les curieux, ne vous en faîtes pas, il n'y a pas eu d'incident à déclarer, le bidon de Nico a survécu 😉.
 
-La vue depuis **Ryten** est incroyable, ou plutôt les vues ! On aperçoit des montagnes, des fjords, des plages à perte de vue et de tous les côtés. Complément dément 😱 ! 
+La vue depuis **Ryten** est incroyable, ou plutôt les vues ! On aperçoit des montagnes, des fjords, des plages à perte de vue et de tous les côtés. Complément dément 😱 !
 
 Au sommet, Mika et Noemi partagent leur ressenti.
 
-Mika : *"This hike is Amazing, the views on the right and on the left are all beautiful*"
+Mika : _"This hike is Amazing, the views on the right and on the left are all beautiful_"
 
-Noemi : *"I think that's just Norway"*
+Noemi : _"I think that's just Norway"_
 
 C'est vrai que ça commence à faire quand même beaucoup de randonnées d'exception 😅. Ce pays doit en compter des milliers.
 
-### Encore cinquante kilomètres à vélo 
+### Encore cinquante kilomètres à vélo
 
 On termine notre randonnée vers 16h30. On se change et on repart, nous avons encore un bout de route à parcourir pour atteindre notre objectif du jour.
 
@@ -55,20 +54,20 @@ On a tout de même une petite surprise à laquelle on ne goutte que moyennement.
 
 D'habitude quand on franchit l'eau, on est plutôt sereins et on profite bien du moment.
 
-| Moyen de franchir l'eau   | Ressenti   |
-|----|----|
-| Ferry ⛴️  | 🤗   |
-| Pont 🌉   | 🤩   |
-| Tunnel 🚇  | 😡   |
+| Moyen de franchir l'eau | Ressenti |
+| ----------------------- | -------- |
+| Ferry ⛴️                | 🤗       |
+| Pont 🌉                 | 🤩       |
+| Tunnel 🚇               | 😡       |
 
-On s'élance dans l'inconnu ! On a une bonne descente puis une bonne montée. Forcément, on passe sous l'eau 🤪. Il fait sombre, ça pue le renfermé et l'essence. Le bonheur ! 
+On s'élance dans l'inconnu ! On a une bonne descente puis une bonne montée. Forcément, on passe sous l'eau 🤪. Il fait sombre, ça pue le renfermé et l'essence. Le bonheur !
 
 Il y a un trottoir sur le côté gauche mais il n'est pas très large donc les voitures ne passent pas si loin de nous. De plus, il y a un peu d'eau au fond du tunnel.
 
-🦩 : *"Euh les gars, vous êtes sûrs que c'est bien étanche ?!"*
+🦩 : _"Euh les gars, vous êtes sûrs que c'est bien étanche ?!"_
 
 C'est pas le moment de paniquer.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/1EghTrigJJhq8" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/1EghTrigJJhq8" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 On finit par rejoindre l'autre côté et rallier notre camping du soir 🏕️. Encore une belle journée pleine d'émotions !

@@ -4,7 +4,6 @@ date: "2024-08-13"
 description: "Les merveilles du Skuleskogen National Park !"
 location: "Västernorrland, Suède"
 tags: ["heart", "hike"]
-pictures: ["13-08-2024/1.webp", "13-08-2024/2.webp", "13-08-2024/3.webp", "13-08-2024/4.webp", "13-08-2024/5.webp", "13-08-2024/6.webp", "13-08-2024/7.webp", "13-08-2024/8.webp", "13-08-2024/9.webp", "13-08-2024/10.webp", "13-08-2024/11.webp", "13-08-2024/12.webp", "13-08-2024/13.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -15,13 +14,13 @@ C'est par cette dernière que nous allons rentrer dans le parc. On enfourche les
 
 C'est vallonné et les chemins sont sans revêtement. Il y a pas mal de dénivelé sur ce petit trajet ! On a tout de même laissé nos bagages au camping, on est allégés pour la journée 😜.
 
-On a choisi notre randonnée à travers le parc afin de voir deux spots précis : [la montagne **Slåttdalsberget** et la crevasse  **Slåttdalsskrevan**](https://www.sverigesnationalparker.se/en/choose-park---list/skuleskogen-national-park/experience/slattdalsberget-from-the-south-entrance/).Toutefois, le parc est immense et l'itinéraire  [Höga Kusten Leden](https://www.swedishtouristassociation.com/trails/hoga-kustenleden/) propose plus de 120 kilomètres de sentiers de randonnée.
+On a choisi notre randonnée à travers le parc afin de voir deux spots précis : [la montagne **Slåttdalsberget** et la crevasse **Slåttdalsskrevan**](https://www.sverigesnationalparker.se/en/choose-park---list/skuleskogen-national-park/experience/slattdalsberget-from-the-south-entrance/).Toutefois, le parc est immense et l'itinéraire [Höga Kusten Leden](https://www.swedishtouristassociation.com/trails/hoga-kustenleden/) propose plus de 120 kilomètres de sentiers de randonnée.
 
 ### La montagne Slåttdalsberget
 
 On commence notre randonnée dans le parc national en empruntant les sentiers que l'on a repérés. Ils sont très bien balisés. Contrairement à la **Norvège**, en **Suède** le balisage est omniprésent, on sent que le sentier est bien entretenu et qu'il y a une volonté de le rendre accessible au plus grand nombre. On note aussi qu'il ne comporte pas de difficultés particulières, certains randonneurs s'y aventurant même avec des enfants. Pour autant, si le chemin est facile, il n'en reste pas moins agréable à parcourir 😀 !
 
-On entre dans une immense forêt vierge, seul un unique sentier coupe à travers. Les arbres sont gigantesques, atteignant facilement une vingtaine de mètres. Leurs racines s'étendent et se chevauchent et le sol est tapissé d'une mousse verdoyante et délicate. Par endroits, lorsque nous ne pouvons mettre pied sur la terre, un chemin en bois sur pilotis chevauche les mousses afin d'éviter que les randonneurs n'abîment cette nature fragile ou que le sentier ne se détériore avec le temps et donne des zones marécageuses ou boueuses. C'est très bien pensé et aménagé, comme souvent en **Suède** 😉. On sent que la végétation est vraiment particulière dans ce [parc de la Höga Kusten](https://www.hogakusten.com/en/experiences/nature-outdoor/skuleskogen-national-park), point de rencontre de la mer et des montagnes qui offre des conditions particulières afin que les plantes se développent. 
+On entre dans une immense forêt vierge, seul un unique sentier coupe à travers. Les arbres sont gigantesques, atteignant facilement une vingtaine de mètres. Leurs racines s'étendent et se chevauchent et le sol est tapissé d'une mousse verdoyante et délicate. Par endroits, lorsque nous ne pouvons mettre pied sur la terre, un chemin en bois sur pilotis chevauche les mousses afin d'éviter que les randonneurs n'abîment cette nature fragile ou que le sentier ne se détériore avec le temps et donne des zones marécageuses ou boueuses. C'est très bien pensé et aménagé, comme souvent en **Suède** 😉. On sent que la végétation est vraiment particulière dans ce [parc de la Höga Kusten](https://www.hogakusten.com/en/experiences/nature-outdoor/skuleskogen-national-park), point de rencontre de la mer et des montagnes qui offre des conditions particulières afin que les plantes se développent.
 
 On croise aussi sur notre chemin des champs jonchés de pierres, des ruisseaux slalomant entre les racines des arbres, et une cascade recouverte de mousse 😃. C'est vraiment atypique et on en prend plein les yeux.
 
@@ -44,4 +43,3 @@ Sur chemin du retour, on prend un léger détour vers la fin. Après avoir trave
 Cette journée aura été merveilleuse. Sous un grand soleil tout du long, nous nous sommes promenés à travers les merveilles du parc national de **Skuleskogen** qui ne manque pas de tours de magie dans son sac 🪄🤩 !
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/44aTAUBF0g6sMkMNE8I5kd?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
-

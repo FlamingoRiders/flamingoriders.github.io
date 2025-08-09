@@ -3,7 +3,6 @@ title: 🥪 Le smørrebrød d'Eduardo du 9 mai
 date: "2024-05-09"
 description: "2 ferrys pour quitter le Sjælland et rejoindre Aarhus dans le Jutland !"
 location: "Jutland central, Danemark"
-pictures: ["09-05-2024/1.webp", "09-05-2024/2.webp", "09-05-2024/3.webp", "09-05-2024/4.webp", "09-05-2024/5.webp", "09-05-2024/6.webp", "09-05-2024/7.webp", "09-05-2024/8.webp", "09-05-2024/9.webp", "09-05-2024/10.webp", "09-05-2024/11.webp", "09-05-2024/12.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
@@ -29,25 +28,24 @@ Enfin, on répartit tout dans les sacoches en fonction des contraintes : poids, 
 Notre programme du jour compte deux traversées en ferry. On a une idée des horaires et du kilométrage qu'on va réaliser mais il vaut mieux être prévoyant. C'est raté, on va encore faire à la one again 😆 !
 
 ### Un premier ferry
- 
+
 La première traversée de **Hundested** à **Rørvig** est située après une douzaine de kilomètres. On arrive à l'embarcadère et comme d'habitude, on est cordialement invités à passer en dernier lorsqu'on est à vélo. Ben oui, en vélo, vous n'êtes ni piéton ni voiture, vous n'êtes pas véhiculés mais un peu quand même. On ne sait pas trop comment vous gérer mais on vous fait quand même payer plus qu'un piéton. Ce n'est pas spécifique au **Danemark** c'est la même chose à chaque fois.
 
-*"Euh mettez-vous tout derrière, vous serez bien au calme là. Oui oui derrière les voitures c'est bien comme ça vous pourrez vous réchauffer près des pots d'échappement"*
+_"Euh mettez-vous tout derrière, vous serez bien au calme là. Oui oui derrière les voitures c'est bien comme ça vous pourrez vous réchauffer près des pots d'échappement"_
 
-Dire que mon médecin traitant m'avait prescrit de faire du vélo pour limiter mon risque de maladies cardio-respiratoires. Je flingue un peu tous mes efforts avec cette traversée en ferry 🤔. 
+Dire que mon médecin traitant m'avait prescrit de faire du vélo pour limiter mon risque de maladies cardio-respiratoires. Je flingue un peu tous mes efforts avec cette traversée en ferry 🤔.
 
-*"Mais Eduardo tu ne pédales pas, ce sont Nana et Nico qui font tout le boulot"*
+_"Mais Eduardo tu ne pédales pas, ce sont Nana et Nico qui font tout le boulot"_
 
 Tout à fait ! Merci de me faire remarquer que j'ai quand même la belle vie 😉. Je mourrais jeune du fait de ma sédentarité mais l'espérance de vie des flamants roses n'est pas exceptionnelle de toute façon.
 
 Depuis le ferry, nous avons une vue sur **l'Isefyord** d'un côté vers les terres et sur la **Hesselø Bugt** de l'autre côté au grand large.
 
-
-### De Rørvig au bout de la péninsule 
+### De Rørvig au bout de la péninsule
 
 On débarque donc à **Rørvig** et notre prochaine étape consiste à aller au bout de la pointe de terre sur laquelle nous nous trouvons, plein ouest.
 
-Le relief est très vallonné sur cette partie. Très vallonné, vraiment. C'est vraiment une balade super sympa. On a tout de même une petite pensée pour tous ces blogs qui nous indiquent que le **Danemark** *"c'est totalement plat"* à vélo.
+Le relief est très vallonné sur cette partie. Très vallonné, vraiment. C'est vraiment une balade super sympa. On a tout de même une petite pensée pour tous ces blogs qui nous indiquent que le **Danemark** _"c'est totalement plat"_ à vélo.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/hPPx8yk3Bmqys" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -56,6 +54,7 @@ Oh les gens ! Vous l'avez vraiment fait à vélo ou vous étiez en train de dorm
 Bon, ce n'est pas la traversée des **Alpes** c'est sûr, mais on est quand même sur des petites bosses comme lors d'une sortie en **vallée de Chevreuse** ou en **Dordogne**.
 
 Nous traversons la très belle péninsule **Sjællands Odde** tout au nord-ouest. Nous alternons les superbes vues entre les deux côtes :
+
 - sur notre gauche, côté sud, la baie de **Sejerø**
 - sur notre droite, au nord, le détroit **Kattegat**.
 

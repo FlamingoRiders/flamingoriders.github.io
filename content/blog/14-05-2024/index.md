@@ -4,7 +4,6 @@ date: "2024-05-14"
 description: "On dit bonjour à la princesse de Norvège à Oslo !"
 location: "Oslo, Norvège"
 tags: ["heart"]
-pictures: ["14-05-2024/1.webp", "14-05-2024/2.webp", "14-05-2024/3.webp", "14-05-2024/4.webp", "14-05-2024/5.webp", "14-05-2024/6.webp", "14-05-2024/7.webp", "14-05-2024/8.webp", "14-05-2024/9.webp", "14-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -16,6 +15,7 @@ Aujourd'hui, on se réveille pour la première fois sur la terre ferme de **Norv
 Hier soir, nous avons été rejoints par les parents de Nico 🥳. Nous commençons tous ensemble une nouvelle journée de visite dans **Oslo**.
 
 ### Balade dans Frognerparken
+
 Au matin, on se balade dans le **Frognerparken**, le plus grand parc de la ville. En son sein, on trouve le **Vigelandsparken**, un parc au cœur du parc en quelque sorte, où l'on peut admirer le travail du sculpteur **Gustav Vigeland (1869-1943)**. Pas moins de 200 statues, de bronze, granite ou fer forgé, sont présentes au sein du parc et un musée est dédié à l'artiste.
 
 Après avoir traversé un grand pont qui compte des statues sur les côtés, on aperçoit une immense fontaine. La coupole au centre d'où part l'eau est portée par des statues d'hommes et autour un bassin rectangulaire avec des arbres et des sculptures d'hommes et femmes à différentes étapes de leur vie : [Le cercle de la vie](https://fr.wikipedia.org/wiki/Installation_de_Vigeland).
@@ -46,9 +46,8 @@ On fera une nouvelle balade le long de **Bjørvika** avec des glaces à la main.
 
 On terminera notre belle journée au **Camping d'Oslo** !!
 
-*"Hein, mais vous en faites tout le temps des campings, pourquoi Oslo, qu'est-ce qu'il a de spécial ? Vous n'aviez pas un autre pied-à-terre ? 🤔"*
+_"Hein, mais vous en faites tout le temps des campings, pourquoi Oslo, qu'est-ce qu'il a de spécial ? Vous n'aviez pas un autre pied-à-terre ? 🤔"_
 
 Mais non ! **Camping** c'est la super franchise qui fait des bars avec mini-golf indoor ⛳. C'est notre troisième depuis le début de notre séjour, vous devez penser qu'on est des pros. Mais on ne progresse pas non plus énormément et l'acharnement c'est mal 😂.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/BEtIfpBep4pBS" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
-

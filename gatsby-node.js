@@ -135,7 +135,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       date: Date @dateformat
       location: String
       tags: [String]
-      pictures: [String]
     }
 
     type Fields {
@@ -149,6 +148,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       weather: String
       startPointName: String
       endPointName: String
+      pictures: [String]
     }
   `);
 };

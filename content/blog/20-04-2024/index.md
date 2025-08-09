@@ -3,7 +3,6 @@ title: 🥨 Le bretzel d'Eduardo du 20 avril
 date: "2024-04-20"
 description: "Premier bretzel, vingtième averse !"
 location: "Basse-Saxe, Allemagne"
-pictures: ["20-04-2024/1.webp", "20-04-2024/2.webp", "20-04-2024/3.webp", "20-04-2024/4.webp", "20-04-2024/5.webp", "20-04-2024/6.webp", "20-04-2024/7.webp", "20-04-2024/8.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
@@ -20,7 +19,7 @@ Notre itinéraire d'aujourd'hui emprunte de longues sections en ligne droite. C'
 
 Un revêtement correct mais sans plus, de très longues lignes droites qui longent des départementales où il y a pas mal de circulation et dont nous sommes séparés par une bande d'herbe de 50 centimètres. Même pas de terre-plein central.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/5oRwR3z8paFG0VnGBm" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/5oRwR3z8paFG0VnGBm" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Le problème c'est que quand vous sortez de 10 jours de vélo aux **Pays-Bas** c'est un peu dur de se déshabituer du caviar.
 
@@ -30,7 +29,8 @@ Pour ce qui est du paysage traversé, nous n'avons malheureusement pas vu autre 
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/CeVrSMVoHdk?si=XqVH15pHhkLL0I5C&start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
-### Oldenburg 
+### Oldenburg
+
 À notre arrivée à **Oldenburg**, nous posons les vélos à notre point de chute et partons pour une visite de la ville à pied. Le centre est à une vingtaine de minutes de marche.
 
 Nous traversons un grand parc très joliment aménagé, on dirait presque que l'on traverse une forêt vu la hauteur des arbres. Il y a juste un chemin discret en terre battue pour le parcourir. Au centre, un lac avec des petites maisons pour les oiseaux nous offre de belles vues, surtout avec quelques rayons de soleil qui nous permettent d'observer le reflet du paysage dans l'eau.
@@ -39,4 +39,4 @@ Nous atteignons le centre, entièrement piéton. C'est samedi fin d'après-midi 
 
 Nous passons par le théâtre, l'église et l'hôtel de ville (**Rathaus**) avec sa façade rose et son toit vert en forme de château. Un décor qui nous fait voyager. Cela valait bien la peine de parcourir les kilomètres du jour en fin de compte.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/xT8qAYITi1l7A6m5eo" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/xT8qAYITi1l7A6m5eo" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>

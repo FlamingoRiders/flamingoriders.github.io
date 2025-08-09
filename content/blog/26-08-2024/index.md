@@ -4,42 +4,43 @@ date: "2024-08-26"
 description: "On débarque sur l'archipel d'Åland !"
 location: "Sund, Åland, Finlande"
 tags: ["heart", "scenic", "culture"]
-pictures: ["26-08-2024/1.webp", "26-08-2024/2.webp", "26-08-2024/3.webp", "26-08-2024/4.webp", "26-08-2024/5.webp", "26-08-2024/6.webp", "26-08-2024/7.webp", "26-08-2024/8.webp", "26-08-2024/9.webp"]
 ---
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)
 
 Aujourd'hui, on se lève de bonne heure afin de rejoindre un ferry pour les îles d'**Hollande** 🇳🇱 !
 
-🙅🏼‍♀️ : *"Mais non Eduardo on va sur les îles d'Åland, tu as raison le \"Å\" se prononce effectivement comme un \"O\" mais ce n'est pas du tout néerlandais, c'est situé en Finlande"*
+🙅🏼‍♀️ : _"Mais non Eduardo on va sur les îles d'Åland, tu as raison le \"Å\" se prononce effectivement comme un \"O\" mais ce n'est pas du tout néerlandais, c'est situé en Finlande"_
 
-🦩 : *"Ah bon.. mince alors, une bourde de plus pour bibi !"*
+🦩 : _"Ah bon.. mince alors, une bourde de plus pour bibi !"_
 
 On monte sur nos vélos et on se met en route pour rejoindre notre ferry de 7h45. Comme il est aux alentours de 6h30, on a le bonheur de traverser **Stockholm** au petit matin. C'est calme et très agréable comme balade. Il y a quelques autres cyclistes qui empruntent les voies cyclables. Dans la ville, c'est un plaisir inégalé de rouler à vélo. Pour rejoindre le quai d'où part notre ferry, on doit passer tour à tour par une partie de la banlieue de **Huvudsta**, l'île de **Kungsholmen**, **Gamla Stan** et enfin **Södermalm**. On est dans une grande ville, on traverse 3 îles, ça sent les feux rouges, les croisements hasardeux et les ponts cette affaire 🤔 ?
 
-Pas du tout 😇. On enchaîne toute notre route avec une étonnante facilité. Aucune difficulté, on suit les pistes cyclables, tout est très bien indiqué et lorsque l'on change d'île, c'est magique, on emprunte des *"ponts sous les ponts"*.
+Pas du tout 😇. On enchaîne toute notre route avec une étonnante facilité. Aucune difficulté, on suit les pistes cyclables, tout est très bien indiqué et lorsque l'on change d'île, c'est magique, on emprunte des _"ponts sous les ponts"_.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/UC047aLAbwzDi" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-C'est-à-dire qu'il y a un pont classique pour les voitures mais les vélos eux empruntent un autre pont à un niveau inférieur comme ça ils ne croisent pas les autres véhicules 💡. Après les Flandres, les Pays-Bas, le Danemark, la Norvège et la Finlande, on découvre avec stupeur que même en Suède ils aménagent super bien leurs infrastructures cyclables. On arrive bientôt au terme de notre voyage et la plus grande question en suspens demeure celle-ci : comment allons-nous faire pour nous réhabituer aux pistes cyclables sans queue ni tête dans les rues d'île de France 😂 ?! 
+C'est-à-dire qu'il y a un pont classique pour les voitures mais les vélos eux empruntent un autre pont à un niveau inférieur comme ça ils ne croisent pas les autres véhicules 💡. Après les Flandres, les Pays-Bas, le Danemark, la Norvège et la Finlande, on découvre avec stupeur que même en Suède ils aménagent super bien leurs infrastructures cyclables. On arrive bientôt au terme de notre voyage et la plus grande question en suspens demeure celle-ci : comment allons-nous faire pour nous réhabituer aux pistes cyclables sans queue ni tête dans les rues d'île de France 😂 ?!
 
-### L'archipel de Stockholm 
+### L'archipel de Stockholm
+
 On finit par arriver sur le quai du ferry puis on embarque dans la foulée. La traversée pour nous rendre aux îles d'**Åland** dure quelques heures mais elle en vaut la peine. Certains ne prennent le ferry que pour faire un tour dans l'**archipel de Stockholm (Stockholms skärgård)**.
 
 Ce sont près de 24 000 îles qui composent cet archipel. Alors qu'on s'éloigne de **Stockholm**, plein de petits îlots se montrent, on a toujours la côte à une dizaine de mètres de nous. On ne comprend pas comment le ferry avance dans ce labyrinthe d'îles. Les paysages sont formidables et on a l'impression que les îles défilent devant nous les unes après les autres. Il y a également d'autres curiosités qui défilent devant nous : des personnes avec des caddies remplies de bouteilles d'alcool et de boîtes de snuss. En effet, on entre dans la duty free zone, c'est le moment de faire les stocks pour nos amis suédois et finlandais 😂.
 
 On progresse vers l'est dans la mer Baltique et après 80 kilomètres, on finit par quitter l'**archipel de Stockholm**.
 
-On retrouve très rapidement la vue de la terre ferme. On atteint l'archipel d'**Åland**, lui aussi morcelé en de nombreuses îles, il y en aurait près de 6500 mais moins d'une centaine d'habitées. 
+On retrouve très rapidement la vue de la terre ferme. On atteint l'archipel d'**Åland**, lui aussi morcelé en de nombreuses îles, il y en aurait près de 6500 mais moins d'une centaine d'habitées.
 
 **Åland** bénéficie d'un statut très particulier. Bien qu'appartenant techniquement à la Finlande, la province jouit d'une autonomie gouvernementale. De plus, ses habitants sont en immense majorité suédophones. Lorsque la **Finlande** déclare son indépendance en 1917 suite à la révolution russe, une guerre civile éclate l'année suivante. Les Ålandais demanderont alors leur rattachement à la **Suède** mais la Société des Nations (ancêtre de l'ONU) statuera en 1921 sur l'appartenance de l'archipel à la **Finlande**. Cependant, le territoire est démilitarisé, les habitants sont libres de garder leur langue et leurs coutumes et leur autonomie est garantie. Pour simplifier les choses, on pourrait dire d'**Åland** que :
+
 - son territoire fait partie de la Finlande,
 - ses habitants sont historiquement proches des suédois,
-- sur le plan politique, l'archipel fonctionne comme un *"état libre"*. Par ailleurs, il a son propre drapeau 🇦🇽.
+- sur le plan politique, l'archipel fonctionne comme un _"état libre"_. Par ailleurs, il a son propre drapeau 🇦🇽.
 
-Situé au sud du **golfe de Botnie**, à distance équivalente de la Suède et de la Finlande, l'archipel est une destination touristique fréquentée par les finlandais et les suédois mais assez méconnu du reste du continent. L'archipel compte près de 30 000 habitants dont la moitié vivent dans sa capitale, **Mariehamn**, où nous débarquons. 
+Situé au sud du **golfe de Botnie**, à distance équivalente de la Suède et de la Finlande, l'archipel est une destination touristique fréquentée par les finlandais et les suédois mais assez méconnu du reste du continent. L'archipel compte près de 30 000 habitants dont la moitié vivent dans sa capitale, **Mariehamn**, où nous débarquons.
 
-### Åland : un territoire riche en histoire et traditions 
+### Åland : un territoire riche en histoire et traditions
 
 On repère un camping au nord-est que l'on décide de rejoindre. Très vite en sortant de **Mariehamn** on se rend compte du charme de cet archipel. On se situe entre mer et campagne. La saison touristique vient de se terminer depuis une dizaine de jours et nous profitons seuls de ces pistes cyclables parfaitement entretenues. Nous traversons des champs et observons quelques maisons de campagne. Nous apercevons des vaches et moutons qui pâturent au grand air. Au loin, deux petites formes se laissent entrevoir, ce sont deux faons qui gambadent 😀.
 

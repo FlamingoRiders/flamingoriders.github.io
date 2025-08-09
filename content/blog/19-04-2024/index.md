@@ -3,7 +3,6 @@ title: 🥨 Le bretzel d'Eduardo du 19 avril
 date: "2024-04-19"
 description: "Ciao Dutch-Land, Hallo Deutschland !"
 location: "Basse-Saxe, Allemagne"
-pictures: ["19-04-2024/1.webp", "19-04-2024/2.webp", "19-04-2024/3.webp", "19-04-2024/4.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
@@ -12,20 +11,21 @@ Aujourd'hui, je me lève avec un mélange de nostalgie et d'appréhension. Il fa
 
 La météo s'annonce une nouvelle fois capricieuse avec plusieurs averses au programme ! Nana oublie dès le départ d'enfiler le pantalon de pluie. Nico l'a mis mais plus pour lutter contre le froid que la pluie. La météo, il ne la regarde pas vraiment, il est plus au feeling, ça n'a pas payé jusqu'à présent mais il ne désespère pas et se dit qu'il faut persister dans ses idées, qu'elles soient bonnes ou mauvaises. Les siennes sont très souvent mauvaises au passage 😝.
 
-La première averse tombe après un quart d'heure, nous avons tout juste le temps de nous abriter sous un pont avant qu'il n'y ait trop de dégâts. Nana en profite pour sortir le pantalon de pluie, à raison, elle a compris l'avertissement. C'est un peu comme si vous êtes rattrapés par la patrouille de police qui s'apprête à vous coller une amende et finalement vous dit : *"c'est bon pour cette fois mais que je ne vous y reprenne pas !"*.
+La première averse tombe après un quart d'heure, nous avons tout juste le temps de nous abriter sous un pont avant qu'il n'y ait trop de dégâts. Nana en profite pour sortir le pantalon de pluie, à raison, elle a compris l'avertissement. C'est un peu comme si vous êtes rattrapés par la patrouille de police qui s'apprête à vous coller une amende et finalement vous dit : _"c'est bon pour cette fois mais que je ne vous y reprenne pas !"_.
 
-Bon, je fais un petit spoil de la suite de la journée mais la patrouille va passer plusieurs fois aujourd'hui pour vérifier si on est toujours en règle et en pantalon de pluie 😂. Mais la pluie ne viendra pas interrompre la fête aujourd'hui ! Comme dit **Jay Kay** : *"The rain can't stop the party !*"
+Bon, je fais un petit spoil de la suite de la journée mais la patrouille va passer plusieurs fois aujourd'hui pour vérifier si on est toujours en règle et en pantalon de pluie 😂. Mais la pluie ne viendra pas interrompre la fête aujourd'hui ! Comme dit **Jay Kay** : _"The rain can't stop the party !_"
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/Yi0QlZZ2qo8?si=3uaoqvB8U7bZjIo6&start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
 ### Jour de PDF
-Non ! La fête ne pourra pas être gâchée car aujourd'hui, c'est un passage de frontière ou *"PDF"* pour les intimes.
 
-Alors que nous venons de traverser une énième averse, un rayon de soleil vient fendre les nuages. Nous luttons un peu contre le vent quand soudain, nous effectuons un virage à 90 degrés qui nous met pile dans l'axe où le vent souffle dans notre dos. On regarde le compteur, 6 kilomètres comme ça, un passage de canal et hop on sera en **Allemagne** ! 
+Non ! La fête ne pourra pas être gâchée car aujourd'hui, c'est un passage de frontière ou _"PDF"_ pour les intimes.
+
+Alors que nous venons de traverser une énième averse, un rayon de soleil vient fendre les nuages. Nous luttons un peu contre le vent quand soudain, nous effectuons un virage à 90 degrés qui nous met pile dans l'axe où le vent souffle dans notre dos. On regarde le compteur, 6 kilomètres comme ça, un passage de canal et hop on sera en **Allemagne** !
 
 Retour du soleil, vent de dos, c'est un alignement des planètes parfait pour notre arrivée, à croire que nos nouveaux hôtes ont tout préparé en amont. Bon, il manque le tapis rouge mais on est pas difficile, on mettra quand même une bonne note sur TripAdvisor.
 
-Ça y est nous passons la frontière  🇩🇪 ! Ça mérite bien une petite danse.
+Ça y est nous passons la frontière 🇩🇪 ! Ça mérite bien une petite danse.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3FQ9mRcb94aogeTvmj" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -41,6 +41,6 @@ Heureusement, nous on ne fait pas que prendre des photos et on vous confirme qu'
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3o8doVAxrMjXbIHaU0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Il y a quelques trous et bosses dans la route. Pour rejoindre notre point de chute du jour, nous avons 8 kilomètres à effectuer sur une route pavée en ligne droite. Elle est même empruntée en sens inverse par des résidents et des tracteurs. C'en est trop pour Nico qui *"ragequit"* cette piste au kilomètre 6 : *"Marre de leur champ de patates là ! On reviendra quand ils auront fait des travaux ! Ils n'ont qu'à appeler les néerlandais pour leur filer un coup de main !*". C'est sûr que la transition est un peu brutale pour nous.
+Il y a quelques trous et bosses dans la route. Pour rejoindre notre point de chute du jour, nous avons 8 kilomètres à effectuer sur une route pavée en ligne droite. Elle est même empruntée en sens inverse par des résidents et des tracteurs. C'en est trop pour Nico qui _"ragequit"_ cette piste au kilomètre 6 : _"Marre de leur champ de patates là ! On reviendra quand ils auront fait des travaux ! Ils n'ont qu'à appeler les néerlandais pour leur filer un coup de main !_". C'est sûr que la transition est un peu brutale pour nous.
 
 Finalement, on va attendre un peu avant de se faire un vrai avis sur les pistes et le publier sur TripAdvisor 😉.

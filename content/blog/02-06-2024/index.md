@@ -4,14 +4,13 @@ date: "2024-06-02"
 description: "Grosse journée et gros dénivelé pour traverser le Fensfjord et le Sognefjord !"
 location: "Vestland, Norvège"
 tags: ["scenic"]
-pictures: ["02-06-2024/1.webp", "02-06-2024/2.webp", "02-06-2024/3.webp", "02-06-2024/4.webp", "02-06-2024/5.webp", "02-06-2024/6.webp", "02-06-2024/7.webp", "02-06-2024/8.webp", "02-06-2024/9.webp", "02-06-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
 Aujourd'hui on attaque une journée que l'on sait difficile. La trace du jour ne présage rien de bon. Quand on calcule notre trajet, on cherche toujours au préalable un point de chute. Le souci c'est que parfois on ne trouve rien dans les parages. Alors on pousse un peu plus.
 
-Au programme du jour, presque 80 kilomètres, 1000 mètres de dénivelé 
+Au programme du jour, presque 80 kilomètres, 1000 mètres de dénivelé
 positif et 2 ferries à emprunter 😱. Rien que ça. Autant dire qu'on a beau s'être levé de bonne heure, on sait qu'on n'est pas couché !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/LiuomYS6ojKrm" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
@@ -24,9 +23,10 @@ Dans une station-service, on ne trouve pas de tout. En particulier, on ne trouve
 
 On ne le sait pas encore mais on a bien fait, on ne croisera rien d'autre sur toute la journée !
 
-C'est encore assez vallonné et venteux mais malgré cela on avance bien. On emprunte des petits ponts, d'où on aperçoit des villages de pêcheurs et des petites criques. Il y a quelques maisons très dispersés. On se fait la réflexion qu'en **Norvège**, on tombe souvent sur des coins où les habitations sont très étalées. Les gens ont de la place et en profite. C'est facile d'avoir son petit havre de paix isolé. 
+C'est encore assez vallonné et venteux mais malgré cela on avance bien. On emprunte des petits ponts, d'où on aperçoit des villages de pêcheurs et des petites criques. Il y a quelques maisons très dispersés. On se fait la réflexion qu'en **Norvège**, on tombe souvent sur des coins où les habitations sont très étalées. Les gens ont de la place et en profite. C'est facile d'avoir son petit havre de paix isolé.
 
-### Un premier ferry pour traverser le Fensfjord 
+### Un premier ferry pour traverser le Fensfjord
+
 Au bout de 30 kilomètres, on arrive à **Leirvåg**, notre premier ferry du jour en direction de **Sløvag**. Il traverse le **Fensfjord**. Nous sommes sur le quai à 13h55, le ferry part toutes les heures et le prochain départ est à 14h15, on n'est pas trop mal !
 
 On prend le ferry et au moment de la sortie, on retombe sur Lasse, notre acolyte allemand de la veille. Il est rentré juste avant le départ.
@@ -37,10 +37,10 @@ On avance, on avance mais cette étape est plus dure que ce que l'on croit.
 
 On grimpe deux belles montées, on traverse plusieurs tunnels et la route est longue. On se serre les coudes et on se partage du bon chocolat pour éviter l'hypoglycémie 🍫.
 
-### Un deuxième ferry pour traverser le Sognefjord 
+### Un deuxième ferry pour traverser le Sognefjord
 
-On arrive au kilomètre 60 à **Rutledal** à l'embouchure du **Sognefjord**. On est de retour sur le roi des fjords ! On l'avait 
-aperçu il y a deux jours bien plus loin dans les terres. Sa largeur est impressionnante, il est vraiment titanesque. On aperçoit sur la berge d'en face une montagne imposante. L'application *PeakLens* nous révèle qu'il s'agit du **Gygrekjeften** qui s'élève à 710 mètres. C'est quelque chose de voir les sommets très escarpés aussi proche de la mer. 
+On arrive au kilomètre 60 à **Rutledal** à l'embouchure du **Sognefjord**. On est de retour sur le roi des fjords ! On l'avait
+aperçu il y a deux jours bien plus loin dans les terres. Sa largeur est impressionnante, il est vraiment titanesque. On aperçoit sur la berge d'en face une montagne imposante. L'application _PeakLens_ nous révèle qu'il s'agit du **Gygrekjeften** qui s'élève à 710 mètres. C'est quelque chose de voir les sommets très escarpés aussi proche de la mer.
 
 On arrive peu avant 18h et le prochain départ de ferry est également une vingtaine de minutes après nous. Sinon, il fallait attendre 19h30. On s'en sort plus que bien 😀 !
 

@@ -4,14 +4,13 @@ date: "2024-05-08"
 description: "Épatés par Frederiksborg, le plus grand château de Scandinavie !"
 location: "Hovedstaden, Danemark"
 tags: ["heart", "culture"]
-pictures: ["08-05-2024/1.webp", "08-05-2024/2.webp", "08-05-2024/3.webp", "08-05-2024/4.webp", "08-05-2024/5.webp", "08-05-2024/6.webp", "08-05-2024/7.webp", "08-05-2024/8.webp", "08-05-2024/9.webp", "08-05-2024/10.webp", "08-05-2024/11.webp", "08-05-2024/12.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
 
 Ce matin, on se lève pour reprendre la route. Un peu tristounet, on se l'avoue car on quitte **Copenhague** dans laquelle on a passé un super moment 🤗 !
 
-### On quitte Copenhague 
+### On quitte Copenhague
 
 Nous prenons la route afin de quitter la capitale danoise. Il fait encore très beau temps aujourd'hui avec un beau soleil et ciel bleu. On passe par **Nyhavn** déjà bien remplie et on en profite pour prendre une dernière photo. Dans le nord de la ville, on traverse la belle citadelle **Kastellet** qui possède des fortifications très bien conservées. Puis, on effectue un tout dernier arrêt quelques mètres plus loin pour voir **Den lille Havfrue**, la sculpture de la petite sirène du conte de Hans Christian Andersen. Elle est sur un rocher dans l'eau et date de 1913.
 
@@ -22,7 +21,6 @@ Puis, ça y est, nous quittons la ville ! On passe par les banlieues de **Copenh
 Le paysage est également différent du sud. Nous sommes dans la province **Hovedstaden**. On croise tour à tour des ranchs, des petites forêts, de grands lacs. C'est très vallonné avec de bonnes côtes. On n'a pas une forme d'enfer, on le sent tout de suite 😆.
 
 Ça vous étonne qu'on galère un peu sur la matinée alors qu'on n'a pas roulé depuis 3 jours ? Oui, nous aussi, mais on a beaucoup visité, beaucoup marché et on commence aussi à ressentir le contrecoup de la semaine passée où on a été un peu trop gourmands 😅.
-
 
 Après les **købing** et les **havn**, c'est la journée des **rød**. On passe par **Birkerød**, **Lillerød** et enfin **Hillerød**.
 
@@ -44,6 +42,6 @@ Nous reprenons ensuite la route en direction de **Frederiksværk**, notre destin
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/S100e4ef9mDleByH8T" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-*"Non Eduardo, on avait dit non, on a encore des amis franciliens et on souhaite les garder !"*
+_"Non Eduardo, on avait dit non, on a encore des amis franciliens et on souhaite les garder !"_
 
 Oups sorry les amis 😇. On termine notre journée en atteignant notre destination. Nous nous baladons alors un peu à pied et réalisons que nous sommes au milieu d'un super paysage : le **Fjord de Roskilde** !

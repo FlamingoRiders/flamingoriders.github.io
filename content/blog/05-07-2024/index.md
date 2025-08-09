@@ -4,7 +4,6 @@ date: "2024-07-05"
 description: "On foule la pelouse du Henningsvær stadion, lun des terrains de foot les plus insolites au monde !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic"]
-pictures: ["05-07-2024/1.webp", "05-07-2024/2.webp", "05-07-2024/3.webp", "05-07-2024/4.webp", "05-07-2024/5.webp", "05-07-2024/6.webp", "05-07-2024/7.webp", "05-07-2024/8.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -17,20 +16,21 @@ On y mange pas à notre faim pour assez cher, ça arrive parfois quand on n'a pa
 
 ### Sur la Lofoten Scenic Road
 
-On continue notre bout de chemin sur la Lofoten Scenic Road, magnifique tout du long, montagne après montagne, fjord après fjord. Il y a une continuité mais également un renouvellement dans ce paysage qui nous laisse constamment ébahis. Si l'on devait noter les **Lofoten**, ou les **Lofo** comme on les surnomme ici, on lui mettrait dix sur dix, ou *"Lofo ten out of ten"* comme disent les touristes anglais. 
+On continue notre bout de chemin sur la Lofoten Scenic Road, magnifique tout du long, montagne après montagne, fjord après fjord. Il y a une continuité mais également un renouvellement dans ce paysage qui nous laisse constamment ébahis. Si l'on devait noter les **Lofoten**, ou les **Lofo** comme on les surnomme ici, on lui mettrait dix sur dix, ou _"Lofo ten out of ten"_ comme disent les touristes anglais.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/nqoeUV34tLXEOcg6yd" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/nqoeUV34tLXEOcg6yd" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 On aperçoit de plus en plus d'îlots et de gros rochers dans l'eau. La météo est bonne et la route fantastique. Malheureusement, Nana est un peu prise 🤧. On y va doucement. En roulant, on emprunte aussi des ponts impressionnants qui enjambent les fjords. On passe ainsi de l'île de **Vestvågøya** à **Austvågøya**.
 
 ### Henningsvær stadion
+
 On avance jusqu'à l'entrée de **Henningsvær**, un très charmant village de pêche composé de plein d'îlots. Nous avions envie de faire la randonnée jusqu'au sommet de [Festvågtind](https://www.visitnorway.de/listings/scenic-hike-%26-fishing-village-tour-to-henningsv%C3%A6r/210615/) mais la journée a commencé tard et nous sommes assez fatigués des derniers jours où nous avons enchaîné beaucoup les randonnées et le vélo. On fait l'impasse pour cette fois pour se reposer 😊.
 
 Au bout du village, on trouve aussi un fameux terrain de foot, le **Henningsvær Stadion**. Il est construit entre les rochers et les îlots. Le cadre est très sympa mais il faut un drone pour prendre une photo depuis la mer pour se rendre véritablement compte d'où il est logé 😉. On l'a vu mais si vous regardez sur internet, sachez que cette photo ne correspond pas à ce que vous pouvez voir depuis la terre ferme.
 
-La légende ne nous dit pas si des buts insensés ont été marqués dans l'enceinte ou si les plus grands joueurs ont foulé comme nous cette pelouse. 
+La légende ne nous dit pas si des buts insensés ont été marqués dans l'enceinte ou si les plus grands joueurs ont foulé comme nous cette pelouse.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/gxupXz6fPDScE" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/gxupXz6fPDScE" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 En tout cas, le terrain, lui, est de classe internationale 👌🏼.
 

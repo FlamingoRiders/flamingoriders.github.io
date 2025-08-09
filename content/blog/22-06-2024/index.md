@@ -4,7 +4,6 @@ date: "2024-06-22"
 description: "On marche sur l'eau grâce au Trælvikosen et on reste bouche bée devant les montagnes des septs sœurs !"
 location: "Nordland, Norvège"
 tags: ["scenic"]
-pictures: ["22-06-2024/1.webp", "22-06-2024/2.webp", "22-06-2024/3.webp", "22-06-2024/4.webp", "22-06-2024/5.webp", "22-06-2024/6.webp", "22-06-2024/7.webp", "22-06-2024/8.webp", "22-06-2024/9.webp", "22-06-2024/10.webp", "22-06-2024/11.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -15,12 +14,12 @@ On sort du camping à **Vennesund** et on recroise tout de suite à la sortie La
 
 On a relativement peu de dénivelé aujourd'hui et on poursuit sur la route **FV17**. On voit plusieurs troupeaux de vaches et de moutons au bord de l'eau. Il y a de l'espace, cela doit être un coin agréable pour eux. On croise toujours autant de panneaux nous indiquant la présence d'élans mais toujours aucun signe de leur présence 🙃. Ce sont tout de même des cervidés qui ont beaucoup de mal à supporter la chaleur, ils doivent se réfugier dans les hauteurs en journée. Peut-être aurons-nous plus de chance au Nord ?
 
-### On marche sur Trælvikosen 
+### On marche sur Trælvikosen
 
-Alors qu'on approche de **Brønnøysund**, on voit indiquer un point d'intérêt à quelques centaines de mètres. On s'y arrête et il s'agit bien du spot qu'on avait repéré à l'avance : 
+Alors qu'on approche de **Brønnøysund**, on voit indiquer un point d'intérêt à quelques centaines de mètres. On s'y arrête et il s'agit bien du spot qu'on avait repéré à l'avance :
 [Trælvikosen](https://www.nasjonaleturistveger.no/en/routes/helgelandskysten/tralvikosen/) !
 
-Là, depuis la côte, 55 pierres sont alignées sur une rangée dans l'eau et permettent de rejoindre un petit îlot. Il s'agit d'une œuvre artistique évoquant le "*passage du temps*". Les pierres sont complètement immergées lors de la marée haute et sortent de l'eau à marée basse ce qui permet de rejoindre l'îlot à pied 🤩.
+Là, depuis la côte, 55 pierres sont alignées sur une rangée dans l'eau et permettent de rejoindre un petit îlot. Il s'agit d'une œuvre artistique évoquant le "_passage du temps_". Les pierres sont complètement immergées lors de la marée haute et sortent de l'eau à marée basse ce qui permet de rejoindre l'îlot à pied 🤩.
 
 Lorsque nous arrivons, nous sommes au milieu de la marée. On peut donc emprunter le chemin tout en étant les pieds dans l'eau et apercevoir les pierres. Bon timing 😉.
 
@@ -28,9 +27,9 @@ On a également une vue tout au fond sur la montagne de **Torghatten** bien que 
 
 On reprend ensuite la route jusqu'à **Horn** pour prendre un premier ferry.
 
-🦩 : *"Eh mais attend on a fait hier Horn ?! On ne fait pas demi-tour hein ?! Je ne veux pas faire de la route pour rien moi!"*
+🦩 : _"Eh mais attend on a fait hier Horn ?! On ne fait pas demi-tour hein ?! Je ne veux pas faire de la route pour rien moi!"_
 
-*"Non Eduardo, c'était à Holm hier le ferry. Et puis ce n'est pas toi qui l'a faite, la route de toute manière"*.
+_"Non Eduardo, c'était à Holm hier le ferry. Et puis ce n'est pas toi qui l'a faite, la route de toute manière"_.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/XknChYwfPnp04" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -40,7 +39,8 @@ Depuis le ferry, on voit apparaître pour la première fois au loin une chaîne 
 à **Anndalsvåg** !
 
 ### Seven Sisters Mountains
-La portion de route qui suit est une vraie dinguerie. On longe une plage rocailleuse, on est seuls sur cette quinzaine de kilomètres. On rentre un peu dans les terres. On ne sait plus bien si on est en bord de côte ou au milieu d'une forêt ou encore au milieu des montagnes. Tout s'enchaîne, c'est génial. Puis, on retrouve la vue sur les [Seven Sisters](https://www.visitnorway.com/listings/the-seven-sisters-mountain-range-in-alstahaug/221706/) 🤩 ! 
+
+La portion de route qui suit est une vraie dinguerie. On longe une plage rocailleuse, on est seuls sur cette quinzaine de kilomètres. On rentre un peu dans les terres. On ne sait plus bien si on est en bord de côte ou au milieu d'une forêt ou encore au milieu des montagnes. Tout s'enchaîne, c'est génial. Puis, on retrouve la vue sur les [Seven Sisters](https://www.visitnorway.com/listings/the-seven-sisters-mountain-range-in-alstahaug/221706/) 🤩 !
 
 On arrive au ferry à **Rørvik** pour rejoindre l'île de **Tjøtta**. Ce deuxième ferry propose plusieurs arrêts et on va rester dessus une heure et demie. Encore une fois, il est gratuit, merci au gouvernement norvégien 🙏🏼. Depuis le pont, on assiste à un spectacle complètement fou pendant toute la durée. Le panorama offre des vues parfaites sur toutes les montagnes environnantes. Il fait encore plein soleil à 19h ! Suivant son exposition sur les flancs de montagnes, on voit des roches de toutes les couleurs : des roches claires, foncées ou même rouges se succèdent et certains sommets sont enneigés. Imbattable 😃.
 

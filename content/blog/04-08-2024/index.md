@@ -4,7 +4,6 @@ date: "2024-08-04"
 description: "On reprend la route et on s'arrête par hasard non loin d'Öjeby Kyrkstad, une ville-église remarquable !"
 location: "Norrbotten, Suède"
 tags: ["culture"]
-pictures: ["04-08-2024/1.webp", "04-08-2024/2.webp", "04-08-2024/3.webp", "04-08-2024/4.webp", "04-08-2024/5.webp", "04-08-2024/6.webp", "04-08-2024/7.webp", "04-08-2024/8.webp", "04-08-2024/9.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -30,4 +29,5 @@ Cependant, on est tout de même heureux d'être là, il est hors de question de 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/d2ZcfODrNWlA5Gg0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 ### Öjebyn Kyrkstad
+
 Alors que l'on approche de notre destination, on est surpris de tomber à nouveau dans une petite ville déserte avec une église en son centre. Nous sommes à **Öjebyn Kyrkstad**, une autre ville-église ! L'impression est la même que pour **Gammelstad Kyrkstad**, c'est vraiment une ambiance très particulière ces petits cottages inhabités. Ils sont en très bon état mais pour autant, on sait qu'ils ne sont pas récents et restent assez sommaires. C'est vraiment chouette de tomber par hasard sur ces musées à ciel ouvert 🤗.

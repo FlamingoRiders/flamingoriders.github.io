@@ -3,7 +3,6 @@ title: 🧀 Le gouda d'Eduardo du 9 avril
 date: "2024-04-09"
 description: "Good morning Belgium, good afternoon Netherlands !"
 location: "Brabant-Septentrional, Pays-Bas"
-pictures: ["09-04-2024/1.webp", "09-04-2024/2.webp", "09-04-2024/3.webp", "09-04-2024/4.webp", "09-04-2024/5.webp", "09-04-2024/6.webp"]
 ---
 
 ![Gouda d'Eduardo](../gouda_eduardo.png)
@@ -12,7 +11,7 @@ Aujourd'hui, c'est notre dernier réveil au royaume des gaufres, frites et à pe
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5zvJ6DUahHHjeknQPn7iAH?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-En sortant d'**Anvers** nous empruntons l'itinéraire [F14](https://fietssnelwegen.be/fr/cyclostrades/F14) que nous quittons peu avant **Essen**. Attention, il s'agit de la ville de Belgique, pas celle d'Allemagne. Les habitués des *Aventuriers du Rail Europe* connaissent bien cette dernière 😉. La voie cyclable est type-top, elle longe une voie ferrée où nous apercevons seulement deux trains sur la bonne heure et demie où nous l'empruntons. Le revêtement est celui que nous avons rencontré de mieux depuis notre départ.
+En sortant d'**Anvers** nous empruntons l'itinéraire [F14](https://fietssnelwegen.be/fr/cyclostrades/F14) que nous quittons peu avant **Essen**. Attention, il s'agit de la ville de Belgique, pas celle d'Allemagne. Les habitués des _Aventuriers du Rail Europe_ connaissent bien cette dernière 😉. La voie cyclable est type-top, elle longe une voie ferrée où nous apercevons seulement deux trains sur la bonne heure et demie où nous l'empruntons. Le revêtement est celui que nous avons rencontré de mieux depuis notre départ.
 
 Nous passons par **Kalmthout** et pouvons témoigner qu'il s'agit bien d'une ville toute calme.
 
@@ -27,6 +26,7 @@ La première c'est qu'on va traverser la frontière et atterrir aux Pays-Bas. Ic
 La deuxième c'est qu'il ne fait pas bien chaud aujourd'hui et qu'on dort au camping ce soir. Pour se réchauffer pendant la journée et pour bien dormir dans des conditions moins confortables, bien se dépenser est une solution 😅.
 
 ### Le vilain vent
+
 Ayant prévu des salades en pique-nique, nous faisons une pause pas loin d'**Essen**. En fin de repas, nous sommes surpris par un très fort vent et nous dépêchons de repartir. Nana commence déjà à ne plus sentir ses doigts.
 
 Les bourrasques sont imprévisibles et nous déportent parfois de quelques centimètres sur la chaussée. Quand on ne s'y attend pas ça surprend et parfois le vent est un peu violent tout de même 😲.
@@ -35,13 +35,13 @@ Les bourrasques sont imprévisibles et nous déportent parfois de quelques centi
 
 Heureusement, ici les pistes cyclables sont la norme. Alléluia ! Les gens font attention à nous et on se sent en sécurité.
 
-On passe la frontière aux alentours de 14h. Encore une fois on y voit que du feu, pas de délimitation claire, pas de panneau, pas de douane. Foutu espace Schengen et Europe ! À cause d'eux, fini les photos souvenirs à la frontière. 
+On passe la frontière aux alentours de 14h. Encore une fois on y voit que du feu, pas de délimitation claire, pas de panneau, pas de douane. Foutu espace Schengen et Europe ! À cause d'eux, fini les photos souvenirs à la frontière.
 
 Je plaisante bien sûr. Quelle chance incroyable de pouvoir circuler librement sans se rendre compte qu'on change de pays. On vit vraiment sur un continent magique.
 
 On décide quand même de faire une pause dans un petit café pour se réchauffer. Il est 15h et c'est assez animé. On entre et là... Ça parle dans tous les sens et on ne comprend rien ! Je me sens complètement perdu alors que j'étais bien plus à l'aise en Belgique où l'on parlait flamand.
 
-*"Mais Eduardo, ça fait trois jours qu'on entend du néerlandais. Les flamands parlent le néerlandais. C'est la même langue*"
+_"Mais Eduardo, ça fait trois jours qu'on entend du néerlandais. Les flamands parlent le néerlandais. C'est la même langue_"
 
 Ah tiens ! Je me disais aussi c'est pas le même flamant que par chez moi !
 
@@ -49,9 +49,9 @@ Dans ce café, ce qui nous frappe c'est qu'il y a un immense parking a vélo dev
 
 On reprend la route et on passe notamment par une piste où l'on voit apparaître l'inscription [Van Gogh cycling route](https://www.visitbrabant.com/en/things-to-do/van-gogh-routes). La pluie s'intensifie pendant l'après-midi et nous traversons une forêt qui bien que plate, nous fait rouler dans la terre et quelques cailloux. La moyenne est en sursis !
 
-Sur la suite de la journée, nous avons la chance de croiser beaucoup d'animaux. Des vaches, des moutons, des chevaux mais aussi des poneys shetlands très mignons qui viennent nous dire bonjour ainsi qu'un alpaga. Plus loin, en plein milieu d'un champ, nous apercevons au loin dans les hautes herbes un faisan et son faisandeau. 
+Sur la suite de la journée, nous avons la chance de croiser beaucoup d'animaux. Des vaches, des moutons, des chevaux mais aussi des poneys shetlands très mignons qui viennent nous dire bonjour ainsi qu'un alpaga. Plus loin, en plein milieu d'un champ, nous apercevons au loin dans les hautes herbes un faisan et son faisandeau.
 
-On termine la journée par une entrée dans **Bréda** où il y a plus de pavés et forcément plus de circulation. Nico peste : *"La moyenne, la moyenne !!*"
+On termine la journée par une entrée dans **Bréda** où il y a plus de pavés et forcément plus de circulation. Nico peste : _"La moyenne, la moyenne !!_"
 
 Et dans tout ça alors, comment on s'en est sorti avec notre défi neuneu ?
 

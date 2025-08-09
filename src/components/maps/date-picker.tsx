@@ -1,12 +1,14 @@
 import React from "react";
 
 interface DatePickerProps {
+  label: string;
   selectedDate: string;
   startDate: string;
   lastDate: string;
   onChangeDate: (selectedDate: string) => void;
 }
 const DatePicker: React.FC<DatePickerProps> = ({
+  label,
   startDate,
   lastDate,
   selectedDate,
@@ -23,7 +25,7 @@ const DatePicker: React.FC<DatePickerProps> = ({
       }}
     >
       <label htmlFor="marker-select">
-        La position du jour&nbsp;:&nbsp;&nbsp;
+        {label}&nbsp;:&nbsp;&nbsp;
       </label>
       <input
         type="date"

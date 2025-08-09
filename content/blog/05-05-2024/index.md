@@ -4,7 +4,6 @@ date: "2024-05-05"
 description: "On se baigne à Copenhague !"
 location: "Copenhague, Danemark"
 tags: ["heart", "culture"]
-pictures: ["05-05-2024/1.webp", "05-05-2024/2.webp", "05-05-2024/3.webp", "05-05-2024/4.webp", "05-05-2024/5.webp", "05-05-2024/6.webp", "05-05-2024/7.webp", "05-05-2024/8.webp", "05-05-2024/9.webp", "05-05-2024/10.webp", "05-05-2024/11.webp", "05-05-2024/12.webp", "05-05-2024/13.webp", "05-05-2024/14.webp", "05-05-2024/15.webp", "05-05-2024/16.webp", "05-05-2024/17.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

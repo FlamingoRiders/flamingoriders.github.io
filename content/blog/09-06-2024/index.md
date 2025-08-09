@@ -3,12 +3,11 @@ title: 🐟 Le saumon d'Eduardo du 9 juin
 date: "2024-06-09"
 description: "Des tunnels, un ferry et encore des tunnels pour traverser le Storfjord !"
 location: "Møre og Romsdal, Norvège"
-pictures: ["09-06-2024/1.webp", "09-06-2024/2.webp", "09-06-2024/3.webp", "09-06-2024/4.webp", "09-06-2024/5.webp", "09-06-2024/6.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Ce matin, il pleut bien. Depuis hier soir il pleut bien. On pensait que les nuages auraient déversé tout ce qu'ils avaient à déverser mais on se trompe. On regarde la météo locale, elle nous fait très peur car elle annonce une pluie toute la journée. Le dénivelé est conséquent aussi. On a pas trop de réserves alimentaires et on est dimanche, on a regardé un petit peu, les courses ne seront pas avant une bonne quarantaine de kilomètres. Avec tout cela en tête  dès notre petit-déjeuner, on s'imagine déjà qu'on va vivre une belle galère 😅.
+Ce matin, il pleut bien. Depuis hier soir il pleut bien. On pensait que les nuages auraient déversé tout ce qu'ils avaient à déverser mais on se trompe. On regarde la météo locale, elle nous fait très peur car elle annonce une pluie toute la journée. Le dénivelé est conséquent aussi. On a pas trop de réserves alimentaires et on est dimanche, on a regardé un petit peu, les courses ne seront pas avant une bonne quarantaine de kilomètres. Avec tout cela en tête dès notre petit-déjeuner, on s'imagine déjà qu'on va vivre une belle galère 😅.
 
 ### Des tunnels en masse
 
@@ -20,7 +19,7 @@ Comme il est en montée, on va prendre un moment à le franchir. Cela se passe p
 
 On franchit alors un deuxième tunnel de 3,7 kilomètres. Comme le premier, on ne peut pas y échapper. La route est plus roulante, on va faire moins de dénivelé positif que ce qui était annoncé.
 
-On avait déjà remarqué que les routes empruntées par les voitures présentaient souvent des pentes bien plus faciles que celles pour les vélos. C'est encore plus vrai dans les tunnels. Quand il y a une alternative pour les vélos souvent la piste passe par dessus, elle est donc plus corsée en termes de pente. 
+On avait déjà remarqué que les routes empruntées par les voitures présentaient souvent des pentes bien plus faciles que celles pour les vélos. C'est encore plus vrai dans les tunnels. Quand il y a une alternative pour les vélos souvent la piste passe par dessus, elle est donc plus corsée en termes de pente.
 
 Curieusement, les tunnels sont une bénédiction aujourd'hui car ils nous permettent de nous abriter de la pluie 🤗 !
 

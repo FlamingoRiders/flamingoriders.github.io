@@ -4,24 +4,23 @@ date: "2024-06-24"
 description: "On essaie de prendre un raccourci mais le destin en décide autrement : on doit faire le grand tour du fjord sous une pluie battante."
 location: "Nordland, Norvège"
 tags: ["scenic"]
-pictures: ["24-06-2024/1.webp", "24-06-2024/2.webp", "24-06-2024/3.webp", "24-06-2024/4.webp", "24-06-2024/5.webp", "24-06-2024/6.webp", "24-06-2024/7.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Ce matin, on se lève bien plus tôt que d'habitude. On n'est pas encore certains de notre programme mais on est juste à côté d'un ferry qui passe à 8h45. 
+Ce matin, on se lève bien plus tôt que d'habitude. On n'est pas encore certains de notre programme mais on est juste à côté d'un ferry qui passe à 8h45.
 
 On se lève donc vers 7h pour prendre ce ferry. On se dit qu'à bord, on élaborera notre plan. On ne pouvait pas vraiment le faire avant car on ne captait pas le réseau.
 
 Notre journée commence par un sprint massif sur cette portion de 5 kilomètres qui nous amène au ferry. On doit réemprunter le sentier terreux et dès qu'on enfourche nos vélos, la pluie s'abat sur nous. Ça promet 😅.
 
-On sait que la météo va être très difficile quand on aura passé midi. Sur [YR](https://www.yr.no/en), notre application de référence en **Norvège** pour la météo, il est annoncé de la *"heavy rain*" toute la journée avec plusieurs millimètres de précipitations toutes les heures. Ça se traduit grosso modo par *"Vous allez déguster les petits poulets 🐔"* ! Enfin les petits flamants roses 🦩. Je ne sais pas si on peut parler de dégustation d'ailleurs parce que l'on peut déguster un plat, un bon vin mais de l'eau ? À méditer 🤔.
+On sait que la météo va être très difficile quand on aura passé midi. Sur [YR](https://www.yr.no/en), notre application de référence en **Norvège** pour la météo, il est annoncé de la _"heavy rain_" toute la journée avec plusieurs millimètres de précipitations toutes les heures. Ça se traduit grosso modo par _"Vous allez déguster les petits poulets 🐔"_ ! Enfin les petits flamants roses 🦩. Je ne sais pas si on peut parler de dégustation d'ailleurs parce que l'on peut déguster un plat, un bon vin mais de l'eau ? À méditer 🤔.
 
 On prend ce premier ferry en direction de **Nesna**. À bord, on élabore un plan génialissime avec Nana et Nico, ou du moins, c'est ce que l'on croit à cet instant.
 
 On a regardé notre trace du jour, on veut atteindre le prochain camping à 30 kilomètres à vol d'oiseau. En vélo c'est 90 kilomètres 😬. Il y a ce truc en plein milieu qu'on doit contourner. Ça s'appelle un **fjord**. Jamais vu ça de ma vie !
 
-💁🏼‍♀️ : *"Ben voyons Eduardo, c'est notre 20ème fjord"*
+💁🏼‍♀️ : _"Ben voyons Eduardo, c'est notre 20ème fjord"_
 
 Ah ! Comme quoi, on en rate des choses quand on reste au fond de la sacoche 🛟😏.
 
@@ -33,11 +32,11 @@ On arrive donc au quai de **Nesna** vers 9h, bien en avance car le deuxième fer
 
 On s'avance à un guichet et le gars en face est jeune et il a l'air sympathique mais on ne comprend pas pourquoi il sourit tout le temps alors qu'il nous annonce que des mauvaises nouvelles 😂. Il semble en plus pas du tout sûr de ce qu'il nous raconte.
 
-👮🏻‍♂️ : *"Ah le ferry de 11h ? Non pas aujourd'hui. Il est annulé. A cause du mauvais temps ! Enfin non, le service n'est pas assuré car le capitaine est malade. Mais ne vous inquiétez pas vous pouvez faire le tour par les montagnes, c'est joli en plus."* 
+👮🏻‍♂️ : _"Ah le ferry de 11h ? Non pas aujourd'hui. Il est annulé. A cause du mauvais temps ! Enfin non, le service n'est pas assuré car le capitaine est malade. Mais ne vous inquiétez pas vous pouvez faire le tour par les montagnes, c'est joli en plus."_
 
-🙆🏼‍♀️ : *"Quoi mais c'est 60 kilomètres de plus et il va pleuvoir un max"*
+🙆🏼‍♀️ : _"Quoi mais c'est 60 kilomètres de plus et il va pleuvoir un max"_
 
-👮🏻‍♂️ : *"Ah ouai ça c'est sûr, il va pleuvoir"* nous répond-il en riant. *"Ah mais sinon il y a le ferry de 17h"*
+👮🏻‍♂️ : _"Ah ouai ça c'est sûr, il va pleuvoir"_ nous répond-il en riant. _"Ah mais sinon il y a le ferry de 17h"_
 
 Dis-donc il se foutrait pas un peu de nous là l'ami ? On a beau être dans ce pays depuis un mois et demi, je pense qu'on n'est pas encore très réceptif à l'humour norvégien 🤔.
 
@@ -49,13 +48,14 @@ On continue notre route. Il est encore tôt. On voulait faire 35 kilomètres à 
 
 Les cinquante premiers se passent super bien. On a même quelques éclaircies. On monte dans les montagnes mais on a de belles vues sur le fjord. La météo semble même favorable plus longtemps qu'espéré. On réussit à pousser jusqu'à 13h30.
 
-La pluie commence doucement. Au départ, on s'abrite pour notre pause déjeuner mais il faut bien se décider à repartir. Bientôt, les averses deviennent terribles et ne prennent plus fin. C'est un véritable déluge. On va croiser plusieurs cyclistes sur notre chemin avec qui on va taper la discute. On partagera tous le même ressenti sur cet enfer : a shit day. 
+La pluie commence doucement. Au départ, on s'abrite pour notre pause déjeuner mais il faut bien se décider à repartir. Bientôt, les averses deviennent terribles et ne prennent plus fin. C'est un véritable déluge. On va croiser plusieurs cyclistes sur notre chemin avec qui on va taper la discute. On partagera tous le même ressenti sur cet enfer : a shit day.
 
-*"Oh Eduardo pas de gros mots ici !"*
+_"Oh Eduardo pas de gros mots ici !"_
 
 Oui mais là, on a le droit de l'écrire car ce ne sont pas nos mots 😂.
 
 ### Une journée au mental
+
 Aujourd'hui, on a une grosse distance, un gros dénivelé et une grosse pluie. Pour les deux premiers, on y est préparé, on l'a choisi quelque part 😉.
 
 La pluie, c'est différent. De toutes les difficultés que nous traversons lors de notre voyage, c'est sans doute la plus difficile à affronter. Elle ne prévient pas, on ne la choisit pas, on la subit.
@@ -65,12 +65,12 @@ De plus, on ne peut pas l'affronter avec le physique, il faut trouver d'autres m
 Ce qui nous amène à la question suivante : c'est quoi au juste le mental 🤔 ? Souvent on sait dire quand on l'a ou on ne l'a pas 😅. Par contre, savoir qu'est-ce qui fait le mental, chacun a ses pistes :
 
 - Penser au positif, à ce qui fait du bien : la famille, les amis, les passions.
-- S'encourager, se rassurer, se parler intérieurement : *"Allez ça va le faire, je suis bien. Courage, on se bat*".
+- S'encourager, se rassurer, se parler intérieurement : _"Allez ça va le faire, je suis bien. Courage, on se bat_".
 - Un état de concentration, sur les sensations de son corps, sur l'aspect technique. On se concentre sur notre gestion d'énergie, notre trajectoire, notre cadence ou encore la fluidité de nos coups de pédales.
 - Débrancher son cerveau et ne penser à rien. Et peut-on vraiment ne penser à rien ? Ne sommes-nous pas rappelés à la réalité par la dureté des conditions que nous traversons ?
 - etc.
 
-Bref, le mental c'est l'affaire de chacun, cette fluidité de l'esprit, cette zone dans laquelle on est à l'aise : *"le flow"*. Tous les moyens sont bons pour y parvenir.
+Bref, le mental c'est l'affaire de chacun, cette fluidité de l'esprit, cette zone dans laquelle on est à l'aise : _"le flow"_. Tous les moyens sont bons pour y parvenir.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/qUAf5RDOPqqhsHeFAG" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

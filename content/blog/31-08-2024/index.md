@@ -3,7 +3,6 @@ title: 🥮 Le kanelbulle d'Eduardo du 31 août
 date: "2024-08-31"
 description: "Dernière journée à Stockholm avant de rentrer !"
 location: "Stockholm, Suède"
-pictures: ["31-08-2024/1.webp", "31-08-2024/2.webp", "31-08-2024/3.webp", "31-08-2024/4.webp", "31-08-2024/5.webp", "31-08-2024/6.webp", "31-08-2024/7.webp", "31-08-2024/8.webp", "31-08-2024/9.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -22,7 +21,7 @@ En fin d'après-midi, on poursuit sur l'île **Riddarholmen**. On passe devant l
 
 Nous rentrons à notre auberge de jeunesse en traversant le quartier de **Södermalm** où nous sommes déjà passés plusieurs fois. C'est censé être un bon endroit pour sortir, boire un verre et dîner. Dans cette optique, on recherche donc un restaurant. On est samedi soir et il est déjà 19h30 passé mais on a du mal à trouver un restaurant. On en croise mais lorsque l'on tente de rentrer à l'intérieur, on se rend compte que c'est bondé et que les gens s'adonnent surtout à une activité particulière : la buvette. Les verres semblent descendre plus vite que les enfants sur un toboggan.
 
-On avait déjà remarqué que le week-end était *"festif"* en **Suède** mais là, on s'inquiète un peu tout de même. Est-ce qu'on va trouver un coin où manger ? Une autre question, plus importante encore, nous taraude l'esprit : avec quoi est-ce que les gens épongent leurs bières et verres de vin ? 
+On avait déjà remarqué que le week-end était _"festif"_ en **Suède** mais là, on s'inquiète un peu tout de même. Est-ce qu'on va trouver un coin où manger ? Une autre question, plus importante encore, nous taraude l'esprit : avec quoi est-ce que les gens épongent leurs bières et verres de vin ?
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/l0MYRacWiUSxR2JMc" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -53,16 +52,17 @@ C'est ainsi que s'achève notre dernière journée en **Suède**. Il y a une ém
 Nous aurons roulé de longues heures le long du **golfe de Botnie**, traversant d'immenses forêts vierges et longeant de superbes côtes. On aura également roulé pas mal de fois sur des petites routes et des chemins gravel accidentés, tout cela dans le but d'éviter la fatidique **E4** qui commence à **Tornio** et descend jusqu'à **Helsingborg** tout au sud.
 
 La **Suède** est un pays que nous avons grandement apprécié. Nous retiendrons tout particulièrement :
+
 - l'archipel d'**Haparanda** qui fut notre premier arrêt dans le pays,
 - les villes-églises de **Gammelstad** et d'**Öjeby Kyrkstad**, ces villes historiques remarquablement préservées avec leur élégante architecture et organisation,
 - la **Höga Kusten** et le **Skuleskogen National Park**, pour leurs paysages et histoire géologique hors du commun,
 - ces gigntesques lacs et forêts, symbole d'une nature florissante,
 - les villes d'**Umeå**, **Luleå** et **Uppsala** où l'on se dit qu'il doit faire bon vivre avec leur atmosphère étudiante et leurs infrastructures cyclables en parfait état,
 - l'inoubliable **Stockholm**, cette capitale bâtie sur 14 îles où l'on trouve assurément de quoi satisfaire tous les goûts,
-- le suédois : des gens adorables qui nous abordent très facilement. Ils sont au moins aussi curieux des visiteurs et de leurs histoires que nous qui avons tout à découvrir en étant immergés dans leur pays. On apprécie également le rythme de vie. Ici, on sent que l'équilibre vie pro et vie perso n'est pas juste un mot pour faire joli. On sent les gens épanouis sans faire d'efforts démentiels, il suffit d'un mode de vie centré sur les plaisirs simples comme la famille, les proches, la musique pop et le *fika* !
+- le suédois : des gens adorables qui nous abordent très facilement. Ils sont au moins aussi curieux des visiteurs et de leurs histoires que nous qui avons tout à découvrir en étant immergés dans leur pays. On apprécie également le rythme de vie. Ici, on sent que l'équilibre vie pro et vie perso n'est pas juste un mot pour faire joli. On sent les gens épanouis sans faire d'efforts démentiels, il suffit d'un mode de vie centré sur les plaisirs simples comme la famille, les proches, la musique pop et le _fika_ !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7xzgJNufqvox5oQQa1dP1O?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Pour toutes ces raisons, nous avons doublement envie de revenir. Nous souhaitons nous réimprégner de toutes ces *"bonnes vibes"* suédoises et nous souhaitons aussi découvrir le sud du pays et l'intérieur des terres. 
+Pour toutes ces raisons, nous avons doublement envie de revenir. Nous souhaitons nous réimprégner de toutes ces _"bonnes vibes"_ suédoises et nous souhaitons aussi découvrir le sud du pays et l'intérieur des terres.
 
 En attendant, il ne nous reste plus qu'une chose à dire : Hej då Sverige 🇸🇪 💛💙 !

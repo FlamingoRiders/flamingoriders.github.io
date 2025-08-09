@@ -4,7 +4,6 @@ date: "2024-05-06"
 description: "Dégustation de smørrebrød et visite d'un des plus vieux parcs d'attractions au monde à Copenhague !"
 location: "Copenhague, Danemark"
 tags: ["heart", "culture"]
-pictures: ["06-05-2024/1.webp", "06-05-2024/2.webp", "06-05-2024/3.webp", "06-05-2024/4.webp", "06-05-2024/5.webp", "06-05-2024/6.webp", "06-05-2024/7.webp", "06-05-2024/8.webp", "06-05-2024/9.webp", "06-05-2024/10.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)

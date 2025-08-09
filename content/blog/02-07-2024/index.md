@@ -4,30 +4,31 @@ date: "2024-07-02"
 description: "On double la mise à Bodø et au Reinebringen !"
 location: "Nordland, Norvège"
 tags: ["hike"]
-pictures: ["02-07-2024/1.webp", "02-07-2024/2.webp", "02-07-2024/3.webp", "02-07-2024/4.webp", "02-07-2024/5.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Ce matin, le réveil est tôt, très (trop ?) tôt, aux alentours de 5h15. La veille, on a découvert un incident mécanique sur le vélo de Nana, le câble de vitesse a lâché ; impossible de passer les vitesses. Noemi nous a très gentiment dépanné avec un nouveau câble. Cependant, il semblerait qu'une partie de l'ancien câble soit coincée dans la manette. La décision a été assez rapide à prendre. On pouvait soit retourner à **Bodø** où l'on était sûrs de trouver des magasins à vélo pour la réparation, quel que soit la nature du problème. Ou bien, poursuivre sur notre route sachant que nous n'avons pas repéré de magasins de vélos dans le coin. On a privilégié l'option *"sûre"*.
+Ce matin, le réveil est tôt, très (trop ?) tôt, aux alentours de 5h15. La veille, on a découvert un incident mécanique sur le vélo de Nana, le câble de vitesse a lâché ; impossible de passer les vitesses. Noemi nous a très gentiment dépanné avec un nouveau câble. Cependant, il semblerait qu'une partie de l'ancien câble soit coincée dans la manette. La décision a été assez rapide à prendre. On pouvait soit retourner à **Bodø** où l'on était sûrs de trouver des magasins à vélo pour la réparation, quel que soit la nature du problème. Ou bien, poursuivre sur notre route sachant que nous n'avons pas repéré de magasins de vélos dans le coin. On a privilégié l'option _"sûre"_.
 
 ### Passage éclair à Bodø
+
 On quitte le camping et l'on retourne sur le quai du ferry, 300 mètres plus loin. On est à l'heure, c'est top, on va pouvoir prendre le premier ferry à 7h !
 
-C'est parti pour un peu plus de trois heures de traversée. À bord, on termine notre nuit puis on petit-déjeune. On a le wifi et le ferry reste gratuit pour les vélos. Oui, on ne peut pas se plaindre, c'est un contretemps, pas un immense bouleversement. 
+C'est parti pour un peu plus de trois heures de traversée. À bord, on termine notre nuit puis on petit-déjeune. On a le wifi et le ferry reste gratuit pour les vélos. Oui, on ne peut pas se plaindre, c'est un contretemps, pas un immense bouleversement.
 Par contre ces gros ferries donnent toujours un peu le mal de mer à Nico 🤢.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/f79yNki0G6HLt2pOv1" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/f79yNki0G6HLt2pOv1" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 On descend du ferry à **Bodø**, on est accostés par des touristes qui le prennent dans l'autre sens :
 
-*"Alors c'était bien les Lofoten ?"*
+_"Alors c'était bien les Lofoten ?"_
 
-👨🏼 : *"Ah pour ce qu'on en a vu c'était top ! On a tellement aimé qu'on y retourne cet après-midi !"* 🤣 
+👨🏼 : _"Ah pour ce qu'on en a vu c'était top ! On a tellement aimé qu'on y retourne cet après-midi !"_ 🤣
 
 On s'empresse de retourner au **Sport 1** qui avait pu dépanner Mika et Noemi l'autre jour, on leur fait donc confiance. La mission est un immense succès, après un bon quart d'heure, le problème de Nana est réglé.
 
 ### De retour aux Lofoten !
+
 On mange rapidement et on est en mesure de reprendre le ferry pour **Moskenes** à 13h30.
 
 Sur le quai, on recroise Rob 🇧🇪 qui a été rejoint à **Bodø** par sa copine. On lui explique nos galères et on lui dit que **Værøy**, le village de **Å** et le sommet **Reinebringen**, c'est magique 🪄 !
@@ -40,8 +41,8 @@ On remonte notre tente au camping. On aurait pu la laisser si on avait su que le
 
 Vers 20h, on se dit qu'il serait peut-être temps de rentrer. Oui, ça serait sans doute le plus raisonnable. Cependant, une idée trotte dans la tête de Nico, est-ce qu'on ne remonterait pas au **Reinebringen** 🤭 ?
 
-La veille on l'avait fait très tôt le matin sous le soleil de minuit. Aujourd'hui c'est plus couvert, l'ambiance y sera différente. Nana est moyen chaud mais se laisse tout de même convaincre. C'est parti pour une deuxième ascension 😁 ! 
+La veille on l'avait fait très tôt le matin sous le soleil de minuit. Aujourd'hui c'est plus couvert, l'ambiance y sera différente. Nana est moyen chaud mais se laisse tout de même convaincre. C'est parti pour une deuxième ascension 😁 !
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/lXi4PSZmhEiM76tuIT" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/lXi4PSZmhEiM76tuIT" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Même si moins de 48h séparent nos deux montées au mythique point de vue sur le **Reinefjord**, l'impression est la même : c'est grandiose. Du coup, on peut l'affirmer : si on a coutume de dire qu'il faut faire certaines choses au moins une fois dans sa vie, pour le **Reinebringen**, deux montées ne sont pas de trop 😉.

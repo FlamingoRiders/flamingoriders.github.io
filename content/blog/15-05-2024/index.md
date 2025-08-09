@@ -4,7 +4,6 @@ date: "2024-05-15"
 description: "Sur les îles du fjord d'Oslo !"
 location: "Oslo, Norvège"
 tags: ["heart"]
-pictures: ["15-05-2024/1.webp", "15-05-2024/2.webp", "15-05-2024/3.webp", "15-05-2024/4.webp", "15-05-2024/5.webp", "15-05-2024/6.webp", "15-05-2024/7.webp", "15-05-2024/8.webp", "15-05-2024/9.webp", "15-05-2024/10.webp", "15-05-2024/11.webp", "15-05-2024/12.webp", "15-05-2024/13.webp", "15-05-2024/14.webp", "15-05-2024/15.webp", "15-05-2024/16.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -18,7 +17,7 @@ La chambre dans laquelle on dort n'a pas un rideau qui bloque totalement la lumi
 Aujourd'hui, on a décidé de partir visiter les îles du fjord. Ça se fait très bien, le ferry public fait un tour et les dessert chacune une fois par heure. Le plus simple pour se déplacer à **Oslo**, c'est assurément d'utiliser les transports en commun et de prendre un [ticket valable plusieurs jours](https://ruter.no/en/buying-tickets/tickets-and-fares/7-day-tickets/). Avec ce pass, on peut prendre librement les bus, trams, métros et ferries de la métropole.
 Le pass 7 jours coûte une trentaine d'euros mais un trajet unitaire en coûte 4. Sur plusieurs jours, c'est très vite amorti.
 
-Ce matin, on commence par prendre un tram et on est contrôlé. Rien à voir avec les contrôleurs RATP, pas de grimace ou de costume vert, les contrôleurs sont habillés très *"casual*" en habits de tous les jours et très souriants avec les passagers. La fraude ne semble pas trop un souci ici.
+Ce matin, on commence par prendre un tram et on est contrôlé. Rien à voir avec les contrôleurs RATP, pas de grimace ou de costume vert, les contrôleurs sont habillés très _"casual_" en habits de tous les jours et très souriants avec les passagers. La fraude ne semble pas trop un souci ici.
 
 On rejoint ensuite **Aker Brygge** pour prendre le ferry qui mène aux îles. On patiente et il fait très grand soleil et déjà bien chaud. On discute rapidement avec une locale qui nous confirme dans la file d'attente du ferry que ce temps n'est pas habituel, il est clairement exceptionnel 😎. On a une météo estivale depuis qu'on est arrivé dans la capitale !
 
@@ -29,9 +28,9 @@ On rejoint la première île desservie, la plus proche du centre-ville : **Hoved
 On marche bien et on essaie de les parcourir le plus possible avant de reprendre le ferry 😉. Eh oui, ce n'est pas parce qu'on ne roule pas qu'on se laisse aller les amis !
 Sur **Hovedøya**, on trouve notamment les ruines d'un ancien monastère. L'île a aussi été utilisée par l'armée norvégienne pour des tests et entraînements militaires ! On observe d'ailleurs dix très belles répliques de canons dans les hauteurs.
 
-On rejoint ensuite **Lindøya**. Lors de l'approche en bateau et des premières foulées, on tombe immédiatement sous son charme. L'île compte près de 300 *"hytter"*, de traditionnelles maisonnettes ou résidences secondaires. Elles sont tour à tour, jaunes, rouges et vertes et avec leur couleur vive et leur entretien, on se sent dans un petit village champêtre du littoral. Le coin idéal pour sa maison de retraite ou tout simplement pour une escapade d'**Oslo** au calme le week-end.
+On rejoint ensuite **Lindøya**. Lors de l'approche en bateau et des premières foulées, on tombe immédiatement sous son charme. L'île compte près de 300 _"hytter"_, de traditionnelles maisonnettes ou résidences secondaires. Elles sont tour à tour, jaunes, rouges et vertes et avec leur couleur vive et leur entretien, on se sent dans un petit village champêtre du littoral. Le coin idéal pour sa maison de retraite ou tout simplement pour une escapade d'**Oslo** au calme le week-end.
 
-On pique-nique sur l'île puis on rejoint un ponton avec un sautoir. On est obligés d'y aller. Après être descendus par une échelle pour préparer leur corps au choc thermique, Nana et Nico se jettent à l'eau ! Je les aurais bien suivi mais je vais être honnête avec vous. L'eau est à 15 degrés et j'ai pris peur. Oui, on peut dire que j'ai fait mon *"flamant mouillé"* sauf que j'étais sec 😬. Il ne manquera plus que **Stockholm** pour compléter notre collection de baignades dans les capitales scandinaves et décrocher la tant convoitée **triple couronne scandinave** 👑👑👑🏊‍♂️. Bien sûr que oui, c'est un vrai truc 😉 !
+On pique-nique sur l'île puis on rejoint un ponton avec un sautoir. On est obligés d'y aller. Après être descendus par une échelle pour préparer leur corps au choc thermique, Nana et Nico se jettent à l'eau ! Je les aurais bien suivi mais je vais être honnête avec vous. L'eau est à 15 degrés et j'ai pris peur. Oui, on peut dire que j'ai fait mon _"flamant mouillé"_ sauf que j'étais sec 😬. Il ne manquera plus que **Stockholm** pour compléter notre collection de baignades dans les capitales scandinaves et décrocher la tant convoitée **triple couronne scandinave** 👑👑👑🏊‍♂️. Bien sûr que oui, c'est un vrai truc 😉 !
 
 On reprend le ferry qui nous mène sur l'île juste en face, **Gressholmen**, en 4 minutes chrono. En sortant du ferry, on emprunte un sentier escarpé qui nous amène dans les hauteurs de l'île. C'est très boisé, on observe aussi beaucoup de muguet. Cette île est très propice à la balade, par moments elle nous évoque même des souvenirs de rando à **Majorque**. On descend un petit peu pour longer un hangar utilisé pour des bateaux de plaisance. Sur une façade extérieure et ombragée on aperçoit un thermomètre : 23 degrés. C'est une très belle journée. On ne va pas vous mentir, pas de nuage, pas de vent. En plein soleil ça chauffe vite ! On remet plusieurs fois de la crème solaire 🥵.
 

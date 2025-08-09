@@ -3,7 +3,6 @@ title: 🐟 Le saumon d'Eduardo du 5 juin
 date: "2024-06-05"
 description: "Entre les gouttes, la pause s'impose au lac Breimsvatnet !"
 location: "Vestland, Norvège"
-pictures: ["05-06-2024/1.webp", "05-06-2024/2.webp", "05-06-2024/3.webp", "05-06-2024/4.webp", "05-06-2024/5.webp", "05-06-2024/6.webp", "05-06-2024/7.webp", "05-06-2024/8.webp", "05-06-2024/9.webp", "05-06-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -11,13 +10,14 @@ pictures: ["05-06-2024/1.webp", "05-06-2024/2.webp", "05-06-2024/3.webp", "05-06
 Aujourd'hui, on se lève avec une mine un peu déconfite, accablés par les derniers jours de pluie et nos corps un peu fatigués. Pourtant, on a passé une bonne nuit, on s'est même levé plus tard que d'habitude et certains bobos de la veille commencent à s'estomper. Justement, on se demande si on aurait pas pu repartir ? Est-ce que l'on ne pouvait pas passer au-dessus des difficultés de la veille ? Trop tard, la décision a été prise hier soir, on restera au camping aujourd'hui.
 
 ### Heureux retournement de situation
+
 Nico s'en va donc à la réception pour régler la nuit de ce soir. La dame est adorable, parle parfaitement anglais et on avait déjà bien discuté hier soir.
 
-🧑🏻 : *"Quels sont vos plans aujourd'hui ?"*
+🧑🏻 : _"Quels sont vos plans aujourd'hui ?"_
 
-👨🏼 : *"On va rester et se reposer un peu, la pluie d'hier nous a vraiment refroidi, on est pas prêts à réattaquer. J'ai aussi un problème avec mon vélo, je vais peut-être l'amener à l'Intersport à 15 kilomètres"*.
+👨🏼 : _"On va rester et se reposer un peu, la pluie d'hier nous a vraiment refroidi, on est pas prêts à réattaquer. J'ai aussi un problème avec mon vélo, je vais peut-être l'amener à l'Intersport à 15 kilomètres"_.
 
-🧑🏻 : *"Si vous voulez j'ai un ami qui fait beaucoup de vélo, il en a 13, il bricole aussi, il peut jeter un coup d'oeil ?"*.
+🧑🏻 : _"Si vous voulez j'ai un ami qui fait beaucoup de vélo, il en a 13, il bricole aussi, il peut jeter un coup d'oeil ?"_.
 
 Soudain, l'espoir revient. Pédaler 30 kilomètres aller-retour jusqu'à la prochaine ville, sous la pluie et avec une roue voilée, n'était pas vraiment la balade rêvée 😅. On va patienter un peu pour voir s'il n'y a pas mieux à faire.
 
@@ -25,13 +25,14 @@ Un peu d'aide extérieure c'est jamais de refus, surtout quand ça nous ai si ge
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DD7eSuYSC5xk2ArU62esN?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Son ami passe à notre cabine vers 13h. Il regarde la roue arrière du vélo de Nico puis l'embarque avec lui. Quand il revient une heure après, il a changé le pneu ! Un pneu un peu plus large que le précédent mais également de bonne qualité et qui fera parfaitement l'affaire ! 
+Son ami passe à notre cabine vers 13h. Il regarde la roue arrière du vélo de Nico puis l'embarque avec lui. Quand il revient une heure après, il a changé le pneu ! Un pneu un peu plus large que le précédent mais également de bonne qualité et qui fera parfaitement l'affaire !
 
-💁🏻‍♂️ : *"Voilà j'ai changer le pneu. La roue, les rayons sont en très bon état. Au départ je pensais intervenir dessus mais en fin de compte, c'est le pneu qui est déformé et rend la roue voilée*".
+💁🏻‍♂️ : _"Voilà j'ai changer le pneu. La roue, les rayons sont en très bon état. Au départ je pensais intervenir dessus mais en fin de compte, c'est le pneu qui est déformé et rend la roue voilée_".
 
-On n'était donc pas fous hier, c'est vrai qu'à l'oeil nu, on n'avait pas vraiment l'impression qu'il y avait un problème avec les rayons ou le support de roue. 
+On n'était donc pas fous hier, c'est vrai qu'à l'oeil nu, on n'avait pas vraiment l'impression qu'il y avait un problème avec les rayons ou le support de roue.
 
 Pour 200 NOK, soit le prix du pneu, on a :
+
 - à nouveau un vélo sûr.
 - économiser un aller-retour de 30 kilomètres sous la pluie.
 - retrouver foi dans notre karma.

@@ -3,13 +3,11 @@ title: 🥨 Le bretzel d'Eduardo du 30 avril
 date: "2024-04-30"
 description: "Face à la mer Baltique !"
 location: "Schleswig-Holstein, Allemagne"
-pictures: ["30-04-2024/1.webp", "30-04-2024/2.webp", "30-04-2024/3.webp", "30-04-2024/4.webp", "30-04-2024/5.webp", "30-04-2024/6.webp", "30-04-2024/7.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
 
-
-Ce matin, on se réveille au camping sous un petit soleil fort sympathique. La rosée du matin qui a légèrement mouillé les tentes va sécher en un rien de temps. 
+Ce matin, on se réveille au camping sous un petit soleil fort sympathique. La rosée du matin qui a légèrement mouillé les tentes va sécher en un rien de temps.
 
 C'est notre deuxième jour de route avec la team Capinina et le deuxième jour d'affilée qu'on a du beau temps et du soleil. On vous prie de croire que c'est assez inhabituel pour nous d'enchaîner deux jours avec les cuissards courts, t-shirts et lunettes de soleil. On se découvre d'un fil en cette fin d'avril 🫣.
 
@@ -22,14 +20,16 @@ On continue donc notre route et on passe notamment par **Bad Schwartau** et en e
 Après une vingtaine de kilomètres, nous arrivons au bord de la **mer Baltique** ! Pour tout le monde c'est un moment assez marquant. Il y a deux semaines, on était du côté de la **mer du Nord** aux **Pays-Bas**. Nous atteindrons bientôt le point de rencontre de ces deux mers.
 
 ### Le long de la mer Baltique
+
 Nous avons de la chance, notre itinéraire emprunte quelques sentiers côtiers pour faire le tour de la **baie de Lübeck**. Il y a beaucoup de stations balnéaires très mignonnes. Il doit y avoir du monde pendant la haute saison. Nous nous arrêtons dans une brasserie à **Neustadt in Holstein** et y mangeons copieusement.
 
 Dans l'après-midi, nous rentrons légèrement dans les terres car le sentier côtier n'est pas entièrement cyclable. Par endroits, nous avons de bons petits murs à franchir et encore de beaux champs de colza. Qui dit proche de la côte dit un vent conséquent sur l'ensemble de notre journée, il souffle vers l'ouest. Nous l'avons parfois de face et parfois de côté.
 
-Nous continuons notre chemin qui emprunte en partie l'[EuroVélo 10](https://fr.eurovelo.com/ev10) qui fait le tour de la **mer Baltique**. Peut-être un futur projet ! Nous passons par **Grömitz** et **Dahme** mais pas par **Wallace** et **Monhsieur** 😳. 
+Nous continuons notre chemin qui emprunte en partie l'[EuroVélo 10](https://fr.eurovelo.com/ev10) qui fait le tour de la **mer Baltique**. Peut-être un futur projet ! Nous passons par **Grömitz** et **Dahme** mais pas par **Wallace** et **Monhsieur** 😳.
 
 ### Arrivée au camping
-Nous atteignons le point de chute du jour à **Ostermade** où il y a plusieurs campings. Celui qui a retenu notre attention, noté cinq étoiles sur *Park4Night*, ne répond pas à nos mails depuis deux jours et la réception est fermée à notre arrivée. Un numéro est affiché, nous appelons et un gentil monsieur allemand vient à notre rencontre.
+
+Nous atteignons le point de chute du jour à **Ostermade** où il y a plusieurs campings. Celui qui a retenu notre attention, noté cinq étoiles sur _Park4Night_, ne répond pas à nos mails depuis deux jours et la réception est fermée à notre arrivée. Un numéro est affiché, nous appelons et un gentil monsieur allemand vient à notre rencontre.
 
 Nous rencontrons de nouveau un problème de carte bancaire et ne pouvons régler la nuit. Il nous dit que nous pourrons payer demain matin. Par contre, le distributeur est à 8 kilomètres et on avait pas vraiment prévu de faire 16 kilomètres gratuits. En plus demain c'est le 1er mai, donc déjà qu'on roule un jour non ouvré, faire en plus des heures supp ne nous enchante pas 🥴.
 

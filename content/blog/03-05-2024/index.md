@@ -3,7 +3,6 @@ title: 🥪 Le smørrebrød d'Eduardo du 3 mai
 date: "2024-05-03"
 description: "On rejoint le Seeland !"
 location: "Sjælland, Danemark"
-pictures: ["03-05-2024/1.webp", "03-05-2024/2.webp", "03-05-2024/3.webp", "03-05-2024/4.webp", "03-05-2024/5.webp", "03-05-2024/6.webp", "03-05-2024/7.webp", "03-05-2024/8.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
@@ -20,7 +19,7 @@ Nous partons de la charmante **Stege**. On revient légèrement sur notre trace 
 
 On passe un grand pont qui nous permet de rejoindre la plus grande île du Danemark : **Sjælland (Seeland)**. Le pont est un peu plus dur à gravir, en pente et avec un vent important au moment de passer au-dessus de la mer Baltique. La mer est d'une très belle couleur bleue, le fond paraît clair et propre.
 
-Une fois arrivé de l'autre côté du pont, on se dirige vers **Præstø**. 
+Une fois arrivé de l'autre côté du pont, on se dirige vers **Præstø**.
 Il y a toujours pas mal de vent aujourd'hui. La grosse différence avec les deux derniers jours, c'est qu'il n'est pas aussi violent et défavorable. Nous ne l'avons pas de dos mais il n'est pas de face non plus, il alterne entre les côtés. C'est un vent avec lequel on peut "se débrouiller". Il nous créé quand même des surprises. Nous partons tous bien habillés puis on se découvre en enlevant les couches supérieures (tour de cou, coupe vent, jambières...) pour les remettre quelques minutes après quand il reprend de plus belle et nous donne de nouveau froid.
 
 On ne va pas se plaindre. Sur ce début de sortie, on s'en sort même très bien. Après une vingtaine de kilomètres, tout le monde se réjouit de l'avancement. Nico jette un oeil sur le compteur, la moyenne est pas mal, presque 19km/h. Est-ce que ça ne serait pas une journée pour un petit challenge et bien se brûler les cuisses 🤔 ?
@@ -29,13 +28,13 @@ On ne va pas se plaindre. Sur ce début de sortie, on s'en sort même très bien
 
 Il n'en faut pas plus pour qu'il se lance dans une longue quête : 80 kilomètres au programme, objectif 20km/h. Quoi qu'il en résulte, on va bien dormir 😅.
 
-Ça peut sembler un objectif un peu inutile mais la sensation de "courir" en vélo est incroyable. Tout autant que celle de se balader et voir du paysage. Il y a des jours où l'on veut l'une, l'autre et parfois les deux à la fois. C'est aussi là-dedans que réside la magie des sorties 🥰. 
+Ça peut sembler un objectif un peu inutile mais la sensation de "courir" en vélo est incroyable. Tout autant que celle de se balader et voir du paysage. Il y a des jours où l'on veut l'une, l'autre et parfois les deux à la fois. C'est aussi là-dedans que réside la magie des sorties 🥰.
 
 Dans un premier temps il faut pousser pour atteindre la moyenne recherchée puis ensuite la conserver. Attaque puis défense 😆.
 
-À **Præstø**, nous passons dans un supermarché pour prendre de quoi nous faire un bon pique-nique comme la veille. L'équipe s'arrêtera après une quarantaine de kilomètres. 
+À **Præstø**, nous passons dans un supermarché pour prendre de quoi nous faire un bon pique-nique comme la veille. L'équipe s'arrêtera après une quarantaine de kilomètres.
 
-### Encore une belle journée 
+### Encore une belle journée
 
 La route que nous suivons nous fait passer par des routes cyclables majeures comme l'[EuroVelo7](https://fr.eurovelo.com/ev7/denmark) ou l'[EuroVélo10](https://fr.eurovelo.com/ev10) comme la veille.
 

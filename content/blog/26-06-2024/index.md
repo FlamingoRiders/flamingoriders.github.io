@@ -4,7 +4,6 @@ date: "2024-06-26"
 description: "On roule sous un grand soleil jusqu'à 22h et on croise des paysages à couper le souffle !"
 location: "Nordland, Norvège"
 tags: ["heart", "scenic"]
-pictures: ["26-06-2024/1.webp", "26-06-2024/2.webp", "26-06-2024/3.webp", "26-06-2024/4.webp", "26-06-2024/5.webp", "26-06-2024/6.webp", "26-06-2024/7.webp", "26-06-2024/8.webp", "26-06-2024/9.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -27,22 +26,22 @@ Ce matin, alors que l'on était au camping, Nana et Nico bavardent avec Luc, qu'
 
 Ok, vous vous souvenez de la superbe route de **Trollstigen** qu'on a parcourue il y a deux semaines ? Depuis notre passage, elle a été assez instable, [elle a connu plusieurs fermetures et réouvertures](https://www.thelocal.no/20240607/norways-famous-trollstigen-road-reopens-for-summer). Il y a quelques jours un rocher de la taille d'un ballon de foot s'est détaché de la montagne et a terminé sa course en plein pare-brise d'une voiture, dans le siège passager 🤯 ! [Pas de blessé mais malheureusement la route a dû fermer pour le reste de l'été suite à cet incident](https://www.newsinenglish.no/2024/06/20/rockslides-closed-trollstigen-again/). À quelques jours près, on n'aurait pas pu emprunter la route. Toutes ces histoires sont vraies !
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/5PvdsQmoZQx9Ej4xaJ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/5PvdsQmoZQx9Ej4xaJ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-### Cette fabuleuse route nationale côtière 
+### Cette fabuleuse route nationale côtière
 
 La journée a commencé tard pour nous. Elle va durer un sacré bout de temps car on a prévu d'aller jusqu'à une aire de camping sauvage assez proche de **Bodø**. Au total, on doit parcourir pas moins de 110 kilomètres aujourd'hui. Ça peut paraître beaucoup mais ils vont se faire tout seuls.
 
-Depuis **Steinkjer**, à l'exception de notre escale à **Leka**, nous suivons la formidable route **FV17**, la route côtière nationale **Kystriksveien** qui mène jusqu'à **Bodø**. La section d'aujourd'hui est tout simplement invraisemblable. C'est notre journée la plus longue mais sans doute notre plus belle journée à vélo depuis le début du voyage. Les décors sont fantastiques, il y a absolument tout : des fjords, des montagnes, des lacs, des cabanes au bord de l'eau, des cascades. Ça s'enchaîne et c'est sans fin. On a l'impression d'être dans un album photo. 
+Depuis **Steinkjer**, à l'exception de notre escale à **Leka**, nous suivons la formidable route **FV17**, la route côtière nationale **Kystriksveien** qui mène jusqu'à **Bodø**. La section d'aujourd'hui est tout simplement invraisemblable. C'est notre journée la plus longue mais sans doute notre plus belle journée à vélo depuis le début du voyage. Les décors sont fantastiques, il y a absolument tout : des fjords, des montagnes, des lacs, des cabanes au bord de l'eau, des cascades. Ça s'enchaîne et c'est sans fin. On a l'impression d'être dans un album photo.
 
 On aime notre voyage et notre expérience en vélo, on ne va pas vous mentir. Ça commence sans doute à se voir à travers nos récits. Mais vraiment, aujourd'hui, c'est à se demander si on a déjà fait 100 kilomètres de route aussi parfaits.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/0LwfS4fGJK8FPQbMoV" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-On passe même par des toilettes publiques considérées comme *"les belles au monde"* à [Ureddplassen sur la Helgeland coast](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) 😅.
+On passe même par des toilettes publiques considérées comme _"les belles au monde"_ à [Ureddplassen sur la Helgeland coast](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) 😅.
 
 On roule jusqu'à 22h. Il n'y a aucun mètre ou minute en trop dans cette journée. Tout est à faire, à voir, rien n'est à retirer. On aurait sans doute pu continuer encore mais on approche de **Bodø** et on a le logement que le lendemain 😂.
 
-On s'arrête au spot de camping sauvage qu'on a repéré. On monte la tente à 22h30, on dîne tous ensemble à 23h30. On a trouvé un endroit idéal, au bord de l'eau avec une vue imprenable sur les montagnes teintées de rose par le soleil qui ne se couche plus depuis plusieurs jours. Malgré la longueur de la journée et la fatigue, personne ne souhaite qu'elle s'arrête. Les émotions vécues mettent un peu de temps à redescendre, cette journée aura été un rêve éveillé 😀. 
+On s'arrête au spot de camping sauvage qu'on a repéré. On monte la tente à 22h30, on dîne tous ensemble à 23h30. On a trouvé un endroit idéal, au bord de l'eau avec une vue imprenable sur les montagnes teintées de rose par le soleil qui ne se couche plus depuis plusieurs jours. Malgré la longueur de la journée et la fatigue, personne ne souhaite qu'elle s'arrête. Les émotions vécues mettent un peu de temps à redescendre, cette journée aura été un rêve éveillé 😀.
 
 <iframe width="360" height="202.5" src="https://www.youtube-nocookie.com/embed/BaXkwWLgpns?si=NFjiEt800Z9xpTER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>

@@ -3,7 +3,6 @@ title: 🥮 Le kanelbulle d'Eduardo du 1er août
 date: "2024-08-01"
 description: "Il pleut sur les collines suédoises du comté de Norrbotten !"
 location: "Norrbotten, Suède"
-pictures: ["01-08-2024/1.webp", "01-08-2024/2.webp", "01-08-2024/3.webp", "01-08-2024/4.webp", "01-08-2024/5.webp", "01-08-2024/6.webp", "01-08-2024/7.webp", "01-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -20,18 +19,19 @@ Nous sortons de l'archipel et devons réemprunter la **E4**, cette même route q
 
 On effectue donc quinze kilomètres sur la **E4**. C'est plutôt pénible. Il y a du trafic, la largeur de la bande entre la voie et la barrière fait à peine 50 centimètres. Ce n'est même pas la largeur d'une bande d'arrêt d'urgence mais on va tout de même l'emprunter car on n'a pas le choix. On se fait dépasser à vive allure et les camions créent des appels d'air sur leur passage. Tout va pour le mieux 👌🏼.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Ce n'est clairement pas un super moment même si tête dans le guidon, on réussit à oublier la pénibilité. Dans ces circonstances, on est un peu en mode *"robot"* : on se concentre sur notre route et on espère que les conducteurs derrière nous font de même 😬.
+Ce n'est clairement pas un super moment même si tête dans le guidon, on réussit à oublier la pénibilité. Dans ces circonstances, on est un peu en mode _"robot"_ : on se concentre sur notre route et on espère que les conducteurs derrière nous font de même 😬.
 
-Pour échapper à la **E4**, on remonte ensuite un peu au nord sur une route moins fréquentée. On traverse alors des vastes forêts, ça peut nous rappeler brièvement la **Finlande** mais on est quand même un peu mieux lotis. Il y a quelques maisons, plus d'infrastructures avec des arrêts de bus et la route est un peu plus intéressante. On observe les collines environnantes et les arbres varient énormément sur notre chemin. On croise tour à tour des pins, des sapins et des épicéas. Ce n'est pas tout, la forêt paraît plus *"organisée"*, ceci étant sans doute dû à son exploitation. Par moments, on a un côté de la route bordée par des pins et l'autre des sapins. À un autre endroit, on va croiser sur 500 mètres des épicéas d'une dizaine de mètres puis sur les 500 suivants des jeunes sapins qui ne dépassent pas deux mètres. 
+Pour échapper à la **E4**, on remonte ensuite un peu au nord sur une route moins fréquentée. On traverse alors des vastes forêts, ça peut nous rappeler brièvement la **Finlande** mais on est quand même un peu mieux lotis. Il y a quelques maisons, plus d'infrastructures avec des arrêts de bus et la route est un peu plus intéressante. On observe les collines environnantes et les arbres varient énormément sur notre chemin. On croise tour à tour des pins, des sapins et des épicéas. Ce n'est pas tout, la forêt paraît plus _"organisée"_, ceci étant sans doute dû à son exploitation. Par moments, on a un côté de la route bordée par des pins et l'autre des sapins. À un autre endroit, on va croiser sur 500 mètres des épicéas d'une dizaine de mètres puis sur les 500 suivants des jeunes sapins qui ne dépassent pas deux mètres.
 
-### La charmante Kalix 
+### La charmante Kalix
+
 Nous sommes actuellement dans la région du **Norrland** et plus précisément dans le comté de **Norrbotten**, le comté le plus septentrional de **Suède**.
 
 En **Suède**, comme en **Finlande**, les plus petites administrations locales sont des municipalités (**kunnat** 🇫🇮, **kommun** 🇸🇪). Après avoir traversé hier la **kommun** de **Haparanda**, nous traversons aujourd'hui celle de **Kalix**. Nous arrivons jusqu'à son chef-lieu du même nom, **Kalix**. Cette localité est très charmante. On voit un grand parc avec des pistes cyclables le long de l'eau, une très belle église et sur la berge d'en face, des huttes en forme d'igloo. Ça a l'air animé 🤗 !
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/TNnyxINX87VAKbNYmZ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/TNnyxINX87VAKbNYmZ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 On remonte le **Kalixälven**, un long fleuve, depuis son embouchure. On retrouve des petites routes bien sympathiques et peu fréquentées. On va croiser également toute une famille de cygnes gris qui se cache (mal) dans un petit marécage. Quand ils ont pris conscience qu'on les avait repérés, ils tentent de se cacher dans les roseaux, les adultes veillent et l'on voit seulement leur long cou dépasser 😏.
 

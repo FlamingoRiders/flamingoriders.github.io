@@ -3,26 +3,25 @@ title: 🥪 Le smørrebrød d'Eduardo du 10 mai
 date: "2024-05-10"
 description: "Cap sur le nord et les fjords magnifiques du Jutland !"
 location: "Jutland central, Danemark"
-pictures: ["10-05-2024/1.webp", "10-05-2024/2.webp", "10-05-2024/3.webp", "10-05-2024/4.webp", "10-05-2024/5.webp", "10-05-2024/6.webp", "10-05-2024/7.webp", "10-05-2024/8.webp", "10-05-2024/9.webp", "10-05-2024/10.webp"]
 ---
 
 ![Smorrebrod d'Eduardo](../smorrebrod_eduardo.png)
 
-Aujourd'hui, on se réveille à l'auberge de jeunesse à **Aarhus**. Certains ont mieux dormi que d'autres. Dehors, on a entendu du bruit jusqu'à 4h du matin 😂 ! Cela confirme que à **Aarhus**, il y a bien beaucoup de jeunes et ça fait beaucoup la fête. La veille on avait déjà remarqué quelques-uns bien alcoolisés dès 19h. On s'était fait la remarque avec Nana et Nico : *"Dis donc ils commencent tôt leurs soirées ici"* Et ben, si c'est les mêmes qui sont encore debouts à 4h... Champions ces dannois 😅 !
+Aujourd'hui, on se réveille à l'auberge de jeunesse à **Aarhus**. Certains ont mieux dormi que d'autres. Dehors, on a entendu du bruit jusqu'à 4h du matin 😂 ! Cela confirme que à **Aarhus**, il y a bien beaucoup de jeunes et ça fait beaucoup la fête. La veille on avait déjà remarqué quelques-uns bien alcoolisés dès 19h. On s'était fait la remarque avec Nana et Nico : _"Dis donc ils commencent tôt leurs soirées ici"_ Et ben, si c'est les mêmes qui sont encore debouts à 4h... Champions ces dannois 😅 !
 
-### Quelques arrêts avant de quitter Aarhus 
+### Quelques arrêts avant de quitter Aarhus
 
 Ce matin, on prend la route vers le sud ! Attendez, non le sud ?! Ça ne va pas du tout, on doit prendre un ferry tout au nord dans 3 jours que se passe-t-il 😰 ?
 
-🧍🏼‍♀️🧍🏼‍♂️ : *"Eduardo, on va aller à 4 kilomètres au sud d'Aarhus, il y a un parc avec des daims en liberté !*"
+🧍🏼‍♀️🧍🏼‍♂️ : _"Eduardo, on va aller à 4 kilomètres au sud d'Aarhus, il y a un parc avec des daims en liberté !_"
 
-🦩 : *"Mais c'est un détour, on a déjà 75 à faire ! Eh les amis je ne vous suffis plus ?*"
+🦩 : _"Mais c'est un détour, on a déjà 75 à faire ! Eh les amis je ne vous suffis plus ?_"
 
-🧍🏼‍♀️🧍🏼‍♂️ : *"On veut voir les daims ! On veut voir les daims !"*
+🧍🏼‍♀️🧍🏼‍♂️ : _"On veut voir les daims ! On veut voir les daims !"_
 
 On prend donc la route vers le très sympathique **Marselisborg Deer Park**. Bon j'ai pas trop eu mon mot à dire, je suis en infériorité numérique et accessoirement je ne pédale pas. Dur mais juste.
 
-L'accès au parc est libre et gratuit. Enfin pas tout à fait, ça dépend. Si vous voulez voir les daims, ça ne vous coûtera rien. Par contre, si vous voulez les caresser, cela vous coûtera tout de même une carotte pour 10 brèves secondes de papouilles. 
+L'accès au parc est libre et gratuit. Enfin pas tout à fait, ça dépend. Si vous voulez voir les daims, ça ne vous coûtera rien. Par contre, si vous voulez les caresser, cela vous coûtera tout de même une carotte pour 10 brèves secondes de papouilles.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/hU6YIZMZ10KORSzbLm" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
@@ -34,19 +33,21 @@ On quitte donc ce charmant endroit pour retourner dans la ville d'**Aarhus** ver
 
 Décidément, les Danois ont vraiment des bâtiments atypiques. En matière d'architecture, c'est souvent novateur avec une touche artistique et une recherche de symbolique. On a souvent des bâtiments qui tente d'évoquer la nature ou le réel.
 
-Puis ça y est, nous quittons **Aarhus** que nous avons trouvé très jolie ! Cette ville justifie parfaitement son statut de *"double A"*. Elle pourrait même passer *"AAA"* d'après nos informations privilégiées de *Standard & Poor's*, les émissaires envoyés ayant beaucoup aimé la ville également. Il faudra juste prévoir de changer tous les panneaux 🤔 !
+Puis ça y est, nous quittons **Aarhus** que nous avons trouvé très jolie ! Cette ville justifie parfaitement son statut de _"double A"_. Elle pourrait même passer _"AAA"_ d'après nos informations privilégiées de _Standard & Poor's_, les émissaires envoyés ayant beaucoup aimé la ville également. Il faudra juste prévoir de changer tous les panneaux 🤔 !
 
-### Une grosse journée 
-On traverse rapidement de bonnes petites côtes qui font chauffer les cuissots. Si certains croient encore que le **Danemark** est plat, je vous propose le *"test de profil du parcours"*. Vous prenez un vélo à pignon fixe et vous faites le même tracé, si vous êtes encore en vie pour témoigner, je vous concéderais que c'est plat et que ce sont juste Nana et Nico qui font du cinéma (ça arrive !).
+### Une grosse journée
+
+On traverse rapidement de bonnes petites côtes qui font chauffer les cuissots. Si certains croient encore que le **Danemark** est plat, je vous propose le _"test de profil du parcours"_. Vous prenez un vélo à pignon fixe et vous faites le même tracé, si vous êtes encore en vie pour témoigner, je vous concéderais que c'est plat et que ce sont juste Nana et Nico qui font du cinéma (ça arrive !).
 
 On enchaîne montées et descentes. C'est assez plaisant en réalité, pas le temps de s'ennuyer, en montée on s'emploie et on s'encourage et en descente, on déroule.
 
 On traverse de nouveau de gigantesques espaces, des champs de colza, des hautes herbes avec des pissenlits. On voit aussi quelques animaux et quand cela arrive au milieu de nulle part, c'est vraiment appréciable. On aime les animaux et ça rompt avec la monotonie. Aujourd'hui on a droit à :
+
 - un énorme bœuf, de la trempe de ceux qu'on présente au salon de l'agriculture.
 - un dindon prêt pour Thanksgiving mais un peu colérique avec nous.
 - des chevaux joueurs qui viennent à notre rencontre.
 - un lièvre qui a couru devant nous le 200 mètres plus rapidement qu'Usain Bolt. Impressionnant.
- 
+
 On passe aussi par **Randers** qui a l'air d'être une grosse ville. On la traverse rapidement sans passer par le centre. Pas trop mal la vue depuis une colline. Bien sûr, on se demande ce que vaut **Randers de l'espace**.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/huAqJiUKwDATm" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
@@ -55,7 +56,7 @@ La fin de journée est marquée par un début d'hypoglycémie de Nana, on s'arr�
 
 Malgré les nombreux kilomètres parcourus, le paysage qui se répète et la longueur de la journée, on ne peut s'empêcher de penser qu'on n'est pas au bureau. On est encore en plein air, il fait beau et on voit du pays. On est en totale liberté au milieu de nulle part et c'est incroyable.
 
-On finit par arriver à **Hobro** au bord du **Mariager fjord**. On s'arrête pour prendre des photos. Le cadre est grandiose. 
+On finit par arriver à **Hobro** au bord du **Mariager fjord**. On s'arrête pour prendre des photos. Le cadre est grandiose.
 
 Nous rejoignons le camping en hauteur. Nous avons en haut une vue dégagée sur **Hobro Vesterfjord**, un lac d'eau saumâtre magnifique. Un couple d'oies blanches le survole de plusieurs dizaines de mètres. Encore un coin dont on avait jamais entendu parler avant mais qui est décidément un havre de paix.
 

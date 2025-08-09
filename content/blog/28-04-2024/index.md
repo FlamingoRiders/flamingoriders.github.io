@@ -4,7 +4,6 @@ date: "2024-04-28"
 description: "Deuxième journée de visite à Hambourg !"
 location: "Hambourg, Allemagne"
 tags: ["heart", "culture"]
-pictures: ["28-04-2024/1.webp", "28-04-2024/2.webp", "28-04-2024/3.webp", "28-04-2024/4.webp", "28-04-2024/5.webp", "28-04-2024/6.webp", "28-04-2024/7.webp", "28-04-2024/8.webp", "28-04-2024/9.webp"]
 ---
 
 ![Bretzel d'Eduardo](../bretzel_eduardo.png)
@@ -26,11 +25,12 @@ On repasse dans le quartier **St. Pauli** et on mange d'excellents burgers vég�
 On rejoint le **Kontorhaus** pour monter dans l'**Elbphilarmonie**. Le bâtiment est totalement pittoresque et atypique. Son toit en forme de nuage et ses vitres avec des teintes et des ouvertures non régulières en font un bâtiment très artistique. D'un des étages extérieures avec un balcon à 360 degrés, on fait le tour du bâtiment d'où on a de superbes vues de **Hambourg**.
 
 ### Miniatur Wunderland
+
 En fin d'après-midi, on visite le musée **Miniatur Wunderland**. Croyez-le ou non, il a été plusieurs fois voté attraction touristique préférée en **Allemagne**. Le musée nous plonge dans des constructions miniatures bluffantes. Parmi les décors on trouve l'**Allemagne**, l'**Italie**, **Monaco** ou encore **la Provence**. On voit des reconstructions de paysages, de montagnes, de voies de voiture, es trains qui sont tous alimentés électriquement et circulent partout dans le musée. On voit même un grand prix de formule 1, le décollage d'avion, l'explosion du Vésuve ou encore une tempête en pleine mer. Il faut le voir pour se rendre compte mais tout le monde est émerveillé par la qualité des maquettes et la richesse des univers représentés.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/46HNZY1i7O6jwTA7Slo2PI?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
-Pour finir, cette magnifique journée, nous nous promenons une dernière fois dans le **Kontorhaus** au coucher du soleil. Les briques rouges des bâtiments prennent alors des teintes différentes en fonction des rayons du soleil. C'est vraiment impressionnant comment l'aspect des bâtiments change en fonction de la météo et de l'avancement de la journée. 
+Pour finir, cette magnifique journée, nous nous promenons une dernière fois dans le **Kontorhaus** au coucher du soleil. Les briques rouges des bâtiments prennent alors des teintes différentes en fonction des rayons du soleil. C'est vraiment impressionnant comment l'aspect des bâtiments change en fonction de la météo et de l'avancement de la journée.
 
 Après deux jours, on est catégoriques : **Hambourg** vaut vraiment la peine d'être visitée ! 🤩
 

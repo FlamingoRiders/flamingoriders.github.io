@@ -4,10 +4,9 @@ date: "2024-06-17"
 description: "Découverte de la belle Trondheim !"
 location: "Trondheim, Norvège"
 tags: ["heart", "culture"]
-pictures: ["16-06-2024/1.webp", "16-06-2024/2.webp", "16-06-2024/3.webp", "16-06-2024/4.webp", "16-06-2024/5.webp", "16-06-2024/6.webp", "16-06-2024/7.webp", "16-06-2024/8.webp", "16-06-2024/9.webp", "17-06-2024/1.webp", "17-06-2024/2.webp", "17-06-2024/3.webp", "17-06-2024/4.webp", "17-06-2024/5.webp", "17-06-2024/6.webp", "17-06-2024/7.webp", "17-06-2024/8.webp", "17-06-2024/9.webp", "17-06-2024/10.webp", "17-06-2024/11.webp", "17-06-2024/12.webp"]
 ---
 
-Hier et aujourd'hui, on visite **Trondheim**. C'est la troisième plus grande ville du pays et d'une haute importance historique. 
+Hier et aujourd'hui, on visite **Trondheim**. C'est la troisième plus grande ville du pays et d'une haute importance historique.
 
 Auparavant connue sour le nom de **Nidaros** elle fut un temps la capitale de la **Norvège**.
 
@@ -25,13 +24,13 @@ On va notamment se balader jusqu'à la plage **Korsvika**. En route, on croise p
 
 On va également se rendre à la **Forteresse Kristiansten** avec sa forme en étoile et ses jolis canons. On peut marcher sans danger le long de ses remparts et avoir une magnifique vue de la ville de **Trondheim**. Cette forteresse fut construite pour défendre la ville contre les Suédois. Ceci nous surprend car il nous semblait que les relations les plus difficiles étaient avec le **Danemark**. Les trois royaumes scandinaves ont une riche histoire commune, faite d'alliances, de moments où l'une puissance était plus influente que les autres. Ce sont trois monarchies qui ont toujours eu de forts liens.
 
-Enfin, on ne peut passer à côté des quais de **Trondheim**, **Bryggene**. Le long du port fluvial, des bâtiments colorés forment d'immenses piles. Cela ressemble un petit peu à ce que l'on peut voir à **Bergen** mais la différence notable est que ces entrepôts sont construits sur pilotis. 
+Enfin, on ne peut passer à côté des quais de **Trondheim**, **Bryggene**. Le long du port fluvial, des bâtiments colorés forment d'immenses piles. Cela ressemble un petit peu à ce que l'on peut voir à **Bergen** mais la différence notable est que ces entrepôts sont construits sur pilotis.
 
 La suite du vieux quartier de **Bakklandet** est vraiment remarquable avec ses maisons en bois de toutes les couleurs, c'est fait avec beaucoup de goût et tout est parfaitement entretenu. Au bout on aperçoit le superbe pont **Gamle Bybro**.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Od0QRnzwRBYmDU3eEO" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-### Un centre-ville vivant 
+### Un centre-ville vivant
 
 Le centre-ville présente une grande place piétonne avec de superbes adresses. On mangera dans deux bonnes pizzerias sur les trois jours où nous serons dans la ville. On brunchera aussi dans une bonne adresse. **Trondheim** est une ville qui a un fort attrait gastronomique même si nous ne mangerons pas dans ses restaurants étoilés 😋.
 
@@ -51,9 +50,9 @@ On terminera le lundi soir par une nouvelle balade dans **Solsiden**. C'est un q
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Nn7j03W1bIJjt07Fks" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-👩🏼 : *"Mais on s'en fiche de l'Euro !*"
+👩🏼 : _"Mais on s'en fiche de l'Euro !_"
 
-👨🏼 : *"Woo woo woooow !! Comment ça on s'en fout ? C'est la patrie, c'est le maillot, c'est la fierté, c'est le devoir !"*
+👨🏼 : _"Woo woo woooow !! Comment ça on s'en fout ? C'est la patrie, c'est le maillot, c'est la fierté, c'est le devoir !"_
 
 Bref vous l'avez compris, on a regardé **France - Autriche** ou plutôt **Frankrike - Østerike** comme on dit par ici. Ce n'était pas le match de l'année, mais on a gagné 😀. Et puis, on ne pourra pas suivre tous les matchs de l'équipe de France malheureusement.
 

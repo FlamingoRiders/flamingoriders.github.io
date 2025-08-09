@@ -4,12 +4,11 @@ date: "2024-06-19"
 description: "Une belle étape d'une centaine de kilomètres en direction de Namdalseid !"
 location: "Trøndelag, Norvège"
 tags: ["scenic"]
-pictures: ["19-06-2024/1.webp", "19-06-2024/2.webp", "19-06-2024/3.webp", "19-06-2024/4.webp", "19-06-2024/5.webp", "19-06-2024/6.webp"]
 ---
 
 Aujourd'hui, on se réveille non loin de **Mosvik**. On est plusieurs sur le site de camping sauvage qui fut royal pour la nuit. Il y a toujours Léa de Zürich, Mika de Paris, deux autres suisses et un allemand qui est arrivé dans la soirée. Nous étions abrités sous un shelter et avons cuisiné sur le feu hier soir 😉.
 
-### On part en direction de Steinkjer 
+### On part en direction de Steinkjer
 
 On repart donc vers 10h30 avec Léa pet Mika. Le temps est majoritairement couvert et on a pas mal de vent. Cependant, on est 5, heureux de faire du vélo ensemble, de bavarder et de partager ces bons moments 🤗
 
@@ -25,13 +24,14 @@ Arrivés à **Steinkjer**, on décide de continuer la route avec Nana et Nico ta
 
 Il faut dire que ce n'est pas tous les jours que l'on croise des cyclo-randonneurs et encore moins fréquent que l'on fasse des journées vélos tous ensemble. Il faut composer avec les rythmes, les choix de trace et les envies de chacun. Là, l'entente était parfaite pendant deux jours. Deux superbes journées de vélo où tout le monde partageait le même mindset et était sur la même longueur d'onde.
 
-Pendant les kilomètres qui suivent, on va même beaucoup se poser la question de savoir si on aurait dû rester avec les copains. Même s'il y avait des agenda différents pour chacun, on aurait pu composer quelques jours pour rester en si bonne compagnie. 
+Pendant les kilomètres qui suivent, on va même beaucoup se poser la question de savoir si on aurait dû rester avec les copains. Même s'il y avait des agenda différents pour chacun, on aurait pu composer quelques jours pour rester en si bonne compagnie.
 
 La raison qui nous a poussé à continuer plus loin aujourd'hui est liée à notre expérience de voyage. On s'est rendu compte que dans nos trajets respectifs, on avait tous plus ou moins rencontré les mêmes difficultés à savoir la météo, le dénivelé et la fatigue.
 
 En partant de **Trondheim**, on a fait 3 constats :
+
 - on ne sait pas trop quelle météo on va avoir les prochaines semaines mais elle ne devrait pas être exceptionnelle à priori.
-- le dénivelé devrait être moins *"costaud"* dans le sens où il devrait être mieux réparti.
+- le dénivelé devrait être moins _"costaud"_ dans le sens où il devrait être mieux réparti.
 - on se sent bien après notre pause à **Trondheim** et plutôt en forme comparé à d'autres moments.
 
 Aujourd'hui, on savait qu'il y avait deux campings que l'on pouvait rejoindre : un à 50 kilomètres et l'autre à 100. Parce la météo restait stable, parce que le dénivelé n'était pas excessif et parce qu'on se sentait bien, on a choisi de pousser jusqu'à 100. On a donc écouté notre corps plutôt que notre cœur 🥲.
@@ -54,6 +54,6 @@ Ensuite nous empruntons une belle côte et longeons un grand pré avec des vache
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/XncE2zmvthjyg" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Malheureusement, on n'a rien pour vous nourrir les amies 😅. 
+Malheureusement, on n'a rien pour vous nourrir les amies 😅.
 
 Sur la fin du trajet, on retrouve des montagnes avec de belles falaises et une belle cascade visible au loin. On termine la journée avec une centaine de kilomètres au compteur ! Mis à part quelques gouttes, on aura passé la journée quasiment au sec, on s'estime plutôt chanceux 🙂.

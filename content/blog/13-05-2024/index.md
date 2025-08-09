@@ -3,7 +3,6 @@ title: 🐟 Le saumon d'Eduardo du 13 mai
 date: "2024-05-13"
 description: "Débarquement à Oslo !"
 location: "Oslo, Norvège"
-pictures: ["13-05-2024/1.webp", "13-05-2024/2.webp", "13-05-2024/3.webp", "13-05-2024/4.webp", "13-05-2024/5.webp", "13-05-2024/6.webp", "13-05-2024/7.webp", "13-05-2024/8.webp", "13-05-2024/9.webp", "13-05-2024/10.webp"]
 ---
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
@@ -11,7 +10,8 @@ pictures: ["13-05-2024/1.webp", "13-05-2024/2.webp", "13-05-2024/3.webp", "13-05
 Ce matin, on se réveille à bord d'un ferry. Nous avons embarqué hier soir à **Frederikshavn** en direction d'**Oslo** ! À 7h du matin, on aperçoit déjà la terre. L'approche est fascinante, plein de petites îles se dessinent devant nous alors que nous pénétrons dans le **fjord d'Oslo**.
 
 ### Débarquement à Oslo
-Vers 8h, le passage se fait plus large, une brume vient couvrir le paysage, on ne voit plus rien. 
+
+Vers 8h, le passage se fait plus large, une brume vient couvrir le paysage, on ne voit plus rien.
 
 Puis, progressivement elle se lève, l'horizon se découvre et plein de morceaux de terre se révèlent devant nous dans une ambiance mystique. On trépigne d'impatience, comme si ce nouveau pays s'apprêtait à nous dévoiler ses tours de magies.
 
@@ -29,7 +29,7 @@ On voit un parc en hauteur, le **Kampen park** d'où nous supposons avoir une vu
 
 Complètement raté, c'est couvert par les arbres. Mais on a eu de bons petits murs de puncheurs pour y arriver et ça c'est chouette, selon Nico 💪 ! Ou pas, selon Nana, ça dépend des goûts 😅.
 
-Après quelques enchaînements de montées abruptes, Nana déclarera même : *"C'est pas Oslo, c'est San FranciscOslo ici !"*. Je vous avais prévenus, c'est une cador en jeu de mots 🤭.
+Après quelques enchaînements de montées abruptes, Nana déclarera même : _"C'est pas Oslo, c'est San FranciscOslo ici !"_. Je vous avais prévenus, c'est une cador en jeu de mots 🤭.
 
 On se rend au **Oslo Street Food**, un food court où comme son nom l'indique, on trouve de tout et ça c'est bien. On est fatigués, on n'a pas super bien dormi, il fait chaud, on a envie de se balader à pied mais on a encore les vélos. Autant dire que la pause va faire du bien !
 

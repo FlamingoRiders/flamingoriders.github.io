@@ -4,7 +4,6 @@ date: "2024-08-24"
 description: "Mariaberget et Skinnarviksberget : des vues magnifiques sur Stockholm depuis Södermalm !"
 location: "Stockholm, Suède"
 tags: ["heart", "culture"]
-pictures: ["24-08-2024/1.webp", "24-08-2024/2.webp", "24-08-2024/3.webp", "24-08-2024/4.webp", "24-08-2024/5.webp", "24-08-2024/6.webp", "24-08-2024/7.webp", "24-08-2024/8.webp"]
 ---
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
@@ -13,7 +12,7 @@ Aujourd'hui, on commence notre journée sous un grand soleil. On est plutôt bie
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ccJUnKJ0nfmvhiIj8y" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-### Balade dans le sud du Södermalm 
+### Balade dans le sud du Södermalm
 
 On prend le tramway pour rejoindre **Södermalm** et il n'y a pas de quoi composter ou autre. On trouve sur le quai uniquement un terminal de carte sans contact. En **Suède**, la carte bleue c'est partout, cela nous convient bien, pas besoin de retirer de l'argent, pas de mauvaise surprise. Il y a même des endroits où l'on accepte QUE la carte. Désolé pour les allemands qui ne jurent que par le cash mais nous on trouve cela bien plus pratique 😂.
 
@@ -21,13 +20,13 @@ Comme on n'a pas l'habitude, on se pose quand même quelques questions. On ne sa
 
 Le courant passe bien, elle est adorable avec nous et nous allons discuter tout du long jusqu'à ce que l'on descende. Elle nous demande quel est le programme de la journée et nous donne des conseils de visite.
 
-🏃🏼‍♀️ : *"Vous cherchez un bon endroit pour le fika tout de même ? C'est très important le fika, j'adore cela moi. Ah et il y a un super marchand de glaces, c'est tout petit mais très bon, cela s'appelle SNÖ. Oui le café, les sucreries, les glaces, j'imagine que l'on peut dire que je suis une pure suédoise 😇."*
+🏃🏼‍♀️ : _"Vous cherchez un bon endroit pour le fika tout de même ? C'est très important le fika, j'adore cela moi. Ah et il y a un super marchand de glaces, c'est tout petit mais très bon, cela s'appelle SNÖ. Oui le café, les sucreries, les glaces, j'imagine que l'on peut dire que je suis une pure suédoise 😇."_
 
 Nana et Nico sont des gens raisonnables donc ils suivent sagement ses bons conseils. Au rythme des cafés, glaces et kanelbullar ingérés, ils devraient logiquement être naturalisés d'ici la fin du mois 🍦🥮☕.
 
 ### Des sportifs partout dans le parc au sud
 
-On longe la rive Sud de **Södermalm**. Il y a un marché et aussi des food trucks un peu partout. Encore un endroit pour nous 😋 ! 
+On longe la rive Sud de **Södermalm**. Il y a un marché et aussi des food trucks un peu partout. Encore un endroit pour nous 😋 !
 
 Il y a surtout énormément de sportifs dans le parc qui suit. C'est vraiment un phénomène marquant. On est samedi et on aperçoit un basketteur qui s'entraîne intensément au shoot et aux dribbles. On croise des trailers, des runners et même des marcheurs dans le parc. Il semble y avoir une course de 100 kilomètres, certains la font avec un sac chargé sur le dos 😱 ! Il y a également deux personnes qui pratiquent de la boxe en outdoor avec leurs coachs. Des installations de musculation de très bonne qualité, en bois, permettent à de nombreuses personnes de pratiquer le street workout. Bluffant le nombre de sportifs à **Stockholm** !
 
@@ -41,8 +40,7 @@ C'est un échec. On nous indique que le parcours est fermé pour la journée, c'
 
 On continue notre balade au milieu des espaces verts et des plages puis on traverse l'île **Södermalm** pour gagner la rive Nord.
 
-On passe rapidement en haut d'un rooftop où l'accès est gratuit. C'est très animé, beaucoup de personnes se retrouvent entre amis pour boire des verres en ce samedi après-midi. Le temps est radieux ☀️ et il y a de la musique partout 📻. C'est quelque chose d'assez frappant, les gens dans la rue où depuis leur jardin ont la musique avec le son assez fort et tout le monde peut entendre. C'est plutôt des musiques assez pop qui bougent et personne ne s'en plaint car cela met une bonne ambiance et colle à l'atmosphère du week-end, du soleil et tout simplement à l'esprit *"relax"* du quartier.
-
+On passe rapidement en haut d'un rooftop où l'accès est gratuit. C'est très animé, beaucoup de personnes se retrouvent entre amis pour boire des verres en ce samedi après-midi. Le temps est radieux ☀️ et il y a de la musique partout 📻. C'est quelque chose d'assez frappant, les gens dans la rue où depuis leur jardin ont la musique avec le son assez fort et tout le monde peut entendre. C'est plutôt des musiques assez pop qui bougent et personne ne s'en plaint car cela met une bonne ambiance et colle à l'atmosphère du week-end, du soleil et tout simplement à l'esprit _"relax"_ du quartier.
 
 On longe le quartier vers l'est et on regagne des rues plus calmes qui nous mènent vers les collines les plus hautes de la ville. On monte rapidement par de petits chemins rocailleux vers les collines de [Mariaberget](https://www.city-guide-stockholm.com/fr/tourisme/decouvrir-stockholm/les-plus-beaux-points-de-vue/sodermalm-7/mariaberget-564.html) et [Skinnarviksberget](https://www.visitstockholm.com/o/skinnarviksberget/). Ce dernier est le plus haut point de la ville et depuis celui-ci, on obtient des vues imprenables sur l'hôtel de ville, **Kungsholmen**, **Riddarholmen** et **Gamla stan**.
 On reste un moment assis au beau milieu des rochers à profiter de ce lieu si particulier. C'est magnifique, il fait beau, on se sent bien ici et dans cette ville. On n'est pas les seuls à ressentir cela, nombreux sont les locaux qui y partagent entre amis ou en famille un pique-nique, un goûter ou un apéro. Une bonne musique retentit en fond. On est bien en haut de cette colline 👌🏼.

@@ -22,7 +22,6 @@ type Post = {
     description: string;
     location: string;
     tags: Array<string>;
-    pictures: Array<string>;
   };
 };
 
@@ -74,12 +73,13 @@ const BlogPostTemplate: React.FC<PageProps<QueryReturn>> = ({
           itemProp="articleBody"
         />
         {day && <DayRecap day={day} />}
-        {post.frontmatter.pictures && (
+        {day?.pictures && <>
+          <h3>Photos du jour</h3>
           <Slideshow
             picturesUrl={data.site.siteMetadata.picturesUrl}
-            pictureIds={post.frontmatter.pictures}
+            pictureIds={day.pictures}
           />
-        )}
+        </>}
       </article>
       <hr />
       <nav className="blog-post-nav">
@@ -137,7 +137,6 @@ export const pageQuery = graphql`
         description
         location
         tags
-        pictures
       }
     }
     statsJson(date: { eq: $date }) {
@@ -148,6 +147,7 @@ export const pageQuery = graphql`
       mood
       startPointName
       endPointName
+      pictures
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
       fields {
