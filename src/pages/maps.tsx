@@ -9,6 +9,7 @@ import TravelCounter from "components/maps/travel-counter";
 import Step from "components/maps/step";
 import { AppSections } from "routes/app-routes";
 import { getPostDate, getDayOfWeek } from "utils/date";
+import { useCountryFlag } from "hooks/useFlag";
 
 type QueryReturn = {
   allStatsJson: {
@@ -18,6 +19,7 @@ type QueryReturn = {
       endPos: [number, number];
       distance: number;
       time: string;
+      endCountryName: string;
     };
   }[];
 
@@ -42,6 +44,8 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
     onChangeDate,
   } = useMarkers(allPositions);
 
+  const flag = useCountryFlag(displayedPositionMarker?.endCountryName);
+
   return (
     <Layout location={location} title={siteTitle}>
       <h1>🌍📍 {AppSections.MAPS}</h1>
@@ -62,10 +66,20 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
         siteUrl={siteUrl}
       />
       <br />
-      <Step
-        startPointName={displayedPositionMarker?.startPointName}
-        endPointName={displayedPositionMarker?.endPointName}
-      />
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          lineHeight: "normal",
+        }}
+      >
+        <Step
+          startPointName={displayedPositionMarker?.startPointName}
+          endPointName={displayedPositionMarker?.endPointName}
+        />
+        <span className="d-mobile" style={{ fontSize: "2rem" }}>{flag}</span>
+      </div>
       {displayedPositionMarker && cumulatedPositionMarker && (
         <TravelCounter
           displayedPositionMarker={displayedPositionMarker}
@@ -100,6 +114,7 @@ export const pageQuery = graphql`
         endPointName
         distance
         time
+        endCountryName
       }
     }
   }
