@@ -67,18 +67,18 @@ Pour faire tout cela, on a :
 - roulé sous le niveau de la mer grâce à des polders 🤿,
 - emprunté des ponts gigantesques 🌉, traversé des passages à niveau 🛤️, franchi des tunnels de plusieurs kilomètres 🚇,
 - gravi des côtes et des cols de montagne ⛰️,
-- roulé sur de l'asphalte, de la terre, des graviers, dans les cailloux, dans la boue, dans le sable et même dans la neige 🪨⛱️🚵🏼‍♀️⛷️,
+- roulé sur de l'asphalte, de la terre, des graviers, dans les cailloux, dans la boue, dans le sable et même dans la neige <span class="d-emoji">🪨</span>⛱️🚵🏼‍♀️⛷️,
 
 Après avoir roulé :
 
-- sur des chemins boueux sur les voies vertes françaises 🇨🇵,
-- sur les routes pavées belges 🇧🇪,
-- sous le vent d'enfer qui souffle dans les plaines néerlandaises 🇳🇱,
-- sur des revêtements hasardeux et sous la grêle en Allemagne 🇩🇪,
-- la majorité du temps sur des îles lors de notre passage au Danemark 🇩🇰,
-- dans des conditions dantesques pour braver la pluie, la neige et le dénivelé norvégien 🇧🇻,
-- sur des centaines de kilomètres avec pas un chat mais des millions de moustiques en Finlande 🇫🇮,
-- le long de l'immense côte suédoise autour du golfe de Botnie 🇸🇪.
+- sur des chemins boueux sur les voies vertes françaises<span class="d-emoji">&nbsp;🇨🇵</span>,
+- sur les routes pavées belges<span class="d-emoji">&nbsp;🇧🇪</span>,
+- sous le vent d'enfer qui souffle dans les plaines néerlandaises<span class="d-emoji">&nbsp;🇳🇱</span>,
+- sur des revêtements hasardeux et sous la grêle en Allemagne<span class="d-emoji">&nbsp;🇩🇪</span>,
+- la majorité du temps sur des îles lors de notre passage au Danemark<span class="d-emoji">&nbsp;🇩🇰</span>,
+- dans des conditions dantesques pour braver la pluie, la neige et le dénivelé norvégien<span class="d-emoji">&nbsp;🇧🇻</span>,
+- sur des centaines de kilomètres avec pas un chat mais des millions de moustiques en Finlande<span class="d-emoji">&nbsp;🇫🇮</span>,
+- le long de l'immense côte suédoise autour du golfe de Botnie<span class="d-emoji">&nbsp;🇸🇪</span>.
 
 Après tout ça (et un café), on est enfin arrivés à **Stockholm** 🤩 !
 

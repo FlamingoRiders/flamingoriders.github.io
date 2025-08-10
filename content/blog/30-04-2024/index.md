@@ -52,4 +52,4 @@ Nous avons particulièrement apprécié :
 - les bretzels 🥨 et spécialités à base de pomme de terre 🥔.
 - les grands parcs magnifiquement entretenus où il fait bon flâner.
 
-Auf Wiedersehen Deutschland 🇩🇪♥️ !
+Auf Wiedersehen Deutschland <span class="d-emoji">🇩🇪</span>♥️ !

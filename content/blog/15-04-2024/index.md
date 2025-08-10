@@ -18,7 +18,7 @@ On est face au triste problème de **Amsterdam** et de son hyper centre, il s'ag
 
 **Amsterdam** est une ville magnifique : ses canaux, ses musées, son centre dépourvu de circulation automobile. Cependant, nous en avons un autre regard ce matin à cause de 2 facteurs. Le premier c'est notre réveil dans l'hypercentre où l'on voit l'impact de l'activité touristique. Le deuxième c'est qu'après une semaine aux **Pays-Bas**, nous avons trouvé des villes bien moins fréquentées qu'**Amsterdam** et qui présentent pourtant tout autant de charme.
 
-Nous ne restons pas longtemps dans la ville malheureusement. Nous ne sommes pas trop déçus car on sait qu'on peut y revenir rapidement depuis Paris en Thalys. Il nous faut avancer sur notre route et dire au revoir à **Amsterdam** 🙂 !.
+Nous ne restons pas longtemps dans la ville malheureusement. Nous ne sommes pas trop déçus car on sait qu'on peut y revenir rapidement depuis Paris en Thalys. Il nous faut avancer sur notre route et dire au revoir à **Amsterdam** 🙂 !
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4IRHwIZHzlHT1FQpRa5RdE?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 

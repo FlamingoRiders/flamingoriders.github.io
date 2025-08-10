@@ -84,7 +84,7 @@ Pour l'occasion on va profiter tous ensemble d'un des meilleurs repas depuis le 
 - un succulent risotto,
 - un gâteau au chocolat beaucoup trop bon avec double dose de chocolat 😃.
 
-On fait même découvrir à Michel 🇳🇱 l'apéro et le guacamole. Aux Pays-Bas, on mange très tôt vers 17h ! On espère qu'il propage cela dans son pays natal 😁.
+On fait même découvrir à Michel <span class="d-emoji">🇳🇱</span> l'apéro et le guacamole. Aux Pays-Bas, on mange très tôt vers 17h ! On espère qu'il propage cela dans son pays natal 😁.
 
 Après le _"métro - boulot - dodo"_, il se peut bien que _"apéro - risotto - gâteau"_ soit le prochain dicton à la mode 😁.
 

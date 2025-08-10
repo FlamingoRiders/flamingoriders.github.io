@@ -47,7 +47,7 @@ On est à bord et quelques minutes après la terre s'éloigne de nous. On dit au
 
 ### Arrivée au Danemark
 
-On débarque à **Rødbyhavn**. Ça y est, nous sommes au **Danemark** 🇩🇰🥳 ! Le panneau affichant le nom du pays avec les étoiles européennes à la sortie du ferry peut témoigner de notre passage 😉.
+On débarque à **Rødbyhavn**. Ça y est, nous sommes au **Danemark** <span class="d-emoji">🇩🇰</span>🥳 ! Le panneau affichant le nom du pays avec les étoiles européennes à la sortie du ferry peut témoigner de notre passage 😉.
 
 On a rejoint l'île de **Lolland** et très rapidement, on fait un constat. Il semble y avoir très peu de monde ! Les rares passages en ville proposent de belles pistes cyclables et le reste du temps, on est directement sur la route. On croise très peu de voitures sur ses axes ainsi que peu d'habitations aux alentours. Cela nous semble très nature.
 

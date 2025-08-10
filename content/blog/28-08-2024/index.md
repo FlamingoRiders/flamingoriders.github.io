@@ -22,7 +22,7 @@ La suite de notre balade à vélo se déroule sans encombres, le profil est touj
 
 ### Un formidable camping à Kattnäs
 
-On arrive au camping de **Kattnäs** par un petit sentier gravel qui coupe à travers une forêt vierge. On progresse jusqu'à des emplacements au bord de la mer Baltique. Le cadre est superbe et l'on aperçoit des traces de pas sur la petite plage de sable blanc. Elles sont récentes, sans doute des petits daims sont venus s'y promener. Le camping est presque vide. Il y a seulement une tente à proximité : celle de nos amis wallons Seb et Jess bien sûr 🇧🇪 !
+On arrive au camping de **Kattnäs** par un petit sentier gravel qui coupe à travers une forêt vierge. On progresse jusqu'à des emplacements au bord de la mer Baltique. Le cadre est superbe et l'on aperçoit des traces de pas sur la petite plage de sable blanc. Elles sont récentes, sans doute des petits daims sont venus s'y promener. Le camping est presque vide. Il y a seulement une tente à proximité : celle de nos amis wallons Seb et Jess bien sûr <span class="d-emoji">🇧🇪</span> !
 
 On se repose un peu puis on décide d'aller faire un tour dans l'eau. Il y a un peu de courant mais l'eau est peu profonde, on peut s'éloigner à 50 mètres du bord sans que celle-ci ne monte au delà des hanches.
 

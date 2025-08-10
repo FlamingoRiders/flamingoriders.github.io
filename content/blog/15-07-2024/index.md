@@ -10,7 +10,7 @@ tags: ["heart", "scenic"]
 
 Aujourd'hui, nous quittons **Tromsø** après trois superbes journées dans cette ville charmante et attachante ! C'est un double au revoir car en plus de la ville, nous disons au revoir pour la troisième fois à Mika 🤗 !
 
-Cette fois-ci, il semblerait bien que nous nous croiserons plus du voyage : nous partons pour continuer notre route vers la Finlande puis la Suède tandis que Mika projette de rallier **Nordkapp** avec Noémie 🇩🇪 et Léa 🇨🇭 avec qui nous avons également roulé et partagé de supers moments !
+Cette fois-ci, il semblerait bien que nous nous croiserons plus du voyage : nous partons pour continuer notre route vers la Finlande puis la Suède tandis que Mika projette de rallier **Nordkapp** avec Noémie<span class="d-emoji">&nbsp;🇩🇪</span> et Léa<span class="d-emoji">&nbsp;🇨🇭</span> avec qui nous avons également roulé et partagé de supers moments !
 
 Avec Mika nous avons roulé une dizaine de jours, partagé des histoires personnelles, créé de nouvelles histoires, vécu une belle aventure enrichissante et sportive. Nous n'avons aucun doute que nous allons le revoir. Nous lui souhaitons le meilleur pour la suite de son aventure en espérant qu'il trouvera la clé du bonheur !
 

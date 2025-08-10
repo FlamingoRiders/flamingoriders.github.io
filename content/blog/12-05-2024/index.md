@@ -58,7 +58,7 @@ Certains veulent rejoindre le **Cap Nord** sur un délai de 3-4 semaines. La **S
 
 Quand nous avons planifié notre voyage, nous souhaitions absolument privilégier la **Norvège**. Par contre, nous souhaiterions redescendre par la **Suède** toujours à vélo, si tout se passe comme prévu 🤞.
 
-Quoi qu'il en soit, un peu comme le **Danemark**, nous voulons profiter un maximum dans les pays que nous traversons. Au final, nous n'aurons pas tout fait mais qu'est-ce que c'était bien 🇩🇰🥰 !
+Quoi qu'il en soit, un peu comme le **Danemark**, nous voulons profiter un maximum dans les pays que nous traversons. Au final, nous n'aurons pas tout fait mais qu'est-ce que c'était bien <span class="d-emoji">🇩🇰</span>🥰 !
 
 Nous arrivons à **Frederikshavn** par une longue piste cyclable qui longe le littoral. Sur la terre, c'est un peu surélevé. À quelques centaines de mètres, on aperçoit dans les hauteurs des bunkers. Ça y est, on l'a fait, on est arrivé au bout !
 
@@ -119,4 +119,4 @@ Nous avons particulièrement apprécié :
 - pouvoir se baigner n'importe où dans des eaux propres mais froides 😅.
 - des gens qui ne se prennent pas la tête mais qui seront toujours super-friendly si vous les abordez.
 
-Farvel Danmark 🇩🇰♥️ !
+Farvel Danmark <span class="d-emoji">🇩🇰</span>♥️ !

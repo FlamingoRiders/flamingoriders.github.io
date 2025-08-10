@@ -25,7 +25,7 @@ Alors que nous venons de traverser une énième averse, un rayon de soleil vient
 
 Retour du soleil, vent de dos, c'est un alignement des planètes parfait pour notre arrivée, à croire que nos nouveaux hôtes ont tout préparé en amont. Bon, il manque le tapis rouge mais on est pas difficile, on mettra quand même une bonne note sur TripAdvisor.
 
-Ça y est nous passons la frontière 🇩🇪 ! Ça mérite bien une petite danse.
+Ça y est nous passons la frontière <span class="d-emoji">🇩🇪&nbsp;</span>! Ça mérite bien une petite danse.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/3FQ9mRcb94aogeTvmj" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

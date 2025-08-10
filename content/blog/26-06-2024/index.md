@@ -14,7 +14,7 @@ Après avoir petit-déjeuner tous ensemble, on doit malheureusement dire au revo
 
 On a vu que notre trajet du jour quitte légèrement la route FV17 et que nous devons encore emprunter un ferry. La route FV17 passe par un long tunnel sous le glacier. Celui-ci est interdit aux vélo. Étant donné que le ferry est à 30 kilomètres et qu'il ne passe pas souvent, on a un départ tardif, vers 11h30 😉.
 
-À 14h30, on embarque pour le ferry qui relie **Vassdalvik** à **Ørnes**. Sur le quai, on retrouve avant le départ de celui-ci plein d'autres cyclistes qu'on a déjà croisés, Luc de **Nantes** 🇨🇵, un couple de suisses allemands 🇨🇭 et Rob qui vient de **Louvain** 🇧🇪.
+À 14h30, on embarque pour le ferry qui relie **Vassdalvik** à **Ørnes**. Sur le quai, on retrouve avant le départ de celui-ci plein d'autres cyclistes qu'on a déjà croisés, Luc de **Nantes** <span class="d-emoji">🇨🇵</span>, un couple de suisses allemands <span class="d-emoji">🇨🇭</span> et Rob qui vient de **Louvain** <span class="d-emoji">🇧🇪</span>.
 
 ### Des anecdotes incroyables
 

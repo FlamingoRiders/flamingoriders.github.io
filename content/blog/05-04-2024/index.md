@@ -31,7 +31,7 @@ Depuis 2 jours, nous remontons au nord et sommes tout proches de la Belgique. Ce
 
 Malheureusement, il ne viendra pas. Nous plongeons sous un passage routier et constatons que la signalisation routière a changé ! Ça y est nous sommes en Belgique. Mince, c'est raté pour la photo. Nous sommes passés quelque part entre **Jeumont** et **Erquelinnes**.
 
-Malgré cette légère déception de n'avoir pas su déterminer le moment exact du passage, nous sommes véritablement ravis. C'est la première fois que nous passons une frontière durant notre voyage. Au delà de ça, c'est également la première fois que nous passons une frontière de notre vie, de manière autonome et non-motorisée. Nous mesurons pleinement le chemin parcouru et le temps écoulé depuis notre départ. C'est un moment spécial. C'est un moment à nous 🇧🇪.
+Malgré cette légère déception de n'avoir pas su déterminer le moment exact du passage, nous sommes véritablement ravis. C'est la première fois que nous passons une frontière durant notre voyage. Au delà de ça, c'est également la première fois que nous passons une frontière de notre vie, de manière autonome et non-motorisée. Nous mesurons pleinement le chemin parcouru et le temps écoulé depuis notre départ. C'est un moment spécial. C'est un moment à nous <span class="d-emoji">🇧🇪</span>.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6pc8xULSlsMdFB3OrqbvZ4?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 

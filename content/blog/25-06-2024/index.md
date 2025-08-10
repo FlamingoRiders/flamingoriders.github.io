@@ -14,18 +14,18 @@ Depuis une semaine, on a des nouvelles de nos amis qu'on a quittés vers **Stein
 
 ### Des retrouvailles qui font plaisir !
 
-Aujourd'hui, on a un ferry à prendre dès le début de notre journée pour atteindre **Jektvik**. Les horaires qu'on nous a indiqués à la réception du camping ne sont pas les mêmes que ceux que l'on a repérés en ligne. On s'en rend compte vers 9h30 au petit-déjeuner. On décide donc de prendre le ferry de 13h. Cela s'accompagne d'une très bonne nouvelle : on va retrouver Mika, Léa, Lasse et deux autres compagnons avec qui, ils ont fait la route depuis plusieurs jours 😃 ! On fait donc la connaissance de Noémie 🇩🇪 et Michel 🇳🇱 ! On a donc une joyeuse bande pour l'étape du jour 🇪🇺 ! On va rouler à 8.
+Aujourd'hui, on a un ferry à prendre dès le début de notre journée pour atteindre **Jektvik**. Les horaires qu'on nous a indiqués à la réception du camping ne sont pas les mêmes que ceux que l'on a repérés en ligne. On s'en rend compte vers 9h30 au petit-déjeuner. On décide donc de prendre le ferry de 13h. Cela s'accompagne d'une très bonne nouvelle : on va retrouver Mika, Léa, Lasse et deux autres compagnons avec qui, ils ont fait la route depuis plusieurs jours 😃 ! On fait donc la connaissance de Noémie <span class="d-emoji">🇩🇪</span> et Michel <span class="d-emoji">🇳🇱</span> ! On a donc une joyeuse bande pour l'étape du jour 🇪🇺 ! On va rouler à 8.
 
-| Cycliste | Pays |
-| -------- | ---- |
-| Michel   | 🇳🇱   |
-| Lasse    | 🇩🇪   |
-| Noémie   | 🇩🇪   |
-| Léa      | 🇨🇭   |
-| Mika     | 🇨🇵   |
-| Nana     | 🇨🇵   |
-| Nico     | 🇨🇵   |
-| Eduardo  | 🦩   |
+| Cycliste | Pays                            |
+| -------- | ------------------------------- |
+| Michel   | <span class="d-emoji">🇳🇱</span> |
+| Lasse    | <span class="d-emoji">🇩🇪</span> |
+| Noémie   | <span class="d-emoji">🇩🇪</span> |
+| Léa      | <span class="d-emoji">🇨🇭</span> |
+| Mika     | <span class="d-emoji">🇨🇵</span> |
+| Nana     | <span class="d-emoji">🇨🇵</span> |
+| Nico     | <span class="d-emoji">🇨🇵</span> |
+| Eduardo  | 🦩                              |
 
 Mais la nationalité ou la langue s'oublie très vite, on est unis par la même quête d'aventure et de liberté. On partage ces moments de vélo qui nous parlent à tous.
 

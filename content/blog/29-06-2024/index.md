@@ -37,7 +37,7 @@ Une dame entre dans la salle en fin de journée pour la nettoyer. On se dit que 
 
 On fait la rencontre de Nuriel, une suisse originaire de **Zürich** et qui a étudié un semestre à **Rovaniemi** avant de se lancer dans un car-trip à travers la **Norvège** du nord. C'est top, elle nous partage plein de supers anecdotes et on lui partage les bons plans le long de la côte après **Bodø** 😃.
 
-On regarde aussi le foot car c'est l'Euro, on a le temps et on n'a pas vu beaucoup de matchs jusqu'à présent. Un **Suisse 🇨🇭 - Italie 🇮🇹** et un **Allemagne 🇩🇪 - Danemark** 🇩🇰 qui feront bien plaisir !
+On regarde aussi le foot car c'est l'Euro, on a le temps et on n'a pas vu beaucoup de matchs jusqu'à présent. Un **Suisse <span class="d-emoji">🇨🇭</span> - Italie <span class="d-emoji">🇮🇹</span>** et un **Allemagne <span class="d-emoji">🇩🇪</span> - Danemark <span class="d-emoji">🇩🇰</span>** qui feront bien plaisir !
 
 Bref, avec la météo du jour, on n'a pas joué aux plus aventuriers. On évite la pluie et le vent en restant au chaud et on s'occupe comme on peut 😅.
 

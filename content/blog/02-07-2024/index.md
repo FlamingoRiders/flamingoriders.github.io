@@ -31,7 +31,7 @@ On s'empresse de retourner au **Sport 1** qui avait pu dépanner Mika et Noemi l
 
 On mange rapidement et on est en mesure de reprendre le ferry pour **Moskenes** à 13h30.
 
-Sur le quai, on recroise Rob 🇧🇪 qui a été rejoint à **Bodø** par sa copine. On lui explique nos galères et on lui dit que **Værøy**, le village de **Å** et le sommet **Reinebringen**, c'est magique 🪄 !
+Sur le quai, on recroise Rob <span class="d-emoji">🇧🇪</span> qui a été rejoint à **Bodø** par sa copine. On lui explique nos galères et on lui dit que **Værøy**, le village de **Å** et le sommet **Reinebringen**, c'est magique 🪄 !
 
 Ce ferry de retour est un peu plus vieux et plus lent, il n'y a pas de wifi et on a une place à la fenêtre où il fait très chaud. Les gens sont bruyants donc on ne récupère pas trop de notre nuit écourtée. Mais le plus important est là : à 17h30, on est de retour aux Lofoten 🤩 !!
 

@@ -9,7 +9,7 @@ location: "Nordland, Norvège"
 
 Ce matin, on se réveille à **Bodø** après une nuit bien plus confortable que les précédentes. Nous ne resterons pas longtemps dans cette petite ville du Nord de la **Norvège** c'est surtout la porte d'entrée principale vers les îles **Lofoten**. Beaucoup de gens y passent pour ensuite rallier l'archipel en ferry. C'est précisément ce que nous allons faire 😃. Cependant, notre ferry est à 17h15, on se balade un petit peu dans **Bodø** et l'on ravitaille avant le week-end. On s'est déjà fait suffisamment avoir par les fermetures du samedi après-midi jusqu'au lundi matin 😬.
 
-Michel lui est parti tôt le matin pour prendre le premier ferry en direction de **Moskenes**, l'île principale des **Lofoten**. On sait que la météo du jour est bonne mais la suivante ne l'est plus du tout avant de possiblement déboucher sur une bonne semaine à partir de dimanche 🤞🏼. On lui dit au revoir, on aura bien rigolé et on espère pouvoir se recroiser 🇳🇱.
+Michel lui est parti tôt le matin pour prendre le premier ferry en direction de **Moskenes**, l'île principale des **Lofoten**. On sait que la météo du jour est bonne mais la suivante ne l'est plus du tout avant de possiblement déboucher sur une bonne semaine à partir de dimanche 🤞🏼. On lui dit au revoir, on aura bien rigolé et on espère pouvoir se recroiser <span class="d-emoji">🇳🇱</span>.
 
 ### Long ferry pour Vaeroy
 

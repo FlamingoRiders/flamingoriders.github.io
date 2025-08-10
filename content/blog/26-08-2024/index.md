@@ -8,7 +8,7 @@ tags: ["heart", "scenic", "culture"]
 
 ![Salmiakki d'Eduardo](../salmiakki_eduardo.png)
 
-Aujourd'hui, on se lève de bonne heure afin de rejoindre un ferry pour les îles d'**Hollande** 🇳🇱 !
+Aujourd'hui, on se lève de bonne heure afin de rejoindre un ferry pour les îles d'**Hollande** <span class="d-emoji">🇳🇱</span> !
 
 🙅🏼‍♀️ : _"Mais non Eduardo on va sur les îles d'Åland, tu as raison le \"Å\" se prononce effectivement comme un \"O\" mais ce n'est pas du tout néerlandais, c'est situé en Finlande"_
 
@@ -58,4 +58,4 @@ C'est pourquoi une route historique, la **Postvägen**, a été inaugurée en 16
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/1oYYd2gnWZYrt89EBXdFiO?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
-Nous poursuivons notre route pour arriver à **Bomarsund** où nous trouvons un petit camping à proximité des restes d'une forteresse du XIXe siècle. Nous y faisons la connaissance de deux belges fort sympathiques : Jess et Seb 🇧🇪. Cet archipel d'**Åland** ne manque décidément pas de surprises à découvrir 😉 !
+Nous poursuivons notre route pour arriver à **Bomarsund** où nous trouvons un petit camping à proximité des restes d'une forteresse du XIXe siècle. Nous y faisons la connaissance de deux belges fort sympathiques : Jess et Seb <span class="d-emoji">🇧🇪</span>. Cet archipel d'**Åland** ne manque décidément pas de surprises à découvrir 😉 !
