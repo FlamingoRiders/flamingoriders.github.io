@@ -42,7 +42,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (posts.length > 0) {
     // Create paginated blog list pages
-    const numPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+    const numPages = Math.ceil((posts.length - SKIPPED_POSTS) / POSTS_PER_PAGE);
     Array.from({ length: numPages }).forEach((_, i) => {
       const firstPage = i === 0;
       const currentPage = i + 1;
