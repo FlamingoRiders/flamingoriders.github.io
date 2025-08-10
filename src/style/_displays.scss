@@ -7,6 +7,10 @@
   display: inline;
 }
 
+.d-emoji {
+  font-family: "Noto Color Emoji";
+}
+
 @media (max-width: 36rem) {
   .d-desktop {
     display: none;

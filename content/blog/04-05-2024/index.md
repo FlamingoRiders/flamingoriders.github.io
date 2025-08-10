@@ -30,37 +30,37 @@ Nous arrivons à **Copenhague** et terminons donc la phase 2 de notre voyage.
 
 Voici un petit récapitulatif de celle-ci :
 
-| Phase 2 | Hambourg à Copenhague |
-|----|----|
-| Distance parcourue | 424,56 km  |
-| Jours écoulés   |  6  |
-| Jours en itinérance  |  6  |
-| Nuits en camping  |  5  |
-| Ferry / bac empruntés  | 2  |
-| Chutes   |  1  |
-| Pays traversés  | 🇩🇪🇩🇰  |
-| Comment c’était ?  | 🥰😍🤩   |
+| Phase 2               | Hambourg à Copenhague             |
+| --------------------- | --------------------------------- |
+| Distance parcourue    | 424,56 km                         |
+| Jours écoulés         | 6                                 |
+| Jours en itinérance   | 6                                 |
+| Nuits en camping      | 5                                 |
+| Ferry / bac empruntés | 2                                 |
+| Chutes                | 1                                 |
+| Pays traversés        | <span class="d-emoji">🇩🇪🇩🇰</span> |
+| Comment c’était ?     | 🥰😍🤩                            |
 
-Nous sommes tous collectivement très heureux de cette belle semaine et de notre accomplissement commun. Cependant, il faut aussi savoir regarder au-delà des chiffres. C'est évocateur au premier regard mais ce n'est qu'une prise de photo instantanée. 
+Nous sommes tous collectivement très heureux de cette belle semaine et de notre accomplissement commun. Cependant, il faut aussi savoir regarder au-delà des chiffres. C'est évocateur au premier regard mais ce n'est qu'une prise de photo instantanée.
 
 Il y a surtout la route effectuée et ce que l'on a parcouru. Lundi, on partait d'**Hambourg**. Mardi, on apercevait pour la première fois la **mer Baltique**. Mercredi, on rejoignait le **Danemark**. Jeudi, on a traversé pas moins de 3 îles. Vendredi, on rejoignait le **Seeland** avant d'atteindre finalement **Copenhague** en début d'après-midi aujourd'hui. C'est fou ce qu'on peut faire en quelques jours de vélo ❤️.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/12GP2pkws57gd2" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Depuis notre départ, voici notre avancement : 
+Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Copenhague |
 |----|----|
-| Distance parcourue | 1909,13 km  |
-| Jours écoulés   |  35  |
-| Jours en itinérance  |  29 |
-| Nuits en camping  |  9  |
-| Ferry / bac empruntés  | 4  |
-| Chutes   |  3  |
-| Pays traversés  | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰 |
-| Comment c’était ?  | 🥰😍🤩   |
+| Distance parcourue | 1909,13 km |
+| Jours écoulés | 35 |
+| Jours en itinérance | 29 |
+| Nuits en camping | 9 |
+| Ferry / bac empruntés | 4 |
+| Chutes | 3 |
+| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰 |
+| Comment c’était ? | 🥰😍🤩 |
 
- ### La belle Copenhague
- 
+### La belle Copenhague
+
 Après avoir posé les vélos, nous partons pour une longue balade à pied dans **Copenhague**. Nana et Nico l'avaient déjà visitée une première fois il y a quelques années et en avaient gardé un excellent souvenir. Ils avaient hâte d'y revenir !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/MQ4bWOjn8C9tT2dzIb" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
