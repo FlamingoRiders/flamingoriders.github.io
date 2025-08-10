@@ -2,6 +2,7 @@ const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 const POSTS_PER_PAGE = 10;
+const SKIPPED_POSTS = 3; // First three posts should not appear
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;
@@ -50,7 +51,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         component: postList,
         context: {
           limit: POSTS_PER_PAGE,
-          skip: firstPage ? 3 : i * POSTS_PER_PAGE,
+          skip: i * POSTS_PER_PAGE + SKIPPED_POSTS,
           numPages,
           currentPage,
         },
