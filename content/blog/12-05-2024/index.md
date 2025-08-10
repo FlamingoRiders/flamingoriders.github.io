@@ -68,16 +68,16 @@ Nous terminons ainsi la phase 3 de notre voyage.
 
 Voici un petit récapitulatif de celle-ci :
 
-| Phase 3               | Copenhague à Frederikshavn |
-| --------------------- | -------------------------- |
-| Distance parcourue    | 336,94 km                  |
-| Jours écoulés         | 5                          |
-| Jours en itinérance   | 5                          |
-| Nuits en camping      | 3                          |
-| Ferry / bac empruntés | 3                          |
-| Chutes                | 0                          |
-| Pays traversés        | 🇩🇰                         |
-| Comment c’était ?     | 🥰😍🤩                     |
+| Phase 3               | Copenhague à Frederikshavn      |
+| --------------------- | ------------------------------- |
+| Distance parcourue    | 336,94 km                       |
+| Jours écoulés         | 5                               |
+| Jours en itinérance   | 5                               |
+| Nuits en camping      | 3                               |
+| Ferry / bac empruntés | 3                               |
+| Chutes                | 0                               |
+| Pays traversés        | <span class="d-emoji">🇩🇰</span> |
+| Comment c’était ?     | 🥰😍🤩                          |
 
 Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Frederikshavn |
@@ -88,7 +88,7 @@ Depuis notre départ, voici notre avancement :
 | Nuits en camping | 12 |
 | Ferry / bac empruntés | 7 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 ### Rencontres sympathiques en attendant le ferry

@@ -65,19 +65,19 @@ Avec cette arrivée à **Bergen**, on boucle ainsi la phase 4 de notre voyage �
 
 Voici un récapitulatif de celle-ci :
 
-| Phase 4               | Oslo à Bergen |
-| --------------------- | ------------- |
-| Distance parcourue    | 589.56 km     |
-| Dénivelé positif      | 8062 m        |
-| Jours écoulés         | 10            |
-| Jours en itinérance   | 9             |
-| Nuits en tente        | 5             |
-| Nuits en hytte        | 2             |
-| Tunnels empruntés     | 20            |
-| Ferry / bac empruntés | 1             |
-| Chutes                | 0             |
-| Pays traversés        | 🇧🇻            |
-| Comment c’était ?     | 🥰😍🤩        |
+| Phase 4               | Oslo à Bergen                   |
+| --------------------- | ------------------------------- |
+| Distance parcourue    | 589.56 km                       |
+| Dénivelé positif      | 8062 m                          |
+| Jours écoulés         | 10                              |
+| Jours en itinérance   | 9                               |
+| Nuits en tente        | 5                               |
+| Nuits en hytte        | 2                               |
+| Tunnels empruntés     | 20                              |
+| Ferry / bac empruntés | 1                               |
+| Chutes                | 0                               |
+| Pays traversés        | <span class="d-emoji">🇧🇻</span> |
+| Comment c’était ?     | 🥰😍🤩                          |
 
 Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Bergen |
@@ -91,7 +91,7 @@ Depuis notre départ, voici notre avancement :
 | Tunnels empruntés | 20 |
 | Ferry / bac empruntés | 8 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 Sur ces dix derniers jours, on a pu confirmer ce que l'on soupçonnait déjà de longue date : faire du vélo en **Norvège** est exigeant. Il faut être patient et prêt à affronter des conditions différentes de celles auxquelles nous avons dû faire face jusqu'à présent : le dénivelé, les tunnels, la neige, la longueur de la route etc. Ajoutons à cela la fatigue générée et accumulée sur plusieurs jours.

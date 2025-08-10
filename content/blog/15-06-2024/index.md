@@ -41,19 +41,19 @@ Avec cette arrivée à **Trondheim**, on boucle ainsi la phase 5 de notre voyage
 
 Voici un récapitulatif de celle-ci :
 
-| Phase 5               | Bergen à Trondheim |
-| --------------------- | ------------------ |
-| Distance parcourue    | 876.74 km          |
-| Dénivelé positif      | 11682 m            |
-| Jours écoulés         | 15                 |
-| Jours en itinérance   | 13                 |
-| Nuits en tente        | 2                  |
-| Nuits en hytte        | 12                 |
-| Tunnels empruntés     | 15                 |
-| Ferry / bac empruntés | 4                  |
-| Chutes                | 0                  |
-| Pays traversés        | 🇧🇻                 |
-| Comment c’était ?     | 🥰😍🤩☔           |
+| Phase 5               | Bergen à Trondheim              |
+| --------------------- | ------------------------------- |
+| Distance parcourue    | 876.74 km                       |
+| Dénivelé positif      | 11682 m                         |
+| Jours écoulés         | 15                              |
+| Jours en itinérance   | 13                              |
+| Nuits en tente        | 2                               |
+| Nuits en hytte        | 12                              |
+| Tunnels empruntés     | 15                              |
+| Ferry / bac empruntés | 4                               |
+| Chutes                | 0                               |
+| Pays traversés        | <span class="d-emoji">🇧🇻</span> |
+| Comment c’était ?     | 🥰😍🤩☔                        |
 
 Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Trondheim |
@@ -67,7 +67,7 @@ Depuis notre départ, voici notre avancement :
 | Tunnels empruntés | 35 |
 | Ferry / bac empruntés | 12 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 Sur cette phase, on a pu voir des paysages formidables, de la côte ouest aux magnifiques fjords au nord de **Bergen** en passant par des vallées, des montagnes et des glaciers à couper le souffle : la totale 🤩 ! On a également emprunté des routes mythiques comme **Trollstigen** ou l'**Atlantic Road**.

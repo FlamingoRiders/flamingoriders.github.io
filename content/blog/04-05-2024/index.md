@@ -56,7 +56,7 @@ Depuis notre départ, voici notre avancement :
 | Nuits en camping | 9 |
 | Ferry / bac empruntés | 4 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 ### La belle Copenhague

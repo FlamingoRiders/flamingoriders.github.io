@@ -31,19 +31,19 @@ Avec cette arrivée à **Stockholm**, on boucle ainsi la dernière phase de notr
 
 Voici un récapitulatif de celle-ci :
 
-| Phase 9               | Rovaniemi à Stockholm |
-| --------------------- | --------------------- |
-| Distance parcourue    | 1421.40 km            |
-| Dénivelé positif      | 9371 m                |
-| Jours écoulés         | 24                    |
-| Jours en itinérance   | 20                    |
-| Nuits en tente        | 14                    |
-| Nuits en hytte        | 7                     |
-| Tunnels empruntés     | 0                     |
-| Ferry / bac empruntés | 0                     |
-| Chutes                | 0                     |
-| Pays traversés        | 🇫🇮🇸🇪                  |
-| Comment c’était ?     | 🥰😍🤩                |
+| Phase 9               | Rovaniemi à Stockholm             |
+| --------------------- | --------------------------------- |
+| Distance parcourue    | 1421.40 km                        |
+| Dénivelé positif      | 9371 m                            |
+| Jours écoulés         | 24                                |
+| Jours en itinérance   | 20                                |
+| Nuits en tente        | 14                                |
+| Nuits en hytte        | 7                                 |
+| Tunnels empruntés     | 0                                 |
+| Ferry / bac empruntés | 0                                 |
+| Chutes                | 0                                 |
+| Pays traversés        | <span class="d-emoji">🇫🇮🇸🇪</span> |
+| Comment c’était ?     | 🥰😍🤩                            |
 
 Depuis notre départ, voici notre trajet total :
 | 🦩 | Paris à Stockholm |
@@ -57,7 +57,7 @@ Depuis notre départ, voici notre trajet total :
 | Tunnels empruntés | 83 |
 | Ferry / bac empruntés | 30 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻🇫🇮🇸🇪 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻🇫🇮🇸🇪</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 Pour faire tout cela, on a :

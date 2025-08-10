@@ -37,19 +37,19 @@ Avec cette arrivée à **Bodø**, on boucle ainsi la phase 6 de notre voyage �
 
 Voici un récapitulatif de celle-ci :
 
-| Phase 6               | Trondheim à Bodø |
-| --------------------- | ---------------- |
-| Distance parcourue    | 682.92 km        |
-| Dénivelé positif      | 7655 m           |
-| Jours écoulés         | 10               |
-| Jours en itinérance   | 10               |
-| Nuits en tente        | 2                |
-| Nuits en hytte        | 7                |
-| Tunnels empruntés     | 20               |
-| Ferry / bac empruntés | 8                |
-| Chutes                | 0                |
-| Pays traversés        | 🇧🇻               |
-| Comment c’était ?     | 🥰😍🤩☔         |
+| Phase 6               | Trondheim à Bodø                |
+| --------------------- | ------------------------------- |
+| Distance parcourue    | 682.92 km                       |
+| Dénivelé positif      | 7655 m                          |
+| Jours écoulés         | 10                              |
+| Jours en itinérance   | 10                              |
+| Nuits en tente        | 2                               |
+| Nuits en hytte        | 7                               |
+| Tunnels empruntés     | 20                              |
+| Ferry / bac empruntés | 8                               |
+| Chutes                | 0                               |
+| Pays traversés        | <span class="d-emoji">🇧🇻</span> |
+| Comment c’était ?     | 🥰😍🤩☔                        |
 
 Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Bodø |
@@ -63,7 +63,7 @@ Depuis notre départ, voici notre avancement :
 | Tunnels empruntés | 55 |
 | Ferry / bac empruntés | 20 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 Sur cette phase, on a pu voir des paysages formidables, une île hors du commun, **Leka**, et on a longé la côte ouest en empruntant la splendide **FV17 Kystriksveien** du comté de **Trondelag** à celui du **NordLand**.

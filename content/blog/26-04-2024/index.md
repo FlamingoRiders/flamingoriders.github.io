@@ -49,16 +49,16 @@ On est donc arrivé au terme de notre première phase de voyage reliant **Paris*
 
 Voici un petit récapitulatif de celle-ci :
 
-| Phase 1             | Paris à Hambourg |
-| ------------------- | ---------------- |
-| Distance parcourue  | 1484.57 km       |
-| Jours écoulés       | 27               |
-| Jours en itinérance | 23               |
-| Nuits en camping    | 4                |
-| Ferries empruntés   | 2                |
-| Chutes              | 2                |
-| Pays traversés      | 🇨🇵🇧🇪🇳🇱🇩🇪         |
-| Comment c'était ?   | 🥰😍🤩           |
+| Phase 1             | Paris à Hambourg                      |
+| ------------------- | ------------------------------------- |
+| Distance parcourue  | 1484.57 km                            |
+| Jours écoulés       | 27                                    |
+| Jours en itinérance | 23                                    |
+| Nuits en camping    | 4                                     |
+| Ferries empruntés   | 2                                     |
+| Chutes              | 2                                     |
+| Pays traversés      | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪</span> |
+| Comment c'était ?   | 🥰😍🤩                                |
 
 La soirée est marquée par les retrouvailles avec nos amis lyonnais **Camillou** et **Pierro**.
 

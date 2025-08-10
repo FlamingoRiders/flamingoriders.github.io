@@ -81,19 +81,19 @@ Avec cette arrivée à **Tromsø**, on boucle ainsi la phase 7 de notre voyage �
 
 Voici un récapitulatif de celle-ci :
 
-| Phase 7               | Bodø à Tromsø |
-| --------------------- | ------------- |
-| Distance parcourue    | 572.86 km     |
-| Dénivelé positif      | 5201 m        |
-| Jours écoulés         | 14            |
-| Jours en itinérance   | 10            |
-| Nuits en tente        | 11            |
-| Nuits en hytte        | 2             |
-| Tunnels empruntés     | 25            |
-| Ferry / bac empruntés | 9             |
-| Chutes                | 0             |
-| Pays traversés        | 🇧🇻            |
-| Comment c’était ?     | 🥰😍🤩☔      |
+| Phase 7               | Bodø à Tromsø                   |
+| --------------------- | ------------------------------- |
+| Distance parcourue    | 572.86 km                       |
+| Dénivelé positif      | 5201 m                          |
+| Jours écoulés         | 14                              |
+| Jours en itinérance   | 10                              |
+| Nuits en tente        | 11                              |
+| Nuits en hytte        | 2                               |
+| Tunnels empruntés     | 25                              |
+| Ferry / bac empruntés | 9                               |
+| Chutes                | 0                               |
+| Pays traversés        | <span class="d-emoji">🇧🇻</span> |
+| Comment c’était ?     | 🥰😍🤩☔                        |
 
 Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Tromsø |
@@ -107,7 +107,7 @@ Depuis notre départ, voici notre avancement :
 | Tunnels empruntés | 80 |
 | Ferry / bac empruntés | 29 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 Sur cette phase, on en a pris plein les yeux avec la traversée des archipels des **Lofoten**, des Vesterålen et de l'île de **Senja**. Nous avons enchaîné les routes scéniques, les montagnes et fjords hors du commun et les viewpoints à couper le souffle. Cela aura été spectaculaire du début à la fin. Bien que très fréquentées, les îles méritent entièrement leur réputation. C'est difficile à réaliser que des paysages comme ceux-ci existent au-delà du cercle polaire Arctique et qu'ils soient accessibles assez facilement.

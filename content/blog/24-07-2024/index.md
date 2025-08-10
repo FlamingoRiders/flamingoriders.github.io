@@ -78,19 +78,19 @@ Avec cette arrivée à **Rovaniemi**, on boucle ainsi la phase 8 de notre voyage
 
 Voici un récapitulatif de celle-ci :
 
-| Phase 8               | Tromsø à Rovaniemi |
-| --------------------- | ------------------ |
-| Distance parcourue    | 690.15 km          |
-| Dénivelé positif      | 4500 m             |
-| Jours écoulés         | 10                 |
-| Jours en itinérance   | 9                  |
-| Nuits en tente        | 5                  |
-| Nuits en hytte        | 2                  |
-| Tunnels empruntés     | 3                  |
-| Ferry / bac empruntés | 1                  |
-| Chutes                | 0                  |
-| Pays traversés        | 🇧🇻🇫🇮               |
-| Comment c’était ?     | 🥰😍🤩🥵😵‍💫🤒       |
+| Phase 8               | Tromsø à Rovaniemi                |
+| --------------------- | --------------------------------- |
+| Distance parcourue    | 690.15 km                         |
+| Dénivelé positif      | 4500 m                            |
+| Jours écoulés         | 10                                |
+| Jours en itinérance   | 9                                 |
+| Nuits en tente        | 5                                 |
+| Nuits en hytte        | 2                                 |
+| Tunnels empruntés     | 3                                 |
+| Ferry / bac empruntés | 1                                 |
+| Chutes                | 0                                 |
+| Pays traversés        | <span class="d-emoji">🇧🇻🇫🇮</span> |
+| Comment c’était ?     | 🥰😍🤩🥵😵‍💫🤒                      |
 
 Depuis notre départ, voici notre avancement :
 | 🦩 | Paris à Rovaniemi |
@@ -104,7 +104,7 @@ Depuis notre départ, voici notre avancement :
 | Tunnels empruntés | 83 |
 | Ferry / bac empruntés | 30 |
 | Chutes | 3 |
-| Pays traversés | 🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻🇫🇮 |
+| Pays traversés | <span class="d-emoji">🇨🇵🇧🇪🇳🇱🇩🇪🇩🇰🇧🇻🇫🇮</span> |
 | Comment c’était ? | 🥰😍🤩 |
 
 Sur cette phase, on a notamment quitté la **Norvège** après avoir traversé les belles **Alpes de Lyngen**. On est arrivés en **Finlande** par la queue de poêle tout au nord-ouest, en **Laponie**. Les paysages ont brusquement changé, les montagnes imposantes laissant place aux immenses forêts.

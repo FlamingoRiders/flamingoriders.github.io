@@ -78,7 +78,7 @@ const MapsPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
           startPointName={displayedPositionMarker?.startPointName}
           endPointName={displayedPositionMarker?.endPointName}
         />
-        <span className="d-mobile" style={{ fontSize: "2rem" }}>{flag}</span>
+        <span className="d-emoji" style={{ fontSize: "2rem" }}>{flag}</span>
       </div>
       {displayedPositionMarker && cumulatedPositionMarker && (
         <TravelCounter

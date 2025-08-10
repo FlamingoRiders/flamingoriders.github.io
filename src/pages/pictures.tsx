@@ -78,7 +78,7 @@ const PicturesPage: React.FC<PageProps<QueryReturn>> = ({ data, location }) => {
             startPointName={selectedDatePictures?.startPointName}
             endPointName={selectedDatePictures?.endPointName}
           />
-          <span className="d-mobile" style={{ fontSize: "2rem" }}>{flag}</span>
+          <span className="d-emoji" style={{ fontSize: "2rem" }}>{flag}</span>
         </div>
         <br />
       </>

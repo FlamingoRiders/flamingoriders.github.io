@@ -32,7 +32,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.France}
-              <span className="d-mobile">&nbsp;{Flag.France}</span>
+              <span className="d-emoji">&nbsp;{Flag.France}</span>
             </th>
             <td align="center">{stats.get(Country.France)?.days}</td>
             <td align="center">{stats.get(Country.France)?.distance}</td>
@@ -40,7 +40,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.Belgium}
-              <span className="d-mobile">&nbsp;{Flag.Belgium}</span>
+              <span className="d-emoji">&nbsp;{Flag.Belgium}</span>
             </th>
             <td align="center">{stats.get(Country.Belgium)?.days}</td>
             <td align="center">{stats.get(Country.Belgium)?.distance}</td>
@@ -48,7 +48,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.Netherlands}
-              <span className="d-mobile">&nbsp;{Flag.Netherlands}</span>
+              <span className="d-emoji">&nbsp;{Flag.Netherlands}</span>
             </th>
             <td align="center">{stats.get(Country.Netherlands)?.days}</td>
             <td align="center">{stats.get(Country.Netherlands)?.distance}</td>
@@ -56,7 +56,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.Germany}
-              <span className="d-mobile">&nbsp;{Flag.Germany}</span>
+              <span className="d-emoji">&nbsp;{Flag.Germany}</span>
             </th>
             <td align="center">{stats.get(Country.Germany)?.days}</td>
             <td align="center">{stats.get(Country.Germany)?.distance}</td>
@@ -64,7 +64,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.Danmark}
-              <span className="d-mobile">&nbsp;{Flag.Danmark}</span>
+              <span className="d-emoji">&nbsp;{Flag.Danmark}</span>
             </th>
             <td align="center">{stats.get(Country.Danmark)?.days}</td>
             <td align="center">{stats.get(Country.Danmark)?.distance}</td>
@@ -72,7 +72,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.Norway}
-              <span className="d-mobile">&nbsp;{Flag.Norway}</span>
+              <span className="d-emoji">&nbsp;{Flag.Norway}</span>
             </th>
             <td align="center">{stats.get(Country.Norway)?.days}</td>
             <td align="center">{stats.get(Country.Norway)?.distance}</td>
@@ -80,7 +80,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.Finland}
-              <span className="d-mobile">&nbsp;{Flag.Finland}</span>
+              <span className="d-emoji">&nbsp;{Flag.Finland}</span>
             </th>
             <td align="center">{stats.get(Country.Finland)?.days}</td>
             <td align="center">{stats.get(Country.Finland)?.distance}</td>
@@ -88,7 +88,7 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
           <tr>
             <th align="center" scope="row">
               {Country.Sweden}
-              <span className="d-mobile">&nbsp;{Flag.Sweden}</span>
+              <span className="d-emoji">&nbsp;{Flag.Sweden}</span>
             </th>
             <td align="center">{stats.get(Country.Sweden)?.days}</td>
             <td align="center">{stats.get(Country.Sweden)?.distance}</td>
@@ -113,13 +113,9 @@ const GeoStats: React.FC<GeoStatsProps> = ({ stats }) => {
               8 pays
             </th>
             <td align="center">
-              <span className="d-desktop">
-                France, Belgique, Pays-Bas, Allemagne, Danemark, Norvège,
-                Finlande, Suède
-              </span>
-              <span className="d-mobile">
-                France 🇨🇵, Belgique 🇧🇪, Pays-Bas 🇳🇱, Allemagne 🇩🇪, Danemark 🇩🇰,
-                Norvège 🇧🇻, Finlande 🇫🇮, Suède 🇸🇪
+              <span>
+                France <span className="d-emoji">{Flag.France}</span>, Belgique <span className="d-emoji">{Flag.Belgium}</span>, Pays-Bas <span className="d-emoji">{Flag.Netherlands}</span>, Allemagne <span className="d-emoji">{Flag.Germany}</span>, Danemark <span className="d-emoji">{Flag.Danmark}</span>,
+                Norvège <span className="d-emoji">{Flag.Norway}</span>, Finlande <span className="d-emoji">{Flag.Finland}</span>, Suède <span className="d-emoji">{Flag.Sweden}</span>
               </span>
             </td>
           </tr>
