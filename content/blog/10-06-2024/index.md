@@ -8,7 +8,7 @@ tags: ["heart", "scenic"]
 
 ![Saumon d'Eduardo](../saumon_eduardo.png)
 
-Aujourd'hui, on se lève pour une journée un peu particulière. Comme toutes nos journées à vélo, on a un bout de route à parcourir. Comme certaines de nos journées à vélo, il fait un temps terrible : pluie, froid, brouillard, tout y est 😂. Comme rarement, et pour la première fois depuis le début de notre voyage, on passe par un col exceptionnel et une route renommée mondialement : **Trollstigen**, littéralement _"le chemin du troll"_ 🧌.
+Aujourd'hui, on se lève pour une journée un peu particulière. Comme toutes nos journées à vélo, on a un bout de route à parcourir. Comme certaines de nos journées à vélo, il fait un temps terrible : pluie, froid, brouillard, tout y est 😂. Comme rarement, et pour la première fois depuis le début de notre voyage, on passe par un col exceptionnel et une route renommée mondialement : **Trollstigen**, littéralement _"le chemin du troll"_<span class="d-mobile">&nbsp;🧌</span>.
 
 C'est un site visité par des centaines de milliers de personnes chaque année. Il est probable que vous l'ayez déjà vu dans des pubs automobiles ou alors sur des photographies de route de montagnes sauvages 😉.
 
@@ -42,7 +42,7 @@ On finit par arriver au sommet complètement trempés et frigorifiés mais tout 
 
 ### Petit moment de solitude
 
-Oui mais non. C'est complètement couvert en haut. On peut monter à la plateforme mais on ne voit strictement rien. Pas un troll 🧌, pas une montagne 🗻. Nada.
+Oui mais non. C'est complètement couvert en haut. On peut monter à la plateforme mais on ne voit strictement rien. Pas un troll<span class="d-mobile">&nbsp;🧌</span>, pas une montagne 🗻. Nada.
 
 On ne peut même pas confirmer que la cascade qui s'écoule sous nous est immense, on ne voit pas sa chute. On voit un mètre d'eau puis brouillard. Qu'est-ce que c'est qu'ce binz 😡 ?!?
 
