@@ -65,4 +65,4 @@ La **Suède** est un pays que nous avons grandement apprécié. Nous retiendrons
 
 Pour toutes ces raisons, nous avons doublement envie de revenir. Nous souhaitons nous réimprégner de toutes ces _"bonnes vibes"_ suédoises et nous souhaitons aussi découvrir le sud du pays et l'intérieur des terres.
 
-En attendant, il ne nous reste plus qu'une chose à dire : Hej då Sverige 🇸🇪 💛💙 !
+En attendant, il ne nous reste plus qu'une chose à dire : Hej då Sverige <span class="d-emoji">🇸🇪</span> 💛💙 !

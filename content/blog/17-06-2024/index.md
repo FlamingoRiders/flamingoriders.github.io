@@ -46,7 +46,7 @@ On s'approche aussi de la résidence royale **Stiftsgården**, un très grand ma
 
 À **Trondheim**, on trouve également un mini-golf camping ⛳. Je ne vous dis pas les scores mais disons juste que Nico est satisfait de cette nouvelle partie, que lui et Nana sont maintenant à deux partout dans leurs comptes de victoires au mini-golf. La prochaine bataille s'annonce terrible 💪🏼.
 
-On terminera le lundi soir par une nouvelle balade dans **Solsiden**. C'est un quartier qui bouge et il y a aussi des écrans géants installés car c'est l'Euro et ce soir la France joue 🇨🇵⚽ !
+On terminera le lundi soir par une nouvelle balade dans **Solsiden**. C'est un quartier qui bouge et il y a aussi des écrans géants installés car c'est l'Euro et ce soir la France joue <span class="d-emoji">🇨🇵</span>⚽ !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/Nn7j03W1bIJjt07Fks" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

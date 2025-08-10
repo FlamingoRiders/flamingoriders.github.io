@@ -27,7 +27,7 @@ La flore est également très belle. Il y a une multitude de fleurs qui nous ent
 
 ### L'erreur impardonnable
 
-En somme, le cadre de notre randonnée est fortement agréable. Tout va pour le mieux. Enfin tout, pas tout à fait. On a fait un oubli majeur dans notre petit sac de rando. On a oublié le spray contre les moustiques 🫣. Bien sûr, on s'en est rendu compte un peu après être parti, on s'est dit qu'on verrait, que ça devrait être _"gérable"_. Erreur fatale ❌.
+En somme, le cadre de notre randonnée est fortement agréable. Tout va pour le mieux. Enfin tout, pas tout à fait. On a fait un oubli majeur dans notre petit sac de rando. On a oublié le spray contre les moustiques <span class="d-emoji">🫣</span>. Bien sûr, on s'en est rendu compte un peu après être parti, on s'est dit qu'on verrait, que ça devrait être _"gérable"_. Erreur fatale ❌.
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/6NoVGd3nTHsmBV1yduWRta?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 

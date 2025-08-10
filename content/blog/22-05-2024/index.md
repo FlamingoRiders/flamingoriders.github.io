@@ -48,7 +48,7 @@ On essaie de passer dans la neige.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/ljtfkyTD3PIUZaKWRi" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Les roues s'enfoncent de moitié, les freins à disques, la chaîne, les dérailleurs... Tout baigne dans la neige... Quelle catastrophe 😭. On s'enfonce dans la neige, on ne peut pas passer, le tronçon qui enjambe le tunnel dure plus de 2 kilomètres, on ne voit pas la suite pour savoir si c'est toujours enneigé plus loin mais on doute pouvoir tenir plus de 100m dans ces conditions. Pousser un vélo avec des bagages dans la neige ça épuise vite, très vite 🫣.
+Les roues s'enfoncent de moitié, les freins à disques, la chaîne, les dérailleurs... Tout baigne dans la neige... Quelle catastrophe 😭. On s'enfonce dans la neige, on ne peut pas passer, le tronçon qui enjambe le tunnel dure plus de 2 kilomètres, on ne voit pas la suite pour savoir si c'est toujours enneigé plus loin mais on doute pouvoir tenir plus de 100m dans ces conditions. Pousser un vélo avec des bagages dans la neige ça épuise vite, très vite <span class="d-emoji">🫣</span>.
 
 On rebrousse chemin, c'est impossible et dangereux, il y a des cours d'eau et des trous qu'on ne voit pas avec la neige.
 

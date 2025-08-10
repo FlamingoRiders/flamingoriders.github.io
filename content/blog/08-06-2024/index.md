@@ -61,7 +61,7 @@ Alors, on vous passe les détails, mais ils ne sont pas venus pour nous faire la
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/BmUFjWsYMg23oplAmC" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-Non, celui qui s'arrêtera juste à côté de nous va nous tourner le dos, s'accroupir et... larguer sa cargaison devant nous 🫣. Ah il ne s'est pas gêné le coquin. Drôle d'accueil, après on était sans doute dans son coin _"toilettes"_ 😅. On s'éloigne afin qu'il retrouve un peu d'intimité.
+Non, celui qui s'arrêtera juste à côté de nous va nous tourner le dos, s'accroupir et... larguer sa cargaison devant nous <span class="d-emoji">🫣</span>. Ah il ne s'est pas gêné le coquin. Drôle d'accueil, après on était sans doute dans son coin _"toilettes"_ 😅. On s'éloigne afin qu'il retrouve un peu d'intimité.
 
 On poursuit notre chemin, on arrive bientôt à plus de 500 mètres, on est récompensés par une vue incroyable sur le **Geirangerfjord**. On aperçoit aussi une belle route en lacets : l'impressionnante route de l'aigle. Cette montée vers [Ørnesvingen depuis Geiranger](https://climbfinder.com/fr/montees/ornesvingen-geiranger) présente des pourcentages terribles : 7.1 km à 8.8%. on voit ses pentes les plus relevées, on aimerait s'y lancer mais pas aujourd'hui 😉.
 

@@ -41,4 +41,4 @@ On fait une pause sur une aire de repos qui s'avère être un spot pour camping 
 
 Les vingt derniers kilomètres pour rallier **Skibotn** sont assez longs. Nous sommes toujours sur un profil vallonné sur l'**E6**. On décide de s'arrêter dans une station service pour dîner ! On n'est vraiment pas loin de notre camping mais on n'a pas envie à 20h30 de monter la tente, nous doucher puis de faire à manger. On craque pour de bons burgers avant de repartir 🍔 !
 
-Demain sera notre dernier jour en **Norvège** 🇧🇻 mais pas en **Laponie** puisque nous rejoindrons la **Finlande** 🇫🇮 😀 !
+Demain sera notre dernier jour en **Norvège** <span class="d-emoji">🇧🇻</span> mais pas en **Laponie** puisque nous rejoindrons la **Finlande** <span class="d-emoji">🇫🇮</span> 😀 !

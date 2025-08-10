@@ -44,11 +44,11 @@ On sent que le lieu respire la convivialité et l'accueil typiquement finlandais
 
 Toujours est-il que nous trouvons le lieu très accueillant et y apprenons nos premiers mots finnois.
 
-| 🇨🇵        | 🇫🇮            |
-| --------- | ------------- |
-| Bienvenue | Tervetuloa 🤗 |
-| Sanglier  | Villisika 🐗  |
-| Renne     | Poro 🦌       |
+| <span class="d-emoji">🇨🇵</span> | <span class="d-emoji">🇫🇮</span> |
+| ------------------------------- | ------------------------------- |
+| Bienvenue                       | Tervetuloa 🤗                   |
+| Sanglier                        | Villisika 🐗                    |
+| Renne                           | Poro 🦌                         |
 
 Nous repartons ensuite vers notre camping. Arrivés à **Sonkamuotka**, nous sommes ravis de voir qu'il y a peu de moustiques. Le lieu est très beau et idéalement placé juste à côté de la rivière **Muonionjoki**.
 On dégraisse nos vélos puis on part à la douche. Dans les campings finlandais, on a même droit au sauna commun, un pour les hommes et un pour les femmes, une pause relaxante méritée après une nouvelle journée à rouler dans la chaleur 🧖🏼‍♂️.

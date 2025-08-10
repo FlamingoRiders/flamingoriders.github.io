@@ -8,7 +8,7 @@ tags: ["heart"]
 
 ![Kanelbullar d'Eduardo](../kanelbullar_eduardo.png)
 
-Aujourd'hui, on se lève pour une nouvelle journée de visite au cours de laquelle on a prévu de changer de pays sans pour autant prendre les vélos ! On va faire un tour en **Suède** à **Malmö**, la ville natale d'un certain Zlatan ⚽🇸🇪.
+Aujourd'hui, on se lève pour une nouvelle journée de visite au cours de laquelle on a prévu de changer de pays sans pour autant prendre les vélos ! On va faire un tour en **Suède** à **Malmö**, la ville natale d'un certain Zlatan ⚽<span class="d-emoji">🇸🇪</span>.
 
 Pour cela, on se rend à la gare centrale de **Copenhague** où l'on prend des billets pour le train qui nous mène à **Malmö** en quarante minutes.
 

@@ -81,4 +81,4 @@ Alors que pouvons-nous dire de plus au sujet de ce pays que nous n'avons pas dé
 
 Pour toutes ces raisons, nous savons dès à présent que nous reviendrons un jour. Nous y serons forcés. Nous ne savons pas quand, ni comment, ni combien de temps mais nous trouverons le moyen de revenir 💪🏼 ! Il ne peut pas en être autrement.
 
-En attendant, il ne nous reste plus qu'une chose à dire : Ha det Norge 🇧🇻♥️🥲 !
+En attendant, il ne nous reste plus qu'une chose à dire : Ha det Norge <span class="d-emoji">🇧🇻</span>♥️<span class="d-emoji">🥲</span> !

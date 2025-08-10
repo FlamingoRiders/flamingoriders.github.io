@@ -27,7 +27,7 @@ On préfère se farcir plus sur le début de la journée. On va être servis ! O
 
 La montagne punit sévèrement les arrogants mais gratifie ceux qui savent se montrer humbles et patients. On prend notre temps et malgré le poids des bagages, ça passe 🥳 ! La vitesse d'ascension n'est pas folle mais c'est loin d'être le plus important.
 
-Puis tout à coup, les pourcentages ne faiblissent pas mais la route elle s'arrête 🫣 ! Que se passe-t-il ?!
+Puis tout à coup, les pourcentages ne faiblissent pas mais la route elle s'arrête <span class="d-emoji">🫣</span> ! Que se passe-t-il ?!
 
 On est arrivé dans un chemin de graviers, c'est la seule voie pour continuer, il s'agit d'une route de montagne peu empruntée dont les propriétaires agricoles aux alentours assurent l'entretien. Elle est même équipée d'un péage automatique qui flash automatiquement les véhicules ! [Ce n'est pas une blague](https://fjellvegen.no/). Bluffant.
 

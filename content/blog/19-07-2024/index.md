@@ -56,7 +56,7 @@ La commune dans laquelle nous nous trouvions à notre départ ce matin à **Kilp
 
 **Enontekiö** compte moins de 2000 habitants et en cumulé, compte plus de 400 kilomètres de frontière commune avec la **Suède** au sud-ouest et la **Norvège** au nord-est ! La municipalité est vraiment une langue de terre coincée entre ses deux voisins scandinaves, une _"queue de poêle"_ de la Finlande.
 
-La commune est très allongée, elle mesure plus de 160 km de long, c'est la troisième plus grande de Finlande mais sa densité de population est l'une des plus faibles du pays : **0,22 habitants au kilomètre carré** 🫨 ! Pas étonnant qu'on ne croise personne.
+La commune est très allongée, elle mesure plus de 160 km de long, c'est la troisième plus grande de Finlande mais sa densité de population est l'une des plus faibles du pays : **0,22 habitants au kilomètre carré** <span class="d-emoji">🫨</span> ! Pas étonnant qu'on ne croise personne.
 
 Nous sommes en pleine immersion dans cette immense forêt boréale composée de pins, d'épicéas et de bouleaux. On tombe sur des zones marécageuses avec de grandes mares de roseaux. Parfois, les arbres disparaissent temporairement, nous laissant apercevoir de grandes plaines avec des mousses, on a l'impression d'être dans des landes de bruyère. Pas un chat, pas un chien mais cette nature si riche qui nous entoure. Le dépaysement est total 🤩 !
 

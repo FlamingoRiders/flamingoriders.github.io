@@ -19,7 +19,7 @@ Alors que l'on déjeune, on entend un bruit sec provenant du vélo de Nico. Un b
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/4cuyucPeVWbNS" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
-On finit de manger et on lève le doute, Nico enjambe son vélo et hop la roue est de nouveau voilée 😒. On joue rapidement avec les rayons, il y en a un qui se casse directement à la palpation 🫣. Il ne tient que sur un côté, on a pas les outils pour le détacher complètement et c'est compliqué de le replacer sans qu'il vienne taper dans le reste de la roue. On trouve une position qui a l'air stable mais avec les aspérités de la route et les descentes... Wait and see 🙏🏼.
+On finit de manger et on lève le doute, Nico enjambe son vélo et hop la roue est de nouveau voilée 😒. On joue rapidement avec les rayons, il y en a un qui se casse directement à la palpation <span class="d-emoji">🫣</span>. Il ne tient que sur un côté, on a pas les outils pour le détacher complètement et c'est compliqué de le replacer sans qu'il vienne taper dans le reste de la roue. On trouve une position qui a l'air stable mais avec les aspérités de la route et les descentes... Wait and see 🙏🏼.
 
 On repart, il nous reste 50 kilomètres, pas le choix, y aller. C'est tout de même très agaçant ce problème de roue qui se produit encore est encore.
 

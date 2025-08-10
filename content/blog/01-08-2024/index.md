@@ -29,7 +29,7 @@ Pour échapper à la **E4**, on remonte ensuite un peu au nord sur une route moi
 
 Nous sommes actuellement dans la région du **Norrland** et plus précisément dans le comté de **Norrbotten**, le comté le plus septentrional de **Suède**.
 
-En **Suède**, comme en **Finlande**, les plus petites administrations locales sont des municipalités (**kunnat** 🇫🇮, **kommun** 🇸🇪). Après avoir traversé hier la **kommun** de **Haparanda**, nous traversons aujourd'hui celle de **Kalix**. Nous arrivons jusqu'à son chef-lieu du même nom, **Kalix**. Cette localité est très charmante. On voit un grand parc avec des pistes cyclables le long de l'eau, une très belle église et sur la berge d'en face, des huttes en forme d'igloo. Ça a l'air animé 🤗 !
+En **Suède**, comme en **Finlande**, les plus petites administrations locales sont des municipalités (**kunnat** <span class="d-emoji">🇫🇮</span>, **kommun** <span class="d-emoji">🇸🇪</span>). Après avoir traversé hier la **kommun** de **Haparanda**, nous traversons aujourd'hui celle de **Kalix**. Nous arrivons jusqu'à son chef-lieu du même nom, **Kalix**. Cette localité est très charmante. On voit un grand parc avec des pistes cyclables le long de l'eau, une très belle église et sur la berge d'en face, des huttes en forme d'igloo. Ça a l'air animé 🤗 !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/TNnyxINX87VAKbNYmZ" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

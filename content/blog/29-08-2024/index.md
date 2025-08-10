@@ -24,7 +24,7 @@ Cependant, on roule bien sur ces pistes cyclables quasiment infréquentées. Ell
 
 On embarque vers 14h à **Mariehamn**, c'est reparti pour une traversée, vers **Stockholm** cette fois-ci. Comme à l'aller, le trajet est somptueux. On aperçoit un tas d'îles inhabitées et de gros amas rocheux qui sortent subitement de l'eau. Sans que l'on s'en rende compte, on bascule de l'archipel d'**Åland** à celui de **Stockholm**. Si vous n'avez pas le temps d'aller à **Åland**, un tour de bateau dans l'archipel de Stockholm vaut également le coup !
 
-À bord du bateau, il y a de l'animation. On est toujours en _"duty free party"_ pour les suédois et finlandais ce qui signifie qu'ils se ruent sur l'alcool comme certaines personnes se rueraient sur le papier toilette en période de pandémie 🫣.
+À bord du bateau, il y a de l'animation. On est toujours en _"duty free party"_ pour les suédois et finlandais ce qui signifie qu'ils se ruent sur l'alcool comme certaines personnes se rueraient sur le papier toilette en période de pandémie <span class="d-emoji">🫣</span>.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/sr6uqbzKTE7jHVrxCS" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

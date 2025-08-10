@@ -18,7 +18,7 @@ Des mois avant ce voyage, alors que Nico surfait sur le web, il est tombé sur u
 
 _"Imaginez un endroit où les frontières de trois pays, la **Norvège**, la **Finlande** et la **Suède** se touchent en un unique point. Imaginez que ce point, que l'on appelle un tripoint soit localisé en plein milieu d'un lac. Imaginez qu'un monument soit construit pour matérialiser ce tripoint et qu'une passerelle sur l'eau permette de s'y rendre et d'en faire le tour."_.
 
-C'est alors que nous avons découvert le **Treriksröset (Kolmen valtakunnan rajapyykki en finnois)** ou plus simplement **Three-Country Cairn** 🇫🇮🇧🇻🇸🇪. Mais alors pourquoi donc se rendre dans un lieu pareil ? Un autre internaute nous apporte une piste de réponse.
+C'est alors que nous avons découvert le **Treriksröset (Kolmen valtakunnan rajapyykki en finnois)** ou plus simplement **Three-Country Cairn** <span class="d-emoji">🇫🇮🇧🇻🇸🇪</span>. Mais alors pourquoi donc se rendre dans un lieu pareil ? Un autre internaute nous apporte une piste de réponse.
 
 _"Vous savez ce que je ferai si je m'y rendais ? Je ferai le tour de la passerelle plusieurs fois pour dire que j'ai changé de pays 30 fois dans une seule et même journée !"_
 
@@ -37,7 +37,7 @@ Le seul problème de la randonnée dans la région, c'est ce mal bien connu qui 
 
 ### Terribles moustiques
 
-Ah les moustiques ! On nous avait prévenus et on peut dire que malgré la mise en garde, il fallait qu'on expérimente de nous même pour véritablement se rendre compte du fléau qu'ils représentent. On ne s'est pas dit que les gens exagéraient mais on pensait tout de même pouvoir s'adapter avec des bons équipements et produits. On avait tort 🫣 !
+Ah les moustiques ! On nous avait prévenus et on peut dire que malgré la mise en garde, il fallait qu'on expérimente de nous même pour véritablement se rendre compte du fléau qu'ils représentent. On ne s'est pas dit que les gens exagéraient mais on pensait tout de même pouvoir s'adapter avec des bons équipements et produits. On avait tort <span class="d-emoji">🫣</span> !
 
 C'est simple dès que l'on part du camping on a mis du produit anti-moustiques sur les zones découvertes. Après 10 minutes de randonnée seulement, Nico ressent une gêne dans le dos, il soulève son t-shirt, il y a déjà une dizaine de piqûres dessus, ça irrite fortement mais il ne faut pas se gratter sous peine de voir cela empirer 😫 ! Il fait très lourd aujourd'hui et dans cette ambiance pesante, ça n'aide pas à oublier ces désagréments.
 
@@ -53,9 +53,9 @@ Avant ce voyage, on n'avait jamais mis les pieds dans l'un de ces trois pays. Au
 
 Ce point est également le plus septentrional de Suède et le plus occidental du continent finlandais.
 
-Sur le retour, le soleil que nous avions jusqu'alors disparaît derrière les nuages, une pluie fine se met à retentir. Elle n'est pas intense, avec la chaleur elle fait même plutôt du bien. Le problème c'est évidemment qu'elle n'est pas très forte et lorsque l'averse cesse, les moustiques sont eux, plus nombreux que jamais 🫨 !
+Sur le retour, le soleil que nous avions jusqu'alors disparaît derrière les nuages, une pluie fine se met à retentir. Elle n'est pas intense, avec la chaleur elle fait même plutôt du bien. Le problème c'est évidemment qu'elle n'est pas très forte et lorsque l'averse cesse, les moustiques sont eux, plus nombreux que jamais <span class="d-emoji">🫨</span> !
 
-On remet du produit, on accélère le pas pour finir la randonnée et échapper comme l'on peut à cette vague d'attaques. Mais bon, cela valait bien la peine, aujourd'hui on a pu s'écrier : _"Et un 🇫🇮, et deux 🇧🇻, et trois pays 🇸🇪 !"_
+On remet du produit, on accélère le pas pour finir la randonnée et échapper comme l'on peut à cette vague d'attaques. Mais bon, cela valait bien la peine, aujourd'hui on a pu s'écrier : _"Et un <span class="d-emoji">🇫🇮</span>, et deux <span class="d-emoji">🇧🇻</span>, et trois pays <span class="d-emoji">🇸🇪</span> !"_
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/5xdlnf7VOBlgoO6ckL4qSC?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 

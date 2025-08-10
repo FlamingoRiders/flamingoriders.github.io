@@ -29,7 +29,7 @@ Il reste moins de cinq kilomètres pour atteindre Meaux, l’orage approche, et 
 
 Quand, dès votre premier jour, vous abandonnez deux camarades au front, la culpabilité est terrible 😅.
 
-En cyclisme, quand le matériel ne suffit pas, on fait face à une loi encore plus cruelle que le « marche ou crève » : c’est le **crève puis marche**<span class="d-emoji">&nbsp;🫣</span>.
+En cyclisme, quand le matériel ne suffit pas, on fait face à une loi encore plus cruelle que le « marche ou crève » : c’est le **crève puis marche** <span class="d-emoji">🫣</span>.
 
 ### Pas de pluie pour le prologue !
 

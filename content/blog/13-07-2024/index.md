@@ -10,7 +10,7 @@ tags: ["heart", "hike", "culture"]
 
 Aujourd'hui, nous sommes à **Tromsø** pour un deuxième jour de repos. La météo s'est considérablement améliorée, on a maintenant du grand soleil prévu tout le weekend 🥳 !
 
-On a également retrouvé Mika 🇨🇵 la veille. On est bien contents, nous nous sommes dit au revoir il y a quelques jours croyant qu'on ne se reverrait que sur **Paris**, c'est une agréable surprise de pouvoir profiter de cette belle ville en sa compagnie !
+On a également retrouvé Mika <span class="d-emoji">🇨🇵</span> la veille. On est bien contents, nous nous sommes dit au revoir il y a quelques jours croyant qu'on ne se reverrait que sur **Paris**, c'est une agréable surprise de pouvoir profiter de cette belle ville en sa compagnie !
 
 ### Balade du centre à la cathédrale Arctique de Tromsø
 

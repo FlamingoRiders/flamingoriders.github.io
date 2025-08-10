@@ -65,9 +65,9 @@ Nous n'avons toujours pas de plan pour dormir lorsque nous arrivons à un croise
 
 Il est 21h passé, on a soit un plan sûr soit un quitte ou double où l'on ne sait pas si l'on peut dormir à proximité du ferry. Comme on est des forcenés mais surtout des neuneus, on choisit cette deuxième option 🤪.
 
-On arrive à l'embarcadère, pas de ferry pour ce soir, on s'en doutait. Par contre les suivants du lendemain sont à 8h, 9h45 puis 14h 🫨. Autant dire qu'on réalise dès à présent que la nuit sera courte car on n'a pas l'intention de poireauter jusqu'à 14h avant de poursuivre vers **Tromsø** demain.
+On arrive à l'embarcadère, pas de ferry pour ce soir, on s'en doutait. Par contre les suivants du lendemain sont à 8h, 9h45 puis 14h <span class="d-emoji">🫨</span>. Autant dire qu'on réalise dès à présent que la nuit sera courte car on n'a pas l'intention de poireauter jusqu'à 14h avant de poursuivre vers **Tromsø** demain.
 
-Au niveau de la marina, on fait la rencontre de Christian 🇨🇵 qui a fait un [sacré voyage à bord de son camping car Eriba](https://christianhuteau44.wixsite.com/leuropeaveceriba) et avec qui on discute un petit peu de notre voyage. Il nous raconte qu'il a pu se doucher gratuitement à la marina, c'est en effet une possibilité qui nous plaît mais on doit quand même trouver un abri ou un coin où poser notre tente afin de passer la nuit.
+Au niveau de la marina, on fait la rencontre de Christian <span class="d-emoji">🇨🇵</span> qui a fait un [sacré voyage à bord de son camping car Eriba](https://christianhuteau44.wixsite.com/leuropeaveceriba) et avec qui on discute un petit peu de notre voyage. Il nous raconte qu'il a pu se doucher gratuitement à la marina, c'est en effet une possibilité qui nous plaît mais on doit quand même trouver un abri ou un coin où poser notre tente afin de passer la nuit.
 
 On décide donc de rebrousser chemin afin de nous rendre au camping qu'on avait repéré un peu plus haut à l'embranchement. On remonte sur 8 kilomètres la route puis on prend la direction du camping. Il est 22h passé, demain on se lève tôt, on n'est pas franchement enchanté à la perspective de devoir monter la tente pour la replier dans quelques heures de bon matin mais on n'a pas vraiment le choix 🫤.
 

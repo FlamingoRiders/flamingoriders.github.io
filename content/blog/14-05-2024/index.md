@@ -34,7 +34,7 @@ Des gardes en tenue traditionnelles gardent l'entrée. On ne peut pas s'approche
 
 On pense avoir beaucoup de chance et vivre un moment exceptionnel. On va très vite comprendre pourquoi nous avons eu la chance de croiser la voiture princière aujourd'hui.
 
-On sort du parc du palais en empruntant la **Karl Johans Gate**, la plus grande rue de la capitale. On passe devant le **National Theater** et juste avant d'arriver devant le **Parlement**, on est surpris par l'importance de la foule et une présence importante de la police et de gardes. Des drapeaux norvégiens sont hissés partout le long de l'avenue 🇧🇻. Rien d'anormal vous me direz. Mais à côté, il y a également une multitude de drapeaux danois <span class="d-emoji">🇩🇰</span> !
+On sort du parc du palais en empruntant la **Karl Johans Gate**, la plus grande rue de la capitale. On passe devant le **National Theater** et juste avant d'arriver devant le **Parlement**, on est surpris par l'importance de la foule et une présence importante de la police et de gardes. Des drapeaux norvégiens sont hissés partout le long de l'avenue <span class="d-emoji">🇧🇻</span>. Rien d'anormal vous me direz. Mais à côté, il y a également une multitude de drapeaux danois <span class="d-emoji">🇩🇰</span> !
 
 Aujourd'hui, c'est en fait la visite officielle du roi et de la reine du **Danemark**. Le souverain est en tournée officielle, il était à **Stockholm** il y a une semaine. Étant donné que sa mère a abdiqué du trône en tout début d'année, la tradition veut que les premières visites soient réservées aux royaumes scandinaves voisins.
 

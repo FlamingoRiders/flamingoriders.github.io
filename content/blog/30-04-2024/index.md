@@ -9,7 +9,7 @@ location: "Schleswig-Holstein, Allemagne"
 
 Ce matin, on se réveille au camping sous un petit soleil fort sympathique. La rosée du matin qui a légèrement mouillé les tentes va sécher en un rien de temps.
 
-C'est notre deuxième jour de route avec la team Capinina et le deuxième jour d'affilée qu'on a du beau temps et du soleil. On vous prie de croire que c'est assez inhabituel pour nous d'enchaîner deux jours avec les cuissards courts, t-shirts et lunettes de soleil. On se découvre d'un fil en cette fin d'avril 🫣.
+C'est notre deuxième jour de route avec la team Capinina et le deuxième jour d'affilée qu'on a du beau temps et du soleil. On vous prie de croire que c'est assez inhabituel pour nous d'enchaîner deux jours avec les cuissards courts, t-shirts et lunettes de soleil. On se découvre d'un fil en cette fin d'avril <span class="d-emoji">🫣</span>.
 
 On quitte Lübeck avec une circulation assez dense. Les pistes cyclables sont majoritairement sur les trottoirs et passent d'un côté de la route à l'autre suivant la règle de... Ah oui tiens, c'est quoi cette règle 🤔 ? On a un peu la même en France, un coup à droite, un coup à gauche. On est peut-être pas les plus grands cerveaux de ce monde mais on peine à la percer à jour 😅.
 

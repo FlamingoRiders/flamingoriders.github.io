@@ -16,7 +16,7 @@ On n'est pas exactement à **Luleå**. En réalité, on se situe un peu en dehor
 
 On se rend donc à vélo à **Luleå** à une dizaine de kilomètres. Sur notre chemin, on décide de s'arrêter à un magasin de sport car Nico a encore sa roue voilée. Un rayon a encore lâché. C'est un problème récurrent, on ne sait pas trop si cela est dû au poids que l'on transporte ou les chemins un peu accidentés que l'on parcourt. Quoi qu'il en soit, on laisse nos vélos une petite heure le temps d'aller manger.
 
-Alors que l'on cherche un coin où manger, on a l'immense surprise de tomber sur Pauline et Jérôme 🇨🇭 que l'on avait rencontrés juste après **Bergen**.
+Alors que l'on cherche un coin où manger, on a l'immense surprise de tomber sur Pauline et Jérôme <span class="d-emoji">🇨🇭</span> que l'on avait rencontrés juste après **Bergen**.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/WuGSL4LFUMQU" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

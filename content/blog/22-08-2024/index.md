@@ -38,7 +38,7 @@ Sur la façade principale du palais, le regard des nombreuses statues converge v
 
 On continue notre balade dans **Gamla Stan** et on atterrit sur la grande place, **Stortorget**. On y trouve notamment le bâtiment **Börshuset** qui contient le **musée Nobel (Nobelmuseet)** et l'**Académie suédoise (Svenska Akademien)**.
 
-**Stockholm** est une ville très cosmopolite. En s'y promenant, on entend parler anglais bien évidemment mais également beaucoup le français. D'ailleurs, on croise par hasard les parents d'une chère amie, preuve que l'on n'est pas les seuls 🇨🇵 !
+**Stockholm** est une ville très cosmopolite. En s'y promenant, on entend parler anglais bien évidemment mais également beaucoup le français. D'ailleurs, on croise par hasard les parents d'une chère amie, preuve que l'on n'est pas les seuls <span class="d-emoji">🇨🇵</span> !
 
 On jette rapidement un oeil dans les boutiques du quartier. C'est très animé et lumineux mais, on trouve comme partout pour les magasins touristiques, plein de trucs inutiles 😅. On s'arrête toutefois sur les mignons petits chevaux en bois peints à la main (**dalahäst**) originaires de **Dalécarlie (Dalarna)**.
 
@@ -59,7 +59,7 @@ On se rend ensuite dans le quartier est d'[Östermalm](https://www.visitstockhol
 - Laxrulle Med pepparrot / Med löjrom / Med citrus & ingefära
 
 On trouve également des produits plus atypiques comme les saucissons d'ours **(Björnkorv)** 🐻, de renne
-**(Renkorv)** 🦌 ou encore d'élan **(Älgkorv)** 🫎. Ne comptez pas sur nous pour vous dire ce que ça vaut, dans le groupe il y a quelqu'un qui ne mange pas de viande ni poisson, quelqu'un qui essaie de réduire un maximum les deux et quelqu'un qui ne mange que du poisson 🙅🏼‍♀️🤷🏼‍♂️🦩.
+**(Renkorv)** 🦌 ou encore d'élan **(Älgkorv)** <span class="d-emoji">🫎</span>. Ne comptez pas sur nous pour vous dire ce que ça vaut, dans le groupe il y a quelqu'un qui ne mange pas de viande ni poisson, quelqu'un qui essaie de réduire un maximum les deux et quelqu'un qui ne mange que du poisson 🙅🏼‍♀️🤷🏼‍♂️🦩.
 En revanche, il y a également une bien belle boulangerie (bageri) où l'on trouve des kanelbullar et cardamonbullar et un stand pour des smørrebrød qui nous tapent dans l'œil. On repassera dans ce marché 🍴 !
 
 On passe ensuite dans le parc d'**Humlegården** au milieu duquel on aperçoit la remarquable bibliothèque royale **(Kungliga biblioteket)**.

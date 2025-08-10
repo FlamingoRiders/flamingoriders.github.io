@@ -13,7 +13,7 @@ Aujourd'hui, on est parti pour un gros morceau. On a plus de 100 kilomètres à 
 
 On quitte **Levi**, une station de ski très réputée en **Finlande**. Les monts culminent aux alentours de 500 mètres. Cela paraît peu pour du ski alpin ? Détrompez-vous 😉.
 
-**Levi** est la plus grande station de sports d’hiver en **Finlande** et la neige y est réputée excellente. La station a notamment accueilli des manches de slalom de la coupe du monde de ski alpin du début de saison à la mi-novembre. Et oui, il y a déjà de la très bonne neige en général à cette période ! Des champions de la trempe de Marcel Hirscher 🇦🇹 ou Jean-Baptiste Grange 🇨🇵 (cocorico !) y ont notamment triomphé à plusieurs reprises.
+**Levi** est la plus grande station de sports d’hiver en **Finlande** et la neige y est réputée excellente. La station a notamment accueilli des manches de slalom de la coupe du monde de ski alpin du début de saison à la mi-novembre. Et oui, il y a déjà de la très bonne neige en général à cette période ! Des champions de la trempe de Marcel Hirscher <span class="d-emoji">🇦🇹</span> ou Jean-Baptiste Grange <span class="d-emoji">🇨🇵</span> (cocorico !) y ont notamment triomphé à plusieurs reprises.
 
 Outre les sports d'hiver, **Levi** accueille également beaucoup de monde en été. Alors que nous passons devant la station, nous apercevons un gigantesque parcours d'accrobranche et des pistes de VTT.
 

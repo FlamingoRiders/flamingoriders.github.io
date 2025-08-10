@@ -30,8 +30,8 @@ Nous on a des côtes au programme 😎. On a descendu, il va falloir remonter. O
 
 Le paysage est assez unique. On pense tour à tour à deux pays pour des similitudes :
 
-- le **Canada** 🇨🇦 pour les grands espaces et ses forêts vertes qui s'étendent à perte de vue.
-- la **Suisse** 🇨🇭 pour ses petits villages au cœur des montagnes.
+- le **Canada** <span class="d-emoji">🇨🇦</span> pour les grands espaces et ses forêts vertes qui s'étendent à perte de vue.
+- la **Suisse** <span class="d-emoji">🇨🇭</span> pour ses petits villages au cœur des montagnes.
 
 Deux pays très nature en somme. Toutefois, ce n'est pas une forme hybride des deux, c'est encore autre chose à part entière. On prendra soin de décrire cela avec plus de précision dans quelques jours 😀. En réalité, on manque encore de mots pour réellement décrire ce que l'on voit car c'est la première fois qu'on voit cela.
 

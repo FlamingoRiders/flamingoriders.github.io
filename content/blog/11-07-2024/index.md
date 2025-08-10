@@ -22,7 +22,7 @@ On finit par atteindre le sommet de la route et on a une superbe vue sur le **Ka
 
 Nous avons enfin accès à un grand lac en altitude où nous pouvons remplir nos gourdes : sauvés 😌 !
 
-On en profite également pour manger et éviter un début d'hypoglycémie. On descend la côte. C'est le moment choisit par la pluie pour s'abattre sur nous. Quelques minutes plus tard en bas, nous sommes déjà bien mouillés. On aperçoit un camping-car qui s'arrête à notre hauteur pour nous saluer. Il s'agit de Christian bien sûr 🇨🇵 !
+On en profite également pour manger et éviter un début d'hypoglycémie. On descend la côte. C'est le moment choisit par la pluie pour s'abattre sur nous. Quelques minutes plus tard en bas, nous sommes déjà bien mouillés. On aperçoit un camping-car qui s'arrête à notre hauteur pour nous saluer. Il s'agit de Christian bien sûr <span class="d-emoji">🇨🇵</span> !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/muCMfKz4K3diisOuMu" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

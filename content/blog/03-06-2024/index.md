@@ -33,16 +33,16 @@ Ces conditions irritent profondément Nico qui, s'il n'est pas fan de tous les t
 
 Nana n'est pas forcément du même avis mais elle et Nico n'ont pas les mêmes préférences en matière de météo 🙃.
 
-| Météo    | Nana | Nico |
-| -------- | ---- | ---- |
-| ☀️       | 🫠   | 🥵   |
-| 🌤️       | 😎   | 😯   |
-| ⛅       | 🙂   | 😀   |
-| 🌥️       | 🤗   | 🤩   |
-| ☁️       | 🤧   | 😊   |
-| 🌧️       | 🫣   | 😕   |
-| ⛈️       | 😱   | 😨   |
-| 🌤️🌧️🌤️🌧️ | 😬   | 🤬   |
+| Météo    | Nana                            | Nico |
+| -------- | ------------------------------- | ---- |
+| ☀️       | <span class="d-emoji">🫠</span> | 🥵   |
+| 🌤️       | 😎                              | 😯   |
+| ⛅       | 🙂                              | 😀   |
+| 🌥️       | 🤗                              | 🤩   |
+| ☁️       | 🤧                              | 😊   |
+| 🌧️       | <span class="d-emoji">🫣</span> | 😕   |
+| ⛈️       | 😱                              | 😨   |
+| 🌤️🌧️🌤️🌧️ | 😬                              | 🤬   |
 
 La matinée est difficile. La veille, nous n'avons pas beaucoup mangé, nous avons de la fatigue, le temps est énervant. Tout ceci fait qu'à l'approche d'une des premières difficultés du jour après une vingtaine de kilomètres, on pose pied à terre et on pousse les vélos sur une centaine de mètres.
 

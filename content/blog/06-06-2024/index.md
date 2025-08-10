@@ -28,7 +28,7 @@ Enfin... si vous regardez notre trace GPS, vous me répondrez que ça ne monte p
 
 Tout ça pour dire que c'était encore une montée sèche ! Arrivés en haut, on reprend un peu notre souffle. On commence à se dire que dans ce pays, on n'aura jamais une étape facile.
 
-On commence la descente et tout d'un coup, on tombe sur une vue complètement dingue ! En bas, on aperçoit l'**Innvikfjord** enrouler la montagne opposée. On a beau en avoir vu quelques-uns des fjords, on ne s'en lasse pas. À vrai dire, on ne peut pas sans lasser. Ce sont des décors de film qui se répètent inlassablement. Même les norvégiens nous disent que c'est beau et qu'ils se savent chanceux. Ils ont bien raison 🇧🇻👍🏼.
+On commence la descente et tout d'un coup, on tombe sur une vue complètement dingue ! En bas, on aperçoit l'**Innvikfjord** enrouler la montagne opposée. On a beau en avoir vu quelques-uns des fjords, on ne s'en lasse pas. À vrai dire, on ne peut pas sans lasser. Ce sont des décors de film qui se répètent inlassablement. Même les norvégiens nous disent que c'est beau et qu'ils se savent chanceux. Ils ont bien raison <span class="d-emoji">🇧🇻</span>👍🏼.
 
 Nous continuons notre descente vers **Utvik** et la pluie commence à retentir. C'est une pluie fine moins dérangeante que les jours précédents. On assiste d'ailleurs à des scènes très curieuses car on peut observer la pluie sur certaines parties du fjord et pas sur d'autres. On s'est fait quelques remarques entre nous concernant le temps que l'on rencontre.
 

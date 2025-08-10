@@ -9,16 +9,16 @@ location: "Sodankylä, Laponie, Finlande"
 
 Aujourd'hui, la chaleur est toujours écrasante et la route toujours aussi longue mais nous avons enfin une plus petite journée. 60 kilomètres sont au programme, une broutille si l'on considère que l'on en a parcouru 200 sur les deux journées précédentes 🤯. On a tout de même de la fatigue accumulée et Nico est toujours bien malade. On doit s'accrocher encore deux petits jours avant **Rovaniemi** ✌🏼.
 
-On reprend notre route au départ de **Sodankylä**. Après avoir longé pendant des kilomètres la frontière entre la **Finlande** et la **Suède**, on est contents d'être rentrés dans les terres pour regagner l'[EuroVélo 11](https://en.eurovelo.com/ev11). Yes, enfin un itinéraire EuroVélo 🤩 ! Sauf qu'on se rend rapidement compte qu'il y a un hic dans cet itinéraire. Il n'y a pas de panneau nous indiquant qu'on est dessus, les distances ne sont pas indiquées et étrangement, on suit la **E75**. On se renseigne un petit peu plus tard et on s'aperçoit que l'EuroVélo 11 ne comporte actuellement ni balisage, ni aménagement. Il s'agit d'une voie cyclable en cours de développement, elle est seulement en phase de planification pour le moment 🫣.
+On reprend notre route au départ de **Sodankylä**. Après avoir longé pendant des kilomètres la frontière entre la **Finlande** et la **Suède**, on est contents d'être rentrés dans les terres pour regagner l'[EuroVélo 11](https://en.eurovelo.com/ev11). Yes, enfin un itinéraire EuroVélo 🤩 ! Sauf qu'on se rend rapidement compte qu'il y a un hic dans cet itinéraire. Il n'y a pas de panneau nous indiquant qu'on est dessus, les distances ne sont pas indiquées et étrangement, on suit la **E75**. On se renseigne un petit peu plus tard et on s'aperçoit que l'EuroVélo 11 ne comporte actuellement ni balisage, ni aménagement. Il s'agit d'une voie cyclable en cours de développement, elle est seulement en phase de planification pour le moment <span class="d-emoji">🫣</span>.
 
-🦩 : *"Nana, Nico, vous vous souvenez de votre super plan pour faire un détour dans l'espoir de regagner un itinéraire EuroVélo ? J'ai pas pour souvenir que sur les routes EuroVélo, on emprunte la même route que les véhicules motorisés, que la vitesse soit limitée à 100 km/h et que les camions nous doublent de si près !"*
+🦩 : _"Nana, Nico, vous vous souvenez de votre super plan pour faire un détour dans l'espoir de regagner un itinéraire EuroVélo ? J'ai pas pour souvenir que sur les routes EuroVélo, on emprunte la même route que les véhicules motorisés, que la vitesse soit limitée à 100 km/h et que les camions nous doublent de si près !"_
 
 👨🏼👩🏼 : 😭😭😭.
 
-### Des cervidés en état d'ébriété ? 
+### Des cervidés en état d'ébriété ?
 
-Sur notre route du jour, on va tout de même avoir de belles surprises. Nous allons encore faire la rencontre de plusieurs rennes ! On commence tout de même à s'interroger sur la présence de si nombreux rennes en plein milieu de la route. Ils n'ont pas l'air gênés par le sol bitumé ou les voitures. 
-On suppose que les routes sont des repères pour les rennes qui les empruntent également en hiver car la neige s'y accumule moins qu'ailleurs. 
+Sur notre route du jour, on va tout de même avoir de belles surprises. Nous allons encore faire la rencontre de plusieurs rennes ! On commence tout de même à s'interroger sur la présence de si nombreux rennes en plein milieu de la route. Ils n'ont pas l'air gênés par le sol bitumé ou les voitures.
+On suppose que les routes sont des repères pour les rennes qui les empruntent également en hiver car la neige s'y accumule moins qu'ailleurs.
 
 Les rennes en **Laponie** se baladent librement mais appartiennent à des élevages. Ils sont donc mi-domestiques, mi-sauvages. Pour pouvoir être reconnus par les éleveurs samis, [les rennes sont marqués](https://www.je-papote.com/marquage-rennes-laponie.html).
 
@@ -28,7 +28,7 @@ Cependant, la démarche du renne est très différente de celle d'un cerf par ex
 
 Si les cerfs possèdent un air sérieux et un pas plutôt calme et affirmé, les rennes trottent d'une manière assez désordonnée, on dirait de vrais petits clowns 🤡 ! Bien qu'ils paraissent souvent paumés, on est heureux de les voir savourer leur liberté.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/wUrc9zZpRhRrW" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/wUrc9zZpRhRrW" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 On va tomber sur un renne qui est en plein milieu de la voie d'une voiture. Lorsqu'elle approche, il commence à accélérer le pas, dos à elle, mais toujours sans s'affoler. Sur l'autre voie, nous nous rapprochons en pédalant et alors que nous observons la scène depuis une bonne centaine de mètres et que nous sommes dans son champ de vision, le renne semble être très étonné quelques secondes plus tard que nous soyons sur sa route. Sa surprise est telle qu'il va brusquement vouloir changer de direction et déraper 😂. Il a l'air complètement pris à contre-pied, pas stable sur ses appuis et semble très proche de la chute. On ne comprend pas trop la scène car on l'a vu depuis deux minutes et on pensait que lui aussi. En tout cas, il nous a offert un joli spectacle de claquettes 🩴🕺🏼.
 
@@ -50,6 +50,6 @@ Après cette nouvelle expérience insolite, on se dit tout de même que notre ex
 
 On se répète mais les distances entre deux supermarchés sont faramineuses ! Vous voulez savoir la meilleure ? On a choisi notre lieu du jour en se disant qu'on terminerait dans un village avec un café, une supérette et une station-service à minima. Résultat ? Il n'y a qu'une station-service dans le patelin où nous sommes mais elle fait également office de restaurant, de supérette et propose des chambres. Ben on est plutôt contents de tomber là-dessus au milieu de la pampa 🤣. Non vraiment en **Laponie**, pour les cyclo-randonneurs, il faut avoir le cœur bien accroché et savoir dans quoi on s'embarque. Il n'y a pas de mot d'ordre et les instructions sont assez succinctes 🙃.
 
-<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/w75aKYPPxOYFksxfFn" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div> 
+<div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/w75aKYPPxOYFksxfFn" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 
 Plus qu'une étape avant **Rovaniemi** !

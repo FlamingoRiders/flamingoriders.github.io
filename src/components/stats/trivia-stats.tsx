@@ -28,7 +28,7 @@ const TriviaStats: React.FC = () => {
             </td>
           </tr>
           <tr>
-            <td align="center">Heures sur la selle</td>
+            <td align="center">Heures pédalées</td>
             <td align="center">
               420 heures soit presque 3 mois de travail en équivalent 35 heures
             </td>

@@ -37,7 +37,7 @@ Pour 200 NOK, soit le prix du pneu, on a :
 - économiser un aller-retour de 30 kilomètres sous la pluie.
 - retrouver foi dans notre karma.
 
-Troisième fois qu'un(e) norvégien(ne) nous sauve la mise 😘🇧🇻 !
+Troisième fois qu'un(e) norvégien(ne) nous sauve la mise 😘<span class="d-emoji">🇧🇻</span> !
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/SfedVoQr3s8mYHyxVV" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

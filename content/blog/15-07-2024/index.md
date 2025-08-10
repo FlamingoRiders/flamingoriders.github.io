@@ -22,11 +22,11 @@ Nous sommes depuis maintenant 2 mois en **Norvège** et il est dur pour nous de 
 
 Nous avons croisé plusieurs personnes avec des discours un peu alarmants sur la **Finlande**. Cela nous a fait tout drôle, surtout quand il s'agissait de norvégiens ou finlandais eux-mêmes 😂.
 
-| Nationalité | Phrase entendue                                                                                        |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| 🇧🇻          | _"Bienvenue à mosquito-land !"_                                                                        |
-| 🇫🇮          | _"Ah ouai vous passez par la Finlande ? Mais pourquoi ? Vous voulez pas aller directement en Suède ?"_ |
-| 🌐          | _"Oh la Finlande, c'est pas terrible, les routes sont ennuyeuses"_                                     |
+| Nationalité                     | Phrase entendue                                                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| <span class="d-emoji">🇧🇻</span> | _"Bienvenue à mosquito-land !"_                                                                        |
+| <span class="d-emoji">🇫🇮</span> | _"Ah ouai vous passez par la Finlande ? Mais pourquoi ? Vous voulez pas aller directement en Suède ?"_ |
+| 🌐                              | _"Oh la Finlande, c'est pas terrible, les routes sont ennuyeuses"_                                     |
 
 Ce qui est sûr c'est que nous avons envie de nous faire notre propre opinion 😁.
 

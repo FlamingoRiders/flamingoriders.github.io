@@ -34,7 +34,7 @@ On reprend notre route et on se retrouve très vite dans une forêt : **Rold Sko
 
 Cette forêt est tout simplement bluffante, des pins, des sapins, des arbres de toute taille, des mousses. La végétation a bien poussé et il y a des chemins de randonnée qui ont l'air géniaux.
 
-On croise aussi une petite ligne de chemin de fer qui traverse la forêt. C'est la seule chose qui brise le calme qui y règne. On commence à avoir l'habitude et les connaître ces danois, on entend un train arriver. Nico anticipe : _"Je parie qu'il n'a que 3 wagons"_. C'est gagné ! Bon c'est pas le jeu le plus dur au monde. Des trains régionaux avec 3 wagons on en voit tout plein ! Ça semble être une spécialité danoise comme les drapeaux devant les maisons 🇧🇻 😄.
+On croise aussi une petite ligne de chemin de fer qui traverse la forêt. C'est la seule chose qui brise le calme qui y règne. On commence à avoir l'habitude et les connaître ces danois, on entend un train arriver. Nico anticipe : _"Je parie qu'il n'a que 3 wagons"_. C'est gagné ! Bon c'est pas le jeu le plus dur au monde. Des trains régionaux avec 3 wagons on en voit tout plein ! Ça semble être une spécialité danoise comme les drapeaux devant les maisons <span class="d-emoji">🇧🇻</span> 😄.
 
 Au milieu de notre traversée on tombe sur un grand lac magnifique : **Store Økssø**. La vue est belle car il est entouré d'arbres de tous les côtés qui arrivent jusqu'à son bord. Et puis, il a cette couleur rouille brune due à la végétation autour. L'eau est en fait très propre, on peut s'y baigner sans aucun risque. La vue est juste trouble.
 

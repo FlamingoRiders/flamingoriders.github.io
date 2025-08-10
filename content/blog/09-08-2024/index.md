@@ -15,7 +15,7 @@ On a une journée tranquille devant nous, cela fait du bien de temps à autre po
 
 On se rend donc de l'autre côté de la ville. Pour cela on emprunte un long pont afin de passer de l'autre côté de la rive du fleuve **Umeålven**.
 
-On arrive devant l'enseigne qui fait la fierté nationale 🇸🇪.
+On arrive devant l'enseigne qui fait la fierté nationale <span class="d-emoji">🇸🇪</span>.
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56%;"><iframe src="https://giphy.com/embed/rdcBcg07SdsPu" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;" class="giphy-embed"></iframe></div>
 

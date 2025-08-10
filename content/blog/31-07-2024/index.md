@@ -9,7 +9,7 @@ location: "Norrbotten, Suède"
 
 Aujourd'hui, on part de **Tornio** sous la pluie. On est encore en **Finlande** mais plus pour longtemps. À peine trois kilomètres après notre départ, on se retrouve au niveau du **Tornionjoki**, qui marque la frontière avec la **Suède**. À l'endroit où on le franchit, un centre commercial est présent avec une esplanade au centre de laquelle on trouve un banc entouré d'un grand cœur ♥️.
 
-À droite du banc, côté Ouest, nous sommes à **Tornio** 🇫🇮. À gauche du banc, côté Est, nous sommes à **Haparanda** 🇸🇪. Les deux moitiés du cœur se rejoignent pile au centre. On trouve cette délimitation très originale, peut-être qu'il pourrait y en avoir un peu plus comme celle-ci. Ça y est, on est en **Suède**, le dernier pays que l'on a prévu de traverser 😃. Objectif **Stockholm** à présent ! On n'en est plus très loin mais on reste tout de même bien loin de la maison.
+À droite du banc, côté Ouest, nous sommes à **Tornio** 🇫🇮. À gauche du banc, côté Est, nous sommes à **Haparanda** <span class="d-emoji">🇸🇪</span>. Les deux moitiés du cœur se rejoignent pile au centre. On trouve cette délimitation très originale, peut-être qu'il pourrait y en avoir un peu plus comme celle-ci. Ça y est, on est en **Suède**, le dernier pays que l'on a prévu de traverser 😃. Objectif **Stockholm** à présent ! On n'en est plus très loin mais on reste tout de même bien loin de la maison.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3QHThjKGMW7y89xIEvB0J4?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 
